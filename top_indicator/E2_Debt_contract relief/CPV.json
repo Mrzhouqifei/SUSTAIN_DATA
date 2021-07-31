@@ -66,17 +66,6 @@
   "year": 2019.0
  },
  {
-  "rank": 9,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Cape Verde",
-  "ISO": "CPV",
-  "value": 11526.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 10,
   "Category": "Health",
   "Indicator": "Prevalence of anxiety disorders",
@@ -140,17 +129,6 @@
   "ISO": "CPV",
   "value": 96.0,
   "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Cape Verde",
-  "ISO": "CPV",
-  "value": 549.1558093229199,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -262,17 +240,6 @@
   "value": 7.75,
   "unit": "score",
   "year": 2018.0
- },
- {
-  "rank": 30,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Cape Verde",
-  "ISO": "CPV",
-  "value": 542.716,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 31,
@@ -396,6 +363,17 @@
   "year": 2015.0
  },
  {
+  "rank": 47,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Cape Verde",
+  "ISO": "CPV",
+  "value": 48.9586067199707,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 48,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -405,17 +383,6 @@
   "value": 4.5,
   "unit": "rating",
   "year": 2019.0
- },
- {
-  "rank": 49,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Cape Verde",
-  "ISO": "CPV",
-  "value": 110.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  },
  {
   "rank": 50,
@@ -495,17 +462,6 @@
   "year": 2021.0
  },
  {
-  "rank": 60,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Cape Verde",
-  "ISO": "CPV",
-  "value": 64.7781708998417,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 61,
   "Category": "Governance",
   "Indicator": "Economic Freedom Score",
@@ -514,17 +470,6 @@
   "ISO": "CPV",
   "value": 7.41,
   "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 63,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Cape Verde",
-  "ISO": "CPV",
-  "value": 93.5859985351563,
-  "unit": "percent of population",
   "year": 2018.0
  },
  {
@@ -605,6 +550,28 @@
   "year": 2021.0
  },
  {
+  "rank": 76,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Cape Verde",
+  "ISO": "CPV",
+  "value": 555988.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Cape Verde",
+  "ISO": "CPV",
+  "value": 33.347999572753906,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Health",
   "Indicator": "Physicians (per 1,000 people)",
@@ -624,6 +591,28 @@
   "ISO": "CPV",
   "value": 9.7,
   "unit": "percent",
+  "year": 2020.0
+ },
+ {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Cape Verde",
+  "ISO": "CPV",
+  "value": 66.6520004272461,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Cape Verde",
+  "ISO": "CPV",
+  "value": 84.46853637695312,
+  "unit": "Score",
   "year": 2020.0
  },
  {

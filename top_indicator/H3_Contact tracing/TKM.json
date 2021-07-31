@@ -29,8 +29,8 @@
   "Country": "Turkmenistan",
   "ISO": "TKM",
   "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -130,17 +130,6 @@
   "value": 0.0868407,
   "unit": "per 100 people",
   "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Turkmenistan",
-  "ISO": "TKM",
-  "value": 69.05814193586684,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -264,6 +253,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turkmenistan",
+  "ISO": "TKM",
+  "value": 47.48400115966797,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 32,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -359,8 +359,8 @@
   "Country": "Turkmenistan",
   "ISO": "TKM",
   "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 42,
@@ -405,17 +405,6 @@
   "value": 0.0275,
   "unit": "percent of total energy",
   "year": 2014.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Turkmenistan",
-  "ISO": "TKM",
-  "value": 70630.09,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -550,17 +539,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Turkmenistan",
-  "ISO": "TKM",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -581,6 +559,17 @@
   "value": -191.5113367678815,
   "unit": "percent of energy use",
   "year": 2014.0
+ },
+ {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turkmenistan",
+  "ISO": "TKM",
+  "value": 55.18263244628906,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 76,
@@ -614,6 +603,17 @@
   "value": 0.001548,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turkmenistan",
+  "ISO": "TKM",
+  "value": 6031187.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -671,15 +671,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Turkmenistan",
   "ISO": "TKM",
-  "value": 20.02662699935999,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 52.51599884033203,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 100,
@@ -722,6 +722,17 @@
   "Country": "Turkmenistan",
   "ISO": "TKM",
   "value": 25.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turkmenistan",
+  "ISO": "TKM",
+  "value": 20.0,
   "unit": "proportion",
   "year": 2020.0
  }

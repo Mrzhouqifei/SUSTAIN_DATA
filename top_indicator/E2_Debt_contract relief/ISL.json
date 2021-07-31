@@ -72,9 +72,9 @@
   "Policy": "E2_Debt/contract relief",
   "Country": "Iceland",
   "ISO": "ISL",
-  "value": 5604.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 7801.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 10,
@@ -151,17 +151,6 @@
   "ISO": "ISL",
   "value": 91.0,
   "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Iceland",
-  "ISO": "ISL",
-  "value": 70758.594348944,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -295,17 +284,6 @@
   "value": 8.39,
   "unit": "score",
   "year": 2018.0
- },
- {
-  "rank": 30,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Iceland",
-  "ISO": "ISL",
-  "value": 2064.521,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 31,
@@ -451,15 +429,26 @@
   "year": 2015.0
  },
  {
+  "rank": 47,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Iceland",
+  "ISO": "ISL",
+  "value": 53.9555549621582,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 49,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E2_Debt/contract relief",
   "Country": "Iceland",
   "ISO": "ISL",
-  "value": 28.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 30.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 50,
@@ -561,17 +550,6 @@
   "year": 2021.0
  },
  {
-  "rank": 60,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Iceland",
-  "ISO": "ISL",
-  "value": 17.799999999999997,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 61,
   "Category": "Governance",
   "Indicator": "Economic Freedom Score",
@@ -580,17 +558,6 @@
   "ISO": "ISL",
   "value": 7.71,
   "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 63,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Iceland",
-  "ISO": "ISL",
-  "value": 100.0,
-  "unit": "percent of population",
   "year": 2018.0
  },
  {
@@ -693,6 +660,17 @@
   "year": 2021.0
  },
  {
+  "rank": 76,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Iceland",
+  "ISO": "ISL",
+  "value": 366425.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 78,
   "Category": "Environment",
   "Indicator": "Electricity production from coal sources ",
@@ -702,6 +680,17 @@
   "value": 0.0,
   "unit": "percent of total",
   "year": 2015.0
+ },
+ {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Iceland",
+  "ISO": "ISL",
+  "value": 6.1020002365112305,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -715,6 +704,17 @@
   "year": 2018.0
  },
  {
+  "rank": 82,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Iceland",
+  "ISO": "ISL",
+  "value": 1510.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 84,
   "Category": "Environment",
   "Indicator": "Combustible renewables and waste",
@@ -724,6 +724,28 @@
   "value": 0.234285,
   "unit": "percent of total energy",
   "year": 2015.0
+ },
+ {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Iceland",
+  "ISO": "ISL",
+  "value": 93.89800262451172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Iceland",
+  "ISO": "ISL",
+  "value": 90.649658203125,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 91,

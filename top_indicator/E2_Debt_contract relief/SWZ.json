@@ -72,9 +72,9 @@
   "Policy": "E2_Debt/contract relief",
   "Country": "Eswatini",
   "ISO": "SWZ",
-  "value": 7202.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 24848.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 10,
@@ -140,17 +140,6 @@
   "ISO": "SWZ",
   "value": 90.0,
   "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Eswatini",
-  "ISO": "SWZ",
-  "value": 93.19502146969421,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -262,17 +251,6 @@
   "value": 6.02,
   "unit": "score",
   "year": 2018.0
- },
- {
-  "rank": 30,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Eswatini",
-  "ISO": "SWZ",
-  "value": 1155.105,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 31,
@@ -418,15 +396,26 @@
   "year": 2016.0
  },
  {
+  "rank": 47,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Eswatini",
+  "ISO": "SWZ",
+  "value": 70.80953979492188,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 49,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E2_Debt/contract relief",
   "Country": "Eswatini",
   "ISO": "SWZ",
-  "value": 136.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 772.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 50,
@@ -506,17 +495,6 @@
   "year": 2021.0
  },
  {
-  "rank": 60,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Eswatini",
-  "ISO": "SWZ",
-  "value": 85.3,
-  "unit": "score",
-  "year": 2019.0
- },
- {
   "rank": 61,
   "Category": "Governance",
   "Indicator": "Economic Freedom Score",
@@ -525,17 +503,6 @@
   "ISO": "SWZ",
   "value": 6.27,
   "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 63,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Eswatini",
-  "ISO": "SWZ",
-  "value": 76.5039825439453,
-  "unit": "percent of population",
   "year": 2018.0
  },
  {
@@ -605,6 +572,28 @@
   "year": 2021.0
  },
  {
+  "rank": 76,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Eswatini",
+  "ISO": "SWZ",
+  "value": 1160164.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Eswatini",
+  "ISO": "SWZ",
+  "value": 75.8290023803711,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Health",
   "Indicator": "Physicians (per 1,000 people)",
@@ -616,6 +605,17 @@
   "year": 2016.0
  },
  {
+  "rank": 82,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Eswatini",
+  "ISO": "SWZ",
+  "value": 970.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 83,
   "Category": "Health",
   "Indicator": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
@@ -624,6 +624,28 @@
   "ISO": "SWZ",
   "value": 22.6,
   "unit": "percent",
+  "year": 2020.0
+ },
+ {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Eswatini",
+  "ISO": "SWZ",
+  "value": 24.17099952697754,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Eswatini",
+  "ISO": "SWZ",
+  "value": 77.1982192993164,
+  "unit": "Score",
   "year": 2020.0
  },
  {

@@ -39,9 +39,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Guinea-Bissau",
   "ISO": "GNB",
-  "value": 2447.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 4387.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -141,17 +141,6 @@
   "value": -2.20239855154791,
   "unit": "percent of GNI",
   "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Guinea-Bissau",
-  "ISO": "GNB",
-  "value": 92.90207550854626,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 19,
@@ -264,6 +253,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 55.80400085449219,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -336,9 +336,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Guinea-Bissau",
   "ISO": "GNB",
-  "value": 44.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 74.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 42,
@@ -372,17 +372,6 @@
   "value": 3.4,
   "unit": "percent",
   "year": 2020.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Guinea-Bissau",
-  "ISO": "GNB",
-  "value": 293.36,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -495,17 +484,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Guinea-Bissau",
-  "ISO": "GNB",
-  "value": 28.6620216369629,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -537,6 +515,17 @@
   "value": 3.4,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 81.20210266113281,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 75,
@@ -583,6 +572,28 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 75.49543762207031,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 1967998.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Health",
   "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
@@ -627,15 +638,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Guinea-Bissau",
   "ISO": "GNB",
-  "value": 3.644083414110515,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 44.19599914550781,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 110,
@@ -656,6 +667,17 @@
   "Country": "Guinea-Bissau",
   "ISO": "GNB",
   "value": 13.7254902,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 1861.0,
   "unit": "proportion",
   "year": 2020.0
  }

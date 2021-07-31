@@ -72,9 +72,9 @@
   "Policy": "E2_Debt/contract relief",
   "Country": "South Africa",
   "ISO": "ZAF",
-  "value": 901538.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2422151.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 10,
@@ -151,17 +151,6 @@
   "ISO": "ZAF",
   "value": 77.0,
   "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "South Africa",
-  "ISO": "ZAF",
-  "value": 14353.10503537758,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -295,17 +284,6 @@
   "value": 7.07,
   "unit": "score",
   "year": 2018.0
- },
- {
-  "rank": 30,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "South Africa",
-  "ISO": "ZAF",
-  "value": 476644.0,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 31,
@@ -451,15 +429,26 @@
   "year": 2014.0
  },
  {
+  "rank": 47,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "South Africa",
+  "ISO": "ZAF",
+  "value": 52.23147964477539,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 49,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E2_Debt/contract relief",
   "Country": "South Africa",
   "ISO": "ZAF",
-  "value": 24285.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 71431.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 50,
@@ -561,17 +550,6 @@
   "year": 2021.0
  },
  {
-  "rank": 60,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "South Africa",
-  "ISO": "ZAF",
-  "value": 70.1072430706828,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 61,
   "Category": "Governance",
   "Indicator": "Economic Freedom Score",
@@ -580,17 +558,6 @@
   "ISO": "ZAF",
   "value": 6.73,
   "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 63,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "South Africa",
-  "ISO": "ZAF",
-  "value": 91.2298736572266,
-  "unit": "percent of population",
   "year": 2018.0
  },
  {
@@ -693,6 +660,17 @@
   "year": 2021.0
  },
  {
+  "rank": 76,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "South Africa",
+  "ISO": "ZAF",
+  "value": 59308690.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 78,
   "Category": "Environment",
   "Indicator": "Electricity production from coal sources ",
@@ -704,6 +682,17 @@
   "year": 2015.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "South Africa",
+  "ISO": "ZAF",
+  "value": 32.645999908447266,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Health",
   "Indicator": "Physicians (per 1,000 people)",
@@ -713,6 +702,17 @@
   "value": 0.9054,
   "unit": "Ones",
   "year": 2017.0
+ },
+ {
+  "rank": 82,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "South Africa",
+  "ISO": "ZAF",
+  "value": 76754.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 83,
@@ -735,6 +735,28 @@
   "value": 7.746573,
   "unit": "percent of total energy",
   "year": 2014.0
+ },
+ {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "South Africa",
+  "ISO": "ZAF",
+  "value": 67.35399627685547,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "South Africa",
+  "ISO": "ZAF",
+  "value": 81.2248306274414,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 91,

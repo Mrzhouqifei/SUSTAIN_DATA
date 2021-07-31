@@ -28,9 +28,9 @@
   "Policy": "E1_Income support",
   "Country": "Togo",
   "ISO": "TGO",
-  "value": 3315.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 15522.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -141,17 +141,6 @@
   "value": 329.3783198317994,
   "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
   "year": 2014.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Togo",
-  "ISO": "TGO",
-  "value": 19.67245729777642,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 18,
@@ -352,26 +341,15 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Togo",
-  "ISO": "TGO",
-  "value": 2999.606,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Togo",
   "ISO": "TGO",
-  "value": 66.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 150.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 40,
@@ -418,17 +396,6 @@
   "year": 2019.0
  },
  {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E1_Income support",
-  "Country": "Togo",
-  "ISO": "TGO",
-  "value": 85.84143116430509,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 47,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
@@ -470,6 +437,17 @@
   "ISO": "TGO",
   "value": 29.0,
   "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Togo",
+  "ISO": "TGO",
+  "value": 57.20000076293945,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -737,6 +715,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Togo",
+  "ISO": "TGO",
+  "value": 8278737.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -781,14 +770,47 @@
   "year": 2014.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "E1_Income support",
   "Country": "Togo",
   "ISO": "TGO",
-  "value": 51.3452835083008,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 42.79999923706055,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Togo",
+  "ISO": "TGO",
+  "value": 77.12079620361328,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Togo",
+  "ISO": "TGO",
+  "value": 95.13053131103516,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E1_Income support",
+  "Country": "Togo",
+  "ISO": "TGO",
+  "value": 10808.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

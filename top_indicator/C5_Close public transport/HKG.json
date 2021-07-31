@@ -165,17 +165,6 @@
   "year": 2014.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C5_Close public transport",
-  "Country": "Hong Kong",
-  "ISO": "HKG",
-  "value": 60546.12782055039,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 26,
   "Category": "Social issues ",
   "Indicator": "Net migration",
@@ -205,8 +194,8 @@
   "Country": "Hong Kong",
   "ISO": "HKG",
   "value": 100.0,
-  "unit": "total",
-  "year": 2019.0
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 32,
@@ -228,7 +217,7 @@
   "ISO": "HKG",
   "value": 0.0,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 34,
@@ -396,17 +385,6 @@
   "year": 2020.0
  },
  {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C5_Close public transport",
-  "Country": "Hong Kong",
-  "ISO": "HKG",
-  "value": 43644.63,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 59,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -459,17 +437,6 @@
   "ISO": "HKG",
   "value": 5.04167,
   "unit": "percent per annum",
-  "year": 2018.0
- },
- {
-  "rank": 70,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C5_Close public transport",
-  "Country": "Hong Kong",
-  "ISO": "HKG",
-  "value": 100.0,
-  "unit": "percent of population",
   "year": 2018.0
  },
  {
@@ -534,9 +501,9 @@
   "Policy": "C5_Close public transport",
   "Country": "Hong Kong",
   "ISO": "HKG",
-  "value": 42.50080813223036,
+  "value": 44.65332794189453,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 80,
@@ -578,9 +545,9 @@
   "Policy": "C5_Close public transport",
   "Country": "Hong Kong",
   "ISO": "HKG",
-  "value": 128.0,
+  "value": 266.0,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 88,
@@ -600,9 +567,9 @@
   "Policy": "C5_Close public transport",
   "Country": "Hong Kong",
   "ISO": "HKG",
-  "value": 7507400.0,
+  "value": 7481800.0,
   "unit": "total",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 90,
@@ -691,6 +658,17 @@
   "value": 4899234580000.0,
   "unit": "US Dollar",
   "year": 2019.0
+ },
+ {
+  "rank": 113,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C5_Close public transport",
+  "Country": "Hong Kong",
+  "ISO": "HKG",
+  "value": 98.21672821044922,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 114,

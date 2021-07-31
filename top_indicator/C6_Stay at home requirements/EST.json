@@ -61,9 +61,9 @@
   "Policy": "C6_Stay at home requirements",
   "Country": "Estonia",
   "ISO": "EST",
-  "value": 20635.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 133308.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 9,
@@ -132,17 +132,6 @@
   "year": 2019.0
  },
  {
-  "rank": 15,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Estonia",
-  "ISO": "EST",
-  "value": 38.52345451018706,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 16,
   "Category": "Environment",
   "Indicator": "Energy use (kg of oil equivalent per capita)",
@@ -196,17 +185,6 @@
   "value": 5.7,
   "unit": "percent",
   "year": 2020.0
- },
- {
-  "rank": 21,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Estonia",
-  "ISO": "EST",
-  "value": 16589.51,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 22,
@@ -281,9 +259,9 @@
   "Policy": "C6_Stay at home requirements",
   "Country": "Estonia",
   "ISO": "EST",
-  "value": 170.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1272.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 29,
@@ -328,6 +306,17 @@
   "value": 16.6645118855401,
   "unit": "percent of GNI",
   "year": 2018.0
+ },
+ {
+  "rank": 34,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Estonia",
+  "ISO": "EST",
+  "value": 30.770999908447266,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 35,
@@ -506,17 +495,6 @@
   "year": 2020.0
  },
  {
-  "rank": 54,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Estonia",
-  "ISO": "EST",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 55,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
@@ -627,6 +605,17 @@
   "year": 2021.0
  },
  {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Estonia",
+  "ISO": "EST",
+  "value": 297.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "Energy imports, net ",
@@ -658,17 +647,6 @@
   "value": 56.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 72,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Estonia",
-  "ISO": "EST",
-  "value": 83332.45388552605,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 75,
@@ -713,6 +691,17 @@
   "value": 1.210472,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Estonia",
+  "ISO": "EST",
+  "value": 69.22899627685547,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -770,6 +759,28 @@
   "year": 2019.0
  },
  {
+  "rank": 94,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Estonia",
+  "ISO": "EST",
+  "value": 58.406742095947266,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Estonia",
+  "ISO": "EST",
+  "value": 95.35989379882812,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 108,
   "Category": "Environment",
   "Indicator": "Electricity production from oil, gas and coal sources",
@@ -790,5 +801,16 @@
   "value": 133.6682535890394,
   "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
   "year": 2015.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Estonia",
+  "ISO": "EST",
+  "value": 1331057.0,
+  "unit": "total",
+  "year": 2020.0
  }
 ]

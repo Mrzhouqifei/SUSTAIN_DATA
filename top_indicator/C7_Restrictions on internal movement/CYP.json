@@ -50,9 +50,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Cyprus",
   "ISO": "CYP",
-  "value": 17057.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 100784.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -184,17 +184,6 @@
   "ISO": "CYP",
   "value": 5.2512,
   "unit": "Ones",
-  "year": 2016.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Cyprus",
-  "ISO": "CYP",
-  "value": 6626.269,
-  "unit": "kt",
   "year": 2016.0
  },
  {
@@ -506,17 +495,6 @@
   "year": 2018.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Cyprus",
-  "ISO": "CYP",
-  "value": 8221.429614333689,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -559,6 +537,28 @@
   "value": 1.287295,
   "unit": "percent of total energy",
   "year": 2014.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Cyprus",
+  "ISO": "CYP",
+  "value": 66.82099914550781,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Cyprus",
+  "ISO": "CYP",
+  "value": 44.89803695678711,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -677,9 +677,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Cyprus",
   "ISO": "CYP",
-  "value": 87.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 416.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -726,6 +726,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Cyprus",
+  "ISO": "CYP",
+  "value": 1207361.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 80,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -737,14 +748,14 @@
   "year": 2016.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Cyprus",
   "ISO": "CYP",
-  "value": 56.05796495249495,
-  "unit": "score",
+  "value": 33.17900085449219,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -757,6 +768,17 @@
   "value": 0.887,
   "unit": "index",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Cyprus",
+  "ISO": "CYP",
+  "value": 92.03843688964844,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 90,
@@ -781,14 +803,14 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Cyprus",
   "ISO": "CYP",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 14037.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

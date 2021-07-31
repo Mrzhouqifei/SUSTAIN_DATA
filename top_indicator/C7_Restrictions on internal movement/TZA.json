@@ -44,17 +44,6 @@
   "year": 2016.0
  },
  {
-  "rank": 6,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 509.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 8,
   "Category": "Health",
   "Indicator": "Prevalence of total cancers",
@@ -185,17 +174,6 @@
   "value": 0.5843,
   "unit": "Ones",
   "year": 2017.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 11972.76,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 21,
@@ -517,17 +495,6 @@
   "year": 2017.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 39.09976548243396,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -581,6 +548,28 @@
   "value": 4.8,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 35.22700119018555,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 85.86675262451172,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -693,17 +682,6 @@
   "year": 2018.0
  },
  {
-  "rank": 73,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 21.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 74,
   "Category": "Health",
   "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
@@ -748,6 +726,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 59734213.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 80,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -770,14 +759,14 @@
   "year": 2019.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Tanzania",
   "ISO": "TZA",
-  "value": 78.14413662466475,
-  "unit": "score",
+  "value": 64.77300262451172,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -792,6 +781,17 @@
   "year": 2019.0
  },
  {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 74.39871978759766,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -803,14 +803,14 @@
   "year": 2014.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Tanzania",
   "ISO": "TZA",
-  "value": 35.5589790344238,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 234655.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

@@ -17,9 +17,9 @@
   "Policy": "E1_Income support",
   "Country": "Gibraltar",
   "ISO": "GIB",
-  "value": 1153.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 4892.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 7,
@@ -41,17 +41,6 @@
   "ISO": "GIB",
   "value": 56.2891,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 16201.29966469838,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -110,26 +99,15 @@
   "year": 2014.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 634.391,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Gibraltar",
   "ISO": "GIB",
-  "value": 6.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 94.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 41,
@@ -141,6 +119,17 @@
   "value": 0.0,
   "unit": "percent of total energy",
   "year": 2014.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 0.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 56,
@@ -209,6 +198,17 @@
   "year": 2016.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 33691.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 93,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -220,14 +220,14 @@
   "year": 2014.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "E1_Income support",
   "Country": "Gibraltar",
   "ISO": "GIB",
   "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

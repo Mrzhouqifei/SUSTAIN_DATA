@@ -50,9 +50,9 @@
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Guinea",
   "ISO": "GIN",
-  "value": 13511.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 25401.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -341,17 +341,6 @@
   "year": 2016.0
  },
  {
-  "rank": 38,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 97.16761117146424,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 39,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
@@ -383,17 +372,6 @@
   "value": 4.984300136566162,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 42,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 2995.939,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 43,
@@ -448,17 +426,6 @@
   "ISO": "GIN",
   "value": 0.031606,
   "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 50,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 4.93295642414217,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -528,6 +495,17 @@
   "year": 2019.0
  },
  {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 63.125,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 63,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -583,17 +561,6 @@
   "year": 2020.0
  },
  {
-  "rank": 71,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 44.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 72,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
@@ -611,9 +578,9 @@
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Guinea",
   "ISO": "GIN",
-  "value": 80.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 211.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 78,
@@ -638,6 +605,28 @@
   "year": 2017.0
  },
  {
+  "rank": 83,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 6034.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 85.18956756591797,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 89,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
@@ -647,5 +636,38 @@
   "value": -0.7485375,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 13132792.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 98,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 36.875,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 84.45567321777344,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

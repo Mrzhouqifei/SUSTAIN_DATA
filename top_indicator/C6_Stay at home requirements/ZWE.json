@@ -39,9 +39,9 @@
   "Policy": "C6_Stay at home requirements",
   "Country": "Zimbabwe",
   "ISO": "ZWE",
-  "value": 12047.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 105656.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 9,
@@ -110,17 +110,6 @@
   "year": 2019.0
  },
  {
-  "rank": 15,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Zimbabwe",
-  "ISO": "ZWE",
-  "value": 99.22085680550748,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 17,
   "Category": "Social issues ",
   "Indicator": "Proportion of women in managerial positions (%)",
@@ -163,17 +152,6 @@
   "value": 3.6,
   "unit": "percent",
   "year": 2020.0
- },
- {
-  "rank": 21,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Zimbabwe",
-  "ISO": "ZWE",
-  "value": 10982.67,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 22,
@@ -237,9 +215,9 @@
   "Policy": "C6_Stay at home requirements",
   "Country": "Zimbabwe",
   "ISO": "ZWE",
-  "value": 316.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 3421.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 29,
@@ -295,6 +273,17 @@
   "value": 12.8,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 34,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 67.75800323486328,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 35,
@@ -462,17 +451,6 @@
   "year": 2020.0
  },
  {
-  "rank": 54,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Zimbabwe",
-  "ISO": "ZWE",
-  "value": 41.0415840148926,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 55,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
@@ -561,6 +539,17 @@
   "year": 2021.0
  },
  {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 9266.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 69,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, mean annual exposure",
@@ -581,17 +570,6 @@
   "value": 17.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 72,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Zimbabwe",
-  "ISO": "ZWE",
-  "value": 67.66598377054254,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 75,
@@ -636,6 +614,17 @@
   "value": -1.141875,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 32.242000579833984,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -693,6 +682,17 @@
   "year": 2019.0
  },
  {
+  "rank": 94,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 81.57149505615234,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 95,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -704,6 +704,17 @@
   "year": 2019.0
  },
  {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 72.00298309326172,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 108,
   "Category": "Environment",
   "Indicator": "Electricity production from oil, gas and coal sources",
@@ -713,5 +724,16 @@
   "value": 47.275723555464,
   "unit": "percent of total",
   "year": 2015.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 14862927.0,
+  "unit": "total",
+  "year": 2020.0
  }
 ]

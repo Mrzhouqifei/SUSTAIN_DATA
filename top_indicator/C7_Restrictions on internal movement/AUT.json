@@ -50,9 +50,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Austria",
   "ISO": "AUT",
-  "value": 332371.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 653591.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -185,17 +185,6 @@
   "value": 7.0899,
   "unit": "Ones",
   "year": 2017.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Austria",
-  "ISO": "AUT",
-  "value": 61447.92,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 21,
@@ -484,17 +473,6 @@
   "year": 2018.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Austria",
-  "ISO": "AUT",
-  "value": 26306.77452361236,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -537,6 +515,28 @@
   "value": 14.1425,
   "unit": "percent of total energy",
   "year": 2015.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Austria",
+  "ISO": "AUT",
+  "value": 58.74800109863281,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Austria",
+  "ISO": "AUT",
+  "value": 50.63910675048828,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -655,9 +655,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Austria",
   "ISO": "AUT",
-  "value": 5017.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 10535.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -704,6 +704,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Austria",
+  "ISO": "AUT",
+  "value": 8917205.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 80,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -715,14 +726,14 @@
   "year": 2016.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Austria",
   "ISO": "AUT",
-  "value": 24.108703082430992,
-  "unit": "score",
+  "value": 41.25199890136719,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -737,6 +748,17 @@
   "year": 2019.0
  },
  {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Austria",
+  "ISO": "AUT",
+  "value": 83.24964141845703,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -748,14 +770,14 @@
   "year": 2015.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Austria",
   "ISO": "AUT",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 141866.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

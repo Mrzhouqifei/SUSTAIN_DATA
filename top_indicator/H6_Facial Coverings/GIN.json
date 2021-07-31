@@ -50,9 +50,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Guinea",
   "ISO": "GIN",
-  "value": 13511.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 25401.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -119,17 +119,6 @@
   "value": 38.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 12,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 2995.939,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 13,
@@ -220,17 +209,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 4.93295642414217,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 26,
   "Category": "Economics",
   "Indicator": "Volume of exports",
@@ -273,6 +251,17 @@
   "value": 0.01897,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 36.875,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 33,
@@ -347,9 +336,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Guinea",
   "ISO": "GIN",
-  "value": 80.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 211.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 43,
@@ -484,6 +473,17 @@
   "year": 2019.0
  },
  {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 63.125,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 60,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
@@ -493,17 +493,6 @@
   "value": 15.59517,
   "unit": "Rate (risk-weighted prevalence)",
   "year": 2019.0
- },
- {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 97.16761117146424,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 65,
@@ -561,15 +550,15 @@
   "year": 2018.0
  },
  {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
   "Country": "Guinea",
   "ISO": "GIN",
-  "value": 44.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 6034.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 77,
@@ -616,6 +605,17 @@
   "year": 2019.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 13132792.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Health",
   "Indicator": "Immunization, measles (% of children ages 12-23 months)",
@@ -647,5 +647,27 @@
   "value": 0.477,
   "unit": "index",
   "year": 2019.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 85.18956756591797,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 84.45567321777344,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

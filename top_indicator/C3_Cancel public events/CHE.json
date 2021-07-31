@@ -138,9 +138,9 @@
   "Policy": "C3_Cancel public events",
   "Country": "Switzerland",
   "ISO": "CHE",
-  "value": 5981.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 10357.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 16,
@@ -308,17 +308,6 @@
   "year": 2017.0
  },
  {
-  "rank": 31,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C3_Cancel public events",
-  "Country": "Switzerland",
-  "ISO": "CHE",
-  "value": 34477.13,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 32,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -327,17 +316,6 @@
   "ISO": "CHE",
   "value": 1.336993,
   "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 33,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C3_Cancel public events",
-  "Country": "Switzerland",
-  "ISO": "CHE",
-  "value": 95788.23235254055,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -451,6 +429,17 @@
   "year": 2018.0
  },
  {
+  "rank": 46,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C3_Cancel public events",
+  "Country": "Switzerland",
+  "ISO": "CHE",
+  "value": 115868.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 47,
   "Category": "Governance",
   "Indicator": "Total freedom in the world score ",
@@ -523,9 +512,9 @@
   "Policy": "C3_Cancel public events",
   "Country": "Switzerland",
   "ISO": "CHE",
-  "value": 402264.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 713679.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 57,
@@ -638,6 +627,17 @@
   "year": 2016.0
  },
  {
+  "rank": 69,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Switzerland",
+  "ISO": "CHE",
+  "value": 73.91500091552734,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 70,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Political Rights category",
@@ -682,17 +682,6 @@
   "year": 2015.0
  },
  {
-  "rank": 76,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C3_Cancel public events",
-  "Country": "Switzerland",
-  "ISO": "CHE",
-  "value": 17.094085702623488,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 78,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
@@ -715,15 +704,26 @@
   "year": 2018.0
  },
  {
-  "rank": 84,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
   "Policy": "C3_Cancel public events",
   "Country": "Switzerland",
   "ISO": "CHE",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 8636896.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 82,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Switzerland",
+  "ISO": "CHE",
+  "value": 51.64421081542969,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 85,
@@ -790,5 +790,27 @@
   "value": 49.3001362303515,
   "unit": "percent of total",
   "year": 2017.0
+ },
+ {
+  "rank": 107,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Switzerland",
+  "ISO": "CHE",
+  "value": 88.4410400390625,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 109,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Switzerland",
+  "ISO": "CHE",
+  "value": 26.084999084472656,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

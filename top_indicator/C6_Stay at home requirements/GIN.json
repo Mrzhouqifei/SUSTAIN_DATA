@@ -50,9 +50,9 @@
   "Policy": "C6_Stay at home requirements",
   "Country": "Guinea",
   "ISO": "GIN",
-  "value": 13511.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 25401.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 9,
@@ -121,17 +121,6 @@
   "year": 2019.0
  },
  {
-  "rank": 15,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 97.16761117146424,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 18,
   "Category": "Economics",
   "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
@@ -163,17 +152,6 @@
   "value": 5.7,
   "unit": "percent",
   "year": 2020.0
- },
- {
-  "rank": 21,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 2995.939,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 22,
@@ -226,9 +204,9 @@
   "Policy": "C6_Stay at home requirements",
   "Country": "Guinea",
   "ISO": "GIN",
-  "value": 80.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 211.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 29,
@@ -284,6 +262,17 @@
   "value": 1.4,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 34,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 63.125,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 36,
@@ -418,17 +407,6 @@
   "year": 2020.0
  },
  {
-  "rank": 54,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 44.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 55,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
@@ -517,6 +495,17 @@
   "year": 2021.0
  },
  {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 6034.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 69,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, mean annual exposure",
@@ -537,17 +526,6 @@
   "value": 24.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 72,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 4.93295642414217,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 75,
@@ -594,6 +572,17 @@
   "year": 2019.0
  },
  {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 36.875,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
@@ -638,6 +627,17 @@
   "year": 2019.0
  },
  {
+  "rank": 94,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 85.18956756591797,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 95,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -647,5 +647,27 @@
   "value": 2.5,
   "unit": "rating",
   "year": 2019.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 84.45567321777344,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 13132792.0,
+  "unit": "total",
+  "year": 2020.0
  }
 ]

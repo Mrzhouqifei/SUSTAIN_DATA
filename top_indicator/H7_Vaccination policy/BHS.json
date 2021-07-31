@@ -11,26 +11,15 @@
   "year": 2019.0
  },
  {
-  "rank": 2,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 1586.72287807909,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H7_Vaccination policy",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 7733.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 14545.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 7,
@@ -152,17 +141,6 @@
   "value": 0.035205,
   "unit": "percent",
   "year": 2019.0
- },
- {
-  "rank": 19,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 1785.829,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 20,
@@ -292,9 +270,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 164.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 286.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 36,
@@ -416,17 +394,6 @@
   "value": 15.0,
   "unit": "Cases",
   "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 49.86859355975667,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 52,
@@ -556,9 +523,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 10.0,
+  "value": 25.0,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 71,
@@ -578,9 +545,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 16.868,
+  "value": 16.7549991607666,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 73,
@@ -622,9 +589,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 41.96278544221902,
+  "value": 41.54165267944336,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 83,
@@ -644,9 +611,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 389482.0,
+  "value": 393248.0,
   "unit": "total",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 89,
@@ -671,17 +638,6 @@
   "year": 2017.0
  },
  {
-  "rank": 95,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Bahamas",
-  "ISO": "BHS",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 97,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -699,8 +655,19 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Bahamas",
   "ISO": "BHS",
-  "value": 83.132,
-  "unit": "total",
-  "year": 2019.0
+  "value": 83.24500274658203,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 110,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Bahamas",
+  "ISO": "BHS",
+  "value": 87.0323486328125,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

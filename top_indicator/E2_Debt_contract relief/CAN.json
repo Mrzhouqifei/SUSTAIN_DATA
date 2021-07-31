@@ -72,9 +72,9 @@
   "Policy": "E2_Debt/contract relief",
   "Country": "Canada",
   "ISO": "CAN",
-  "value": 488638.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1428683.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 10,
@@ -151,17 +151,6 @@
   "ISO": "CAN",
   "value": 91.0,
   "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Canada",
-  "ISO": "CAN",
-  "value": 35900.83785097989,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -295,17 +284,6 @@
   "value": 8.64,
   "unit": "score",
   "year": 2018.0
- },
- {
-  "rank": 30,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Canada",
-  "ISO": "CAN",
-  "value": 544894.2,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 31,
@@ -451,15 +429,26 @@
   "year": 2017.0
  },
  {
+  "rank": 47,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Canada",
+  "ISO": "CAN",
+  "value": 51.239288330078125,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 49,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E2_Debt/contract relief",
   "Country": "Canada",
   "ISO": "CAN",
-  "value": 13916.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 26570.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 50,
@@ -561,17 +550,6 @@
   "year": 2021.0
  },
  {
-  "rank": 60,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Canada",
-  "ISO": "CAN",
-  "value": 18.668898507980952,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 61,
   "Category": "Governance",
   "Indicator": "Economic Freedom Score",
@@ -580,17 +558,6 @@
   "ISO": "CAN",
   "value": 8.17,
   "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 63,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Canada",
-  "ISO": "CAN",
-  "value": 100.0,
-  "unit": "percent of population",
   "year": 2018.0
  },
  {
@@ -693,6 +660,17 @@
   "year": 2021.0
  },
  {
+  "rank": 76,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Canada",
+  "ISO": "CAN",
+  "value": 38005238.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 78,
   "Category": "Environment",
   "Indicator": "Electricity production from coal sources ",
@@ -702,6 +680,17 @@
   "value": 9.83644929480872,
   "unit": "percent of total",
   "year": 2015.0
+ },
+ {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Canada",
+  "ISO": "CAN",
+  "value": 18.437999725341797,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -715,6 +704,17 @@
   "year": 2017.0
  },
  {
+  "rank": 82,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Canada",
+  "ISO": "CAN",
+  "value": 109264.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 84,
   "Category": "Environment",
   "Indicator": "Combustible renewables and waste",
@@ -724,6 +724,28 @@
   "value": 4.102835,
   "unit": "percent of total energy",
   "year": 2015.0
+ },
+ {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Canada",
+  "ISO": "CAN",
+  "value": 81.56199645996094,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Canada",
+  "ISO": "CAN",
+  "value": 98.23580932617188,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 91,

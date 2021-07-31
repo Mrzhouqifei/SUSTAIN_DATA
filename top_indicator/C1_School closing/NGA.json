@@ -72,9 +72,9 @@
   "Policy": "C1_School closing",
   "Country": "Nigeria",
   "ISO": "NGA",
-  "value": 77013.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 172821.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 10,
@@ -108,17 +108,6 @@
   "value": 52.6930008,
   "unit": "Percentage of total population",
   "year": 2020.0
- },
- {
-  "rank": 13,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C1_School closing",
-  "Country": "Nigeria",
-  "ISO": "NGA",
-  "value": 120369.3,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 14,
@@ -229,17 +218,6 @@
   "value": 88.1842,
   "unit": "per 100 people",
   "year": 2019.0
- },
- {
-  "rank": 25,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C1_School closing",
-  "Country": "Nigeria",
-  "ISO": "NGA",
-  "value": 97.2675111298435,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 26,
@@ -638,17 +616,6 @@
   "year": 2020.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C1_School closing",
-  "Country": "Nigeria",
-  "ISO": "NGA",
-  "value": 56.5,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -693,17 +660,6 @@
   "year": 2015.0
  },
  {
-  "rank": 80,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C1_School closing",
-  "Country": "Nigeria",
-  "ISO": "NGA",
-  "value": 74.81951992708888,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 83,
   "Category": "Environment",
   "Indicator": "Combustible renewables and waste",
@@ -737,14 +693,47 @@
   "year": 2020.0
  },
  {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C1_School closing",
+  "Country": "Nigeria",
+  "ISO": "NGA",
+  "value": 48.04199981689453,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 89,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C1_School closing",
   "Country": "Nigeria",
   "ISO": "NGA",
-  "value": 1212.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
+  "value": 2141.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 93,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C1_School closing",
+  "Country": "Nigeria",
+  "ISO": "NGA",
+  "value": 206139587.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 94,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C1_School closing",
+  "Country": "Nigeria",
+  "ISO": "NGA",
+  "value": 85.96234893798828,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -790,5 +779,38 @@
   "value": 0.0,
   "unit": "percent of total",
   "year": 2014.0
+ },
+ {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C1_School closing",
+  "Country": "Nigeria",
+  "ISO": "NGA",
+  "value": 51.95800018310547,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 109,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C1_School closing",
+  "Country": "Nigeria",
+  "ISO": "NGA",
+  "value": 86.21867370605469,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 114,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C1_School closing",
+  "Country": "Nigeria",
+  "ISO": "NGA",
+  "value": 66081.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

@@ -50,9 +50,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Serbia",
   "ISO": "SRB",
-  "value": 292640.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 721267.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -184,17 +184,6 @@
   "ISO": "SRB",
   "value": 6.0855,
   "unit": "Ones",
-  "year": 2016.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Serbia",
-  "ISO": "SRB",
-  "value": 45221.44,
-  "unit": "kt",
   "year": 2016.0
  },
  {
@@ -517,17 +506,6 @@
   "year": 2018.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Serbia",
-  "ISO": "SRB",
-  "value": 8072.167286419317,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -581,6 +559,28 @@
   "value": 0.1,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Serbia",
+  "ISO": "SRB",
+  "value": 56.44599914550781,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Serbia",
+  "ISO": "SRB",
+  "value": 52.49855041503906,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -699,9 +699,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Serbia",
   "ISO": "SRB",
-  "value": 2580.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 7110.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -748,6 +748,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Serbia",
+  "ISO": "SRB",
+  "value": 6908224.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 80,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -759,14 +770,14 @@
   "year": 2016.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Serbia",
   "ISO": "SRB",
-  "value": 66.11626143786188,
-  "unit": "score",
+  "value": 43.55400085449219,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -781,6 +792,17 @@
   "year": 2019.0
  },
  {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Serbia",
+  "ISO": "SRB",
+  "value": 89.25431060791016,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -792,14 +814,14 @@
   "year": 2014.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Serbia",
   "ISO": "SRB",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 26130.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

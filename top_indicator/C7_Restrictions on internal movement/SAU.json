@@ -50,9 +50,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Saudi Arabia",
   "ISO": "SAU",
-  "value": 360690.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 523397.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -185,17 +185,6 @@
   "value": 5.4763,
   "unit": "Ones",
   "year": 2018.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Saudi Arabia",
-  "ISO": "SAU",
-  "value": 563449.2,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 21,
@@ -506,17 +495,6 @@
   "year": 2018.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Saudi Arabia",
-  "ISO": "SAU",
-  "value": 182.558176995522,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -559,6 +537,28 @@
   "value": 0.003157,
   "unit": "percent of total energy",
   "year": 2014.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Saudi Arabia",
+  "ISO": "SAU",
+  "value": 84.28700256347656,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Saudi Arabia",
+  "ISO": "SAU",
+  "value": 39.26546859741211,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -677,9 +677,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Saudi Arabia",
   "ISO": "SAU",
-  "value": 6101.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 8212.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -726,6 +726,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Saudi Arabia",
+  "ISO": "SAU",
+  "value": 34813867.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 80,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -737,14 +748,14 @@
   "year": 2016.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Saudi Arabia",
   "ISO": "SAU",
-  "value": 68.80000000000001,
-  "unit": "score",
+  "value": 15.713000297546387,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -759,6 +770,17 @@
   "year": 2019.0
  },
  {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Saudi Arabia",
+  "ISO": "SAU",
+  "value": 93.13546752929688,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -770,14 +792,14 @@
   "year": 2014.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Saudi Arabia",
   "ISO": "SAU",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 340.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

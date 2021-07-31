@@ -28,9 +28,9 @@
   "Policy": "E1_Income support",
   "Country": "Georgia",
   "ISO": "GEO",
-  "value": 206907.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 416338.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -152,17 +152,6 @@
   "value": 96.31227094406191,
   "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
   "year": 2014.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Georgia",
-  "ISO": "GEO",
-  "value": 2776.327807198293,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 18,
@@ -374,26 +363,15 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Georgia",
-  "ISO": "GEO",
-  "value": 10128.25,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Georgia",
   "ISO": "GEO",
-  "value": 2055.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 5793.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 40,
@@ -462,17 +440,6 @@
   "year": 2019.0
  },
  {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E1_Income support",
-  "Country": "Georgia",
-  "ISO": "GEO",
-  "value": 71.15229518395927,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 47,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
@@ -503,6 +470,17 @@
   "ISO": "GEO",
   "value": 56.0,
   "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Georgia",
+  "ISO": "GEO",
+  "value": 40.547000885009766,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -803,6 +781,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Georgia",
+  "ISO": "GEO",
+  "value": 3714000.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -880,6 +869,39 @@
   "year": 2016.0
  },
  {
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Georgia",
+  "ISO": "GEO",
+  "value": 59.452999114990234,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Georgia",
+  "ISO": "GEO",
+  "value": 54.97562026977539,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Georgia",
+  "ISO": "GEO",
+  "value": 99.61763763427734,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 104,
   "Category": "Economics",
   "Indicator": "Foreign direct investment, net",
@@ -889,6 +911,17 @@
   "value": 1268912420.0,
   "unit": "US Dollar",
   "year": 2019.0
+ },
+ {
+  "rank": 105,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E1_Income support",
+  "Country": "Georgia",
+  "ISO": "GEO",
+  "value": 1800.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 107,
@@ -911,16 +944,5 @@
   "value": 10.8164,
   "unit": "percent per annum",
   "year": 2019.0
- },
- {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E1_Income support",
-  "Country": "Georgia",
-  "ISO": "GEO",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
  }
 ]

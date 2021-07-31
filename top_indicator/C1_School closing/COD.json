@@ -55,17 +55,6 @@
   "year": 2018.0
  },
  {
-  "rank": 9,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C1_School closing",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 15087.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 10,
   "Category": "Economics",
   "Indicator": "Volume of imports",
@@ -97,17 +86,6 @@
   "value": 63.2190018,
   "unit": "Percentage of total population",
   "year": 2020.0
- },
- {
-  "rank": 13,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C1_School closing",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 2020.517,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 14,
@@ -207,17 +185,6 @@
   "value": 42.7733,
   "unit": "per 100 people",
   "year": 2019.0
- },
- {
-  "rank": 25,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C1_School closing",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 109.39462095485345,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 26,
@@ -583,17 +550,6 @@
   "year": 2020.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C1_School closing",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 18.9776611328125,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -625,17 +581,6 @@
   "value": 10000000.0,
   "unit": "kWh",
   "year": 2015.0
- },
- {
-  "rank": 80,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C1_School closing",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 3.030283233430196,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 83,
@@ -671,14 +616,36 @@
   "year": 2020.0
  },
  {
-  "rank": 89,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C1_School closing",
   "Country": "Congo (Dem. Rep.)",
   "ISO": "COD",
-  "value": 366.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
+  "value": 54.36199951171875,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 93,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C1_School closing",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 89561404.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 94,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C1_School closing",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 95.36538696289062,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -724,5 +691,38 @@
   "value": 0.0,
   "unit": "percent of total",
   "year": 2014.0
+ },
+ {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C1_School closing",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 45.63800048828125,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 109,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C1_School closing",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 91.62606048583984,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 114,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C1_School closing",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 490243.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

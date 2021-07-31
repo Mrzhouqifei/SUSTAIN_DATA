@@ -50,9 +50,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Rwanda",
   "ISO": "RWA",
-  "value": 7105.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 66586.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -152,17 +152,6 @@
   "value": 1.2044,
   "unit": "Ones",
   "year": 2018.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Rwanda",
-  "ISO": "RWA",
-  "value": 1114.768,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 21,
@@ -440,17 +429,6 @@
   "year": 2018.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Rwanda",
-  "ISO": "RWA",
-  "value": 71.276119728042,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -493,6 +471,28 @@
   "value": 2.6,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Rwanda",
+  "ISO": "RWA",
+  "value": 17.43199920654297,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Rwanda",
+  "ISO": "RWA",
+  "value": 74.19641876220703,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -589,9 +589,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Rwanda",
   "ISO": "RWA",
-  "value": 57.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 787.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -627,6 +627,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Rwanda",
+  "ISO": "RWA",
+  "value": 12952209.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 80,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -649,14 +660,14 @@
   "year": 2019.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Rwanda",
   "ISO": "RWA",
-  "value": 86.02952230051775,
-  "unit": "score",
+  "value": 82.56800079345703,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -671,14 +682,25 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Rwanda",
   "ISO": "RWA",
-  "value": 34.7165718078613,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 93.23825073242188,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Rwanda",
+  "ISO": "RWA",
+  "value": 139501.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

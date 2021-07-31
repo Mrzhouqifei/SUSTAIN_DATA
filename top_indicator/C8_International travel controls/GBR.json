@@ -11,17 +11,6 @@
   "year": 2019.0
  },
  {
-  "rank": 3,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C8_International travel controls",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 1977171.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 4,
   "Category": "Economics",
   "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
@@ -220,17 +209,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C8_International travel controls",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 379024.8,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 26,
   "Category": "Social issues ",
   "Indicator": "Life Ladder ",
@@ -385,17 +363,6 @@
   "year": 2018.0
  },
  {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C8_International travel controls",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 38.260475361020404,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 46,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
@@ -460,17 +427,6 @@
   "value": 34.8,
   "unit": "index ",
   "year": 2016.0
- },
- {
-  "rank": 53,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C8_International travel controls",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 66541.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  },
  {
   "rank": 54,
@@ -594,6 +550,17 @@
   "year": 2019.0
  },
  {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C8_International travel controls",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 16.097000122070312,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "Combustible renewables and waste",
@@ -660,15 +627,15 @@
   "year": 2015.0
  },
  {
-  "rank": 77,
+  "rank": 78,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "C8_International travel controls",
   "Country": "United Kingdom",
   "ISO": "GBR",
-  "value": 35989.50271196399,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 83.90299987792969,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 79,
@@ -691,6 +658,17 @@
   "value": 0.090669,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C8_International travel controls",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 67215293.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 82,
@@ -726,17 +704,6 @@
   "year": 2018.0
  },
  {
-  "rank": 85,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C8_International travel controls",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 86,
   "Category": "Health",
   "Indicator": "Immunization, measles (% of children ages 12-23 months)",
@@ -748,6 +715,28 @@
   "year": 2019.0
  },
  {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C8_International travel controls",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 132349.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 94,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C8_International travel controls",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 94.57843780517578,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 95,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
@@ -757,6 +746,17 @@
   "value": 8.79,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C8_International travel controls",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 57.06137466430664,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 116,

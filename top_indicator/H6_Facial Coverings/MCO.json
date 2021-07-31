@@ -39,9 +39,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 715.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2853.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -110,17 +110,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 13319.98768093625,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 29,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
@@ -152,6 +141,17 @@
   "value": 0.096562,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 100.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 36,
@@ -193,9 +193,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 3.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 33.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 48,
@@ -275,6 +275,17 @@
   "year": 2019.0
  },
  {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 0.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 60,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
@@ -308,15 +319,15 @@
   "year": 2014.0
  },
  {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 22.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 77,
@@ -328,6 +339,17 @@
   "value": 0.6848723,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 39244.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 88,

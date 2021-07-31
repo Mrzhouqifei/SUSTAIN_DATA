@@ -11,26 +11,15 @@
   "year": 2019.0
  },
  {
-  "rank": 2,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Grenada",
-  "ISO": "GRD",
-  "value": 499.9866075015847,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H7_Vaccination policy",
   "Country": "Grenada",
   "ISO": "GRD",
-  "value": 94.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 168.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 7,
@@ -143,17 +132,6 @@
   "year": 2019.0
  },
  {
-  "rank": 19,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Grenada",
-  "ISO": "GRD",
-  "value": 267.691,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 21,
   "Category": "Health",
   "Indicator": "Immunization, measles (% of children ages 12-23 months)",
@@ -237,9 +215,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Grenada",
   "ISO": "GRD",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 36,
@@ -339,17 +317,6 @@
   "value": 3.1,
   "unit": "Cases",
   "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Grenada",
-  "ISO": "GRD",
-  "value": 55.24684546356435,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 52,
@@ -473,6 +440,17 @@
   "year": 2019.0
  },
  {
+  "rank": 70,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Grenada",
+  "ISO": "GRD",
+  "value": 5.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 71,
   "Category": "Social issues ",
   "Indicator": "Primary completion rate, total (% of relevant age group)",
@@ -490,9 +468,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Grenada",
   "ISO": "GRD",
-  "value": 63.604,
+  "value": 63.4630012512207,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 73,
@@ -545,9 +523,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Grenada",
   "ISO": "GRD",
-  "value": 50.13806970509383,
+  "value": 50.53313064575195,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 86,
@@ -556,9 +534,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Grenada",
   "ISO": "GRD",
-  "value": 112003.0,
+  "value": 112519.0,
   "unit": "total",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 89,
@@ -594,17 +572,6 @@
   "year": 2017.0
  },
  {
-  "rank": 95,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Grenada",
-  "ISO": "GRD",
-  "value": 95.2919845581055,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 96,
   "Category": "Social issues ",
   "Indicator": "Literacy rate, adult total (% of people ages 15 and above)",
@@ -633,8 +600,19 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Grenada",
   "ISO": "GRD",
-  "value": 36.396,
-  "unit": "total",
-  "year": 2019.0
+  "value": 36.5369987487793,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 110,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Grenada",
+  "ISO": "GRD",
+  "value": 87.96367645263672,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

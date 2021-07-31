@@ -28,9 +28,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Eritrea",
   "ISO": "ERI",
-  "value": 741.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 6544.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -119,17 +119,6 @@
   "value": 0.0293007,
   "unit": "per 100 people",
   "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Eritrea",
-  "ISO": "ERI",
-  "value": 95.8442307280238,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 19,
@@ -336,9 +325,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Eritrea",
   "ISO": "ERI",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 34.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 42,
@@ -383,17 +372,6 @@
   "value": 53.22804,
   "unit": "percent of total energy",
   "year": 2014.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Eritrea",
-  "ISO": "ERI",
-  "value": 711.398,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -517,17 +495,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Eritrea",
-  "ISO": "ERI",
-  "value": 49.6155433654785,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 71,
   "Category": "Health",
   "Indicator": "Prevalence of HIV, total (% of population ages 15-49)",
@@ -594,6 +561,17 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Eritrea",
+  "ISO": "ERI",
+  "value": 52.86281967163086,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Health",
   "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
@@ -658,5 +636,16 @@
   "value": 22.0,
   "unit": "proportion",
   "year": 2019.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Eritrea",
+  "ISO": "ERI",
+  "value": 201.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

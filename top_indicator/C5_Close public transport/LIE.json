@@ -50,9 +50,9 @@
   "Policy": "C5_Close public transport",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 1725.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 3186.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 13,
@@ -77,15 +77,26 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
+  "rank": 31,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "C5_Close public transport",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 48028.61727031221,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 14.416000366210938,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 33,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 85.58399963378906,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 35,
@@ -94,9 +105,9 @@
   "Policy": "C5_Close public transport",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 22.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 58.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 39,
@@ -143,17 +154,6 @@
   "year": 2021.0
  },
  {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 51.338,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 59,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -196,17 +196,6 @@
   "value": 0.919,
   "unit": "index",
   "year": 2019.0
- },
- {
-  "rank": 70,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
  },
  {
   "rank": 72,
@@ -253,6 +242,28 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 154.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 38137.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -272,6 +283,17 @@
   "ISO": "LIE",
   "value": 12.0,
   "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 113,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 73.00755310058594,
+  "unit": "Score",
   "year": 2020.0
  }
 ]

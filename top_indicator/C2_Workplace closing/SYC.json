@@ -176,6 +176,17 @@
   "year": 2017.0
  },
  {
+  "rank": 26,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C2_Workplace closing",
+  "Country": "Seychelles",
+  "ISO": "SYC",
+  "value": 98462.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 27,
   "Category": "Economics",
   "Indicator": "Volume of imports",
@@ -185,17 +196,6 @@
   "value": 5.821,
   "unit": "percent change",
   "year": 2020.0
- },
- {
-  "rank": 29,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Seychelles",
-  "ISO": "SYC",
-  "value": 96419.97439180537,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 32,
@@ -275,26 +275,15 @@
   "year": 2020.0
  },
  {
-  "rank": 41,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Seychelles",
-  "ISO": "SYC",
-  "value": 54.6754977355289,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C2_Workplace closing",
   "Country": "Seychelles",
   "ISO": "SYC",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 79.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 44,
@@ -328,17 +317,6 @@
   "value": 7.49,
   "unit": "score",
   "year": 2018.0
- },
- {
-  "rank": 49,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Seychelles",
-  "ISO": "SYC",
-  "value": 605.055,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 50,
@@ -523,9 +501,9 @@
   "Policy": "C2_Workplace closing",
   "Country": "Seychelles",
   "ISO": "SYC",
-  "value": 202.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 17541.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -561,6 +539,17 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Seychelles",
+  "ISO": "SYC",
+  "value": 42.45399856567383,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 83,
   "Category": "Economics",
   "Indicator": "Central government debt, total",
@@ -570,6 +559,17 @@
   "value": 63.34039338006128,
   "unit": "percent of GDP",
   "year": 2015.0
+ },
+ {
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Seychelles",
+  "ISO": "SYC",
+  "value": 57.54600143432617,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 85,
@@ -583,14 +583,25 @@
   "year": 2018.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 102,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "C2_Workplace closing",
   "Country": "Seychelles",
   "ISO": "SYC",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 46.6983528137207,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 111,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Seychelles",
+  "ISO": "SYC",
+  "value": 78.75501251220703,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

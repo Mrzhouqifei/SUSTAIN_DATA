@@ -72,9 +72,9 @@
   "Policy": "H2_Testing policy",
   "Country": "Niger",
   "ISO": "NER",
-  "value": 82.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 195.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 9,
@@ -96,17 +96,6 @@
   "ISO": "NER",
   "value": 11.95158,
   "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H2_Testing policy",
-  "Country": "Niger",
-  "ISO": "NER",
-  "value": 0.8579745408924608,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -341,14 +330,14 @@
   "year": 2019.0
  },
  {
-  "rank": 35,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 36,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H2_Testing policy",
   "Country": "Niger",
   "ISO": "NER",
-  "value": 95.31488303494451,
-  "unit": "score",
+  "value": 109.50328826904297,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -484,17 +473,6 @@
   "year": 2020.0
  },
  {
-  "rank": 50,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H2_Testing policy",
-  "Country": "Niger",
-  "ISO": "NER",
-  "value": 2016.85,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 51,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -528,6 +506,17 @@
   "year": 2014.0
  },
  {
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H2_Testing policy",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 24206636.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
@@ -556,20 +545,20 @@
   "Policy": "H2_Testing policy",
   "Country": "Niger",
   "ISO": "NER",
-  "value": 2361.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 5607.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H2_Testing policy",
   "Country": "Niger",
   "ISO": "NER",
-  "value": 17.6,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 233308.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 61,
@@ -581,6 +570,17 @@
   "value": 5.85,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 63,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 16.625999450683594,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 65,
@@ -735,6 +735,28 @@
   "value": 81.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 83.3740005493164,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 90,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H2_Testing policy",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 91.51177215576172,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 92,

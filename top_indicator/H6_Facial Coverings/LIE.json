@@ -17,9 +17,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 1725.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 3186.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 7,
@@ -44,17 +44,6 @@
   "year": 2021.0
  },
  {
-  "rank": 12,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 51.338,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 13,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
@@ -77,17 +66,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 48028.61727031221,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 29,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
@@ -97,6 +75,17 @@
   "value": 57.0,
   "unit": "score",
   "year": 2021.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 14.416000366210938,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 36,
@@ -127,9 +116,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 22.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 58.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 51,
@@ -198,6 +187,17 @@
   "year": 2019.0
  },
  {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 85.58399963378906,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 65,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -220,15 +220,15 @@
   "year": 2019.0
  },
  {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 154.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 77,
@@ -253,6 +253,17 @@
   "year": 2019.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 38137.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -273,5 +284,16 @@
   "value": 0.919,
   "unit": "index",
   "year": 2019.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 73.00755310058594,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

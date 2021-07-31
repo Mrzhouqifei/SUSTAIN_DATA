@@ -50,9 +50,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Sudan",
   "ISO": "SDN",
-  "value": 22265.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 37138.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -119,17 +119,6 @@
   "value": 17.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 12,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Sudan",
-  "ISO": "SDN",
-  "value": 19999.82,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 13,
@@ -264,17 +253,6 @@
   "year": 2015.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Sudan",
-  "ISO": "SDN",
-  "value": 4.46800629687934,
-  "unit": "per 1 million people",
-  "year": 2018.0
- },
- {
   "rank": 26,
   "Category": "Economics",
   "Indicator": "Volume of exports",
@@ -339,6 +317,17 @@
   "value": 0.04414,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Sudan",
+  "ISO": "SDN",
+  "value": 35.25299835205078,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 33,
@@ -424,9 +413,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Sudan",
   "ISO": "SDN",
-  "value": 1408.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2776.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 43,
@@ -572,6 +561,17 @@
   "year": 2019.0
  },
  {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Sudan",
+  "ISO": "SDN",
+  "value": 64.74700164794922,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 60,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
@@ -592,17 +592,6 @@
   "value": 22.61822641220204,
   "unit": "percent of total",
   "year": 2015.0
- },
- {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Sudan",
-  "ISO": "SDN",
-  "value": 104.76588517295875,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 65,
@@ -682,15 +671,15 @@
   "year": 2018.0
  },
  {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
   "Country": "Sudan",
   "ISO": "SDN",
-  "value": 59.7835350036621,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 1040308.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 77,
@@ -737,6 +726,17 @@
   "year": 2019.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Sudan",
+  "ISO": "SDN",
+  "value": 43849269.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Health",
   "Indicator": "Immunization, measles (% of children ages 12-23 months)",
@@ -768,5 +768,27 @@
   "value": 0.51,
   "unit": "index",
   "year": 2019.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Sudan",
+  "ISO": "SDN",
+  "value": 76.90814208984375,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Sudan",
+  "ISO": "SDN",
+  "value": 76.72868347167969,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

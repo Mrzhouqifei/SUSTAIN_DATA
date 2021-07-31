@@ -11,26 +11,15 @@
   "year": 2019.0
  },
  {
-  "rank": 2,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 4.93295642414217,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H7_Vaccination policy",
   "Country": "Guinea",
   "ISO": "GIN",
-  "value": 13511.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 25401.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 7,
@@ -154,17 +143,6 @@
   "year": 2019.0
  },
  {
-  "rank": 19,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 2995.939,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 20,
   "Category": "Economics",
   "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
@@ -270,9 +248,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Guinea",
   "ISO": "GIN",
-  "value": 80.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 211.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 35,
@@ -383,17 +361,6 @@
   "value": 176.0,
   "unit": "Cases",
   "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 97.16761117146424,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 52,
@@ -539,6 +506,28 @@
   "year": 2019.0
  },
  {
+  "rank": 70,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 6034.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 72,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 63.125,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 73,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
@@ -572,6 +561,17 @@
   "year": 2019.0
  },
  {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 85.18956756591797,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 83,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -591,6 +591,17 @@
   "ISO": "GIN",
   "value": 29.4,
   "unit": "percent",
+  "year": 2020.0
+ },
+ {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 13132792.0,
+  "unit": "total",
   "year": 2020.0
  },
  {
@@ -627,17 +638,6 @@
   "year": 2017.0
  },
  {
-  "rank": 95,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 44.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 97,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -647,5 +647,27 @@
   "value": 0.038304,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 36.875,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 110,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 84.45567321777344,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

@@ -39,9 +39,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Kyrgyzstan",
   "ISO": "KGZ",
-  "value": 78911.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 161973.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -152,17 +152,6 @@
   "value": 7.1226025637555,
   "unit": "percent of GNI",
   "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Kyrgyzstan",
-  "ISO": "KGZ",
-  "value": 73.92936357080953,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -297,6 +286,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Kyrgyzstan",
+  "ISO": "KGZ",
+  "value": 63.14400100708008,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -402,9 +402,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Kyrgyzstan",
   "ISO": "KGZ",
-  "value": 1328.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2311.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 41,
@@ -471,17 +471,6 @@
   "value": 0.076118,
   "unit": "percent of total energy",
   "year": 2014.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Kyrgyzstan",
-  "ISO": "KGZ",
-  "value": 9787.223,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -660,17 +649,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Kyrgyzstan",
-  "ISO": "KGZ",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -715,6 +693,17 @@
   "year": 2014.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Kyrgyzstan",
+  "ISO": "KGZ",
+  "value": 59.68506622314453,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 75,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -757,6 +746,28 @@
   "value": 0.000608,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Kyrgyzstan",
+  "ISO": "KGZ",
+  "value": 93.02397155761719,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Kyrgyzstan",
+  "ISO": "KGZ",
+  "value": 6591600.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -836,15 +847,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Kyrgyzstan",
   "ISO": "KGZ",
-  "value": 287.9090585265375,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 36.85599899291992,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 100,
@@ -931,6 +942,17 @@
   "Country": "Kyrgyzstan",
   "ISO": "KGZ",
   "value": 19.16666667,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Kyrgyzstan",
+  "ISO": "KGZ",
+  "value": 334.0,
   "unit": "proportion",
   "year": 2020.0
  }

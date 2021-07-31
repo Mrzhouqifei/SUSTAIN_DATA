@@ -50,9 +50,9 @@
   "Policy": "C5_Close public transport",
   "Country": "Comoros",
   "ISO": "COM",
-  "value": 643.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 4025.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 10,
@@ -154,17 +154,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C5_Close public transport",
-  "Country": "Comoros",
-  "ISO": "COM",
-  "value": 7.051473405368052,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 26,
   "Category": "Social issues ",
   "Indicator": "Net migration",
@@ -174,17 +163,6 @@
   "value": -10000.0,
   "unit": "net total / data are 5 year estimates",
   "year": 2019.0
- },
- {
-  "rank": 27,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C5_Close public transport",
-  "Country": "Comoros",
-  "ISO": "COM",
-  "value": 81.24901232562686,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 28,
@@ -209,6 +187,17 @@
   "year": 2019.0
  },
  {
+  "rank": 31,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C5_Close public transport",
+  "Country": "Comoros",
+  "ISO": "COM",
+  "value": 29.3799991607666,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 32,
   "Category": "Economics",
   "Indicator": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",
@@ -220,15 +209,26 @@
   "year": 2020.0
  },
  {
+  "rank": 33,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C5_Close public transport",
+  "Country": "Comoros",
+  "ISO": "COM",
+  "value": 70.62000274658203,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 35,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C5_Close public transport",
   "Country": "Comoros",
   "ISO": "COM",
-  "value": 7.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 147.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 36,
@@ -418,17 +418,6 @@
   "year": 2020.0
  },
  {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C5_Close public transport",
-  "Country": "Comoros",
-  "ISO": "COM",
-  "value": 201.685,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 59,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -495,17 +484,6 @@
   "year": 2017.0
  },
  {
-  "rank": 70,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C5_Close public transport",
-  "Country": "Comoros",
-  "ISO": "COM",
-  "value": 81.9227523803711,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 74,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
@@ -550,6 +528,17 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C5_Close public transport",
+  "Country": "Comoros",
+  "ISO": "COM",
+  "value": 72.78813171386719,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Social issues ",
   "Indicator": "Gini index (World Bank estimate)",
@@ -581,6 +570,28 @@
   "value": 16.0,
   "unit": "score",
   "year": 2021.0
+ },
+ {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C5_Close public transport",
+  "Country": "Comoros",
+  "ISO": "COM",
+  "value": 5.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C5_Close public transport",
+  "Country": "Comoros",
+  "ISO": "COM",
+  "value": 869595.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 90,
@@ -635,6 +646,17 @@
   "ISO": "COM",
   "value": 16.66666667,
   "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 113,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C5_Close public transport",
+  "Country": "Comoros",
+  "ISO": "COM",
+  "value": 76.48652648925781,
+  "unit": "Score",
   "year": 2020.0
  }
 ]

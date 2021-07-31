@@ -39,9 +39,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Mauritania",
   "ISO": "MRT",
-  "value": 10971.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 25063.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -141,17 +141,6 @@
   "value": 0.9252,
   "unit": "Ones",
   "year": 2018.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Mauritania",
-  "ISO": "MRT",
-  "value": 2739.249,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 21,
@@ -418,17 +407,6 @@
   "year": 2018.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Mauritania",
-  "ISO": "MRT",
-  "value": 7.291696128065165,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -471,6 +449,28 @@
   "value": 0.2,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Mauritania",
+  "ISO": "MRT",
+  "value": 55.32699966430664,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Mauritania",
+  "ISO": "MRT",
+  "value": 75.017822265625,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -567,9 +567,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Mauritania",
   "ISO": "MRT",
-  "value": 225.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 553.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -605,6 +605,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Mauritania",
+  "ISO": "MRT",
+  "value": 4649660.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 80,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -627,14 +638,14 @@
   "year": 2019.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Mauritania",
   "ISO": "MRT",
-  "value": 88.74246859603146,
-  "unit": "score",
+  "value": 44.67300033569336,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -649,14 +660,25 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Mauritania",
   "ISO": "MRT",
-  "value": 44.526912689209,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 92.23606872558594,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Mauritania",
+  "ISO": "MRT",
+  "value": 93638.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

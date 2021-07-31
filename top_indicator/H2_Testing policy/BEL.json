@@ -72,9 +72,9 @@
   "Policy": "H2_Testing policy",
   "Country": "Belgium",
   "ISO": "BEL",
-  "value": 18455.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 25235.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 9,
@@ -96,17 +96,6 @@
   "ISO": "BEL",
   "value": 26.69697,
   "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H2_Testing policy",
-  "Country": "Belgium",
-  "ISO": "BEL",
-  "value": 19663.96016041372,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -330,14 +319,14 @@
   "year": 2019.0
  },
  {
-  "rank": 35,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 36,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H2_Testing policy",
   "Country": "Belgium",
   "ISO": "BEL",
-  "value": 27.098144674784415,
-  "unit": "score",
+  "value": 56.956809997558594,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -473,17 +462,6 @@
   "year": 2020.0
  },
  {
-  "rank": 50,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H2_Testing policy",
-  "Country": "Belgium",
-  "ISO": "BEL",
-  "value": 96889.47,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 51,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -517,6 +495,17 @@
   "year": 2014.0
  },
  {
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H2_Testing policy",
+  "Country": "Belgium",
+  "ISO": "BEL",
+  "value": 11555997.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
@@ -545,20 +534,20 @@
   "Policy": "H2_Testing policy",
   "Country": "Belgium",
   "ISO": "BEL",
-  "value": 621039.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1122951.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H2_Testing policy",
   "Country": "Belgium",
   "ISO": "BEL",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 65033.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 61,
@@ -570,6 +559,17 @@
   "value": 7.56,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 63,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Belgium",
+  "ISO": "BEL",
+  "value": 98.0790023803711,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 64,
@@ -724,6 +724,28 @@
   "value": 98.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Belgium",
+  "ISO": "BEL",
+  "value": 1.9210000038146973,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 90,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H2_Testing policy",
+  "Country": "Belgium",
+  "ISO": "BEL",
+  "value": 92.3201675415039,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 92,

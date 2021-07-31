@@ -11,17 +11,6 @@
   "year": 2019.0
  },
  {
-  "rank": 2,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kazakhstan",
-  "ISO": "KAZ",
-  "value": 2358.980508190319,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 3,
   "Category": "Economics",
   "Indicator": "Foreign direct investment, net",
@@ -50,9 +39,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Kazakhstan",
   "ISO": "KAZ",
-  "value": 189551.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 617387.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -196,17 +185,6 @@
   "value": 0.037212,
   "unit": "percent",
   "year": 2019.0
- },
- {
-  "rank": 19,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kazakhstan",
-  "ISO": "KAZ",
-  "value": 247207.1,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 20,
@@ -358,9 +336,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Kazakhstan",
   "ISO": "KAZ",
-  "value": 2609.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 9077.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 35,
@@ -528,17 +506,6 @@
   "year": 2019.0
  },
  {
-  "rank": 51,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kazakhstan",
-  "ISO": "KAZ",
-  "value": 59.770101356315976,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 52,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -704,6 +671,28 @@
   "year": 2019.0
  },
  {
+  "rank": 70,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kazakhstan",
+  "ISO": "KAZ",
+  "value": 445.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 72,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kazakhstan",
+  "ISO": "KAZ",
+  "value": 42.32899856567383,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 73,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
@@ -770,6 +759,17 @@
   "year": 2014.0
  },
  {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kazakhstan",
+  "ISO": "KAZ",
+  "value": 58.84859848022461,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 82,
   "Category": "Environment",
   "Indicator": "Energy use ",
@@ -814,6 +814,17 @@
   "year": 2020.0
  },
  {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kazakhstan",
+  "ISO": "KAZ",
+  "value": 18754440.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 87,
   "Category": "Social issues ",
   "Indicator": "Life Ladder ",
@@ -847,17 +858,6 @@
   "year": 2017.0
  },
  {
-  "rank": 95,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Kazakhstan",
-  "ISO": "KAZ",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 97,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -880,6 +880,17 @@
   "year": 2018.0
  },
  {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kazakhstan",
+  "ISO": "KAZ",
+  "value": 57.67100143432617,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 107,
   "Category": "Economics",
   "Indicator": "Growth rates of household expenditure or income per capita (%)",
@@ -900,6 +911,17 @@
   "value": 40639830000.0,
   "unit": "US Dollar",
   "year": 2019.0
+ },
+ {
+  "rank": 110,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Kazakhstan",
+  "ISO": "KAZ",
+  "value": 94.42857360839844,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 112,

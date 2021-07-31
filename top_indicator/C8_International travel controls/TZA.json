@@ -11,17 +11,6 @@
   "year": 2019.0
  },
  {
-  "rank": 3,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C8_International travel controls",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 509.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 4,
   "Category": "Economics",
   "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
@@ -231,17 +220,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C8_International travel controls",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 11972.76,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 26,
   "Category": "Social issues ",
   "Indicator": "Life Ladder ",
@@ -429,17 +407,6 @@
   "year": 2018.0
  },
  {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C8_International travel controls",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 78.14413662466475,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 46,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
@@ -504,17 +471,6 @@
   "value": 40.5,
   "unit": "index ",
   "year": 2017.0
- },
- {
-  "rank": 53,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C8_International travel controls",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 21.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  },
  {
   "rank": 54,
@@ -649,6 +605,17 @@
   "year": 2019.0
  },
  {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 64.77300262451172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "Combustible renewables and waste",
@@ -704,15 +671,15 @@
   "year": 2015.0
  },
  {
-  "rank": 77,
+  "rank": 78,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "C8_International travel controls",
   "Country": "Tanzania",
   "ISO": "TZA",
-  "value": 39.09976548243396,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 35.22700119018555,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 79,
@@ -735,6 +702,17 @@
   "value": 0.036268,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C8_International travel controls",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 59734213.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 82,
@@ -770,17 +748,6 @@
   "year": 2017.0
  },
  {
-  "rank": 85,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C8_International travel controls",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 35.5589790344238,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 86,
   "Category": "Health",
   "Indicator": "Immunization, measles (% of children ages 12-23 months)",
@@ -803,6 +770,28 @@
   "year": 2019.0
  },
  {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C8_International travel controls",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 234655.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 94,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C8_International travel controls",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 74.39871978759766,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 95,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
@@ -812,5 +801,16 @@
   "value": 5.82,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 85.86675262451172,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

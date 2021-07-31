@@ -121,15 +121,15 @@
   "year": 2019.0
  },
  {
-  "rank": 29,
+  "rank": 26,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Population, total",
   "Policy": "C2_Workplace closing",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 74748.96633195512,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 33938.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 32,
@@ -171,9 +171,9 @@
   "Policy": "C2_Workplace closing",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 55.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 90.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 44,
@@ -292,9 +292,9 @@
   "Policy": "C2_Workplace closing",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 2049.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 5143.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 78,
@@ -308,6 +308,17 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 2.500999927520752,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 83,
   "Category": "Economics",
   "Indicator": "Central government debt, total",
@@ -319,14 +330,25 @@
   "year": 2016.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "C2_Workplace closing",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 97.4990005493164,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 111,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C2_Workplace closing",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 87.31099700927734,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

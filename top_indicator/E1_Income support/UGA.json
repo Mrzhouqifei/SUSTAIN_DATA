@@ -28,9 +28,9 @@
   "Policy": "E1_Income support",
   "Country": "Uganda",
   "ISO": "UGA",
-  "value": 30071.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 93282.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -140,17 +140,6 @@
   "ISO": "UGA",
   "value": 0.0275667,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Uganda",
-  "ISO": "UGA",
-  "value": 21.97896822817033,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -330,26 +319,15 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Uganda",
-  "ISO": "UGA",
-  "value": 5680.183,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Uganda",
   "ISO": "UGA",
-  "value": 230.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2632.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 40,
@@ -383,17 +361,6 @@
   "value": 5.8,
   "unit": "percent",
   "year": 2019.0
- },
- {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E1_Income support",
-  "Country": "Uganda",
-  "ISO": "UGA",
-  "value": 92.7703684743757,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 47,
@@ -437,6 +404,17 @@
   "ISO": "UGA",
   "value": 27.0,
   "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Uganda",
+  "ISO": "UGA",
+  "value": 75.0459976196289,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -649,6 +627,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Uganda",
+  "ISO": "UGA",
+  "value": 45741000.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -682,14 +671,47 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "E1_Income support",
   "Country": "Uganda",
   "ISO": "UGA",
-  "value": 42.65,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 24.95400047302246,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Uganda",
+  "ISO": "UGA",
+  "value": 92.31354522705078,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Uganda",
+  "ISO": "UGA",
+  "value": 71.38371276855469,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E1_Income support",
+  "Country": "Uganda",
+  "ISO": "UGA",
+  "value": 1421133.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

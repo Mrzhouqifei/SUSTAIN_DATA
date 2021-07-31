@@ -50,9 +50,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Poland",
   "ISO": "POL",
-  "value": 1194110.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2882786.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -185,17 +185,6 @@
   "value": 6.8926,
   "unit": "Ones",
   "year": 2018.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Poland",
-  "ISO": "POL",
-  "value": 299036.5,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 21,
@@ -517,17 +506,6 @@
   "year": 2018.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Poland",
-  "ISO": "POL",
-  "value": 20603.13386518309,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -570,6 +548,28 @@
   "value": 6.46307,
   "unit": "percent of total energy",
   "year": 2015.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Poland",
+  "ISO": "POL",
+  "value": 60.042999267578125,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Poland",
+  "ISO": "POL",
+  "value": 51.4168586730957,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -688,9 +688,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Poland",
   "ISO": "POL",
-  "value": 25254.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 75259.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -737,6 +737,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Poland",
+  "ISO": "POL",
+  "value": 37950802.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 80,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -748,14 +759,14 @@
   "year": 2016.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Poland",
   "ISO": "POL",
-  "value": 41.028733918699864,
-  "unit": "score",
+  "value": 39.957000732421875,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -770,6 +781,17 @@
   "year": 2019.0
  },
  {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Poland",
+  "ISO": "POL",
+  "value": 82.9085922241211,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -781,14 +803,14 @@
   "year": 2015.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Poland",
   "ISO": "POL",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 2811.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

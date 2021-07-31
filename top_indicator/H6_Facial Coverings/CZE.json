@@ -44,17 +44,6 @@
   "year": 2017.0
  },
  {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Czech Republic",
-  "ISO": "CZE",
-  "value": 618836.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 6,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
@@ -119,17 +108,6 @@
   "value": 91.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 12,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Czech Republic",
-  "ISO": "CZE",
-  "value": 102217.6,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 13,
@@ -264,17 +242,6 @@
   "year": 2015.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Czech Republic",
-  "ISO": "CZE",
-  "value": 56198.25245468269,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 26,
   "Category": "Economics",
   "Indicator": "Volume of exports",
@@ -339,6 +306,17 @@
   "value": 0.164171,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Czech Republic",
+  "ISO": "CZE",
+  "value": 74.06099700927734,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 33,
@@ -427,17 +405,6 @@
   "value": 0.037042,
   "unit": "percent",
   "year": 2019.0
- },
- {
-  "rank": 42,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Czech Republic",
-  "ISO": "CZE",
-  "value": 10271.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  },
  {
   "rank": 43,
@@ -605,6 +572,17 @@
   "year": 2019.0
  },
  {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Czech Republic",
+  "ISO": "CZE",
+  "value": 25.93899917602539,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 60,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
@@ -625,17 +603,6 @@
   "value": 55.91531906652465,
   "unit": "percent of total",
   "year": 2015.0
- },
- {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Czech Republic",
-  "ISO": "CZE",
-  "value": 37.6,
-  "unit": "score",
-  "year": 2019.0
  },
  {
   "rank": 65,
@@ -715,15 +682,15 @@
   "year": 2018.0
  },
  {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
   "Country": "Czech Republic",
   "ISO": "CZE",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 1959.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 77,
@@ -759,6 +726,17 @@
   "year": 2020.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Czech Republic",
+  "ISO": "CZE",
+  "value": 10698896.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Health",
   "Indicator": "Immunization, measles (% of children ages 12-23 months)",
@@ -790,5 +768,27 @@
   "value": 0.9,
   "unit": "index",
   "year": 2019.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Czech Republic",
+  "ISO": "CZE",
+  "value": 56.00270080566406,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Czech Republic",
+  "ISO": "CZE",
+  "value": 82.0640869140625,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

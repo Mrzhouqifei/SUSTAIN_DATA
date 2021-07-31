@@ -44,17 +44,6 @@
   "year": 2017.0
  },
  {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 509.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 6,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
@@ -119,17 +108,6 @@
   "value": 34.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 12,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 11972.76,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 13,
@@ -264,17 +242,6 @@
   "year": 2015.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 39.09976548243396,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 26,
   "Category": "Economics",
   "Indicator": "Volume of exports",
@@ -339,6 +306,17 @@
   "value": 0.016779,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 35.22700119018555,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 33,
@@ -427,17 +405,6 @@
   "value": 0.034264,
   "unit": "percent",
   "year": 2019.0
- },
- {
-  "rank": 42,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 21.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  },
  {
   "rank": 43,
@@ -616,6 +583,17 @@
   "year": 2019.0
  },
  {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 64.77300262451172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 60,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
@@ -636,17 +614,6 @@
   "value": 65.845909451946,
   "unit": "percent of total",
   "year": 2015.0
- },
- {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 78.14413662466475,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 65,
@@ -726,15 +693,15 @@
   "year": 2018.0
  },
  {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
   "Country": "Tanzania",
   "ISO": "TZA",
-  "value": 35.5589790344238,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 234655.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 77,
@@ -781,6 +748,17 @@
   "year": 2019.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 59734213.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Health",
   "Indicator": "Immunization, measles (% of children ages 12-23 months)",
@@ -812,5 +790,27 @@
   "value": 0.529,
   "unit": "index",
   "year": 2019.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 85.86675262451172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 74.39871978759766,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

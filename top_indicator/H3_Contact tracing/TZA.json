@@ -33,17 +33,6 @@
   "year": 2016.0
  },
  {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 509.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 6,
   "Category": "Demographics",
   "Indicator": "Fixed telephone subscriptions",
@@ -152,17 +141,6 @@
   "value": 16.704783419016,
   "unit": "percent of GNI",
   "year": 2017.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 78.14413662466475,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -297,6 +275,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 64.77300262451172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -396,17 +385,6 @@
   "year": 2021.0
  },
  {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 21.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 41,
   "Category": "Social issues ",
   "Indicator": "Proportion of women in managerial positions (%)",
@@ -460,17 +438,6 @@
   "value": 74.01191,
   "unit": "percent of total energy",
   "year": 2014.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 11972.76,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -627,17 +594,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 35.5589790344238,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -682,6 +638,17 @@
   "year": 2014.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 85.86675262451172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 75,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -724,6 +691,28 @@
   "value": 0.001186,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 74.39871978759766,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 59734213.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -781,15 +770,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Tanzania",
   "ISO": "TZA",
-  "value": 39.09976548243396,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 35.22700119018555,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 110,
@@ -810,6 +799,17 @@
   "Country": "Tanzania",
   "ISO": "TZA",
   "value": 36.8956743,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 234655.0,
   "unit": "proportion",
   "year": 2020.0
  }

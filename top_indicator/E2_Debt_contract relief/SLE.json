@@ -72,9 +72,9 @@
   "Policy": "E2_Debt/contract relief",
   "Country": "Sierra Leone",
   "ISO": "SLE",
-  "value": 2486.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 6268.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 10,
@@ -140,17 +140,6 @@
   "ISO": "SLE",
   "value": 95.0,
   "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Sierra Leone",
-  "ISO": "SLE",
-  "value": 5.247519746992755,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -251,17 +240,6 @@
   "value": 6.21,
   "unit": "score",
   "year": 2018.0
- },
- {
-  "rank": 30,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Sierra Leone",
-  "ISO": "SLE",
-  "value": 1092.766,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 31,
@@ -407,6 +385,17 @@
   "year": 2018.0
  },
  {
+  "rank": 47,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Sierra Leone",
+  "ISO": "SLE",
+  "value": 76.27655792236328,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 48,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -424,9 +413,9 @@
   "Policy": "E2_Debt/contract relief",
   "Country": "Sierra Leone",
   "ISO": "SLE",
-  "value": 75.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 120.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 50,
@@ -506,17 +495,6 @@
   "year": 2021.0
  },
  {
-  "rank": 60,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Sierra Leone",
-  "ISO": "SLE",
-  "value": 84.35580251344358,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 61,
   "Category": "Governance",
   "Indicator": "Economic Freedom Score",
@@ -525,17 +503,6 @@
   "ISO": "SLE",
   "value": 5.87,
   "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 63,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Sierra Leone",
-  "ISO": "SLE",
-  "value": 26.1,
-  "unit": "percent of population",
   "year": 2018.0
  },
  {
@@ -605,6 +572,39 @@
   "year": 2021.0
  },
  {
+  "rank": 76,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Sierra Leone",
+  "ISO": "SLE",
+  "value": 7976985.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Sierra Leone",
+  "ISO": "SLE",
+  "value": 57.07699966430664,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 82,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Sierra Leone",
+  "ISO": "SLE",
+  "value": 342.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 83,
   "Category": "Health",
   "Indicator": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
@@ -613,6 +613,28 @@
   "ISO": "SLE",
   "value": 26.8,
   "unit": "percent",
+  "year": 2020.0
+ },
+ {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Sierra Leone",
+  "ISO": "SLE",
+  "value": 42.92300033569336,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Sierra Leone",
+  "ISO": "SLE",
+  "value": 91.28746032714844,
+  "unit": "Score",
   "year": 2020.0
  },
  {

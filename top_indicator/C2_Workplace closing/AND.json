@@ -143,15 +143,15 @@
   "year": 2017.0
  },
  {
-  "rank": 29,
+  "rank": 26,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Population, total",
   "Policy": "C2_Workplace closing",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 20183.55759508439,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 77265.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 32,
@@ -226,9 +226,9 @@
   "Policy": "C2_Workplace closing",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 80.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 127.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 44,
@@ -262,17 +262,6 @@
   "value": 170.53,
   "unit": "rate",
   "year": 2015.0
- },
- {
-  "rank": 49,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Andorra",
-  "ISO": "AND",
-  "value": 469.376,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 50,
@@ -424,9 +413,9 @@
   "Policy": "C2_Workplace closing",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 7519.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 14655.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 75,
@@ -451,14 +440,25 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C2_Workplace closing",
   "Country": "Andorra",
   "ISO": "AND",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 12.083999633789062,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Andorra",
+  "ISO": "AND",
+  "value": 87.91600036621094,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

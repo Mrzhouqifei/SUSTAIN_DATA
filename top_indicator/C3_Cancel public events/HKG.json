@@ -187,17 +187,6 @@
   "year": 2014.0
  },
  {
-  "rank": 31,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C3_Cancel public events",
-  "Country": "Hong Kong",
-  "ISO": "HKG",
-  "value": 43644.63,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 32,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -206,17 +195,6 @@
   "ISO": "HKG",
   "value": -0.2677673,
   "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 33,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C3_Cancel public events",
-  "Country": "Hong Kong",
-  "ISO": "HKG",
-  "value": 60546.12782055039,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -303,9 +281,9 @@
   "Policy": "C3_Cancel public events",
   "Country": "Hong Kong",
   "ISO": "HKG",
-  "value": 128.0,
+  "value": 266.0,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 47,
@@ -447,8 +425,8 @@
   "Country": "Hong Kong",
   "ISO": "HKG",
   "value": 100.0,
-  "unit": "total",
-  "year": 2019.0
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 70,
@@ -556,9 +534,9 @@
   "Policy": "C3_Cancel public events",
   "Country": "Hong Kong",
   "ISO": "HKG",
-  "value": 7507400.0,
+  "value": 7481800.0,
   "unit": "total",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 82,
@@ -567,9 +545,9 @@
   "Policy": "C3_Cancel public events",
   "Country": "Hong Kong",
   "ISO": "HKG",
-  "value": 42.50080813223036,
+  "value": 44.65332794189453,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 83,
@@ -580,17 +558,6 @@
   "ISO": "HKG",
   "value": 3.99272,
   "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 84,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C3_Cancel public events",
-  "Country": "Hong Kong",
-  "ISO": "HKG",
-  "value": 100.0,
-  "unit": "percent of population",
   "year": 2018.0
  },
  {
@@ -704,6 +671,17 @@
   "year": 2019.0
  },
  {
+  "rank": 107,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Hong Kong",
+  "ISO": "HKG",
+  "value": 98.21672821044922,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 109,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
@@ -712,6 +690,6 @@
   "ISO": "HKG",
   "value": 0.0,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  }
 ]

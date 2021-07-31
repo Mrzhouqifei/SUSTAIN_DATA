@@ -72,9 +72,9 @@
   "Policy": "H2_Testing policy",
   "Country": "Namibia",
   "ISO": "NAM",
-  "value": 169.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2970.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 9,
@@ -96,17 +96,6 @@
   "ISO": "NAM",
   "value": 14.04101,
   "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H2_Testing policy",
-  "Country": "Namibia",
-  "ISO": "NAM",
-  "value": 146.7210256040216,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -341,14 +330,14 @@
   "year": 2019.0
  },
  {
-  "rank": 35,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 36,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H2_Testing policy",
   "Country": "Namibia",
   "ISO": "NAM",
-  "value": 65.09591525499161,
-  "unit": "score",
+  "value": 67.86148834228516,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -484,17 +473,6 @@
   "year": 2020.0
  },
  {
-  "rank": 50,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H2_Testing policy",
-  "Country": "Namibia",
-  "ISO": "NAM",
-  "value": 4228.051,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 51,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -528,6 +506,17 @@
   "year": 2014.0
  },
  {
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H2_Testing policy",
+  "Country": "Namibia",
+  "ISO": "NAM",
+  "value": 2540916.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
@@ -556,20 +545,20 @@
   "Policy": "H2_Testing policy",
   "Country": "Namibia",
   "ISO": "NAM",
-  "value": 18041.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 117896.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H2_Testing policy",
   "Country": "Namibia",
   "ISO": "NAM",
-  "value": 53.8738746643066,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 3588.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 61,
@@ -581,6 +570,17 @@
   "value": 6.52,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 63,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Namibia",
+  "ISO": "NAM",
+  "value": 52.03300094604492,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 65,
@@ -746,6 +746,28 @@
   "value": 87.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Namibia",
+  "ISO": "NAM",
+  "value": 47.96699905395508,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 90,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H2_Testing policy",
+  "Country": "Namibia",
+  "ISO": "NAM",
+  "value": 72.20375061035156,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 92,

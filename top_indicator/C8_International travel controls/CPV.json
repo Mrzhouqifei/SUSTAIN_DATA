@@ -11,17 +11,6 @@
   "year": 2019.0
  },
  {
-  "rank": 3,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C8_International travel controls",
-  "Country": "Cape Verde",
-  "ISO": "CPV",
-  "value": 11526.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 4,
   "Category": "Economics",
   "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
@@ -209,17 +198,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C8_International travel controls",
-  "Country": "Cape Verde",
-  "ISO": "CPV",
-  "value": 542.716,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 27,
   "Category": "Governance",
   "Indicator": "Serious assault (rate)",
@@ -385,17 +363,6 @@
   "year": 2018.0
  },
  {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C8_International travel controls",
-  "Country": "Cape Verde",
-  "ISO": "CPV",
-  "value": 64.7781708998417,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 46,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
@@ -449,17 +416,6 @@
   "value": 42.4,
   "unit": "index ",
   "year": 2015.0
- },
- {
-  "rank": 53,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C8_International travel controls",
-  "Country": "Cape Verde",
-  "ISO": "CPV",
-  "value": 110.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  },
  {
   "rank": 56,
@@ -550,6 +506,17 @@
   "year": 2019.0
  },
  {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Cape Verde",
+  "ISO": "CPV",
+  "value": 33.347999572753906,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 71,
   "Category": "Health",
   "Indicator": "Incidence of tuberculosis (per 100,000 people)",
@@ -561,15 +528,15 @@
   "year": 2019.0
  },
  {
-  "rank": 77,
+  "rank": 78,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "C8_International travel controls",
   "Country": "Cape Verde",
   "ISO": "CPV",
-  "value": 549.1558093229199,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 66.6520004272461,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 79,
@@ -592,6 +559,17 @@
   "value": 0.063633,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C8_International travel controls",
+  "Country": "Cape Verde",
+  "ISO": "CPV",
+  "value": 555988.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 82,
@@ -627,17 +605,6 @@
   "year": 2018.0
  },
  {
-  "rank": 85,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C8_International travel controls",
-  "Country": "Cape Verde",
-  "ISO": "CPV",
-  "value": 93.5859985351563,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 86,
   "Category": "Health",
   "Indicator": "Immunization, measles (% of children ages 12-23 months)",
@@ -660,6 +627,17 @@
   "year": 2019.0
  },
  {
+  "rank": 94,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C8_International travel controls",
+  "Country": "Cape Verde",
+  "ISO": "CPV",
+  "value": 84.46853637695312,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 95,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
@@ -669,5 +647,16 @@
   "value": 8.09,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Cape Verde",
+  "ISO": "CPV",
+  "value": 48.9586067199707,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

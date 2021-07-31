@@ -50,9 +50,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Kenya",
   "ISO": "KEN",
-  "value": 93761.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 201009.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -119,17 +119,6 @@
   "value": 48.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 12,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Kenya",
-  "ISO": "KEN",
-  "value": 17909.63,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 13,
@@ -264,17 +253,6 @@
   "year": 2015.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Kenya",
-  "ISO": "KEN",
-  "value": 248.1646194020756,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 26,
   "Category": "Economics",
   "Indicator": "Volume of exports",
@@ -339,6 +317,17 @@
   "value": 0.017887,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Kenya",
+  "ISO": "KEN",
+  "value": 27.9950008392334,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 33,
@@ -435,9 +424,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Kenya",
   "ISO": "KEN",
-  "value": 1629.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 3910.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 43,
@@ -605,6 +594,17 @@
   "year": 2019.0
  },
  {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Kenya",
+  "ISO": "KEN",
+  "value": 72.00499725341797,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 60,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
@@ -625,17 +625,6 @@
   "value": 12.4857527717335,
   "unit": "percent of total",
   "year": 2015.0
- },
- {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Kenya",
-  "ISO": "KEN",
-  "value": 90.31586992597771,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 65,
@@ -715,15 +704,15 @@
   "year": 2018.0
  },
  {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
   "Country": "Kenya",
   "ISO": "KEN",
-  "value": 75.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 452941.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 77,
@@ -770,6 +759,17 @@
   "year": 2019.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Kenya",
+  "ISO": "KEN",
+  "value": 53771300.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Health",
   "Indicator": "Immunization, measles (% of children ages 12-23 months)",
@@ -801,5 +801,27 @@
   "value": 0.601,
   "unit": "index",
   "year": 2019.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Kenya",
+  "ISO": "KEN",
+  "value": 69.77580261230469,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Kenya",
+  "ISO": "KEN",
+  "value": 82.72911071777344,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

@@ -72,9 +72,9 @@
   "Policy": "H2_Testing policy",
   "Country": "Iraq",
   "ISO": "IRQ",
-  "value": 12670.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 18533.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 9,
@@ -96,17 +96,6 @@
   "ISO": "IRQ",
   "value": 35.38905,
   "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H2_Testing policy",
-  "Country": "Iraq",
-  "ISO": "IRQ",
-  "value": 12.08350603207349,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -330,14 +319,14 @@
   "year": 2019.0
  },
  {
-  "rank": 35,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 36,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H2_Testing policy",
   "Country": "Iraq",
   "ISO": "IRQ",
-  "value": 95.94116979347217,
-  "unit": "score",
+  "value": 69.9422378540039,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -462,17 +451,6 @@
   "year": 2020.0
  },
  {
-  "rank": 50,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H2_Testing policy",
-  "Country": "Iraq",
-  "ISO": "IRQ",
-  "value": 190060.6,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 51,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -506,6 +484,17 @@
   "year": 2014.0
  },
  {
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H2_Testing policy",
+  "Country": "Iraq",
+  "ISO": "IRQ",
+  "value": 40222503.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
@@ -534,20 +523,20 @@
   "Policy": "H2_Testing policy",
   "Country": "Iraq",
   "ISO": "IRQ",
-  "value": 581811.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1603787.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H2_Testing policy",
   "Country": "Iraq",
   "ISO": "IRQ",
-  "value": 99.9,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 270392.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 61,
@@ -559,6 +548,17 @@
   "value": 5.61,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 63,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Iraq",
+  "ISO": "IRQ",
+  "value": 70.89299774169922,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 65,
@@ -691,6 +691,28 @@
   "value": 84.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Iraq",
+  "ISO": "IRQ",
+  "value": 29.10700035095215,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 90,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H2_Testing policy",
+  "Country": "Iraq",
+  "ISO": "IRQ",
+  "value": 77.25112915039062,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 92,

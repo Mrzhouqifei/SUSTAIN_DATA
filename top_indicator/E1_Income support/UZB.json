@@ -28,9 +28,9 @@
   "Policy": "E1_Income support",
   "Country": "Uzbekistan",
   "ISO": "UZB",
-  "value": 75806.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 128403.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -118,17 +118,6 @@
   "ISO": "UZB",
   "value": 13.9388,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Uzbekistan",
-  "ISO": "UZB",
-  "value": 452.522509242674,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -330,26 +319,15 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Uzbekistan",
-  "ISO": "UZB",
-  "value": 91810.68,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Uzbekistan",
   "ISO": "UZB",
-  "value": 612.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 866.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 42,
@@ -396,17 +374,6 @@
   "year": 2019.0
  },
  {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E1_Income support",
-  "Country": "Uzbekistan",
-  "ISO": "UZB",
-  "value": 73.10388718030978,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 47,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
@@ -448,6 +415,17 @@
   "ISO": "UZB",
   "value": 26.0,
   "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Uzbekistan",
+  "ISO": "UZB",
+  "value": 49.58399963378906,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -693,6 +671,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Uzbekistan",
+  "ISO": "UZB",
+  "value": 34232050.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -748,6 +737,39 @@
   "year": 2019.0
  },
  {
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Uzbekistan",
+  "ISO": "UZB",
+  "value": 50.41600036621094,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Uzbekistan",
+  "ISO": "UZB",
+  "value": 50.57724380493164,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Uzbekistan",
+  "ISO": "UZB",
+  "value": 96.15838623046875,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 104,
   "Category": "Economics",
   "Indicator": "Foreign direct investment, net",
@@ -757,6 +779,17 @@
   "value": 2286340170.0,
   "unit": "US Dollar",
   "year": 2019.0
+ },
+ {
+  "rank": 105,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E1_Income support",
+  "Country": "Uzbekistan",
+  "ISO": "UZB",
+  "value": 18.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 107,
@@ -779,16 +812,5 @@
   "value": 23.60607,
   "unit": "percent per annum",
   "year": 2019.0
- },
- {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E1_Income support",
-  "Country": "Uzbekistan",
-  "ISO": "UZB",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
  }
 ]

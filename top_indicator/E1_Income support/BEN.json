@@ -28,9 +28,9 @@
   "Policy": "E1_Income support",
   "Country": "Benin",
   "ISO": "BEN",
-  "value": 3152.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 8394.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -141,17 +141,6 @@
   "value": 140.0574456918004,
   "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
   "year": 2014.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Benin",
-  "ISO": "BEN",
-  "value": 9.914287174191738,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 18,
@@ -363,26 +352,15 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Benin",
-  "ISO": "BEN",
-  "value": 6475.922,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Benin",
   "ISO": "BEN",
-  "value": 44.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 108.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 40,
@@ -429,17 +407,6 @@
   "year": 2019.0
  },
  {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E1_Income support",
-  "Country": "Benin",
-  "ISO": "BEN",
-  "value": 72.54479808532312,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 47,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
@@ -481,6 +448,17 @@
   "ISO": "BEN",
   "value": 41.0,
   "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Benin",
+  "ISO": "BEN",
+  "value": 51.584999084472656,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -737,6 +715,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Benin",
+  "ISO": "BEN",
+  "value": 12123198.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -781,14 +770,47 @@
   "year": 2014.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "E1_Income support",
   "Country": "Benin",
   "ISO": "BEN",
-  "value": 41.529239654541,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 48.415000915527344,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Benin",
+  "ISO": "BEN",
+  "value": 82.55851745605469,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Benin",
+  "ISO": "BEN",
+  "value": 90.6241683959961,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E1_Income support",
+  "Country": "Benin",
+  "ISO": "BEN",
+  "value": 1401.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

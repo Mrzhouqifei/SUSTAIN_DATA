@@ -50,9 +50,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Slovakia",
   "ISO": "SVK",
-  "value": 149275.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 392581.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -184,17 +184,6 @@
   "ISO": "SVK",
   "value": 6.0671,
   "unit": "Ones",
-  "year": 2016.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Slovakia",
-  "ISO": "SVK",
-  "value": 32423.61,
-  "unit": "kt",
   "year": 2016.0
  },
  {
@@ -495,17 +484,6 @@
   "year": 2018.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Slovakia",
-  "ISO": "SVK",
-  "value": 20091.59026657692,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -548,6 +526,28 @@
   "value": 4.673051,
   "unit": "percent of total energy",
   "year": 2015.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Slovakia",
+  "ISO": "SVK",
+  "value": 53.7599983215332,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Slovakia",
+  "ISO": "SVK",
+  "value": 47.60727310180664,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -666,9 +666,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Slovakia",
   "ISO": "SVK",
-  "value": 1510.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 12536.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -715,6 +715,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Slovakia",
+  "ISO": "SVK",
+  "value": 5458827.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 80,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -726,14 +737,14 @@
   "year": 2016.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Slovakia",
   "ISO": "SVK",
-  "value": 38.22181460375541,
-  "unit": "score",
+  "value": 46.2400016784668,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -748,6 +759,17 @@
   "year": 2019.0
  },
  {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Slovakia",
+  "ISO": "SVK",
+  "value": 84.81288146972656,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -759,14 +781,14 @@
   "year": 2015.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Slovakia",
   "ISO": "SVK",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 1036.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

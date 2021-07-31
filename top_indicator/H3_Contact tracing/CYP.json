@@ -39,9 +39,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Cyprus",
   "ISO": "CYP",
-  "value": 17057.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 100784.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -152,17 +152,6 @@
   "value": 8.13654050110795,
   "unit": "percent of GNI",
   "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Cyprus",
-  "ISO": "CYP",
-  "value": 56.05796495249495,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -297,6 +286,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Cyprus",
+  "ISO": "CYP",
+  "value": 33.17900085449219,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -402,9 +402,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Cyprus",
   "ISO": "CYP",
-  "value": 87.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 416.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 41,
@@ -449,17 +449,6 @@
   "value": 1.287295,
   "unit": "percent of total energy",
   "year": 2014.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Cyprus",
-  "ISO": "CYP",
-  "value": 6626.269,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -627,17 +616,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Cyprus",
-  "ISO": "CYP",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -671,6 +649,17 @@
   "year": 2014.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Cyprus",
+  "ISO": "CYP",
+  "value": 44.89803695678711,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 76,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
@@ -691,6 +680,28 @@
   "value": 0.001163,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Cyprus",
+  "ISO": "CYP",
+  "value": 92.03843688964844,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Cyprus",
+  "ISO": "CYP",
+  "value": 1207361.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -748,15 +759,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Cyprus",
   "ISO": "CYP",
-  "value": 8221.429614333689,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 66.82099914550781,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 100,
@@ -788,6 +799,17 @@
   "Country": "Cyprus",
   "ISO": "CYP",
   "value": 19.64285714,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Cyprus",
+  "ISO": "CYP",
+  "value": 14037.0,
   "unit": "proportion",
   "year": 2020.0
  }

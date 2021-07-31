@@ -50,9 +50,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Israel",
   "ISO": "ISR",
-  "value": 362861.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 870781.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -119,17 +119,6 @@
   "value": 76.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 12,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Israel",
-  "ISO": "ISR",
-  "value": 65166.26,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 13,
@@ -253,17 +242,6 @@
   "year": 2015.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Israel",
-  "ISO": "ISR",
-  "value": 11115.72575745861,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 26,
   "Category": "Economics",
   "Indicator": "Volume of exports",
@@ -328,6 +306,17 @@
   "value": 0.063931,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Israel",
+  "ISO": "ISR",
+  "value": 92.58699798583984,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 33,
@@ -435,9 +424,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Israel",
   "ISO": "ISR",
-  "value": 3027.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 6467.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 43,
@@ -594,6 +583,17 @@
   "year": 2019.0
  },
  {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Israel",
+  "ISO": "ISR",
+  "value": 7.413000106811523,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 60,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
@@ -614,17 +614,6 @@
   "value": 97.66916824961854,
   "unit": "percent of total",
   "year": 2015.0
- },
- {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Israel",
-  "ISO": "ISR",
-  "value": 75.1239717239818,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 65,
@@ -704,15 +693,15 @@
   "year": 2018.0
  },
  {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
   "Country": "Israel",
   "ISO": "ISR",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 1898.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 77,
@@ -735,6 +724,17 @@
   "value": 1.04759,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Israel",
+  "ISO": "ISR",
+  "value": 9216900.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 88,
@@ -781,6 +781,17 @@
   "year": 2019.0
  },
  {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Israel",
+  "ISO": "ISR",
+  "value": 67.3438949584961,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 100,
   "Category": "Health",
   "Indicator": "COVID-19 vaccine administered",
@@ -789,6 +800,17 @@
   "ISO": "ISR",
   "value": 456200.0,
   "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Israel",
+  "ISO": "ISR",
+  "value": 94.08291625976562,
+  "unit": "Score",
   "year": 2020.0
  }
 ]

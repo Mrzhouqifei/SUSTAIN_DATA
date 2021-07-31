@@ -33,17 +33,6 @@
   "year": 2017.0
  },
  {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Czech Republic",
-  "ISO": "CZE",
-  "value": 618836.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 6,
   "Category": "Demographics",
   "Indicator": "Fixed telephone subscriptions",
@@ -152,17 +141,6 @@
   "value": 10.1819502482122,
   "unit": "percent of GNI",
   "year": 2017.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Czech Republic",
-  "ISO": "CZE",
-  "value": 37.6,
-  "unit": "score",
-  "year": 2019.0
  },
  {
   "rank": 18,
@@ -297,6 +275,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Czech Republic",
+  "ISO": "CZE",
+  "value": 25.93899917602539,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -396,17 +385,6 @@
   "year": 2021.0
  },
  {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Czech Republic",
-  "ISO": "CZE",
-  "value": 10271.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 41,
   "Category": "Social issues ",
   "Indicator": "Proportion of women in managerial positions (%)",
@@ -460,17 +438,6 @@
   "value": 6.81918,
   "unit": "percent of total energy",
   "year": 2015.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Czech Republic",
-  "ISO": "CZE",
-  "value": 102217.6,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -627,17 +594,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Czech Republic",
-  "ISO": "CZE",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -671,6 +627,17 @@
   "year": 2015.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Czech Republic",
+  "ISO": "CZE",
+  "value": 56.00270080566406,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 76,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
@@ -702,6 +669,28 @@
   "value": 0.002634,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Czech Republic",
+  "ISO": "CZE",
+  "value": 82.0640869140625,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Czech Republic",
+  "ISO": "CZE",
+  "value": 10698896.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -759,15 +748,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Czech Republic",
   "ISO": "CZE",
-  "value": 56198.25245468269,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 74.06099700927734,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 110,
@@ -788,6 +777,17 @@
   "Country": "Czech Republic",
   "ISO": "CZE",
   "value": 22.5,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Czech Republic",
+  "ISO": "CZE",
+  "value": 1959.0,
   "unit": "proportion",
   "year": 2020.0
  }

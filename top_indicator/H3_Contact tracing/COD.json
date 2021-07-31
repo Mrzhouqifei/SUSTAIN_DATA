@@ -22,17 +22,6 @@
   "year": 2019.0
  },
  {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 15087.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 6,
   "Category": "Demographics",
   "Indicator": "Fixed telephone subscriptions",
@@ -141,17 +130,6 @@
   "value": -7.93567786303182,
   "unit": "percent of GNI",
   "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 109.39462095485345,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -286,6 +264,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 54.36199951171875,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -374,17 +363,6 @@
   "year": 2019.0
  },
  {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 366.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 42,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -427,17 +405,6 @@
   "value": 67.19736,
   "unit": "percent of total energy",
   "year": 2014.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 2020.517,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -561,17 +528,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 18.9776611328125,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -614,6 +570,17 @@
   "value": 1.959267301396918,
   "unit": "percent of energy use",
   "year": 2014.0
+ },
+ {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 95.36538696289062,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 75,
@@ -660,6 +627,28 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 91.62606048583984,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 89561404.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Health",
   "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
@@ -693,15 +682,15 @@
   "year": 2020.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Congo (Dem. Rep.)",
   "ISO": "COD",
-  "value": 3.030283233430196,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 45.63800048828125,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 110,
@@ -722,6 +711,17 @@
   "Country": "Congo (Dem. Rep.)",
   "ISO": "COD",
   "value": 12.8,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 490243.0,
   "unit": "proportion",
   "year": 2020.0
  }

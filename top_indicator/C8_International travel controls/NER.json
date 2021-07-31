@@ -17,9 +17,9 @@
   "Policy": "C8_International travel controls",
   "Country": "Niger",
   "ISO": "NER",
-  "value": 2361.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 5607.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 4,
@@ -231,17 +231,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C8_International travel controls",
-  "Country": "Niger",
-  "ISO": "NER",
-  "value": 2016.85,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 26,
   "Category": "Social issues ",
   "Indicator": "Life Ladder ",
@@ -418,17 +407,6 @@
   "year": 2018.0
  },
  {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C8_International travel controls",
-  "Country": "Niger",
-  "ISO": "NER",
-  "value": 95.31488303494451,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 46,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
@@ -501,9 +479,9 @@
   "Policy": "C8_International travel controls",
   "Country": "Niger",
   "ISO": "NER",
-  "value": 82.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 195.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 54,
@@ -627,6 +605,17 @@
   "year": 2019.0
  },
  {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 83.3740005493164,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "Combustible renewables and waste",
@@ -682,15 +671,15 @@
   "year": 2015.0
  },
  {
-  "rank": 77,
+  "rank": 78,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "C8_International travel controls",
   "Country": "Niger",
   "ISO": "NER",
-  "value": 0.8579745408924608,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 16.625999450683594,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 79,
@@ -715,6 +704,17 @@
   "year": 2019.0
  },
  {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C8_International travel controls",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 24206636.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 83,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
@@ -735,17 +735,6 @@
   "value": 0.2695,
   "unit": "Ones",
   "year": 2016.0
- },
- {
-  "rank": 85,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C8_International travel controls",
-  "Country": "Niger",
-  "ISO": "NER",
-  "value": 17.6,
-  "unit": "percent of population",
-  "year": 2018.0
  },
  {
   "rank": 86,
@@ -770,6 +759,28 @@
   "year": 2019.0
  },
  {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C8_International travel controls",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 233308.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 94,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C8_International travel controls",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 91.51177215576172,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 95,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
@@ -779,5 +790,16 @@
   "value": 6.09,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 109.50328826904297,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

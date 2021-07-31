@@ -72,9 +72,9 @@
   "Policy": "H2_Testing policy",
   "Country": "Guinea-Bissau",
   "ISO": "GNB",
-  "value": 44.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 74.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 9,
@@ -96,17 +96,6 @@
   "ISO": "GNB",
   "value": 13.76451,
   "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H2_Testing policy",
-  "Country": "Guinea-Bissau",
-  "ISO": "GNB",
-  "value": 3.644083414110515,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -297,14 +286,14 @@
   "year": 2019.0
  },
  {
-  "rank": 35,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 36,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H2_Testing policy",
   "Country": "Guinea-Bissau",
   "ISO": "GNB",
-  "value": 92.90207550854626,
-  "unit": "score",
+  "value": 81.20210266113281,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -407,17 +396,6 @@
   "year": 2020.0
  },
  {
-  "rank": 50,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H2_Testing policy",
-  "Country": "Guinea-Bissau",
-  "ISO": "GNB",
-  "value": 293.36,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 52,
   "Category": "Health",
   "Indicator": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
@@ -426,6 +404,17 @@
   "ISO": "GNB",
   "value": 28.0,
   "unit": "percent",
+  "year": 2020.0
+ },
+ {
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H2_Testing policy",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 1967998.0,
+  "unit": "total",
   "year": 2020.0
  },
  {
@@ -457,20 +446,20 @@
   "Policy": "H2_Testing policy",
   "Country": "Guinea-Bissau",
   "ISO": "GNB",
-  "value": 2447.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 4387.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H2_Testing policy",
   "Country": "Guinea-Bissau",
   "ISO": "GNB",
-  "value": 28.6620216369629,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 1861.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 61,
@@ -482,6 +471,17 @@
   "value": 5.46,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 63,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 44.19599914550781,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 64,
@@ -614,6 +614,28 @@
   "value": 84.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 55.80400085449219,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 90,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H2_Testing policy",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 75.49543762207031,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 92,

@@ -61,9 +61,9 @@
   "Policy": "C1_School closing",
   "Country": "Guinea",
   "ISO": "GIN",
-  "value": 13511.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 25401.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 10,
@@ -97,17 +97,6 @@
   "value": 61.6049995,
   "unit": "Percentage of total population",
   "year": 2020.0
- },
- {
-  "rank": 13,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C1_School closing",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 2995.939,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 14,
@@ -185,17 +174,6 @@
   "value": 100.797,
   "unit": "per 100 people",
   "year": 2019.0
- },
- {
-  "rank": 25,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C1_School closing",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 97.16761117146424,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 26,
@@ -539,17 +517,6 @@
   "year": 2020.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C1_School closing",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 44.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -569,17 +536,6 @@
   "ISO": "GIN",
   "value": -0.8306405,
   "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 80,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C1_School closing",
-  "Country": "Guinea",
-  "ISO": "GIN",
-  "value": 4.93295642414217,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -605,14 +561,47 @@
   "year": 2020.0
  },
  {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C1_School closing",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 63.125,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 89,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C1_School closing",
   "Country": "Guinea",
   "ISO": "GIN",
-  "value": 80.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
+  "value": 211.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 93,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C1_School closing",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 13132792.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 94,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C1_School closing",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 85.18956756591797,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -647,5 +636,38 @@
   "value": 0.258847,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C1_School closing",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 36.875,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 109,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C1_School closing",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 84.45567321777344,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 114,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C1_School closing",
+  "Country": "Guinea",
+  "ISO": "GIN",
+  "value": 6034.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

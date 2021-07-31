@@ -40,8 +40,8 @@
   "Country": "Tonga",
   "ISO": "TON",
   "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -118,17 +118,6 @@
   "ISO": "TON",
   "value": 3.54374,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Tonga",
-  "ISO": "TON",
-  "value": 229.6782590387965,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -286,17 +275,6 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Tonga",
-  "ISO": "TON",
-  "value": 128.345,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
@@ -304,8 +282,8 @@
   "Country": "Tonga",
   "ISO": "TON",
   "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 42,
@@ -358,9 +336,9 @@
   "Policy": "E1_Income support",
   "Country": "Tonga",
   "ISO": "TON",
-  "value": 76.893,
+  "value": 76.9010009765625,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 53,
@@ -600,9 +578,9 @@
   "Policy": "E1_Income support",
   "Country": "Tonga",
   "ISO": "TON",
-  "value": 104494.0,
+  "value": 105697.0,
   "unit": "total",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 88,
@@ -655,9 +633,9 @@
   "Policy": "E1_Income support",
   "Country": "Tonga",
   "ISO": "TON",
-  "value": 23.107,
-  "unit": "total",
-  "year": 2019.0
+  "value": 23.099000930786133,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 97,
@@ -666,9 +644,20 @@
   "Policy": "E1_Income support",
   "Country": "Tonga",
   "ISO": "TON",
-  "value": 69.53403854889999,
+  "value": 68.59188842773438,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Tonga",
+  "ISO": "TON",
+  "value": 90.94850158691406,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 102,
@@ -713,16 +702,5 @@
   "value": 8.06578,
   "unit": "percent per annum",
   "year": 2019.0
- },
- {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E1_Income support",
-  "Country": "Tonga",
-  "ISO": "TON",
-  "value": 98.8926010131836,
-  "unit": "percent of population",
-  "year": 2018.0
  }
 ]

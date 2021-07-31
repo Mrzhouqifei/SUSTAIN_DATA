@@ -28,9 +28,9 @@
   "Policy": "E1_Income support",
   "Country": "Saint Kitts and Nevis",
   "ISO": "KNA",
-  "value": 30.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 582.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -85,17 +85,6 @@
   "ISO": "KNA",
   "value": 16.6452,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Saint Kitts and Nevis",
-  "ISO": "KNA",
-  "value": 5469.962524132187,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -231,26 +220,15 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Saint Kitts and Nevis",
-  "ISO": "KNA",
-  "value": 238.355,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Saint Kitts and Nevis",
   "ISO": "KNA",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 3.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 50,
@@ -270,9 +248,9 @@
   "Policy": "E1_Income support",
   "Country": "Saint Kitts and Nevis",
   "ISO": "KNA",
-  "value": 69.201,
+  "value": 69.15699768066406,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 54,
@@ -435,9 +413,9 @@
   "Policy": "E1_Income support",
   "Country": "Saint Kitts and Nevis",
   "ISO": "KNA",
-  "value": 52834.0,
+  "value": 53192.0,
   "unit": "total",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 88,
@@ -479,9 +457,20 @@
   "Policy": "E1_Income support",
   "Country": "Saint Kitts and Nevis",
   "ISO": "KNA",
-  "value": 30.799,
-  "unit": "total",
-  "year": 2019.0
+  "value": 30.843000411987305,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Saint Kitts and Nevis",
+  "ISO": "KNA",
+  "value": 85.87680053710938,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 105,
@@ -504,16 +493,5 @@
   "value": 99.3793,
   "unit": "proportion",
   "year": 2015.0
- },
- {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E1_Income support",
-  "Country": "Saint Kitts and Nevis",
-  "ISO": "KNA",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
  }
 ]

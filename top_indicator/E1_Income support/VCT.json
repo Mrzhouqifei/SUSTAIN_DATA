@@ -33,17 +33,6 @@
   "year": 2019.0
  },
  {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "E1_Income support",
-  "Country": "St. Vincent and the Grenadines",
-  "ISO": "VCT",
-  "value": 100.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
@@ -118,17 +107,6 @@
   "ISO": "VCT",
   "value": 19.5182,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "St. Vincent and the Grenadines",
-  "ISO": "VCT",
-  "value": 90.4249066362839,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -286,28 +264,6 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "St. Vincent and the Grenadines",
-  "ISO": "VCT",
-  "value": 220.02,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
-  "rank": 39,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "E1_Income support",
-  "Country": "St. Vincent and the Grenadines",
-  "ISO": "VCT",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 47,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
@@ -358,9 +314,9 @@
   "Policy": "E1_Income support",
   "Country": "St. Vincent and the Grenadines",
   "ISO": "VCT",
-  "value": 47.386,
+  "value": 46.96799850463867,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 54,
@@ -567,9 +523,9 @@
   "Policy": "E1_Income support",
   "Country": "St. Vincent and the Grenadines",
   "ISO": "VCT",
-  "value": 110589.0,
+  "value": 110947.0,
   "unit": "total",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 88,
@@ -611,9 +567,9 @@
   "Policy": "E1_Income support",
   "Country": "St. Vincent and the Grenadines",
   "ISO": "VCT",
-  "value": 52.614,
-  "unit": "total",
-  "year": 2019.0
+  "value": 53.03200149536133,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 97,
@@ -622,9 +578,20 @@
   "Policy": "E1_Income support",
   "Country": "St. Vincent and the Grenadines",
   "ISO": "VCT",
-  "value": 46.91722131441553,
+  "value": 46.65380096435547,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "St. Vincent and the Grenadines",
+  "ISO": "VCT",
+  "value": 87.04979705810547,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 108,
@@ -636,16 +603,5 @@
   "value": 95.1108,
   "unit": "proportion",
   "year": 2017.0
- },
- {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E1_Income support",
-  "Country": "St. Vincent and the Grenadines",
-  "ISO": "VCT",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
  }
 ]

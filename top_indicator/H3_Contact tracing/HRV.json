@@ -39,9 +39,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Croatia",
   "ISO": "HRV",
-  "value": 190235.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 363397.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -152,17 +152,6 @@
   "value": 14.4461735801751,
   "unit": "percent of GNI",
   "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Croatia",
-  "ISO": "HRV",
-  "value": 46.094521183346394,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -297,6 +286,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Croatia",
+  "ISO": "HRV",
+  "value": 42.446998596191406,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -402,9 +402,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Croatia",
   "ISO": "HRV",
-  "value": 3023.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 8254.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 41,
@@ -449,17 +449,6 @@
   "value": 13.60565,
   "unit": "percent of total energy",
   "year": 2014.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Croatia",
-  "ISO": "HRV",
-  "value": 17487.92,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -616,17 +605,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Croatia",
-  "ISO": "HRV",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -671,6 +649,17 @@
   "year": 2014.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Croatia",
+  "ISO": "HRV",
+  "value": 55.7481803894043,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 76,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
@@ -691,6 +680,28 @@
   "value": 0.002651,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Croatia",
+  "ISO": "HRV",
+  "value": 85.28106689453125,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Croatia",
+  "ISO": "HRV",
+  "value": 4047200.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -748,15 +759,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Croatia",
   "ISO": "HRV",
-  "value": 22742.96250768285,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 57.553001403808594,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 110,
@@ -777,6 +788,17 @@
   "Country": "Croatia",
   "ISO": "HRV",
   "value": 29.8013245,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Croatia",
+  "ISO": "HRV",
+  "value": 966.0,
   "unit": "proportion",
   "year": 2020.0
  }

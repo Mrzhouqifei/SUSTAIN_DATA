@@ -28,9 +28,9 @@
   "Policy": "E1_Income support",
   "Country": "Ethiopia",
   "ISO": "ETH",
-  "value": 119025.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 279629.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -130,17 +130,6 @@
   "value": 297.6698307752979,
   "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
   "year": 2014.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Ethiopia",
-  "ISO": "ETH",
-  "value": 1.47217942244706,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 18,
@@ -341,26 +330,15 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Ethiopia",
-  "ISO": "ETH",
-  "value": 14869.69,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Ethiopia",
   "ISO": "ETH",
-  "value": 1843.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 4381.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 40,
@@ -407,17 +385,6 @@
   "year": 2019.0
  },
  {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E1_Income support",
-  "Country": "Ethiopia",
-  "ISO": "ETH",
-  "value": 94.59577634557802,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 47,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
@@ -459,6 +426,17 @@
   "ISO": "ETH",
   "value": 38.0,
   "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Ethiopia",
+  "ISO": "ETH",
+  "value": 78.30500030517578,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -726,6 +704,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Ethiopia",
+  "ISO": "ETH",
+  "value": 114963583.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -770,14 +759,47 @@
   "year": 2014.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "E1_Income support",
   "Country": "Ethiopia",
   "ISO": "ETH",
-  "value": 44.9799575805664,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 21.69499969482422,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Ethiopia",
+  "ISO": "ETH",
+  "value": 76.84882354736328,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Ethiopia",
+  "ISO": "ETH",
+  "value": 71.70191192626953,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E1_Income support",
+  "Country": "Ethiopia",
+  "ISO": "ETH",
+  "value": 800464.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

@@ -72,9 +72,9 @@
   "Policy": "C1_School closing",
   "Country": "Israel",
   "ISO": "ISR",
-  "value": 362861.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 870781.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 10,
@@ -108,17 +108,6 @@
   "value": 64.0059967,
   "unit": "Percentage of total population",
   "year": 2020.0
- },
- {
-  "rank": 13,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C1_School closing",
-  "Country": "Israel",
-  "ISO": "ISR",
-  "value": 65166.26,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 14,
@@ -240,17 +229,6 @@
   "value": 126.77,
   "unit": "per 100 people",
   "year": 2019.0
- },
- {
-  "rank": 25,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C1_School closing",
-  "Country": "Israel",
-  "ISO": "ISR",
-  "value": 75.1239717239818,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 26,
@@ -605,17 +583,6 @@
   "year": 2020.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C1_School closing",
-  "Country": "Israel",
-  "ISO": "ISR",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -658,17 +625,6 @@
   "value": 1190000000.0,
   "unit": "kWh",
   "year": 2015.0
- },
- {
-  "rank": 80,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C1_School closing",
-  "Country": "Israel",
-  "ISO": "ISR",
-  "value": 11115.72575745861,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 83,
@@ -715,14 +671,47 @@
   "year": 2020.0
  },
  {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C1_School closing",
+  "Country": "Israel",
+  "ISO": "ISR",
+  "value": 7.413000106811523,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 89,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C1_School closing",
   "Country": "Israel",
   "ISO": "ISR",
-  "value": 3027.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
+  "value": 6467.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 93,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C1_School closing",
+  "Country": "Israel",
+  "ISO": "ISR",
+  "value": 9216900.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 94,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C1_School closing",
+  "Country": "Israel",
+  "ISO": "ISR",
+  "value": 67.3438949584961,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -770,6 +759,17 @@
   "year": 2015.0
  },
  {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C1_School closing",
+  "Country": "Israel",
+  "ISO": "ISR",
+  "value": 92.58699798583984,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 106,
   "Category": "Economics",
   "Indicator": "Unemployment rate (%) - Annual",
@@ -789,6 +789,28 @@
   "ISO": "ISR",
   "value": 456200.0,
   "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 109,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C1_School closing",
+  "Country": "Israel",
+  "ISO": "ISR",
+  "value": 94.08291625976562,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 114,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C1_School closing",
+  "Country": "Israel",
+  "ISO": "ISR",
+  "value": 1898.0,
+  "unit": "proportion",
   "year": 2020.0
  }
 ]

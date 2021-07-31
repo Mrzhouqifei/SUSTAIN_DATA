@@ -39,9 +39,9 @@
   "Policy": "E1_Income support",
   "Country": "Dominica",
   "ISO": "DMA",
-  "value": 88.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 210.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -107,17 +107,6 @@
   "ISO": "DMA",
   "value": 16.0754,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Dominica",
-  "ISO": "DMA",
-  "value": 9817.847593582886,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -264,17 +253,6 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Dominica",
-  "ISO": "DMA",
-  "value": 179.683,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
@@ -282,8 +260,8 @@
   "Country": "Dominica",
   "ISO": "DMA",
   "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 47,
@@ -336,9 +314,9 @@
   "Policy": "E1_Income support",
   "Country": "Dominica",
   "ISO": "DMA",
-  "value": 29.214,
+  "value": 28.90999984741211,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 54,
@@ -501,9 +479,9 @@
   "Policy": "E1_Income support",
   "Country": "Dominica",
   "ISO": "DMA",
-  "value": 71808.0,
+  "value": 71991.0,
   "unit": "total",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 88,
@@ -545,9 +523,20 @@
   "Policy": "E1_Income support",
   "Country": "Dominica",
   "ISO": "DMA",
-  "value": 70.786,
-  "unit": "total",
-  "year": 2019.0
+  "value": 71.08999633789062,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Dominica",
+  "ISO": "DMA",
+  "value": 89.32369232177734,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 108,
@@ -559,16 +548,5 @@
   "value": 96.16173,
   "unit": "proportion",
   "year": 2014.0
- },
- {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E1_Income support",
-  "Country": "Dominica",
-  "ISO": "DMA",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
  }
 ]

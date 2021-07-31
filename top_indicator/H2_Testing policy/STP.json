@@ -61,9 +61,9 @@
   "Policy": "H2_Testing policy",
   "Country": "Sao Tome and Principe",
   "ISO": "STP",
-  "value": 17.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 37.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 9,
@@ -85,17 +85,6 @@
   "ISO": "STP",
   "value": 5.815133,
   "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H2_Testing policy",
-  "Country": "Sao Tome and Principe",
-  "ISO": "STP",
-  "value": 60.44937132653821,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -264,14 +253,14 @@
   "year": 2019.0
  },
  {
-  "rank": 35,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 36,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H2_Testing policy",
   "Country": "Sao Tome and Principe",
   "ISO": "STP",
-  "value": 70.28190046461518,
-  "unit": "score",
+  "value": 81.0484848022461,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -385,17 +374,6 @@
   "year": 2020.0
  },
  {
-  "rank": 50,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H2_Testing policy",
-  "Country": "Sao Tome and Principe",
-  "ISO": "STP",
-  "value": 121.011,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 52,
   "Category": "Health",
   "Indicator": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
@@ -404,6 +382,17 @@
   "ISO": "STP",
   "value": 11.8,
   "unit": "percent",
+  "year": 2020.0
+ },
+ {
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H2_Testing policy",
+  "Country": "Sao Tome and Principe",
+  "ISO": "STP",
+  "value": 219161.0,
+  "unit": "total",
   "year": 2020.0
  },
  {
@@ -435,20 +424,20 @@
   "Policy": "H2_Testing policy",
   "Country": "Sao Tome and Principe",
   "ISO": "STP",
-  "value": 1011.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2432.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 63,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H2_Testing policy",
   "Country": "Sao Tome and Principe",
   "ISO": "STP",
-  "value": 71.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 74.35399627685547,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 65,
@@ -559,6 +548,28 @@
   "value": 95.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Sao Tome and Principe",
+  "ISO": "STP",
+  "value": 25.645999908447266,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 90,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H2_Testing policy",
+  "Country": "Sao Tome and Principe",
+  "ISO": "STP",
+  "value": 78.24382781982422,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 95,

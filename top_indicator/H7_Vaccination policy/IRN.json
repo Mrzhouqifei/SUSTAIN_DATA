@@ -11,17 +11,6 @@
   "year": 2019.0
  },
  {
-  "rank": 2,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Iran (Islamic Republic of)",
-  "ISO": "IRN",
-  "value": 1035.073658211205,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 4,
   "Category": "Environment",
   "Indicator": "Electric power consumption ",
@@ -39,9 +28,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Iran (Islamic Republic of)",
   "ISO": "IRN",
-  "value": 1145651.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 3826447.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -174,17 +163,6 @@
   "value": 0.054799,
   "unit": "percent",
   "year": 2019.0
- },
- {
-  "rank": 19,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Iran (Islamic Republic of)",
-  "ISO": "IRN",
-  "value": 661710.2,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 20,
@@ -325,9 +303,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Iran (Islamic Republic of)",
   "ISO": "IRN",
-  "value": 53273.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 90074.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 35,
@@ -482,17 +460,6 @@
   "value": 13.0,
   "unit": "Cases",
   "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Iran (Islamic Republic of)",
-  "ISO": "IRN",
-  "value": 83.3866086520676,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 52,
@@ -660,6 +627,28 @@
   "year": 2019.0
  },
  {
+  "rank": 70,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Iran (Islamic Republic of)",
+  "ISO": "IRN",
+  "value": 800025.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 72,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Iran (Islamic Republic of)",
+  "ISO": "IRN",
+  "value": 24.125999450683594,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 73,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
@@ -726,6 +715,17 @@
   "year": 2014.0
  },
  {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Iran (Islamic Republic of)",
+  "ISO": "IRN",
+  "value": 45.579586029052734,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 82,
   "Category": "Environment",
   "Indicator": "Energy use ",
@@ -759,6 +759,17 @@
   "year": 2020.0
  },
  {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Iran (Islamic Republic of)",
+  "ISO": "IRN",
+  "value": 83992953.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 87,
   "Category": "Social issues ",
   "Indicator": "Life Ladder ",
@@ -781,17 +792,6 @@
   "year": 2017.0
  },
  {
-  "rank": 95,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Iran (Islamic Republic of)",
-  "ISO": "IRN",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 97,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -801,5 +801,27 @@
   "value": 0.103674,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Iran (Islamic Republic of)",
+  "ISO": "IRN",
+  "value": 75.8740005493164,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 110,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Iran (Islamic Republic of)",
+  "ISO": "IRN",
+  "value": 67.80442810058594,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

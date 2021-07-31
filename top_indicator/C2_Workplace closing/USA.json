@@ -253,6 +253,17 @@
   "year": 2017.0
  },
  {
+  "rank": 26,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C2_Workplace closing",
+  "Country": "United States",
+  "ISO": "USA",
+  "value": 329484123.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 27,
   "Category": "Economics",
   "Indicator": "Volume of imports",
@@ -273,17 +284,6 @@
   "value": 55.8639984,
   "unit": "Percentage of females of the total population",
   "year": 2020.0
- },
- {
-  "rank": 29,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C2_Workplace closing",
-  "Country": "United States",
-  "ISO": "USA",
-  "value": 124014.1760747075,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 30,
@@ -407,26 +407,15 @@
   "year": 2015.0
  },
  {
-  "rank": 41,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C2_Workplace closing",
-  "Country": "United States",
-  "ISO": "USA",
-  "value": 38.27275827818653,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C2_Workplace closing",
   "Country": "United States",
   "ISO": "USA",
-  "value": 308403.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 607095.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 44,
@@ -482,17 +471,6 @@
   "value": 246.84,
   "unit": "rate",
   "year": 2018.0
- },
- {
-  "rank": 49,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C2_Workplace closing",
-  "Country": "United States",
-  "ISO": "USA",
-  "value": 5006302.0,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 50,
@@ -732,9 +710,9 @@
   "Policy": "C2_Workplace closing",
   "Country": "United States",
   "ISO": "USA",
-  "value": 16912564.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 34564448.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -770,6 +748,17 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "United States",
+  "ISO": "USA",
+  "value": 17.336000442504883,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Environment",
   "Indicator": "Energy use ",
@@ -792,6 +781,17 @@
   "year": 2016.0
  },
  {
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "United States",
+  "ISO": "USA",
+  "value": 82.66400146484375,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 85,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -801,6 +801,17 @@
   "value": 8.44,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C2_Workplace closing",
+  "Country": "United States",
+  "ISO": "USA",
+  "value": 340881.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 98,
@@ -814,14 +825,25 @@
   "year": 2020.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 102,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "C2_Workplace closing",
   "Country": "United States",
   "ISO": "USA",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 53.852481842041016,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 111,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C2_Workplace closing",
+  "Country": "United States",
+  "ISO": "USA",
+  "value": 91.59317016601562,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

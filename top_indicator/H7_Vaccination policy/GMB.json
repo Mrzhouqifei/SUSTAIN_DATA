@@ -11,26 +11,15 @@
   "year": 2019.0
  },
  {
-  "rank": 2,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Gambia",
-  "ISO": "GMB",
-  "value": 22.1492810428563,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H7_Vaccination policy",
   "Country": "Gambia",
   "ISO": "GMB",
-  "value": 3786.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 7962.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -165,17 +154,6 @@
   "year": 2019.0
  },
  {
-  "rank": 19,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Gambia",
-  "ISO": "GMB",
-  "value": 531.715,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 20,
   "Category": "Economics",
   "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
@@ -281,9 +259,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Gambia",
   "ISO": "GMB",
-  "value": 123.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 213.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 35,
@@ -394,17 +372,6 @@
   "value": 158.0,
   "unit": "Cases",
   "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Gambia",
-  "ISO": "GMB",
-  "value": 82.21463956781182,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 52,
@@ -550,6 +517,28 @@
   "year": 2019.0
  },
  {
+  "rank": 70,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Gambia",
+  "ISO": "GMB",
+  "value": 4383.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 72,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Gambia",
+  "ISO": "GMB",
+  "value": 37.417999267578125,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 73,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
@@ -583,6 +572,17 @@
   "year": 2019.0
  },
  {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Gambia",
+  "ISO": "GMB",
+  "value": 86.85103607177734,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 83,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -602,6 +602,17 @@
   "ISO": "GMB",
   "value": 16.1,
   "unit": "percent",
+  "year": 2020.0
+ },
+ {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Gambia",
+  "ISO": "GMB",
+  "value": 2416664.0,
+  "unit": "total",
   "year": 2020.0
  },
  {
@@ -638,17 +649,6 @@
   "year": 2017.0
  },
  {
-  "rank": 95,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Gambia",
-  "ISO": "GMB",
-  "value": 60.3,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 97,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -658,5 +658,27 @@
   "value": 0.040879,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Gambia",
+  "ISO": "GMB",
+  "value": 62.582000732421875,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 110,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Gambia",
+  "ISO": "GMB",
+  "value": 84.57776641845703,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

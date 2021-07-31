@@ -28,9 +28,9 @@
   "Policy": "E1_Income support",
   "Country": "Burundi",
   "ISO": "BDI",
-  "value": 761.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 7080.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -129,17 +129,6 @@
   "ISO": "BDI",
   "value": 0.0328778,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Burundi",
-  "ISO": "BDI",
-  "value": 9.19294606168987,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -319,26 +308,15 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Burundi",
-  "ISO": "BDI",
-  "value": 495.045,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Burundi",
   "ISO": "BDI",
-  "value": 1.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 9.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 40,
@@ -372,17 +350,6 @@
   "value": 1.0,
   "unit": "percent",
   "year": 2019.0
- },
- {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E1_Income support",
-  "Country": "Burundi",
-  "ISO": "BDI",
-  "value": 97.87602964557674,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 47,
@@ -426,6 +393,17 @@
   "ISO": "BDI",
   "value": 19.0,
   "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 86.29199981689453,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -627,6 +605,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 11890781.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -660,14 +649,47 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "E1_Income support",
   "Country": "Burundi",
   "ISO": "BDI",
-  "value": 11.0242519378662,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 13.708000183105469,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 90.95652770996094,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 92.92285919189453,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E1_Income support",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 75476.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

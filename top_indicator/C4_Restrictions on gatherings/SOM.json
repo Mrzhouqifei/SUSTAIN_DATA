@@ -39,9 +39,9 @@
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Somalia",
   "ISO": "SOM",
-  "value": 4662.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 15358.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -286,17 +286,6 @@
   "year": 2014.0
  },
  {
-  "rank": 38,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Somalia",
-  "ISO": "SOM",
-  "value": 110.88895932474605,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 40,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
@@ -316,17 +305,6 @@
   "ISO": "SOM",
   "value": 4.667941093444824,
   "unit": "score",
-  "year": 2016.0
- },
- {
-  "rank": 42,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Somalia",
-  "ISO": "SOM",
-  "value": 645.392,
-  "unit": "kt",
   "year": 2016.0
  },
  {
@@ -371,17 +349,6 @@
   "ISO": "SOM",
   "value": 0.033103,
   "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 50,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Somalia",
-  "ISO": "SOM",
-  "value": 8.54761458417312,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -440,6 +407,17 @@
   "year": 2019.0
  },
  {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Somalia",
+  "ISO": "SOM",
+  "value": 53.85900115966797,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 63,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -495,17 +473,6 @@
   "year": 2020.0
  },
  {
-  "rank": 71,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Somalia",
-  "ISO": "SOM",
-  "value": 35.2555351257324,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 72,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
@@ -523,9 +490,9 @@
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Somalia",
   "ISO": "SOM",
-  "value": 124.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 809.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 78,
@@ -550,6 +517,28 @@
   "year": 2017.0
  },
  {
+  "rank": 83,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Somalia",
+  "ISO": "SOM",
+  "value": 11235.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Somalia",
+  "ISO": "SOM",
+  "value": 96.27873229980469,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 89,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
@@ -559,5 +548,38 @@
   "value": -1.835274,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Somalia",
+  "ISO": "SOM",
+  "value": 15893219.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 98,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Somalia",
+  "ISO": "SOM",
+  "value": 46.14099884033203,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Somalia",
+  "ISO": "SOM",
+  "value": 45.99665069580078,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

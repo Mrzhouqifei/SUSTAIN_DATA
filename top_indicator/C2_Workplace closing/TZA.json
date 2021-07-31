@@ -253,6 +253,17 @@
   "year": 2017.0
  },
  {
+  "rank": 26,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C2_Workplace closing",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 59734213.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 27,
   "Category": "Economics",
   "Indicator": "Volume of imports",
@@ -273,17 +284,6 @@
   "value": 79.3809967,
   "unit": "Percentage of females of the total population",
   "year": 2020.0
- },
- {
-  "rank": 29,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 39.09976548243396,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 30,
@@ -407,28 +407,6 @@
   "year": 2014.0
  },
  {
-  "rank": 41,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 78.14413662466475,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 42,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C2_Workplace closing",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 21.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 44,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Political Rights category",
@@ -482,17 +460,6 @@
   "value": 4.59,
   "unit": "rate",
   "year": 2015.0
- },
- {
-  "rank": 49,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 11972.76,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 50,
@@ -726,17 +693,6 @@
   "year": 2019.0
  },
  {
-  "rank": 73,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C2_Workplace closing",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 509.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 74,
   "Category": "Governance",
   "Indicator": "Corruption Perceptions Index",
@@ -770,6 +726,17 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 64.77300262451172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Environment",
   "Indicator": "Energy use ",
@@ -779,6 +746,17 @@
   "value": 224.0635886997969,
   "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
   "year": 2014.0
+ },
+ {
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 35.22700119018555,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 85,
@@ -792,6 +770,17 @@
   "year": 2018.0
  },
  {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C2_Workplace closing",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 234655.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 89,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -803,14 +792,25 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 102,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "C2_Workplace closing",
   "Country": "Tanzania",
   "ISO": "TZA",
-  "value": 35.5589790344238,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 85.86675262451172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 111,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 74.39871978759766,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

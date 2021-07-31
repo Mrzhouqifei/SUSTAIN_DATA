@@ -39,9 +39,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Hungary",
   "ISO": "HUN",
-  "value": 300022.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 809491.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -152,17 +152,6 @@
   "value": 14.5291481928705,
   "unit": "percent of GNI",
   "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Hungary",
-  "ISO": "HUN",
-  "value": 47.62085657690617,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -297,6 +286,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Hungary",
+  "ISO": "HUN",
+  "value": 28.058000564575195,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -402,9 +402,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Hungary",
   "ISO": "HUN",
-  "value": 7914.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 30026.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 41,
@@ -449,17 +449,6 @@
   "value": 9.796514,
   "unit": "percent of total energy",
   "year": 2015.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Hungary",
-  "ISO": "HUN",
-  "value": 45536.81,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -616,17 +605,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Hungary",
-  "ISO": "HUN",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -660,6 +638,17 @@
   "year": 2015.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Hungary",
+  "ISO": "HUN",
+  "value": 52.839210510253906,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 76,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
@@ -680,6 +669,28 @@
   "value": 0.003761,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Hungary",
+  "ISO": "HUN",
+  "value": 88.19171905517578,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Hungary",
+  "ISO": "HUN",
+  "value": 9749763.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -737,15 +748,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Hungary",
   "ISO": "HUN",
-  "value": 26243.73985984983,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 71.94200134277344,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 101,
@@ -777,6 +788,17 @@
   "Country": "Hungary",
   "ISO": "HUN",
   "value": 12.06030151,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Hungary",
+  "ISO": "HUN",
+  "value": 5898.0,
   "unit": "proportion",
   "year": 2020.0
  }

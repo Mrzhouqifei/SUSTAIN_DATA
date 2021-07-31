@@ -50,9 +50,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Rwanda",
   "ISO": "RWA",
-  "value": 7105.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 66586.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -119,17 +119,6 @@
   "value": 21.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 12,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Rwanda",
-  "ISO": "RWA",
-  "value": 1114.768,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 13,
@@ -220,17 +209,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Rwanda",
-  "ISO": "RWA",
-  "value": 71.276119728042,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 26,
   "Category": "Economics",
   "Indicator": "Volume of exports",
@@ -273,6 +251,17 @@
   "value": 0.018783,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Rwanda",
+  "ISO": "RWA",
+  "value": 17.43199920654297,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 33,
@@ -358,9 +347,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Rwanda",
   "ISO": "RWA",
-  "value": 57.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 787.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 43,
@@ -506,6 +495,17 @@
   "year": 2019.0
  },
  {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Rwanda",
+  "ISO": "RWA",
+  "value": 82.56800079345703,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 60,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
@@ -515,17 +515,6 @@
   "value": 13.14421,
   "unit": "Rate (risk-weighted prevalence)",
   "year": 2019.0
- },
- {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Rwanda",
-  "ISO": "RWA",
-  "value": 86.02952230051775,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 65,
@@ -594,15 +583,15 @@
   "year": 2018.0
  },
  {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
   "Country": "Rwanda",
   "ISO": "RWA",
-  "value": 34.7165718078613,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 139501.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 77,
@@ -649,6 +638,17 @@
   "year": 2019.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Rwanda",
+  "ISO": "RWA",
+  "value": 12952209.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Health",
   "Indicator": "Immunization, measles (% of children ages 12-23 months)",
@@ -680,5 +680,27 @@
   "value": 0.543,
   "unit": "index",
   "year": 2019.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Rwanda",
+  "ISO": "RWA",
+  "value": 74.19641876220703,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Rwanda",
+  "ISO": "RWA",
+  "value": 93.23825073242188,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

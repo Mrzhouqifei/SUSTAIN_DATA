@@ -61,9 +61,9 @@
   "Policy": "C5_Close public transport",
   "Country": "Burundi",
   "ISO": "BDI",
-  "value": 761.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 7080.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 10,
@@ -187,17 +187,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C5_Close public transport",
-  "Country": "Burundi",
-  "ISO": "BDI",
-  "value": 9.19294606168987,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 26,
   "Category": "Social issues ",
   "Indicator": "Net migration",
@@ -207,17 +196,6 @@
   "value": 10003.0,
   "unit": "net total / data are 5 year estimates",
   "year": 2019.0
- },
- {
-  "rank": 27,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C5_Close public transport",
-  "Country": "Burundi",
-  "ISO": "BDI",
-  "value": 97.87602964557674,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 28,
@@ -242,6 +220,17 @@
   "year": 2019.0
  },
  {
+  "rank": 31,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C5_Close public transport",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 13.708000183105469,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 32,
   "Category": "Economics",
   "Indicator": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",
@@ -250,6 +239,17 @@
   "ISO": "BDI",
   "value": 79.0810013,
   "unit": "Percentage of total population",
+  "year": 2020.0
+ },
+ {
+  "rank": 33,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C5_Close public transport",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 86.29199981689453,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -270,9 +270,9 @@
   "Policy": "C5_Close public transport",
   "Country": "Burundi",
   "ISO": "BDI",
-  "value": 1.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 9.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 36,
@@ -462,17 +462,6 @@
   "year": 2020.0
  },
  {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C5_Close public transport",
-  "Country": "Burundi",
-  "ISO": "BDI",
-  "value": 495.045,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 59,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -539,17 +528,6 @@
   "year": 2017.0
  },
  {
-  "rank": 70,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C5_Close public transport",
-  "Country": "Burundi",
-  "ISO": "BDI",
-  "value": 11.0242519378662,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 72,
   "Category": "Governance",
   "Indicator": "Serious assault (rate)",
@@ -605,6 +583,17 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C5_Close public transport",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 90.95652770996094,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 82,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
@@ -625,6 +614,28 @@
   "value": 4.0,
   "unit": "score",
   "year": 2021.0
+ },
+ {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C5_Close public transport",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 75476.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C5_Close public transport",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 11890781.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 90,
@@ -668,6 +679,17 @@
   "ISO": "BDI",
   "value": 19.0,
   "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 113,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C5_Close public transport",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 92.92285919189453,
+  "unit": "Score",
   "year": 2020.0
  }
 ]

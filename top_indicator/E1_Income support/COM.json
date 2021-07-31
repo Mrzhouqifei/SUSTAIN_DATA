@@ -28,9 +28,9 @@
   "Policy": "E1_Income support",
   "Country": "Comoros",
   "ISO": "COM",
-  "value": 643.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 4025.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -129,17 +129,6 @@
   "ISO": "COM",
   "value": 0.129982,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Comoros",
-  "ISO": "COM",
-  "value": 7.051473405368052,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -308,26 +297,15 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Comoros",
-  "ISO": "COM",
-  "value": 201.685,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Comoros",
   "ISO": "COM",
-  "value": 7.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 147.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 44,
@@ -350,17 +328,6 @@
   "value": 0.1,
   "unit": "percent",
   "year": 2019.0
- },
- {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E1_Income support",
-  "Country": "Comoros",
-  "ISO": "COM",
-  "value": 81.24901232562686,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 47,
@@ -404,6 +371,17 @@
   "ISO": "COM",
   "value": 21.0,
   "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Comoros",
+  "ISO": "COM",
+  "value": 70.62000274658203,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -594,6 +572,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Comoros",
+  "ISO": "COM",
+  "value": 869595.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -627,14 +616,47 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "E1_Income support",
   "Country": "Comoros",
   "ISO": "COM",
-  "value": 81.9227523803711,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 29.3799991607666,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Comoros",
+  "ISO": "COM",
+  "value": 72.78813171386719,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Comoros",
+  "ISO": "COM",
+  "value": 76.48652648925781,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E1_Income support",
+  "Country": "Comoros",
+  "ISO": "COM",
+  "value": 5.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

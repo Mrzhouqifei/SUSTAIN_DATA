@@ -39,9 +39,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Benin",
   "ISO": "BEN",
-  "value": 3152.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 8394.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -152,17 +152,6 @@
   "value": 3.15613851834643,
   "unit": "percent of GNI",
   "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Benin",
-  "ISO": "BEN",
-  "value": 72.54479808532312,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -297,6 +286,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Benin",
+  "ISO": "BEN",
+  "value": 51.584999084472656,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -402,9 +402,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Benin",
   "ISO": "BEN",
-  "value": 44.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 108.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 42,
@@ -449,17 +449,6 @@
   "value": 41.32633,
   "unit": "percent of total energy",
   "year": 2014.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Benin",
-  "ISO": "BEN",
-  "value": 6475.922,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -616,17 +605,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Benin",
-  "ISO": "BEN",
-  "value": 41.529239654541,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -671,6 +649,17 @@
   "year": 2014.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Benin",
+  "ISO": "BEN",
+  "value": 82.55851745605469,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 75,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -713,6 +702,28 @@
   "value": 0.000731,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Benin",
+  "ISO": "BEN",
+  "value": 90.6241683959961,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Benin",
+  "ISO": "BEN",
+  "value": 12123198.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -770,15 +781,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Benin",
   "ISO": "BEN",
-  "value": 9.914287174191738,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 48.415000915527344,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 110,
@@ -790,5 +801,16 @@
   "value": -0.6641259,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Benin",
+  "ISO": "BEN",
+  "value": 1401.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

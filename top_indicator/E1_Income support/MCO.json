@@ -17,9 +17,9 @@
   "Policy": "E1_Income support",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 715.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2853.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -74,17 +74,6 @@
   "ISO": "MCO",
   "value": 52.5511,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Monaco",
-  "ISO": "MCO",
-  "value": 13319.98768093625,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -193,9 +182,9 @@
   "Policy": "E1_Income support",
   "Country": "Monaco",
   "ISO": "MCO",
-  "value": 3.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 33.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 50,
@@ -207,6 +196,17 @@
   "value": 0.052124,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 0.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 55,
@@ -319,6 +319,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 39244.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -330,14 +341,25 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "E1_Income support",
   "Country": "Monaco",
   "ISO": "MCO",
   "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E1_Income support",
+  "Country": "Monaco",
+  "ISO": "MCO",
+  "value": 22.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

@@ -39,9 +39,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Estonia",
   "ISO": "EST",
-  "value": 20635.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 133308.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -152,17 +152,6 @@
   "value": 16.6645118855401,
   "unit": "percent of GNI",
   "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Estonia",
-  "ISO": "EST",
-  "value": 38.52345451018706,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -297,6 +286,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Estonia",
+  "ISO": "EST",
+  "value": 30.770999908447266,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -402,9 +402,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Estonia",
   "ISO": "EST",
-  "value": 170.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1272.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 41,
@@ -460,17 +460,6 @@
   "value": 12.80269,
   "unit": "percent of total energy",
   "year": 2015.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Estonia",
-  "ISO": "EST",
-  "value": 16589.51,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -627,17 +616,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Estonia",
-  "ISO": "EST",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -671,6 +649,17 @@
   "year": 2015.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Estonia",
+  "ISO": "EST",
+  "value": 58.406742095947266,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 76,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
@@ -702,6 +691,28 @@
   "value": 0.004469,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Estonia",
+  "ISO": "EST",
+  "value": 95.35989379882812,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Estonia",
+  "ISO": "EST",
+  "value": 1331057.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -759,15 +770,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Estonia",
   "ISO": "EST",
-  "value": 83332.45388552605,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 69.22899627685547,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 110,
@@ -788,6 +799,17 @@
   "Country": "Estonia",
   "ISO": "EST",
   "value": 28.71287129,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Estonia",
+  "ISO": "EST",
+  "value": 297.0,
   "unit": "proportion",
   "year": 2020.0
  }

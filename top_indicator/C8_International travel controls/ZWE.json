@@ -17,9 +17,9 @@
   "Policy": "C8_International travel controls",
   "Country": "Zimbabwe",
   "ISO": "ZWE",
-  "value": 12047.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 105656.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 4,
@@ -209,17 +209,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C8_International travel controls",
-  "Country": "Zimbabwe",
-  "ISO": "ZWE",
-  "value": 10982.67,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 26,
   "Category": "Social issues ",
   "Indicator": "Life Ladder ",
@@ -396,17 +385,6 @@
   "year": 2018.0
  },
  {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C8_International travel controls",
-  "Country": "Zimbabwe",
-  "ISO": "ZWE",
-  "value": 99.22085680550748,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 46,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
@@ -479,9 +457,9 @@
   "Policy": "C8_International travel controls",
   "Country": "Zimbabwe",
   "ISO": "ZWE",
-  "value": 316.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 3421.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 55,
@@ -605,6 +583,17 @@
   "year": 2019.0
  },
  {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 67.75800323486328,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 71,
   "Category": "Health",
   "Indicator": "Incidence of tuberculosis (per 100,000 people)",
@@ -627,15 +616,15 @@
   "year": 2015.0
  },
  {
-  "rank": 77,
+  "rank": 78,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "C8_International travel controls",
   "Country": "Zimbabwe",
   "ISO": "ZWE",
-  "value": 67.66598377054254,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 32.242000579833984,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 80,
@@ -647,6 +636,17 @@
   "value": 0.048831,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C8_International travel controls",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 14862927.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 83,
@@ -668,17 +668,6 @@
   "ISO": "ZWE",
   "value": 1.9346,
   "unit": "Ones",
-  "year": 2018.0
- },
- {
-  "rank": 85,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C8_International travel controls",
-  "Country": "Zimbabwe",
-  "ISO": "ZWE",
-  "value": 41.0415840148926,
-  "unit": "percent of population",
   "year": 2018.0
  },
  {
@@ -704,6 +693,28 @@
   "year": 2019.0
  },
  {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C8_International travel controls",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 9266.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 94,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C8_International travel controls",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 72.00298309326172,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 95,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
@@ -713,5 +724,16 @@
   "value": 6.06,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 81.57149505615234,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

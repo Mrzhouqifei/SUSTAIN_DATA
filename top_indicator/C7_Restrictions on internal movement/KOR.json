@@ -55,17 +55,6 @@
   "year": 2018.0
  },
  {
-  "rank": 6,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "South Korea",
-  "ISO": "KOR",
-  "value": 48570.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 8,
   "Category": "Health",
   "Indicator": "Prevalence of total cancers",
@@ -196,17 +185,6 @@
   "value": 7.3009,
   "unit": "Ones",
   "year": 2018.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "South Korea",
-  "ISO": "KOR",
-  "value": 620302.4,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 21,
@@ -550,17 +528,6 @@
   "year": 2018.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "South Korea",
-  "ISO": "KOR",
-  "value": 4543.842555520887,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -611,9 +578,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "South Korea",
   "ISO": "KOR",
-  "value": 81.43,
-  "unit": "total",
-  "year": 2019.0
+  "value": 81.41400146484375,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 61,
@@ -622,9 +589,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "South Korea",
   "ISO": "KOR",
-  "value": 38.51685797783022,
+  "value": 39.53562927246094,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -748,17 +715,6 @@
   "year": 2018.0
  },
  {
-  "rank": 73,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "South Korea",
-  "ISO": "KOR",
-  "value": 659.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 74,
   "Category": "Health",
   "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
@@ -809,9 +765,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "South Korea",
   "ISO": "KOR",
-  "value": 51709098.0,
+  "value": 51780579.0,
   "unit": "total",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 79,
@@ -836,26 +792,15 @@
   "year": 2016.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "South Korea",
-  "ISO": "KOR",
-  "value": 32.01527342958986,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 84,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "South Korea",
   "ISO": "KOR",
-  "value": 18.56999999999999,
+  "value": 18.586000442504883,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 85,
@@ -900,6 +845,17 @@
   "value": 63.66208,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "South Korea",
+  "ISO": "KOR",
+  "value": 93.35556030273438,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 90,
@@ -952,9 +908,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "South Korea",
   "ISO": "KOR",
-  "value": 3196.0,
+  "value": 3498.0,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 100,
@@ -1031,17 +987,6 @@
   "ISO": "KOR",
   "value": 95.3767700195313,
   "unit": "proportion",
-  "year": 2018.0
- },
- {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "South Korea",
-  "ISO": "KOR",
-  "value": 100.0,
-  "unit": "percent of population",
   "year": 2018.0
  }
 ]

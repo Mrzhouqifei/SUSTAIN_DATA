@@ -28,9 +28,9 @@
   "Policy": "E1_Income support",
   "Country": "Guinea-Bissau",
   "ISO": "GNB",
-  "value": 2447.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 4387.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -107,17 +107,6 @@
   "ISO": "GNB",
   "value": 0.0638756,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Guinea-Bissau",
-  "ISO": "GNB",
-  "value": 3.644083414110515,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -297,26 +286,15 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Guinea-Bissau",
-  "ISO": "GNB",
-  "value": 293.36,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Guinea-Bissau",
   "ISO": "GNB",
-  "value": 44.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 74.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 40,
@@ -350,17 +328,6 @@
   "value": 3.4,
   "unit": "percent",
   "year": 2019.0
- },
- {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E1_Income support",
-  "Country": "Guinea-Bissau",
-  "ISO": "GNB",
-  "value": 92.90207550854626,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 47,
@@ -404,6 +371,17 @@
   "ISO": "GNB",
   "value": 19.0,
   "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 55.80400085449219,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -616,6 +594,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 1967998.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -649,14 +638,47 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "E1_Income support",
   "Country": "Guinea-Bissau",
   "ISO": "GNB",
-  "value": 28.6620216369629,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 44.19599914550781,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 81.20210266113281,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 75.49543762207031,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E1_Income support",
+  "Country": "Guinea-Bissau",
+  "ISO": "GNB",
+  "value": 1861.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

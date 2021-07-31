@@ -50,9 +50,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Malawi",
   "ISO": "MWI",
-  "value": 6148.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 51141.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -119,17 +119,6 @@
   "value": 66.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 12,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Malawi",
-  "ISO": "MWI",
-  "value": 1298.118,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 13,
@@ -220,17 +209,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Malawi",
-  "ISO": "MWI",
-  "value": 16.37254507777683,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 26,
   "Category": "Economics",
   "Indicator": "Volume of exports",
@@ -273,6 +251,17 @@
   "value": 0.021223,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Malawi",
+  "ISO": "MWI",
+  "value": 17.427000045776367,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 33,
@@ -347,9 +336,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Malawi",
   "ISO": "MWI",
-  "value": 187.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1588.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 43,
@@ -484,6 +473,17 @@
   "year": 2019.0
  },
  {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Malawi",
+  "ISO": "MWI",
+  "value": 82.572998046875,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 60,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
@@ -493,17 +493,6 @@
   "value": 11.73838,
   "unit": "Rate (risk-weighted prevalence)",
   "year": 2019.0
- },
- {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Malawi",
-  "ISO": "MWI",
-  "value": 84.01636088313059,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 65,
@@ -572,6 +561,17 @@
   "year": 2018.0
  },
  {
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Malawi",
+  "ISO": "MWI",
+  "value": 14897.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 75,
   "Category": "Economics",
   "Indicator": "Central government debt, total",
@@ -581,17 +581,6 @@
   "value": 48.659564238322,
   "unit": "percent of GDP",
   "year": 2017.0
- },
- {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Malawi",
-  "ISO": "MWI",
-  "value": 18.02,
-  "unit": "percent of population",
-  "year": 2018.0
  },
  {
   "rank": 77,
@@ -638,6 +627,17 @@
   "year": 2019.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Malawi",
+  "ISO": "MWI",
+  "value": 19129955.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Health",
   "Indicator": "Immunization, measles (% of children ages 12-23 months)",
@@ -669,5 +669,27 @@
   "value": 0.483,
   "unit": "index",
   "year": 2019.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Malawi",
+  "ISO": "MWI",
+  "value": 83.9371337890625,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Malawi",
+  "ISO": "MWI",
+  "value": 77.93360137939453,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

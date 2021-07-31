@@ -50,9 +50,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "United Arab Emirates",
   "ISO": "ARE",
-  "value": 191150.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 677801.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -185,17 +185,6 @@
   "value": 5.7271,
   "unit": "Ones",
   "year": 2018.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "United Arab Emirates",
-  "ISO": "ARE",
-  "value": 206323.8,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 21,
@@ -473,17 +462,6 @@
   "year": 2014.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "United Arab Emirates",
-  "ISO": "ARE",
-  "value": 1912.076613251954,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -526,6 +504,28 @@
   "value": 0.066806,
   "unit": "percent of total energy",
   "year": 2014.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "United Arab Emirates",
+  "ISO": "ARE",
+  "value": 87.0479965209961,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "United Arab Emirates",
+  "ISO": "ARE",
+  "value": 19.15896224975586,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -644,9 +644,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "United Arab Emirates",
   "ISO": "ARE",
-  "value": 630.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1939.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -693,6 +693,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "United Arab Emirates",
+  "ISO": "ARE",
+  "value": 9890400.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 80,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -704,14 +715,14 @@
   "year": 2016.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "United Arab Emirates",
   "ISO": "ARE",
-  "value": 38.099225116036195,
-  "unit": "score",
+  "value": 12.95199966430664,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -726,6 +737,17 @@
   "year": 2019.0
  },
  {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "United Arab Emirates",
+  "ISO": "ARE",
+  "value": 94.76119232177734,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -737,14 +759,14 @@
   "year": 2014.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "United Arab Emirates",
   "ISO": "ARE",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 1330.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

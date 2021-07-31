@@ -11,17 +11,6 @@
   "year": 2019.0
  },
  {
-  "rank": 3,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C8_International travel controls",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 21772.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 4,
   "Category": "Economics",
   "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
@@ -220,17 +209,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C8_International travel controls",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 9673.546,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 28,
   "Category": "Environment",
   "Indicator": "Adjusted net savings, including particulate emission damage",
@@ -396,17 +374,6 @@
   "year": 2018.0
  },
  {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C8_International travel controls",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 89.72267369142226,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 46,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
@@ -471,17 +438,6 @@
   "value": 41.5,
   "unit": "index ",
   "year": 2015.0
- },
- {
-  "rank": 53,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C8_International travel controls",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 133.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  },
  {
   "rank": 54,
@@ -616,6 +572,17 @@
   "year": 2019.0
  },
  {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 48.29399871826172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "Combustible renewables and waste",
@@ -671,15 +638,15 @@
   "year": 2015.0
  },
  {
-  "rank": 77,
+  "rank": 78,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "C8_International travel controls",
   "Country": "Cote d'Ivoire (Ivory Coast)",
   "ISO": "CIV",
-  "value": 44.52386759278385,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 51.70600128173828,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 79,
@@ -704,6 +671,17 @@
   "year": 2019.0
  },
  {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C8_International travel controls",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 26378275.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 83,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
@@ -723,17 +701,6 @@
   "ISO": "CIV",
   "value": 0.6048,
   "unit": "Ones",
-  "year": 2018.0
- },
- {
-  "rank": 85,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C8_International travel controls",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 66.9911804199219,
-  "unit": "percent of population",
   "year": 2018.0
  },
  {
@@ -759,6 +726,28 @@
   "year": 2019.0
  },
  {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C8_International travel controls",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 2111.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 94,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C8_International travel controls",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 93.69355773925781,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 95,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
@@ -768,5 +757,16 @@
   "value": 6.93,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 79.82714080810547,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

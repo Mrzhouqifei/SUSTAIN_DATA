@@ -209,6 +209,17 @@
   "year": 2017.0
  },
  {
+  "rank": 26,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C2_Workplace closing",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 11890781.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 27,
   "Category": "Economics",
   "Indicator": "Volume of imports",
@@ -229,17 +240,6 @@
   "value": 80.3539963,
   "unit": "Percentage of females of the total population",
   "year": 2020.0
- },
- {
-  "rank": 29,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Burundi",
-  "ISO": "BDI",
-  "value": 9.19294606168987,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 30,
@@ -341,26 +341,15 @@
   "year": 2020.0
  },
  {
-  "rank": 41,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Burundi",
-  "ISO": "BDI",
-  "value": 97.87602964557674,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C2_Workplace closing",
   "Country": "Burundi",
   "ISO": "BDI",
-  "value": 1.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 9.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 44,
@@ -416,17 +405,6 @@
   "value": 5.58,
   "unit": "rate",
   "year": 2014.0
- },
- {
-  "rank": 49,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Burundi",
-  "ISO": "BDI",
-  "value": 495.045,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 50,
@@ -600,9 +578,9 @@
   "Policy": "C2_Workplace closing",
   "Country": "Burundi",
   "ISO": "BDI",
-  "value": 761.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 7080.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -638,6 +616,28 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 86.29199981689453,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 13.708000183105469,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 85,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -647,6 +647,17 @@
   "value": 5.42,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C2_Workplace closing",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 75476.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 89,
@@ -660,14 +671,25 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 102,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "C2_Workplace closing",
   "Country": "Burundi",
   "ISO": "BDI",
-  "value": 11.0242519378662,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 90.95652770996094,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 111,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Burundi",
+  "ISO": "BDI",
+  "value": 92.92285919189453,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

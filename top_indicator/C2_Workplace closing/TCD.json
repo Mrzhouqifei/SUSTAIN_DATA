@@ -198,6 +198,17 @@
   "year": 2017.0
  },
  {
+  "rank": 26,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C2_Workplace closing",
+  "Country": "Chad",
+  "ISO": "TCD",
+  "value": 16425859.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 27,
   "Category": "Economics",
   "Indicator": "Volume of imports",
@@ -218,17 +229,6 @@
   "value": 63.9410019,
   "unit": "Percentage of females of the total population",
   "year": 2020.0
- },
- {
-  "rank": 29,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Chad",
-  "ISO": "TCD",
-  "value": 0.689790276164435,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 32,
@@ -319,26 +319,15 @@
   "year": 2020.0
  },
  {
-  "rank": 41,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Chad",
-  "ISO": "TCD",
-  "value": 106.43382055499453,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C2_Workplace closing",
   "Country": "Chad",
   "ISO": "TCD",
-  "value": 102.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 174.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 44,
@@ -383,17 +372,6 @@
   "value": 5.71,
   "unit": "score",
   "year": 2018.0
- },
- {
-  "rank": 49,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Chad",
-  "ISO": "TCD",
-  "value": 1015.759,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 50,
@@ -567,9 +545,9 @@
   "Policy": "C2_Workplace closing",
   "Country": "Chad",
   "ISO": "TCD",
-  "value": 1839.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 4972.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -605,6 +583,28 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Chad",
+  "ISO": "TCD",
+  "value": 76.4800033569336,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Chad",
+  "ISO": "TCD",
+  "value": 23.520000457763672,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 85,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -614,6 +614,17 @@
   "value": 5.59,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C2_Workplace closing",
+  "Country": "Chad",
+  "ISO": "TCD",
+  "value": 478664.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 89,
@@ -627,14 +638,25 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 102,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "C2_Workplace closing",
   "Country": "Chad",
   "ISO": "TCD",
-  "value": 11.7593555450439,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 96.03568267822266,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 111,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Chad",
+  "ISO": "TCD",
+  "value": 52.51976013183594,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

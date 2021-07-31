@@ -187,6 +187,17 @@
   "year": 2017.0
  },
  {
+  "rank": 26,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C2_Workplace closing",
+  "Country": "Somalia",
+  "ISO": "SOM",
+  "value": 15893219.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 28,
   "Category": "Economics",
   "Indicator": "Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",
@@ -196,17 +207,6 @@
   "value": 21.7700005,
   "unit": "Percentage of females of the total population",
   "year": 2020.0
- },
- {
-  "rank": 29,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Somalia",
-  "ISO": "SOM",
-  "value": 8.54761458417312,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 32,
@@ -275,26 +275,15 @@
   "year": 2020.0
  },
  {
-  "rank": 41,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Somalia",
-  "ISO": "SOM",
-  "value": 110.88895932474605,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C2_Workplace closing",
   "Country": "Somalia",
   "ISO": "SOM",
-  "value": 124.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 809.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 44,
@@ -328,17 +317,6 @@
   "value": 0.1,
   "unit": "percent",
   "year": 2019.0
- },
- {
-  "rank": 49,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Somalia",
-  "ISO": "SOM",
-  "value": 645.392,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 50,
@@ -501,9 +479,9 @@
   "Policy": "C2_Workplace closing",
   "Country": "Somalia",
   "ISO": "SOM",
-  "value": 4662.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 15358.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -539,6 +517,39 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Somalia",
+  "ISO": "SOM",
+  "value": 53.85900115966797,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Somalia",
+  "ISO": "SOM",
+  "value": 46.14099884033203,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C2_Workplace closing",
+  "Country": "Somalia",
+  "ISO": "SOM",
+  "value": 11235.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 89,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -550,14 +561,25 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 102,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "C2_Workplace closing",
   "Country": "Somalia",
   "ISO": "SOM",
-  "value": 35.2555351257324,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 96.27873229980469,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 111,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Somalia",
+  "ISO": "SOM",
+  "value": 45.99665069580078,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

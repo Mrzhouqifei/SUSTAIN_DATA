@@ -39,9 +39,9 @@
   "Policy": "E1_Income support",
   "Country": "Samoa",
   "ISO": "WSM",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -107,17 +107,6 @@
   "ISO": "WSM",
   "value": 0.866129,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Samoa",
-  "ISO": "WSM",
-  "value": 471.848886588837,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -275,17 +264,6 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Samoa",
-  "ISO": "WSM",
-  "value": 245.689,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
@@ -293,8 +271,8 @@
   "Country": "Samoa",
   "ISO": "WSM",
   "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 42,
@@ -317,17 +295,6 @@
   "value": 1.22876,
   "unit": "percent",
   "year": 2019.0
- },
- {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E1_Income support",
-  "Country": "Samoa",
-  "ISO": "WSM",
-  "value": 63.296648558996196,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 47,
@@ -369,9 +336,9 @@
   "Policy": "E1_Income support",
   "Country": "Samoa",
   "ISO": "WSM",
-  "value": 81.944,
+  "value": 82.11100006103516,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 53,
@@ -611,9 +578,9 @@
   "Policy": "E1_Income support",
   "Country": "Samoa",
   "ISO": "WSM",
-  "value": 197097.0,
+  "value": 198410.0,
   "unit": "total",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 88,
@@ -677,9 +644,9 @@
   "Policy": "E1_Income support",
   "Country": "Samoa",
   "ISO": "WSM",
-  "value": 18.056,
-  "unit": "total",
-  "year": 2019.0
+  "value": 17.888999938964844,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 97,
@@ -688,9 +655,20 @@
   "Policy": "E1_Income support",
   "Country": "Samoa",
   "ISO": "WSM",
-  "value": 74.81662157967094,
+  "value": 73.25747680664062,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Samoa",
+  "ISO": "WSM",
+  "value": 92.59107971191406,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 104,
@@ -757,16 +735,5 @@
   "value": 58.8211063788758,
   "unit": "proportion",
   "year": 2017.0
- },
- {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E1_Income support",
-  "Country": "Samoa",
-  "ISO": "WSM",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
  }
 ]

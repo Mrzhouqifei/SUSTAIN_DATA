@@ -61,9 +61,9 @@
   "Policy": "C1_School closing",
   "Country": "Zimbabwe",
   "ISO": "ZWE",
-  "value": 12047.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 105656.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 11,
@@ -86,17 +86,6 @@
   "value": 83.1220016,
   "unit": "Percentage of total population",
   "year": 2020.0
- },
- {
-  "rank": 13,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C1_School closing",
-  "Country": "Zimbabwe",
-  "ISO": "ZWE",
-  "value": 10982.67,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 14,
@@ -185,17 +174,6 @@
   "value": 90.1023,
   "unit": "per 100 people",
   "year": 2019.0
- },
- {
-  "rank": 25,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C1_School closing",
-  "Country": "Zimbabwe",
-  "ISO": "ZWE",
-  "value": 99.22085680550748,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 26,
@@ -572,17 +550,6 @@
   "year": 2020.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C1_School closing",
-  "Country": "Zimbabwe",
-  "ISO": "ZWE",
-  "value": 41.0415840148926,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -627,17 +594,6 @@
   "year": 2015.0
  },
  {
-  "rank": 80,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C1_School closing",
-  "Country": "Zimbabwe",
-  "ISO": "ZWE",
-  "value": 67.66598377054254,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 84,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
@@ -660,14 +616,47 @@
   "year": 2020.0
  },
  {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C1_School closing",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 67.75800323486328,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 89,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C1_School closing",
   "Country": "Zimbabwe",
   "ISO": "ZWE",
-  "value": 316.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
+  "value": 3421.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 93,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C1_School closing",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 14862927.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 94,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C1_School closing",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 81.57149505615234,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -713,5 +702,38 @@
   "value": 0.0,
   "unit": "percent of total",
   "year": 2014.0
+ },
+ {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C1_School closing",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 32.242000579833984,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 109,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C1_School closing",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 72.00298309326172,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 114,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C1_School closing",
+  "Country": "Zimbabwe",
+  "ISO": "ZWE",
+  "value": 9266.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

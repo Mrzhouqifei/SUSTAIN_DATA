@@ -50,9 +50,9 @@
   "Policy": "C6_Stay at home requirements",
   "Country": "Niger",
   "ISO": "NER",
-  "value": 2361.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 5607.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 9,
@@ -121,17 +121,6 @@
   "year": 2019.0
  },
  {
-  "rank": 15,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Niger",
-  "ISO": "NER",
-  "value": 95.31488303494451,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 16,
   "Category": "Environment",
   "Indicator": "Energy use (kg of oil equivalent per capita)",
@@ -174,17 +163,6 @@
   "value": 1.9,
   "unit": "percent",
   "year": 2020.0
- },
- {
-  "rank": 21,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Niger",
-  "ISO": "NER",
-  "value": 2016.85,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 22,
@@ -248,9 +226,9 @@
   "Policy": "C6_Stay at home requirements",
   "Country": "Niger",
   "ISO": "NER",
-  "value": 82.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 195.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 29,
@@ -306,6 +284,17 @@
   "value": 0.2,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 34,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 83.3740005493164,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 35,
@@ -484,17 +473,6 @@
   "year": 2020.0
  },
  {
-  "rank": 54,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Niger",
-  "ISO": "NER",
-  "value": 17.6,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 55,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
@@ -605,6 +583,17 @@
   "year": 2021.0
  },
  {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 233308.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "Energy imports, net ",
@@ -636,17 +625,6 @@
   "value": 28.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 72,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Niger",
-  "ISO": "NER",
-  "value": 0.8579745408924608,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 75,
@@ -691,6 +669,17 @@
   "value": -0.5653689,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 16.625999450683594,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -748,6 +737,17 @@
   "year": 2019.0
  },
  {
+  "rank": 94,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 109.50328826904297,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 95,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -757,6 +757,17 @@
   "value": 3.0,
   "unit": "rating",
   "year": 2019.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 91.51177215576172,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 108,
@@ -779,5 +790,16 @@
   "value": 133.0363437202649,
   "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
   "year": 2014.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Niger",
+  "ISO": "NER",
+  "value": 24206636.0,
+  "unit": "total",
+  "year": 2020.0
  }
 ]

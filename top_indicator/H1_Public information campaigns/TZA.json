@@ -44,17 +44,6 @@
   "year": 2019.0
  },
  {
-  "rank": 7,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 509.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 8,
   "Category": "Health",
   "Indicator": "Prevalence of Diabetes",
@@ -341,17 +330,6 @@
   "year": 2018.0
  },
  {
-  "rank": 35,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 11972.76,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 36,
   "Category": "Social issues ",
   "Indicator": "Life Ladder ",
@@ -473,17 +451,6 @@
   "year": 2020.0
  },
  {
-  "rank": 47,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 78.14413662466475,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 48,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
@@ -515,6 +482,17 @@
   "value": 0.0,
   "unit": "percent of total",
   "year": 2014.0
+ },
+ {
+  "rank": 51,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 64.77300262451172,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 52,
@@ -605,17 +583,6 @@
   "year": 2019.0
  },
  {
-  "rank": 61,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 21.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 62,
   "Category": "Health",
   "Indicator": "Prevalence of overweight (modeled estimate, % of children under 5)",
@@ -649,17 +616,6 @@
   "year": 2017.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 35.5589790344238,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "Electricity production from renewable sources, excluding hydroelectric",
@@ -690,6 +646,17 @@
   "ISO": "TZA",
   "value": 79.3809967,
   "unit": "Percentage of females of the total population",
+  "year": 2020.0
+ },
+ {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 59734213.0,
+  "unit": "total",
   "year": 2020.0
  },
  {
@@ -748,17 +715,6 @@
   "year": 2021.0
  },
  {
-  "rank": 85,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 39.09976548243396,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 87,
   "Category": "Governance",
   "Indicator": "Total freedom in the world score ",
@@ -770,6 +726,17 @@
   "year": 2021.0
  },
  {
+  "rank": 88,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 74.39871978759766,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Environment",
   "Indicator": "Energy imports, net ",
@@ -779,6 +746,39 @@
   "value": 10.72806025159597,
   "unit": "percent of energy use",
   "year": 2014.0
+ },
+ {
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 35.22700119018555,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 85.86675262451172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 234655.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 103,

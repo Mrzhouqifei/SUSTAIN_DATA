@@ -50,9 +50,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Ukraine",
   "ISO": "UKR",
-  "value": 956123.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2251869.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -185,17 +185,6 @@
   "value": 6.661,
   "unit": "Ones",
   "year": 2014.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Ukraine",
-  "ISO": "UKR",
-  "value": 202249.7,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 21,
@@ -528,17 +517,6 @@
   "year": 2018.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Ukraine",
-  "ISO": "UKR",
-  "value": 7867.202446403532,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -592,6 +570,28 @@
   "value": 1.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Ukraine",
+  "ISO": "UKR",
+  "value": 69.60800170898438,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Ukraine",
+  "ISO": "UKR",
+  "value": 49.11943435668945,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -710,9 +710,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Ukraine",
   "ISO": "UKR",
-  "value": 16469.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 52930.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -759,6 +759,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Ukraine",
+  "ISO": "UKR",
+  "value": 44134693.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 80,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -770,14 +781,14 @@
   "year": 2016.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Ukraine",
   "ISO": "UKR",
-  "value": 69.00704175599185,
-  "unit": "score",
+  "value": 30.392000198364258,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -792,6 +803,17 @@
   "year": 2019.0
  },
  {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Ukraine",
+  "ISO": "UKR",
+  "value": 91.0763931274414,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -803,14 +825,14 @@
   "year": 2014.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Ukraine",
   "ISO": "UKR",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 2274.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

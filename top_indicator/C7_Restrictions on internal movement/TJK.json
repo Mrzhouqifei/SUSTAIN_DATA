@@ -39,9 +39,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Tajikistan",
   "ISO": "TJK",
-  "value": 13130.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 15245.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -174,17 +174,6 @@
   "value": 4.7534,
   "unit": "Ones",
   "year": 2014.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tajikistan",
-  "ISO": "TJK",
-  "value": 5309.816,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 21,
@@ -506,17 +495,6 @@
   "year": 2017.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tajikistan",
-  "ISO": "TJK",
-  "value": 71.12956975300338,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -570,6 +548,28 @@
   "value": 0.2,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tajikistan",
+  "ISO": "TJK",
+  "value": 27.506000518798828,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tajikistan",
+  "ISO": "TJK",
+  "value": 67.92560577392578,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -688,9 +688,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Tajikistan",
   "ISO": "TJK",
-  "value": 89.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 121.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -737,6 +737,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tajikistan",
+  "ISO": "TJK",
+  "value": 9537642.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 79,
   "Category": "Economics",
   "Indicator": "Expenditure on health (% of GDP)",
@@ -770,14 +781,14 @@
   "year": 2019.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Tajikistan",
   "ISO": "TJK",
-  "value": 75.50515391672525,
-  "unit": "score",
+  "value": 72.49400329589844,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -803,6 +814,17 @@
   "year": 2019.0
  },
  {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tajikistan",
+  "ISO": "TJK",
+  "value": 93.23502349853516,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -812,6 +834,17 @@
   "value": 45.98414,
   "unit": "percent of total",
   "year": 2014.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tajikistan",
+  "ISO": "TJK",
+  "value": 5588.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 100,
@@ -856,16 +889,5 @@
   "value": 14000000.0,
   "unit": "US Dollar",
   "year": 2019.0
- },
- {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tajikistan",
-  "ISO": "TJK",
-  "value": 99.3,
-  "unit": "percent of population",
-  "year": 2018.0
  }
 ]

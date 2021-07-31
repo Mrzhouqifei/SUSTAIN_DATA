@@ -28,9 +28,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Namibia",
   "ISO": "NAM",
-  "value": 18041.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 117896.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -141,17 +141,6 @@
   "value": 0.0349065450058491,
   "unit": "percent of GNI",
   "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Namibia",
-  "ISO": "NAM",
-  "value": 65.09591525499161,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -286,6 +275,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Namibia",
+  "ISO": "NAM",
+  "value": 47.96699905395508,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -391,9 +391,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Namibia",
   "ISO": "NAM",
-  "value": 169.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2970.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 41,
@@ -449,17 +449,6 @@
   "value": 7.165756,
   "unit": "percent of total energy",
   "year": 2014.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Namibia",
-  "ISO": "NAM",
-  "value": 4228.051,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -616,17 +605,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Namibia",
-  "ISO": "NAM",
-  "value": 53.8738746643066,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -671,6 +649,17 @@
   "year": 2014.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Namibia",
+  "ISO": "NAM",
+  "value": 67.86148834228516,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 76,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
@@ -702,6 +691,28 @@
   "value": 0.000493,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Namibia",
+  "ISO": "NAM",
+  "value": 72.20375061035156,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Namibia",
+  "ISO": "NAM",
+  "value": 2540916.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -748,15 +759,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Namibia",
   "ISO": "NAM",
-  "value": 146.7210256040216,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 52.03300094604492,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 101,
@@ -788,6 +799,17 @@
   "Country": "Namibia",
   "ISO": "NAM",
   "value": 43.26923077,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Namibia",
+  "ISO": "NAM",
+  "value": 3588.0,
   "unit": "proportion",
   "year": 2020.0
  }

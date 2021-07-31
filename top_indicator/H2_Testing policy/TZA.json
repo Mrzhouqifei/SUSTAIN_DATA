@@ -66,17 +66,6 @@
   "year": 2019.0
  },
  {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H2_Testing policy",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 21.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
@@ -96,17 +85,6 @@
   "ISO": "TZA",
   "value": 18.7767,
   "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H2_Testing policy",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 39.09976548243396,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -341,14 +319,14 @@
   "year": 2019.0
  },
  {
-  "rank": 35,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 36,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H2_Testing policy",
   "Country": "Tanzania",
   "ISO": "TZA",
-  "value": 78.14413662466475,
-  "unit": "score",
+  "value": 85.86675262451172,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -484,17 +462,6 @@
   "year": 2020.0
  },
  {
-  "rank": 50,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H2_Testing policy",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 11972.76,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 51,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -528,6 +495,17 @@
   "year": 2014.0
  },
  {
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H2_Testing policy",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 59734213.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
@@ -550,26 +528,15 @@
   "year": 2019.0
  },
  {
-  "rank": 57,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H2_Testing policy",
   "Country": "Tanzania",
   "ISO": "TZA",
-  "value": 509.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
+  "value": 234655.0,
+  "unit": "proportion",
   "year": 2020.0
- },
- {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H2_Testing policy",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 35.5589790344238,
-  "unit": "percent of population",
-  "year": 2018.0
  },
  {
   "rank": 61,
@@ -581,6 +548,17 @@
   "value": 6.73,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 63,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 35.22700119018555,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 64,
@@ -757,6 +735,28 @@
   "value": 89.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 64.77300262451172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 90,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H2_Testing policy",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 74.39871978759766,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 92,

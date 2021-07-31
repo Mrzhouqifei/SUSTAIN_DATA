@@ -11,26 +11,15 @@
   "year": 2019.0
  },
  {
-  "rank": 2,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Dominica",
-  "ISO": "DMA",
-  "value": 9817.847593582886,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H7_Vaccination policy",
   "Country": "Dominica",
   "ISO": "DMA",
-  "value": 88.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 210.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 7,
@@ -132,17 +121,6 @@
   "year": 2019.0
  },
  {
-  "rank": 19,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Dominica",
-  "ISO": "DMA",
-  "value": 179.683,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 21,
   "Category": "Health",
   "Indicator": "Immunization, measles (% of children ages 12-23 months)",
@@ -216,8 +194,8 @@
   "Country": "Dominica",
   "ISO": "DMA",
   "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 36,
@@ -457,9 +435,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Dominica",
   "ISO": "DMA",
-  "value": 29.214,
+  "value": 28.90999984741211,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 73,
@@ -501,9 +479,9 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Dominica",
   "ISO": "DMA",
-  "value": 71808.0,
+  "value": 71991.0,
   "unit": "total",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 89,
@@ -539,17 +517,6 @@
   "year": 2017.0
  },
  {
-  "rank": 95,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Dominica",
-  "ISO": "DMA",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 97,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -567,8 +534,19 @@
   "Policy": "H7_Vaccination policy",
   "Country": "Dominica",
   "ISO": "DMA",
-  "value": 70.786,
-  "unit": "total",
-  "year": 2019.0
+  "value": 71.08999633789062,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 110,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Dominica",
+  "ISO": "DMA",
+  "value": 89.32369232177734,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

@@ -28,9 +28,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Kuwait",
   "ISO": "KWT",
-  "value": 147531.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 395479.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -141,17 +141,6 @@
   "value": 18.8837257964463,
   "unit": "percent of GNI",
   "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Kuwait",
-  "ISO": "KWT",
-  "value": 50.899274182096256,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -286,6 +275,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Kuwait",
+  "ISO": "KWT",
+  "value": 0.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -391,9 +391,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Kuwait",
   "ISO": "KWT",
-  "value": 916.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2303.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 41,
@@ -449,17 +449,6 @@
   "value": 0.0,
   "unit": "percent of total energy",
   "year": 2014.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Kuwait",
-  "ISO": "KWT",
-  "value": 98733.98,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -605,17 +594,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Kuwait",
-  "ISO": "KWT",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -649,6 +627,17 @@
   "year": 2014.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Kuwait",
+  "ISO": "KWT",
+  "value": 32.446842193603516,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 76,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
@@ -680,6 +669,28 @@
   "value": 0.003101,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Kuwait",
+  "ISO": "KWT",
+  "value": 88.39692687988281,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Kuwait",
+  "ISO": "KWT",
+  "value": 4270563.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -726,15 +737,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Kuwait",
   "ISO": "KWT",
-  "value": 438.3084431659656,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 100.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 110,
@@ -755,6 +766,17 @@
   "Country": "Kuwait",
   "ISO": "KWT",
   "value": 6.349206349,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Kuwait",
+  "ISO": "KWT",
+  "value": 737.0,
   "unit": "proportion",
   "year": 2020.0
  }

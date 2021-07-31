@@ -17,9 +17,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 2049.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 5143.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -132,6 +132,17 @@
   "year": 2019.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 2.500999927520752,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 32,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -182,9 +193,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 55.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 90.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 43,
@@ -242,17 +253,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "San Marino",
-  "ISO": "SMR",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 76,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
@@ -273,6 +273,28 @@
   "value": 0.00248,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 87.31099700927734,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "San Marino",
+  "ISO": "SMR",
+  "value": 33938.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -297,15 +319,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "San Marino",
   "ISO": "SMR",
-  "value": 74748.96633195512,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 97.4990005493164,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 101,

@@ -55,17 +55,6 @@
   "year": 2019.0
  },
  {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H2_Testing policy",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 133.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
@@ -85,17 +74,6 @@
   "ISO": "CIV",
   "value": 19.0712,
   "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H2_Testing policy",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 44.52386759278385,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -330,14 +308,14 @@
   "year": 2019.0
  },
  {
-  "rank": 35,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 36,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H2_Testing policy",
   "Country": "Cote d'Ivoire (Ivory Coast)",
   "ISO": "CIV",
-  "value": 89.72267369142226,
-  "unit": "score",
+  "value": 79.82714080810547,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -473,17 +451,6 @@
   "year": 2020.0
  },
  {
-  "rank": 50,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H2_Testing policy",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 9673.546,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 51,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -517,6 +484,17 @@
   "year": 2014.0
  },
  {
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H2_Testing policy",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 26378275.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
@@ -539,26 +517,15 @@
   "year": 2019.0
  },
  {
-  "rank": 57,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H2_Testing policy",
   "Country": "Cote d'Ivoire (Ivory Coast)",
   "ISO": "CIV",
-  "value": 21772.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
+  "value": 2111.0,
+  "unit": "proportion",
   "year": 2020.0
- },
- {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H2_Testing policy",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 66.9911804199219,
-  "unit": "percent of population",
-  "year": 2018.0
  },
  {
   "rank": 61,
@@ -570,6 +537,17 @@
   "value": 6.09,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 63,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 51.70600128173828,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 65,
@@ -724,6 +702,28 @@
   "value": 84.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 48.29399871826172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 90,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H2_Testing policy",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 93.69355773925781,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 92,

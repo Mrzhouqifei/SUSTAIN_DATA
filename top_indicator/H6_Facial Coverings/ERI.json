@@ -50,9 +50,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Eritrea",
   "ISO": "ERI",
-  "value": 741.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 6544.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 7,
@@ -108,17 +108,6 @@
   "value": 2.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 12,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Eritrea",
-  "ISO": "ERI",
-  "value": 711.398,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 13,
@@ -336,9 +325,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Eritrea",
   "ISO": "ERI",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 34.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 43,
@@ -506,17 +495,6 @@
   "year": 2015.0
  },
  {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Eritrea",
-  "ISO": "ERI",
-  "value": 95.8442307280238,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 65,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -572,15 +550,15 @@
   "year": 2017.0
  },
  {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
   "Country": "Eritrea",
   "ISO": "ERI",
-  "value": 49.6155433654785,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 201.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 77,
@@ -658,5 +636,16 @@
   "value": 0.459,
   "unit": "index",
   "year": 2019.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Eritrea",
+  "ISO": "ERI",
+  "value": 52.86281967163086,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

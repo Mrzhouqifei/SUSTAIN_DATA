@@ -11,17 +11,6 @@
   "year": 2019.0
  },
  {
-  "rank": 2,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 39.09976548243396,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 4,
   "Category": "Environment",
   "Indicator": "Electric power consumption ",
@@ -31,17 +20,6 @@
   "value": 103.6833157652163,
   "unit": "kWh per capita",
   "year": 2014.0
- },
- {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 509.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  },
  {
   "rank": 6,
@@ -187,17 +165,6 @@
   "year": 2019.0
  },
  {
-  "rank": 19,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 11972.76,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 20,
   "Category": "Economics",
   "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
@@ -328,17 +295,6 @@
   "value": 65.845909451946,
   "unit": "percent of total",
   "year": 2015.0
- },
- {
-  "rank": 34,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 21.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  },
  {
   "rank": 35,
@@ -506,17 +462,6 @@
   "year": 2019.0
  },
  {
-  "rank": 51,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 78.14413662466475,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 52,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -671,6 +616,28 @@
   "year": 2019.0
  },
  {
+  "rank": 70,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 234655.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 72,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 64.77300262451172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 73,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
@@ -726,6 +693,17 @@
   "year": 2014.0
  },
  {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 85.86675262451172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 82,
   "Category": "Environment",
   "Indicator": "Energy use ",
@@ -756,6 +734,17 @@
   "ISO": "TZA",
   "value": 32.0,
   "unit": "percent",
+  "year": 2020.0
+ },
+ {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 59734213.0,
+  "unit": "total",
   "year": 2020.0
  },
  {
@@ -792,17 +781,6 @@
   "year": 2017.0
  },
  {
-  "rank": 95,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Tanzania",
-  "ISO": "TZA",
-  "value": 35.5589790344238,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 97,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -812,5 +790,27 @@
   "value": 0.036268,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 35.22700119018555,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 110,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Tanzania",
+  "ISO": "TZA",
+  "value": 74.39871978759766,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

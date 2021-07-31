@@ -39,9 +39,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Netherlands",
   "ISO": "NLD",
-  "value": 664307.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1859199.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -152,17 +152,6 @@
   "value": 19.1860678417727,
   "unit": "percent of GNI",
   "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Netherlands",
-  "ISO": "NLD",
-  "value": 22.859835187501513,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -297,6 +286,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Netherlands",
+  "ISO": "NLD",
+  "value": 7.763999938964844,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -402,9 +402,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "Netherlands",
   "ISO": "NLD",
-  "value": 10398.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 17815.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 41,
@@ -460,17 +460,6 @@
   "value": 1.612769,
   "unit": "percent of total energy",
   "year": 2015.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Netherlands",
-  "ISO": "NLD",
-  "value": 170779.5,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -627,17 +616,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Netherlands",
-  "ISO": "NLD",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -682,6 +660,17 @@
   "year": 2015.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Netherlands",
+  "ISO": "NLD",
+  "value": 55.609275817871094,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 76,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
@@ -713,6 +702,28 @@
   "value": 0.000867,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Netherlands",
+  "ISO": "NLD",
+  "value": 94.33849334716797,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "Netherlands",
+  "ISO": "NLD",
+  "value": 17441139.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -770,15 +781,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "Netherlands",
   "ISO": "NLD",
-  "value": 130369.8468514988,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 92.23600006103516,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 110,
@@ -799,6 +810,17 @@
   "Country": "Netherlands",
   "ISO": "NLD",
   "value": 33.33333333,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Netherlands",
+  "ISO": "NLD",
+  "value": 78911.0,
   "unit": "proportion",
   "year": 2020.0
  }

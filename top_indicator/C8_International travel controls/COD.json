@@ -11,17 +11,6 @@
   "year": 2019.0
  },
  {
-  "rank": 3,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C8_International travel controls",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 15087.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 4,
   "Category": "Economics",
   "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
@@ -231,17 +220,6 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C8_International travel controls",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 2020.517,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 28,
   "Category": "Environment",
   "Indicator": "Adjusted net savings, including particulate emission damage",
@@ -407,17 +385,6 @@
   "year": 2018.0
  },
  {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C8_International travel controls",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 109.39462095485345,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 46,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
@@ -460,17 +427,6 @@
   "value": -1.538931,
   "unit": "score",
   "year": 2019.0
- },
- {
-  "rank": 53,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C8_International travel controls",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 366.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  },
  {
   "rank": 54,
@@ -583,6 +539,17 @@
   "year": 2019.0
  },
  {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 54.36199951171875,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "Combustible renewables and waste",
@@ -638,15 +605,15 @@
   "year": 2015.0
  },
  {
-  "rank": 77,
+  "rank": 78,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "C8_International travel controls",
   "Country": "Congo (Dem. Rep.)",
   "ISO": "COD",
-  "value": 3.030283233430196,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 45.63800048828125,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 79,
@@ -671,6 +638,17 @@
   "year": 2019.0
  },
  {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C8_International travel controls",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 89561404.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 84,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
@@ -679,17 +657,6 @@
   "ISO": "COD",
   "value": 1.1101,
   "unit": "Ones",
-  "year": 2018.0
- },
- {
-  "rank": 85,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C8_International travel controls",
-  "Country": "Congo (Dem. Rep.)",
-  "ISO": "COD",
-  "value": 18.9776611328125,
-  "unit": "percent of population",
   "year": 2018.0
  },
  {
@@ -715,6 +682,28 @@
   "year": 2019.0
  },
  {
+  "rank": 88,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C8_International travel controls",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 490243.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 94,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C8_International travel controls",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 91.62606048583984,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 95,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
@@ -724,5 +713,16 @@
   "value": 5.42,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Congo (Dem. Rep.)",
+  "ISO": "COD",
+  "value": 95.36538696289062,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

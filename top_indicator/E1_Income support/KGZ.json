@@ -28,9 +28,9 @@
   "Policy": "E1_Income support",
   "Country": "Kyrgyzstan",
   "ISO": "KGZ",
-  "value": 78911.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 161973.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -152,17 +152,6 @@
   "value": 137.7360572554588,
   "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
   "year": 2014.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Kyrgyzstan",
-  "ISO": "KGZ",
-  "value": 287.9090585265375,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 18,
@@ -374,26 +363,15 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Kyrgyzstan",
-  "ISO": "KGZ",
-  "value": 9787.223,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 39,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Kyrgyzstan",
   "ISO": "KGZ",
-  "value": 1328.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2311.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 40,
@@ -462,17 +440,6 @@
   "year": 2019.0
  },
  {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E1_Income support",
-  "Country": "Kyrgyzstan",
-  "ISO": "KGZ",
-  "value": 73.92936357080953,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 47,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
@@ -514,6 +481,17 @@
   "ISO": "KGZ",
   "value": 31.0,
   "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Kyrgyzstan",
+  "ISO": "KGZ",
+  "value": 63.14400100708008,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -814,6 +792,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Kyrgyzstan",
+  "ISO": "KGZ",
+  "value": 6591600.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -891,6 +880,39 @@
   "year": 2018.0
  },
  {
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Kyrgyzstan",
+  "ISO": "KGZ",
+  "value": 36.85599899291992,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Kyrgyzstan",
+  "ISO": "KGZ",
+  "value": 59.68506622314453,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Kyrgyzstan",
+  "ISO": "KGZ",
+  "value": 93.02397155761719,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 104,
   "Category": "Economics",
   "Indicator": "Foreign direct investment, net",
@@ -900,6 +922,17 @@
   "value": 144222600.0,
   "unit": "US Dollar",
   "year": 2018.0
+ },
+ {
+  "rank": 105,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E1_Income support",
+  "Country": "Kyrgyzstan",
+  "ISO": "KGZ",
+  "value": 334.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 107,
@@ -922,16 +955,5 @@
   "value": 18.99675,
   "unit": "percent per annum",
   "year": 2019.0
- },
- {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E1_Income support",
-  "Country": "Kyrgyzstan",
-  "ISO": "KGZ",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
  }
 ]

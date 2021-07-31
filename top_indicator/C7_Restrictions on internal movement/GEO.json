@@ -50,9 +50,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Georgia",
   "ISO": "GEO",
-  "value": 206907.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 416338.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 8,
@@ -185,17 +185,6 @@
   "value": 4.7293,
   "unit": "Ones",
   "year": 2018.0
- },
- {
-  "rank": 20,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Georgia",
-  "ISO": "GEO",
-  "value": 10128.25,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 21,
@@ -550,17 +539,6 @@
   "year": 2018.0
  },
  {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Georgia",
-  "ISO": "GEO",
-  "value": 2776.327807198293,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -614,6 +592,28 @@
   "value": 0.4,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Georgia",
+  "ISO": "GEO",
+  "value": 59.452999114990234,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Georgia",
+  "ISO": "GEO",
+  "value": 54.97562026977539,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 62,
@@ -732,9 +732,9 @@
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Georgia",
   "ISO": "GEO",
-  "value": 2055.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 5793.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -781,6 +781,17 @@
   "year": 2020.0
  },
  {
+  "rank": 78,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Georgia",
+  "ISO": "GEO",
+  "value": 3714000.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 79,
   "Category": "Economics",
   "Indicator": "Expenditure on health (% of GDP)",
@@ -803,14 +814,14 @@
   "year": 2016.0
  },
  {
-  "rank": 82,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Georgia",
   "ISO": "GEO",
-  "value": 71.15229518395927,
-  "unit": "score",
+  "value": 40.547000885009766,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -836,6 +847,17 @@
   "year": 2019.0
  },
  {
+  "rank": 89,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Georgia",
+  "ISO": "GEO",
+  "value": 99.61763763427734,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
   "rank": 90,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -856,6 +878,17 @@
   "value": 18.6,
   "unit": "percent",
   "year": 2016.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Georgia",
+  "ISO": "GEO",
+  "value": 1800.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 100,
@@ -911,16 +944,5 @@
   "value": 3269000000.0,
   "unit": "US Dollar",
   "year": 2019.0
- },
- {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Georgia",
-  "ISO": "GEO",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
  }
 ]

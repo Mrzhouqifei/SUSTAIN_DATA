@@ -39,9 +39,9 @@
   "Policy": "E1_Income support",
   "Country": "Vanuatu",
   "ISO": "VUT",
-  "value": 1.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 3.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 5,
@@ -96,17 +96,6 @@
   "ISO": "VUT",
   "value": 1.59119,
   "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Vanuatu",
-  "ISO": "VUT",
-  "value": 350.1377208368625,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -253,17 +242,6 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Vanuatu",
-  "ISO": "VUT",
-  "value": 146.68,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 38,
   "Category": "Demographics",
   "Indicator": "People with basic handwashing facilities including soap and water (% of population)",
@@ -282,8 +260,8 @@
   "Country": "Vanuatu",
   "ISO": "VUT",
   "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 42,
@@ -369,9 +347,9 @@
   "Policy": "E1_Income support",
   "Country": "Vanuatu",
   "ISO": "VUT",
-  "value": 74.606,
+  "value": 74.4749984741211,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 53,
@@ -600,9 +578,9 @@
   "Policy": "E1_Income support",
   "Country": "Vanuatu",
   "ISO": "VUT",
-  "value": 299882.0,
+  "value": 307150.0,
   "unit": "total",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
   "rank": 88,
@@ -666,9 +644,9 @@
   "Policy": "E1_Income support",
   "Country": "Vanuatu",
   "ISO": "VUT",
-  "value": 25.394,
-  "unit": "total",
-  "year": 2019.0
+  "value": 25.524999618530273,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 97,
@@ -677,9 +655,20 @@
   "Policy": "E1_Income support",
   "Country": "Vanuatu",
   "ISO": "VUT",
-  "value": 73.39030482445996,
+  "value": 72.4699478149414,
   "unit": "proportion",
-  "year": 2019.0
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Vanuatu",
+  "ISO": "VUT",
+  "value": 81.47284698486328,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 104,
@@ -724,16 +713,5 @@
   "value": 44.1303256181251,
   "unit": "proportion",
   "year": 2017.0
- },
- {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "E1_Income support",
-  "Country": "Vanuatu",
-  "ISO": "VUT",
-  "value": 61.8647689819336,
-  "unit": "percent of population",
-  "year": 2018.0
  }
 ]

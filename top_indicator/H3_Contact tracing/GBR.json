@@ -33,17 +33,6 @@
   "year": 2018.0
  },
  {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 1977171.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 6,
   "Category": "Demographics",
   "Indicator": "Fixed telephone subscriptions",
@@ -152,17 +141,6 @@
   "value": 3.0392590611375,
   "unit": "percent of GNI",
   "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 38.260475361020404,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -297,6 +275,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 16.097000122070312,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -396,17 +385,6 @@
   "year": 2021.0
  },
  {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 66541.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 42,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -438,17 +416,6 @@
   "value": 2.79409,
   "unit": "percent of total energy",
   "year": 2015.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 379024.8,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -594,17 +561,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -638,6 +594,17 @@
   "year": 2015.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 57.06137466430664,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 76,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
@@ -658,6 +625,28 @@
   "value": 0.001117,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 94.57843780517578,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 67215293.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -726,15 +715,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "United Kingdom",
   "ISO": "GBR",
-  "value": 35989.50271196399,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 83.90299987792969,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 101,
@@ -766,6 +755,17 @@
   "Country": "United Kingdom",
   "ISO": "GBR",
   "value": 33.84615385,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 132349.0,
   "unit": "proportion",
   "year": 2020.0
  }

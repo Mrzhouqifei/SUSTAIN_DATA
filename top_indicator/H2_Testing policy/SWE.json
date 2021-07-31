@@ -72,9 +72,9 @@
   "Policy": "H2_Testing policy",
   "Country": "Sweden",
   "ISO": "SWE",
-  "value": 7993.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 14656.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 9,
@@ -96,17 +96,6 @@
   "ISO": "SWE",
   "value": 19.75948,
   "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H2_Testing policy",
-  "Country": "Sweden",
-  "ISO": "SWE",
-  "value": 25671.88824838342,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -341,14 +330,14 @@
   "year": 2019.0
  },
  {
-  "rank": 35,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 36,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H2_Testing policy",
   "Country": "Sweden",
   "ISO": "SWE",
-  "value": 18.209201949895153,
-  "unit": "score",
+  "value": 61.16654586791992,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -473,17 +462,6 @@
   "year": 2019.0
  },
  {
-  "rank": 50,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H2_Testing policy",
-  "Country": "Sweden",
-  "ISO": "SWE",
-  "value": 43252.27,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 51,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -504,6 +482,17 @@
   "value": 13480.14822439102,
   "unit": "kWh per capita",
   "year": 2014.0
+ },
+ {
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H2_Testing policy",
+  "Country": "Sweden",
+  "ISO": "SWE",
+  "value": 10353442.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 55,
@@ -534,20 +523,20 @@
   "Policy": "H2_Testing policy",
   "Country": "Sweden",
   "ISO": "SWE",
-  "value": 367120.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1099414.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H2_Testing policy",
   "Country": "Sweden",
   "ISO": "SWE",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 248425.0,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 61,
@@ -559,6 +548,17 @@
   "value": 7.58,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 63,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Sweden",
+  "ISO": "SWE",
+  "value": 87.97699737548828,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 64,
@@ -713,6 +713,28 @@
   "value": 98.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Sweden",
+  "ISO": "SWE",
+  "value": 12.02299976348877,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 90,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H2_Testing policy",
+  "Country": "Sweden",
+  "ISO": "SWE",
+  "value": 93.11173248291016,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 92,

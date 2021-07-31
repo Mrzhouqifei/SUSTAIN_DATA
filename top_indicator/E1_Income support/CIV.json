@@ -22,17 +22,6 @@
   "year": 2019.0
  },
  {
-  "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "E1_Income support",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 21772.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
@@ -130,17 +119,6 @@
   "value": 147.200682207191,
   "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
   "year": 2014.0
- },
- {
-  "rank": 17,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "E1_Income support",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 44.52386759278385,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 18,
@@ -330,28 +308,6 @@
   "year": 2021.0
  },
  {
-  "rank": 37,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "E1_Income support",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 9673.546,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
-  "rank": 39,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "E1_Income support",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 133.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 40,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -396,17 +352,6 @@
   "year": 2019.0
  },
  {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "E1_Income support",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 89.72267369142226,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 47,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
@@ -448,6 +393,17 @@
   "ISO": "CIV",
   "value": 36.0,
   "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 48.29399871826172,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -715,6 +671,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 26378275.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -759,14 +726,47 @@
   "year": 2014.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "E1_Income support",
   "Country": "Cote d'Ivoire (Ivory Coast)",
   "ISO": "CIV",
-  "value": 66.9911804199219,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 51.70600128173828,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 97,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "E1_Income support",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 79.82714080810547,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "E1_Income support",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 93.69355773925781,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E1_Income support",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 2111.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

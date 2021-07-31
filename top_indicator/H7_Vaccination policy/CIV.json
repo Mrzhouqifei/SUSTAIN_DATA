@@ -11,17 +11,6 @@
   "year": 2019.0
  },
  {
-  "rank": 2,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 44.52386759278385,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 4,
   "Category": "Environment",
   "Indicator": "Electric power consumption ",
@@ -31,17 +20,6 @@
   "value": 274.7300904909346,
   "unit": "kWh per capita",
   "year": 2014.0
- },
- {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 21772.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  },
  {
   "rank": 6,
@@ -187,17 +165,6 @@
   "year": 2019.0
  },
  {
-  "rank": 19,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 9673.546,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 20,
   "Category": "Economics",
   "Indicator": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
@@ -330,17 +297,6 @@
   "year": 2015.0
  },
  {
-  "rank": 34,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 133.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 36,
   "Category": "Health",
   "Indicator": "Physicians (per 1,000 people)",
@@ -471,17 +427,6 @@
   "value": 137.0,
   "unit": "Cases",
   "year": 2019.0
- },
- {
-  "rank": 51,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 89.72267369142226,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 52,
@@ -638,6 +583,28 @@
   "year": 2019.0
  },
  {
+  "rank": 70,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 2111.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 72,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 48.29399871826172,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 73,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
@@ -693,6 +660,17 @@
   "year": 2014.0
  },
  {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 79.82714080810547,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 82,
   "Category": "Environment",
   "Indicator": "Energy use ",
@@ -726,6 +704,17 @@
   "year": 2020.0
  },
  {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 26378275.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 91,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -748,17 +737,6 @@
   "year": 2017.0
  },
  {
-  "rank": 95,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Cote d'Ivoire (Ivory Coast)",
-  "ISO": "CIV",
-  "value": 66.9911804199219,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 97,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -768,5 +746,27 @@
   "value": 0.042406,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 104,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 51.70600128173828,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 110,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Cote d'Ivoire (Ivory Coast)",
+  "ISO": "CIV",
+  "value": 93.69355773925781,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

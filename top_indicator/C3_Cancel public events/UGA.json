@@ -127,9 +127,9 @@
   "Policy": "C3_Cancel public events",
   "Country": "Uganda",
   "ISO": "UGA",
-  "value": 230.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2632.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 17,
@@ -264,17 +264,6 @@
   "year": 2018.0
  },
  {
-  "rank": 31,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C3_Cancel public events",
-  "Country": "Uganda",
-  "ISO": "UGA",
-  "value": 5680.183,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 32,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -283,17 +272,6 @@
   "ISO": "UGA",
   "value": -0.6457884,
   "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 33,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C3_Cancel public events",
-  "Country": "Uganda",
-  "ISO": "UGA",
-  "value": 21.97896822817033,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -418,6 +396,17 @@
   "year": 2018.0
  },
  {
+  "rank": 46,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C3_Cancel public events",
+  "Country": "Uganda",
+  "ISO": "UGA",
+  "value": 1421133.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 47,
   "Category": "Governance",
   "Indicator": "Total freedom in the world score ",
@@ -468,9 +457,9 @@
   "Policy": "C3_Cancel public events",
   "Country": "Uganda",
   "ISO": "UGA",
-  "value": 30071.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 93282.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 58,
@@ -550,6 +539,17 @@
   "year": 2016.0
  },
  {
+  "rank": 69,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Uganda",
+  "ISO": "UGA",
+  "value": 24.95400047302246,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 70,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Political Rights category",
@@ -583,17 +583,6 @@
   "year": 2019.0
  },
  {
-  "rank": 76,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C3_Cancel public events",
-  "Country": "Uganda",
-  "ISO": "UGA",
-  "value": 92.7703684743757,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 78,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
@@ -616,15 +605,26 @@
   "year": 2018.0
  },
  {
-  "rank": 84,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
   "Policy": "C3_Cancel public events",
   "Country": "Uganda",
   "ISO": "UGA",
-  "value": 42.65,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 45741000.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 82,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Uganda",
+  "ISO": "UGA",
+  "value": 92.31354522705078,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 85,
@@ -680,6 +680,28 @@
   "value": 100.0,
   "unit": "percent of total",
   "year": 2017.0
+ },
+ {
+  "rank": 107,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Uganda",
+  "ISO": "UGA",
+  "value": 71.38371276855469,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 109,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Uganda",
+  "ISO": "UGA",
+  "value": 75.0459976196289,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 110,

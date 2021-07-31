@@ -253,6 +253,17 @@
   "year": 2017.0
  },
  {
+  "rank": 26,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C2_Workplace closing",
+  "Country": "Mozambique",
+  "ISO": "MOZ",
+  "value": 31255435.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 27,
   "Category": "Economics",
   "Indicator": "Volume of imports",
@@ -273,17 +284,6 @@
   "value": 77.0540009,
   "unit": "Percentage of females of the total population",
   "year": 2020.0
- },
- {
-  "rank": 29,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Mozambique",
-  "ISO": "MOZ",
-  "value": 20.51634266652388,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 30,
@@ -407,26 +407,15 @@
   "year": 2014.0
  },
  {
-  "rank": 41,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Mozambique",
-  "ISO": "MOZ",
-  "value": 91.69371296150742,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C2_Workplace closing",
   "Country": "Mozambique",
   "ISO": "MOZ",
-  "value": 145.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1388.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 44,
@@ -471,17 +460,6 @@
   "value": 5.94,
   "unit": "score",
   "year": 2018.0
- },
- {
-  "rank": 49,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Mozambique",
-  "ISO": "MOZ",
-  "value": 7942.722,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 50,
@@ -710,9 +688,9 @@
   "Policy": "C2_Workplace closing",
   "Country": "Mozambique",
   "ISO": "MOZ",
-  "value": 17256.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 117660.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -748,6 +726,17 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Mozambique",
+  "ISO": "MOZ",
+  "value": 62.92599868774414,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Environment",
   "Indicator": "Energy use ",
@@ -757,6 +746,17 @@
   "value": 363.7078102110269,
   "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
   "year": 2014.0
+ },
+ {
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Mozambique",
+  "ISO": "MOZ",
+  "value": 37.07400131225586,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 85,
@@ -770,6 +770,17 @@
   "year": 2018.0
  },
  {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C2_Workplace closing",
+  "Country": "Mozambique",
+  "ISO": "MOZ",
+  "value": 4757.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 89,
   "Category": "Governance",
   "Indicator": "CPIA transparency, accountability, and corruption in the public sector rating (1=low to 6=high)",
@@ -781,14 +792,25 @@
   "year": 2019.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 102,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "C2_Workplace closing",
   "Country": "Mozambique",
   "ISO": "MOZ",
-  "value": 31.1,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 88.41124725341797,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 111,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Mozambique",
+  "ISO": "MOZ",
+  "value": 69.26071166992188,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

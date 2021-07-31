@@ -44,17 +44,6 @@
   "year": 2019.0
  },
  {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 1977171.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 6,
   "Category": "Social issues ",
   "Indicator": "Proportion of seats held by women in national parliaments (%)",
@@ -407,17 +396,6 @@
   "year": 2018.0
  },
  {
-  "rank": 38,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 38.260475361020404,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 39,
   "Category": "Governance",
   "Indicator": "Personal Freedom Score ",
@@ -449,17 +427,6 @@
   "value": 7.063600063323975,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 42,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 379024.8,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 43,
@@ -514,17 +481,6 @@
   "ISO": "GBR",
   "value": 0.050213,
   "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 50,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 35989.50271196399,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -616,6 +572,17 @@
   "year": 2015.0
  },
  {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 16.097000122070312,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 65,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -671,17 +638,6 @@
   "year": 2016.0
  },
  {
-  "rank": 71,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 72,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
@@ -691,17 +647,6 @@
   "value": 1.774812,
   "unit": "score",
   "year": 2019.0
- },
- {
-  "rank": 74,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "United Kingdom",
-  "ISO": "GBR",
-  "value": 66541.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
  },
  {
   "rank": 79,
@@ -724,6 +669,28 @@
   "value": 10.47269,
   "unit": "micrograms per cubic meter",
   "year": 2017.0
+ },
+ {
+  "rank": 83,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 132349.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 57.06137466430664,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 89,
@@ -756,6 +723,39 @@
   "ISO": "GBR",
   "value": 1416933.0,
   "unit": "Number (cumulative total by Dec 26,2020)",
+  "year": 2020.0
+ },
+ {
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 67215293.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 98,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 83.90299987792969,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "United Kingdom",
+  "ISO": "GBR",
+  "value": 94.57843780517578,
+  "unit": "Score",
   "year": 2020.0
  },
  {

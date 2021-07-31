@@ -55,17 +55,6 @@
   "year": 2019.0
  },
  {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H2_Testing policy",
-  "Country": "Syria",
-  "ISO": "SYR",
-  "value": 591.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
- },
- {
   "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
@@ -85,17 +74,6 @@
   "ISO": "SYR",
   "value": 32.0904,
   "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H2_Testing policy",
-  "Country": "Syria",
-  "ISO": "SYR",
-  "value": 22.61259210896692,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -308,14 +286,14 @@
   "year": 2019.0
  },
  {
-  "rank": 35,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
+  "rank": 36,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H2_Testing policy",
   "Country": "Syria",
   "ISO": "SYR",
-  "value": 110.74969653593257,
-  "unit": "score",
+  "value": 55.39793014526367,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
@@ -440,17 +418,6 @@
   "year": 2020.0
  },
  {
-  "rank": 50,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H2_Testing policy",
-  "Country": "Syria",
-  "ISO": "SYR",
-  "value": 28829.95,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 51,
   "Category": "Environment",
   "Indicator": "Fossil fuel energy consumption",
@@ -484,6 +451,17 @@
   "year": 2014.0
  },
  {
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H2_Testing policy",
+  "Country": "Syria",
+  "ISO": "SYR",
+  "value": 17500657.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
@@ -506,26 +484,15 @@
   "year": 2019.0
  },
  {
-  "rank": 57,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H2_Testing policy",
   "Country": "Syria",
   "ISO": "SYR",
-  "value": 9928.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
+  "value": 584059.0,
+  "unit": "proportion",
   "year": 2020.0
- },
- {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H2_Testing policy",
-  "Country": "Syria",
-  "ISO": "SYR",
-  "value": 86.0,
-  "unit": "percent of population",
-  "year": 2018.0
  },
  {
   "rank": 61,
@@ -537,6 +504,17 @@
   "value": 5.45,
   "unit": "score",
   "year": 2018.0
+ },
+ {
+  "rank": 63,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Syria",
+  "ISO": "SYR",
+  "value": 55.474998474121094,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 64,
@@ -680,6 +658,28 @@
   "value": 54.0,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Syria",
+  "ISO": "SYR",
+  "value": 44.525001525878906,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 90,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H2_Testing policy",
+  "Country": "Syria",
+  "ISO": "SYR",
+  "value": 80.1351318359375,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 95,

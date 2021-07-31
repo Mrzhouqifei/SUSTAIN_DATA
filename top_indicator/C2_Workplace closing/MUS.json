@@ -253,6 +253,17 @@
   "year": 2017.0
  },
  {
+  "rank": 26,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C2_Workplace closing",
+  "Country": "Mauritius",
+  "ISO": "MUS",
+  "value": 1265740.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 27,
   "Category": "Economics",
   "Indicator": "Volume of imports",
@@ -273,17 +284,6 @@
   "value": 45.1290016,
   "unit": "Percentage of females of the total population",
   "year": 2020.0
- },
- {
-  "rank": 29,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Mauritius",
-  "ISO": "MUS",
-  "value": 515.1254907320865,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 30,
@@ -407,26 +407,15 @@
   "year": 2014.0
  },
  {
-  "rank": 41,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Mauritius",
-  "ISO": "MUS",
-  "value": 37.18472003299283,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C2_Workplace closing",
   "Country": "Mauritius",
   "ISO": "MUS",
-  "value": 10.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 19.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 44,
@@ -471,17 +460,6 @@
   "value": 8.21,
   "unit": "score",
   "year": 2018.0
- },
- {
-  "rank": 49,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Mauritius",
-  "ISO": "MUS",
-  "value": 4349.062,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 50,
@@ -721,9 +699,9 @@
   "Policy": "C2_Workplace closing",
   "Country": "Mauritius",
   "ISO": "MUS",
-  "value": 524.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 3913.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -759,6 +737,17 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Mauritius",
+  "ISO": "MUS",
+  "value": 59.2400016784668,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Environment",
   "Indicator": "Energy use ",
@@ -768,6 +757,17 @@
   "value": 57.765550292607,
   "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
   "year": 2014.0
+ },
+ {
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Mauritius",
+  "ISO": "MUS",
+  "value": 40.7599983215332,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 85,
@@ -781,14 +781,36 @@
   "year": 2018.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C2_Workplace closing",
   "Country": "Mauritius",
   "ISO": "MUS",
-  "value": 97.4660034179688,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 20.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 102,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Mauritius",
+  "ISO": "MUS",
+  "value": 41.45243453979492,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 111,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Mauritius",
+  "ISO": "MUS",
+  "value": 94.48123168945312,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

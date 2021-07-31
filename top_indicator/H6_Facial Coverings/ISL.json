@@ -50,9 +50,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Iceland",
   "ISO": "ISL",
-  "value": 5604.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 7801.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -119,17 +119,6 @@
   "value": 94.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 12,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Iceland",
-  "ISO": "ISL",
-  "value": 2064.521,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 13,
@@ -253,17 +242,6 @@
   "year": 2015.0
  },
  {
-  "rank": 25,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Iceland",
-  "ISO": "ISL",
-  "value": 70758.594348944,
-  "unit": "per 1 million people",
-  "year": 2019.0
- },
- {
   "rank": 26,
   "Category": "Economics",
   "Indicator": "Volume of exports",
@@ -328,6 +306,17 @@
   "value": 0.072034,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Iceland",
+  "ISO": "ISL",
+  "value": 93.89800262451172,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 33,
@@ -424,9 +413,9 @@
   "Policy": "H6_Facial Coverings",
   "Country": "Iceland",
   "ISO": "ISL",
-  "value": 28.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 30.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 43,
@@ -594,6 +583,17 @@
   "year": 2019.0
  },
  {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Iceland",
+  "ISO": "ISL",
+  "value": 6.1020002365112305,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 60,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
@@ -614,17 +614,6 @@
   "value": 0.0212777275386989,
   "unit": "percent of total",
   "year": 2015.0
- },
- {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Iceland",
-  "ISO": "ISL",
-  "value": 17.799999999999997,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 65,
@@ -704,6 +693,17 @@
   "year": 2018.0
  },
  {
+  "rank": 74,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Iceland",
+  "ISO": "ISL",
+  "value": 1510.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 75,
   "Category": "Economics",
   "Indicator": "Central government debt, total",
@@ -713,17 +713,6 @@
   "value": 73.52782995610531,
   "unit": "percent of GDP",
   "year": 2016.0
- },
- {
-  "rank": 76,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Iceland",
-  "ISO": "ISL",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
  },
  {
   "rank": 77,
@@ -746,6 +735,17 @@
   "value": 1.766924,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Iceland",
+  "ISO": "ISL",
+  "value": 366425.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 88,
@@ -779,5 +779,27 @@
   "value": 0.949,
   "unit": "index",
   "year": 2019.0
+ },
+ {
+  "rank": 99,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Iceland",
+  "ISO": "ISL",
+  "value": 53.9555549621582,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Iceland",
+  "ISO": "ISL",
+  "value": 90.649658203125,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

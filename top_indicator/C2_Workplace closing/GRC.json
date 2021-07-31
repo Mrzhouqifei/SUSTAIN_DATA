@@ -253,6 +253,17 @@
   "year": 2017.0
  },
  {
+  "rank": 26,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C2_Workplace closing",
+  "Country": "Greece",
+  "ISO": "GRC",
+  "value": 10715549.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
   "rank": 27,
   "Category": "Economics",
   "Indicator": "Volume of imports",
@@ -273,17 +284,6 @@
   "value": 43.9070015,
   "unit": "Percentage of females of the total population",
   "year": 2020.0
- },
- {
-  "rank": 29,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Greece",
-  "ISO": "GRC",
-  "value": 6650.60269745534,
-  "unit": "per 1 million people",
-  "year": 2019.0
  },
  {
   "rank": 30,
@@ -407,26 +407,15 @@
   "year": 2015.0
  },
  {
-  "rank": 41,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Greece",
-  "ISO": "GRC",
-  "value": 52.14869722028766,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 42,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C2_Workplace closing",
   "Country": "Greece",
   "ISO": "GRC",
-  "value": 4044.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 12935.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 44,
@@ -471,17 +460,6 @@
   "value": 15.08,
   "unit": "rate",
   "year": 2018.0
- },
- {
-  "rank": 49,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Greece",
-  "ISO": "GRC",
-  "value": 62434.34,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 50,
@@ -721,9 +699,9 @@
   "Policy": "C2_Workplace closing",
   "Country": "Greece",
   "ISO": "GRC",
-  "value": 129584.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 487709.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 74,
@@ -759,6 +737,17 @@
   "year": 2019.0
  },
  {
+  "rank": 79,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Greece",
+  "ISO": "GRC",
+  "value": 20.28499984741211,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 81,
   "Category": "Environment",
   "Indicator": "Energy use ",
@@ -768,6 +757,17 @@
   "value": 77.78831330115128,
   "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
   "year": 2015.0
+ },
+ {
+  "rank": 84,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Greece",
+  "ISO": "GRC",
+  "value": 79.71499633789062,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 85,
@@ -781,14 +781,36 @@
   "year": 2018.0
  },
  {
-  "rank": 117,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C2_Workplace closing",
   "Country": "Greece",
   "ISO": "GRC",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 103136.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 102,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Greece",
+  "ISO": "GRC",
+  "value": 56.10441970825195,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 111,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Greece",
+  "ISO": "GRC",
+  "value": 95.99593353271484,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

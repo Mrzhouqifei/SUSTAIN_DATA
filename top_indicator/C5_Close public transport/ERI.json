@@ -61,9 +61,9 @@
   "Policy": "C5_Close public transport",
   "Country": "Eritrea",
   "ISO": "ERI",
-  "value": 741.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 6544.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 10,
@@ -209,17 +209,6 @@
   "year": 2019.0
  },
  {
-  "rank": 27,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C5_Close public transport",
-  "Country": "Eritrea",
-  "ISO": "ERI",
-  "value": 95.8442307280238,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 30,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
@@ -248,9 +237,9 @@
   "Policy": "C5_Close public transport",
   "Country": "Eritrea",
   "ISO": "ERI",
-  "value": 0.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 34.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 36,
@@ -451,17 +440,6 @@
   "year": 2020.0
  },
  {
-  "rank": 58,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C5_Close public transport",
-  "Country": "Eritrea",
-  "ISO": "ERI",
-  "value": 711.398,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 59,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
@@ -526,17 +504,6 @@
   "value": 100.0,
   "unit": "percent of total",
   "year": 2017.0
- },
- {
-  "rank": 70,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C5_Close public transport",
-  "Country": "Eritrea",
-  "ISO": "ERI",
-  "value": 49.6155433654785,
-  "unit": "percent of population",
-  "year": 2018.0
  },
  {
   "rank": 74,
@@ -605,6 +572,17 @@
   "year": 2021.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C5_Close public transport",
+  "Country": "Eritrea",
+  "ISO": "ERI",
+  "value": 201.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 88,
   "Category": "Environment",
   "Indicator": "Electricity production from oil, gas and coal sources",
@@ -658,5 +636,16 @@
   "value": 22.0,
   "unit": "proportion",
   "year": 2019.0
+ },
+ {
+  "rank": 113,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C5_Close public transport",
+  "Country": "Eritrea",
+  "ISO": "ERI",
+  "value": 52.86281967163086,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

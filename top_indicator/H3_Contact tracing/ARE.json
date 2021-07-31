@@ -39,9 +39,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "United Arab Emirates",
   "ISO": "ARE",
-  "value": 191150.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 677801.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -141,17 +141,6 @@
   "value": 31.1749,
   "unit": "per 100 people",
   "year": 2019.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "H3_Contact tracing",
-  "Country": "United Arab Emirates",
-  "ISO": "ARE",
-  "value": 38.099225116036195,
-  "unit": "score",
-  "year": 2020.0
  },
  {
   "rank": 18,
@@ -286,6 +275,17 @@
   "year": 2020.0
  },
  {
+  "rank": 30,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "United Arab Emirates",
+  "ISO": "ARE",
+  "value": 12.95199966430664,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 31,
   "Category": "Governance",
   "Indicator": "Human Freedom Score ",
@@ -391,9 +391,9 @@
   "Policy": "H3_Contact tracing",
   "Country": "United Arab Emirates",
   "ISO": "ARE",
-  "value": 630.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 1939.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 41,
@@ -438,17 +438,6 @@
   "value": 0.066806,
   "unit": "percent of total energy",
   "year": 2014.0
- },
- {
-  "rank": 47,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "H3_Contact tracing",
-  "Country": "United Arab Emirates",
-  "ISO": "ARE",
-  "value": 206323.8,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 48,
@@ -605,17 +594,6 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "H3_Contact tracing",
-  "Country": "United Arab Emirates",
-  "ISO": "ARE",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 68,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
@@ -649,6 +627,17 @@
   "year": 2014.0
  },
  {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "United Arab Emirates",
+  "ISO": "ARE",
+  "value": 19.15896224975586,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 76,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
@@ -669,6 +658,28 @@
   "value": 0.002051,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H3_Contact tracing",
+  "Country": "United Arab Emirates",
+  "ISO": "ARE",
+  "value": 94.76119232177734,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H3_Contact tracing",
+  "Country": "United Arab Emirates",
+  "ISO": "ARE",
+  "value": 9890400.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 81,
@@ -726,15 +737,15 @@
   "year": 2021.0
  },
  {
-  "rank": 99,
+  "rank": 96,
   "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
   "Country": "United Arab Emirates",
   "ISO": "ARE",
-  "value": 1912.076613251954,
-  "unit": "per 1 million people",
-  "year": 2019.0
+  "value": 87.0479965209961,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 110,
@@ -746,5 +757,16 @@
   "value": 0.8402188,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 116,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "United Arab Emirates",
+  "ISO": "ARE",
+  "value": 1330.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

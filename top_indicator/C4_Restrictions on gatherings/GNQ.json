@@ -50,9 +50,9 @@
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 5214.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 8880.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 6,
@@ -308,17 +308,6 @@
   "year": 2017.0
  },
  {
-  "rank": 38,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 83.01620385538543,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 40,
   "Category": "Environment",
   "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
@@ -328,17 +317,6 @@
   "value": 100.0,
   "unit": "percent of total",
   "year": 2017.0
- },
- {
-  "rank": 42,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 5654.514,
-  "unit": "kt",
-  "year": 2016.0
  },
  {
   "rank": 43,
@@ -393,17 +371,6 @@
   "ISO": "GNQ",
   "value": 0.046348,
   "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 50,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 19.91171000290563,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -473,6 +440,17 @@
   "year": 2019.0
  },
  {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 26.899999618530273,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 64,
   "Category": "Health",
   "Indicator": "Prevalence of obesity",
@@ -517,17 +495,6 @@
   "year": 2020.0
  },
  {
-  "rank": 71,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
-  "Policy": "C4_Restrictions on gatherings",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 67.0325012207031,
-  "unit": "percent of population",
-  "year": 2018.0
- },
- {
   "rank": 72,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
@@ -545,9 +512,9 @@
   "Policy": "C4_Restrictions on gatherings",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 85.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 123.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 78,
@@ -572,6 +539,17 @@
   "year": 2017.0
  },
  {
+  "rank": 87,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 64.36729431152344,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 89,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
@@ -581,5 +559,38 @@
   "value": -1.863563,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 95,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 1402985.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 98,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 73.0999984741211,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 105,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C4_Restrictions on gatherings",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 60.96392822265625,
+  "unit": "Score",
+  "year": 2020.0
  }
 ]

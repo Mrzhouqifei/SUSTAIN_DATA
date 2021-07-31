@@ -138,9 +138,9 @@
   "Policy": "C3_Cancel public events",
   "Country": "Ukraine",
   "ISO": "UKR",
-  "value": 16469.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 52930.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 16,
@@ -308,17 +308,6 @@
   "year": 2014.0
  },
  {
-  "rank": 31,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (kt)",
-  "Policy": "C3_Cancel public events",
-  "Country": "Ukraine",
-  "ISO": "UKR",
-  "value": 202249.7,
-  "unit": "kt",
-  "year": 2016.0
- },
- {
   "rank": 32,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
@@ -327,17 +316,6 @@
   "ISO": "UKR",
   "value": -1.52387,
   "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 33,
-  "Category": "Demographics",
-  "Indicator": "Secure Internet servers ",
-  "Policy": "C3_Cancel public events",
-  "Country": "Ukraine",
-  "ISO": "UKR",
-  "value": 7867.202446403532,
-  "unit": "per 1 million people",
   "year": 2019.0
  },
  {
@@ -473,6 +451,17 @@
   "year": 2018.0
  },
  {
+  "rank": 46,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C3_Cancel public events",
+  "Country": "Ukraine",
+  "ISO": "UKR",
+  "value": 2274.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 47,
   "Category": "Governance",
   "Indicator": "Total freedom in the world score ",
@@ -545,9 +534,9 @@
   "Policy": "C3_Cancel public events",
   "Country": "Ukraine",
   "ISO": "UKR",
-  "value": 956123.0,
-  "unit": "Number (cumulative total by Dec 26,2020)",
-  "year": 2020.0
+  "value": 2251869.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
   "rank": 57,
@@ -660,6 +649,17 @@
   "year": 2016.0
  },
  {
+  "rank": 69,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Ukraine",
+  "ISO": "UKR",
+  "value": 69.60800170898438,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
   "rank": 70,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Political Rights category",
@@ -704,17 +704,6 @@
   "year": 2015.0
  },
  {
-  "rank": 76,
-  "Category": "Governance",
-  "Indicator": "Fragile States Index Total ",
-  "Policy": "C3_Cancel public events",
-  "Country": "Ukraine",
-  "ISO": "UKR",
-  "value": 69.00704175599185,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 78,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
@@ -737,15 +726,26 @@
   "year": 2018.0
  },
  {
-  "rank": 84,
-  "Category": "Environment",
-  "Indicator": "Access to electricity ",
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
   "Policy": "C3_Cancel public events",
   "Country": "Ukraine",
   "ISO": "UKR",
-  "value": 100.0,
-  "unit": "percent of population",
-  "year": 2018.0
+  "value": 44134693.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 82,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Ukraine",
+  "ISO": "UKR",
+  "value": 49.11943435668945,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 85,
@@ -812,5 +812,27 @@
   "value": 100.0,
   "unit": "percent of total",
   "year": 2017.0
+ },
+ {
+  "rank": 107,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Ukraine",
+  "ISO": "UKR",
+  "value": 91.0763931274414,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 109,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Ukraine",
+  "ISO": "UKR",
+  "value": 30.392000198364258,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]
