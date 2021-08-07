@@ -2,871 +2,6 @@
  "build_id": "2.3",
  "data": [
   {
-   "label": "Overall",
-   "data": [
-    {
-     "iso": "AFG",
-     "score": 51.0,
-     "rank": 6
-    },
-    {
-     "iso": "AGO",
-     "score": 63.0,
-     "rank": 9
-    },
-    {
-     "iso": "ALB",
-     "score": 51.0,
-     "rank": 10
-    },
-    {
-     "iso": "AND",
-     "score": 62.0,
-     "rank": 11
-    },
-    {
-     "iso": "ARE",
-     "score": 48.0,
-     "rank": 12
-    },
-    {
-     "iso": "ARG",
-     "score": 73.0,
-     "rank": 5
-    },
-    {
-     "iso": "AUS",
-     "score": 57.0,
-     "rank": 11
-    },
-    {
-     "iso": "AUT",
-     "score": 66.0,
-     "rank": 6
-    },
-    {
-     "iso": "AZE",
-     "score": 62.0,
-     "rank": 5
-    },
-    {
-     "iso": "BDI",
-     "score": 18.0,
-     "rank": 1
-    },
-    {
-     "iso": "BEL",
-     "score": 67.0,
-     "rank": 9
-    },
-    {
-     "iso": "BEN",
-     "score": 24.0,
-     "rank": 5
-    },
-    {
-     "iso": "BFA",
-     "score": 7.0,
-     "rank": 11
-    },
-    {
-     "iso": "BGD",
-     "score": 79.0,
-     "rank": 3
-    },
-    {
-     "iso": "BGR",
-     "score": 52.0,
-     "rank": 3
-    },
-    {
-     "iso": "BHR",
-     "score": 64.0,
-     "rank": 13
-    },
-    {
-     "iso": "BHS",
-     "score": 75.0,
-     "rank": 12
-    },
-    {
-     "iso": "BIH",
-     "score": 55.0,
-     "rank": 9
-    },
-    {
-     "iso": "BLR",
-     "score": 4.0,
-     "rank": 12
-    },
-    {
-     "iso": "BLZ",
-     "score": 70.0,
-     "rank": 8
-    },
-    {
-     "iso": "BOL",
-     "score": 45.0,
-     "rank": 6
-    },
-    {
-     "iso": "BRA",
-     "score": 88.0,
-     "rank": 8
-    },
-    {
-     "iso": "BRB",
-     "score": 56.0,
-     "rank": 7
-    },
-    {
-     "iso": "BRN",
-     "score": 22.0,
-     "rank": 7
-    },
-    {
-     "iso": "BTN",
-     "score": 66.0,
-     "rank": 8
-    },
-    {
-     "iso": "BWA",
-     "score": 41.0,
-     "rank": 8
-    },
-    {
-     "iso": "CAF",
-     "score": 19.0,
-     "rank": 2
-    },
-    {
-     "iso": "CAN",
-     "score": 77.0,
-     "rank": 4
-    },
-    {
-     "iso": "CHE",
-     "score": 63.0,
-     "rank": 5
-    },
-    {
-     "iso": "CHL",
-     "score": 93.0,
-     "rank": 12
-    },
-    {
-     "iso": "CHN",
-     "score": 76.0,
-     "rank": 9
-    },
-    {
-     "iso": "CIV",
-     "score": 17.0,
-     "rank": 15
-    },
-    {
-     "iso": "CMR",
-     "score": 13.0,
-     "rank": 3
-    },
-    {
-     "iso": "COD",
-     "score": 37.0,
-     "rank": 0
-    },
-    {
-     "iso": "COL",
-     "score": 72.0,
-     "rank": 7
-    },
-    {
-     "iso": "CPV",
-     "score": 75.0,
-     "rank": 6
-    },
-    {
-     "iso": "CRI",
-     "score": 68.0,
-     "rank": 8
-    },
-    {
-     "iso": "CUB",
-     "score": 75.0,
-     "rank": 3
-    },
-    {
-     "iso": "CYP",
-     "score": 53.0,
-     "rank": 5
-    },
-    {
-     "iso": "CZE",
-     "score": 56.0,
-     "rank": 0
-    },
-    {
-     "iso": "DEU",
-     "score": 63.0,
-     "rank": 10
-    },
-    {
-     "iso": "DJI",
-     "score": 51.0,
-     "rank": 11
-    },
-    {
-     "iso": "DMA",
-     "score": 15.0,
-     "rank": 14
-    },
-    {
-     "iso": "DNK",
-     "score": 63.0,
-     "rank": 6
-    },
-    {
-     "iso": "DOM",
-     "score": 65.0,
-     "rank": 8
-    },
-    {
-     "iso": "DZA",
-     "score": 59.0,
-     "rank": 6
-    },
-    {
-     "iso": "ECU",
-     "score": 72.0,
-     "rank": 9
-    },
-    {
-     "iso": "EGY",
-     "score": 60.0,
-     "rank": 10
-    },
-    {
-     "iso": "ERI",
-     "score": 66.0,
-     "rank": 2
-    },
-    {
-     "iso": "ESP",
-     "score": 60.0,
-     "rank": 7
-    },
-    {
-     "iso": "EST",
-     "score": 52.0,
-     "rank": 6
-    },
-    {
-     "iso": "ETH",
-     "score": 45.0,
-     "rank": 12
-    },
-    {
-     "iso": "FIN",
-     "score": 49.0,
-     "rank": 8
-    },
-    {
-     "iso": "FJI",
-     "score": 65.0,
-     "rank": 13
-    },
-    {
-     "iso": "FRA",
-     "score": 65.0,
-     "rank": 6
-    },
-    {
-     "iso": "GAB",
-     "score": 59.0,
-     "rank": 5
-    },
-    {
-     "iso": "GBR",
-     "score": 72.0,
-     "rank": 10
-    },
-    {
-     "iso": "GEO",
-     "score": 67.0,
-     "rank": 13
-    },
-    {
-     "iso": "GHA",
-     "score": 47.0,
-     "rank": 7
-    },
-    {
-     "iso": "GIN",
-     "score": 55.0,
-     "rank": 5
-    },
-    {
-     "iso": "GMB",
-     "score": 28.0,
-     "rank": 4
-    },
-    {
-     "iso": "GRC",
-     "score": 56.0,
-     "rank": 4
-    },
-    {
-     "iso": "GTM",
-     "score": 61.0,
-     "rank": 5
-    },
-    {
-     "iso": "GUY",
-     "score": 39.0,
-     "rank": 9
-    },
-    {
-     "iso": "HKG",
-     "score": 55.0,
-     "rank": 8
-    },
-    {
-     "iso": "HND",
-     "score": 84.0,
-     "rank": 8
-    },
-    {
-     "iso": "HRV",
-     "score": 48.0,
-     "rank": 6
-    },
-    {
-     "iso": "HTI",
-     "score": 19.0,
-     "rank": 3
-    },
-    {
-     "iso": "HUN",
-     "score": 51.0,
-     "rank": 4
-    },
-    {
-     "iso": "IDN",
-     "score": 68.0,
-     "rank": 9
-    },
-    {
-     "iso": "IND",
-     "score": 75.0,
-     "rank": 2
-    },
-    {
-     "iso": "IRL",
-     "score": 78.0,
-     "rank": 8
-    },
-    {
-     "iso": "IRN",
-     "score": 76.0,
-     "rank": 8
-    },
-    {
-     "iso": "IRQ",
-     "score": 66.0,
-     "rank": 6
-    },
-    {
-     "iso": "ISL",
-     "score": 40.0,
-     "rank": 3
-    },
-    {
-     "iso": "ISR",
-     "score": 61.0,
-     "rank": 8
-    },
-    {
-     "iso": "ITA",
-     "score": 77.0,
-     "rank": 3
-    },
-    {
-     "iso": "JAM",
-     "score": 49.0,
-     "rank": 9
-    },
-    {
-     "iso": "JOR",
-     "score": 45.0,
-     "rank": 9
-    },
-    {
-     "iso": "JPN",
-     "score": 29.0,
-     "rank": 2
-    },
-    {
-     "iso": "KAZ",
-     "score": 67.0,
-     "rank": 12
-    },
-    {
-     "iso": "KEN",
-     "score": 48.0,
-     "rank": 12
-    },
-    {
-     "iso": "KGZ",
-     "score": 69.0,
-     "rank": 14
-    },
-    {
-     "iso": "KHM",
-     "score": 63.0,
-     "rank": 11
-    },
-    {
-     "iso": "KIR",
-     "score": 0.0,
-     "rank": 7
-    },
-    {
-     "iso": "KOR",
-     "score": 45.0,
-     "rank": 7
-    },
-    {
-     "iso": "KWT",
-     "score": 51.0,
-     "rank": 4
-    },
-    {
-     "iso": "LAO",
-     "score": 48.0,
-     "rank": 14
-    },
-    {
-     "iso": "LBN",
-     "score": 67.0,
-     "rank": 12
-    },
-    {
-     "iso": "LBR",
-     "score": 66.0,
-     "rank": 4
-    },
-    {
-     "iso": "LBY",
-     "score": 72.0,
-     "rank": 7
-    },
-    {
-     "iso": "LKA",
-     "score": 45.0,
-     "rank": 11
-    },
-    {
-     "iso": "LSO",
-     "score": 42.0,
-     "rank": 8
-    },
-    {
-     "iso": "LTU",
-     "score": 54.0,
-     "rank": 3
-    },
-    {
-     "iso": "LUX",
-     "score": 48.0,
-     "rank": 3
-    },
-    {
-     "iso": "LVA",
-     "score": 62.0,
-     "rank": 3
-    },
-    {
-     "iso": "MAR",
-     "score": 63.0,
-     "rank": 6
-    },
-    {
-     "iso": "MCO",
-     "score": 66.0,
-     "rank": 7
-    },
-    {
-     "iso": "MDA",
-     "score": 65.0,
-     "rank": 9
-    },
-    {
-     "iso": "MDG",
-     "score": 41.0,
-     "rank": 9
-    },
-    {
-     "iso": "MEX",
-     "score": 79.0,
-     "rank": 9
-    },
-    {
-     "iso": "MLI",
-     "score": 52.0,
-     "rank": 5
-    },
-    {
-     "iso": "MLT",
-     "score": 46.0,
-     "rank": 0
-    },
-    {
-     "iso": "MMR",
-     "score": 74.0,
-     "rank": 10
-    },
-    {
-     "iso": "MNG",
-     "score": 68.0,
-     "rank": 4
-    },
-    {
-     "iso": "MOZ",
-     "score": 45.0,
-     "rank": 4
-    },
-    {
-     "iso": "MRT",
-     "score": 28.0,
-     "rank": 12
-    },
-    {
-     "iso": "MUS",
-     "score": 37.0,
-     "rank": 13
-    },
-    {
-     "iso": "MWI",
-     "score": 50.0,
-     "rank": 3
-    },
-    {
-     "iso": "MYS",
-     "score": 73.0,
-     "rank": 4
-    },
-    {
-     "iso": "NAM",
-     "score": 42.0,
-     "rank": 14
-    },
-    {
-     "iso": "NER",
-     "score": 11.0,
-     "rank": 3
-    },
-    {
-     "iso": "NGA",
-     "score": 43.0,
-     "rank": 3
-    },
-    {
-     "iso": "NIC",
-     "score": 0.0,
-     "rank": 11
-    },
-    {
-     "iso": "NLD",
-     "score": 70.0,
-     "rank": 2
-    },
-    {
-     "iso": "NOR",
-     "score": 59.0,
-     "rank": 10
-    },
-    {
-     "iso": "NPL",
-     "score": 53.0,
-     "rank": 12
-    },
-    {
-     "iso": "NZL",
-     "score": 16.0,
-     "rank": 6
-    },
-    {
-     "iso": "OMN",
-     "score": 50.0,
-     "rank": 9
-    },
-    {
-     "iso": "PAK",
-     "score": 70.0,
-     "rank": 5
-    },
-    {
-     "iso": "PAN",
-     "score": 69.0,
-     "rank": 6
-    },
-    {
-     "iso": "PER",
-     "score": 72.0,
-     "rank": 4
-    },
-    {
-     "iso": "PHL",
-     "score": 65.0,
-     "rank": 13
-    },
-    {
-     "iso": "PNG",
-     "score": 56.0,
-     "rank": 10
-    },
-    {
-     "iso": "POL",
-     "score": 60.0,
-     "rank": 5
-    },
-    {
-     "iso": "PRT",
-     "score": 71.0,
-     "rank": 3
-    },
-    {
-     "iso": "PRY",
-     "score": 67.0,
-     "rank": 5
-    },
-    {
-     "iso": "PSE",
-     "score": 64.0,
-     "rank": 0
-    },
-    {
-     "iso": "QAT",
-     "score": 55.0,
-     "rank": 8
-    },
-    {
-     "iso": "ROU",
-     "score": 49.0,
-     "rank": 7
-    },
-    {
-     "iso": "RUS",
-     "score": 56.0,
-     "rank": 6
-    },
-    {
-     "iso": "RWA",
-     "score": 70.0,
-     "rank": 11
-    },
-    {
-     "iso": "SAU",
-     "score": 39.0,
-     "rank": 5
-    },
-    {
-     "iso": "SDN",
-     "score": 55.0,
-     "rank": 4
-    },
-    {
-     "iso": "SEN",
-     "score": 21.0,
-     "rank": 11
-    },
-    {
-     "iso": "SGP",
-     "score": 59.0,
-     "rank": 5
-    },
-    {
-     "iso": "SLB",
-     "score": 11.0,
-     "rank": 2
-    },
-    {
-     "iso": "SLE",
-     "score": 30.0,
-     "rank": 3
-    },
-    {
-     "iso": "SLV",
-     "score": 48.0,
-     "rank": 11
-    },
-    {
-     "iso": "SMR",
-     "score": 37.0,
-     "rank": 8
-    },
-    {
-     "iso": "SOM",
-     "score": 20.0,
-     "rank": 5
-    },
-    {
-     "iso": "SRB",
-     "score": 59.0,
-     "rank": 9
-    },
-    {
-     "iso": "SSD",
-     "score": 39.0,
-     "rank": 12
-    },
-    {
-     "iso": "SUR",
-     "score": 56.0,
-     "rank": 8
-    },
-    {
-     "iso": "SVK",
-     "score": 50.0,
-     "rank": 4
-    },
-    {
-     "iso": "SVN",
-     "score": 52.0,
-     "rank": 9
-    },
-    {
-     "iso": "SWE",
-     "score": 41.0,
-     "rank": 12
-    },
-    {
-     "iso": "SWZ",
-     "score": 41.0,
-     "rank": 12
-    },
-    {
-     "iso": "SYC",
-     "score": 30.0,
-     "rank": 4
-    },
-    {
-     "iso": "SYR",
-     "score": 62.0,
-     "rank": 6
-    },
-    {
-     "iso": "TCD",
-     "score": 37.0,
-     "rank": 8
-    },
-    {
-     "iso": "TGO",
-     "score": 54.0,
-     "rank": 10
-    },
-    {
-     "iso": "THA",
-     "score": 40.0,
-     "rank": 6
-    },
-    {
-     "iso": "TJK",
-     "score": 14.0,
-     "rank": 11
-    },
-    {
-     "iso": "TLS",
-     "score": 32.0,
-     "rank": 0
-    },
-    {
-     "iso": "TTO",
-     "score": 65.0,
-     "rank": 12
-    },
-    {
-     "iso": "TUN",
-     "score": 38.0,
-     "rank": 13
-    },
-    {
-     "iso": "TUR",
-     "score": 60.0,
-     "rank": 9
-    },
-    {
-     "iso": "TWN",
-     "score": 8.0,
-     "rank": 11
-    },
-    {
-     "iso": "TZA",
-     "score": 0.0,
-     "rank": 9
-    },
-    {
-     "iso": "UGA",
-     "score": 68.0,
-     "rank": 12
-    },
-    {
-     "iso": "UKR",
-     "score": 62.0,
-     "rank": 5
-    },
-    {
-     "iso": "URY",
-     "score": 49.0,
-     "rank": 14
-    },
-    {
-     "iso": "USA",
-     "score": 59.0,
-     "rank": 4
-    },
-    {
-     "iso": "UZB",
-     "score": 36.0,
-     "rank": 3
-    },
-    {
-     "iso": "VEN",
-     "score": 89.0,
-     "rank": 5
-    },
-    {
-     "iso": "VNM",
-     "score": 64.0,
-     "rank": 12
-    },
-    {
-     "iso": "VUT",
-     "score": 0.0,
-     "rank": 5
-    },
-    {
-     "iso": "YEM",
-     "score": 26.0,
-     "rank": 3
-    },
-    {
-     "iso": "ZAF",
-     "score": 50.0,
-     "rank": 3
-    },
-    {
-     "iso": "ZMB",
-     "score": 42.0,
-     "rank": 10
-    },
-    {
-     "iso": "ZWE",
-     "score": 60.0,
-     "rank": 3
-    }
-   ]
-  },
-  {
    "label": "Month 1",
    "data": [
     {
@@ -15173,6 +14308,871 @@
      "iso": "VNM",
      "score": 76.0,
      "rank": 12
+    }
+   ]
+  },
+  {
+   "label": "Overall",
+   "data": [
+    {
+     "iso": "AFG",
+     "score": 51.0,
+     "rank": 6
+    },
+    {
+     "iso": "AGO",
+     "score": 63.0,
+     "rank": 9
+    },
+    {
+     "iso": "ALB",
+     "score": 51.0,
+     "rank": 10
+    },
+    {
+     "iso": "AND",
+     "score": 62.0,
+     "rank": 11
+    },
+    {
+     "iso": "ARE",
+     "score": 48.0,
+     "rank": 12
+    },
+    {
+     "iso": "ARG",
+     "score": 73.0,
+     "rank": 5
+    },
+    {
+     "iso": "AUS",
+     "score": 57.0,
+     "rank": 11
+    },
+    {
+     "iso": "AUT",
+     "score": 66.0,
+     "rank": 6
+    },
+    {
+     "iso": "AZE",
+     "score": 62.0,
+     "rank": 5
+    },
+    {
+     "iso": "BDI",
+     "score": 18.0,
+     "rank": 1
+    },
+    {
+     "iso": "BEL",
+     "score": 67.0,
+     "rank": 9
+    },
+    {
+     "iso": "BEN",
+     "score": 24.0,
+     "rank": 5
+    },
+    {
+     "iso": "BFA",
+     "score": 7.0,
+     "rank": 11
+    },
+    {
+     "iso": "BGD",
+     "score": 79.0,
+     "rank": 3
+    },
+    {
+     "iso": "BGR",
+     "score": 52.0,
+     "rank": 3
+    },
+    {
+     "iso": "BHR",
+     "score": 64.0,
+     "rank": 13
+    },
+    {
+     "iso": "BHS",
+     "score": 75.0,
+     "rank": 12
+    },
+    {
+     "iso": "BIH",
+     "score": 55.0,
+     "rank": 9
+    },
+    {
+     "iso": "BLR",
+     "score": 4.0,
+     "rank": 12
+    },
+    {
+     "iso": "BLZ",
+     "score": 70.0,
+     "rank": 8
+    },
+    {
+     "iso": "BOL",
+     "score": 45.0,
+     "rank": 6
+    },
+    {
+     "iso": "BRA",
+     "score": 88.0,
+     "rank": 8
+    },
+    {
+     "iso": "BRB",
+     "score": 56.0,
+     "rank": 7
+    },
+    {
+     "iso": "BRN",
+     "score": 22.0,
+     "rank": 7
+    },
+    {
+     "iso": "BTN",
+     "score": 66.0,
+     "rank": 8
+    },
+    {
+     "iso": "BWA",
+     "score": 41.0,
+     "rank": 8
+    },
+    {
+     "iso": "CAF",
+     "score": 19.0,
+     "rank": 2
+    },
+    {
+     "iso": "CAN",
+     "score": 77.0,
+     "rank": 4
+    },
+    {
+     "iso": "CHE",
+     "score": 63.0,
+     "rank": 5
+    },
+    {
+     "iso": "CHL",
+     "score": 93.0,
+     "rank": 12
+    },
+    {
+     "iso": "CHN",
+     "score": 76.0,
+     "rank": 9
+    },
+    {
+     "iso": "CIV",
+     "score": 17.0,
+     "rank": 15
+    },
+    {
+     "iso": "CMR",
+     "score": 13.0,
+     "rank": 3
+    },
+    {
+     "iso": "COD",
+     "score": 37.0,
+     "rank": 0
+    },
+    {
+     "iso": "COL",
+     "score": 72.0,
+     "rank": 7
+    },
+    {
+     "iso": "CPV",
+     "score": 75.0,
+     "rank": 6
+    },
+    {
+     "iso": "CRI",
+     "score": 68.0,
+     "rank": 8
+    },
+    {
+     "iso": "CUB",
+     "score": 75.0,
+     "rank": 3
+    },
+    {
+     "iso": "CYP",
+     "score": 53.0,
+     "rank": 5
+    },
+    {
+     "iso": "CZE",
+     "score": 56.0,
+     "rank": 0
+    },
+    {
+     "iso": "DEU",
+     "score": 63.0,
+     "rank": 10
+    },
+    {
+     "iso": "DJI",
+     "score": 51.0,
+     "rank": 11
+    },
+    {
+     "iso": "DMA",
+     "score": 15.0,
+     "rank": 14
+    },
+    {
+     "iso": "DNK",
+     "score": 63.0,
+     "rank": 6
+    },
+    {
+     "iso": "DOM",
+     "score": 65.0,
+     "rank": 8
+    },
+    {
+     "iso": "DZA",
+     "score": 59.0,
+     "rank": 6
+    },
+    {
+     "iso": "ECU",
+     "score": 72.0,
+     "rank": 9
+    },
+    {
+     "iso": "EGY",
+     "score": 60.0,
+     "rank": 10
+    },
+    {
+     "iso": "ERI",
+     "score": 66.0,
+     "rank": 2
+    },
+    {
+     "iso": "ESP",
+     "score": 60.0,
+     "rank": 7
+    },
+    {
+     "iso": "EST",
+     "score": 52.0,
+     "rank": 6
+    },
+    {
+     "iso": "ETH",
+     "score": 45.0,
+     "rank": 12
+    },
+    {
+     "iso": "FIN",
+     "score": 49.0,
+     "rank": 8
+    },
+    {
+     "iso": "FJI",
+     "score": 65.0,
+     "rank": 13
+    },
+    {
+     "iso": "FRA",
+     "score": 65.0,
+     "rank": 6
+    },
+    {
+     "iso": "GAB",
+     "score": 59.0,
+     "rank": 5
+    },
+    {
+     "iso": "GBR",
+     "score": 72.0,
+     "rank": 10
+    },
+    {
+     "iso": "GEO",
+     "score": 67.0,
+     "rank": 13
+    },
+    {
+     "iso": "GHA",
+     "score": 47.0,
+     "rank": 7
+    },
+    {
+     "iso": "GIN",
+     "score": 55.0,
+     "rank": 5
+    },
+    {
+     "iso": "GMB",
+     "score": 28.0,
+     "rank": 4
+    },
+    {
+     "iso": "GRC",
+     "score": 56.0,
+     "rank": 4
+    },
+    {
+     "iso": "GTM",
+     "score": 61.0,
+     "rank": 5
+    },
+    {
+     "iso": "GUY",
+     "score": 39.0,
+     "rank": 9
+    },
+    {
+     "iso": "HKG",
+     "score": 55.0,
+     "rank": 8
+    },
+    {
+     "iso": "HND",
+     "score": 84.0,
+     "rank": 8
+    },
+    {
+     "iso": "HRV",
+     "score": 48.0,
+     "rank": 6
+    },
+    {
+     "iso": "HTI",
+     "score": 19.0,
+     "rank": 3
+    },
+    {
+     "iso": "HUN",
+     "score": 51.0,
+     "rank": 4
+    },
+    {
+     "iso": "IDN",
+     "score": 68.0,
+     "rank": 9
+    },
+    {
+     "iso": "IND",
+     "score": 75.0,
+     "rank": 2
+    },
+    {
+     "iso": "IRL",
+     "score": 78.0,
+     "rank": 8
+    },
+    {
+     "iso": "IRN",
+     "score": 76.0,
+     "rank": 8
+    },
+    {
+     "iso": "IRQ",
+     "score": 66.0,
+     "rank": 6
+    },
+    {
+     "iso": "ISL",
+     "score": 40.0,
+     "rank": 3
+    },
+    {
+     "iso": "ISR",
+     "score": 61.0,
+     "rank": 8
+    },
+    {
+     "iso": "ITA",
+     "score": 77.0,
+     "rank": 3
+    },
+    {
+     "iso": "JAM",
+     "score": 49.0,
+     "rank": 9
+    },
+    {
+     "iso": "JOR",
+     "score": 45.0,
+     "rank": 9
+    },
+    {
+     "iso": "JPN",
+     "score": 29.0,
+     "rank": 2
+    },
+    {
+     "iso": "KAZ",
+     "score": 67.0,
+     "rank": 12
+    },
+    {
+     "iso": "KEN",
+     "score": 48.0,
+     "rank": 12
+    },
+    {
+     "iso": "KGZ",
+     "score": 69.0,
+     "rank": 14
+    },
+    {
+     "iso": "KHM",
+     "score": 63.0,
+     "rank": 11
+    },
+    {
+     "iso": "KIR",
+     "score": 0.0,
+     "rank": 7
+    },
+    {
+     "iso": "KOR",
+     "score": 45.0,
+     "rank": 7
+    },
+    {
+     "iso": "KWT",
+     "score": 51.0,
+     "rank": 4
+    },
+    {
+     "iso": "LAO",
+     "score": 48.0,
+     "rank": 14
+    },
+    {
+     "iso": "LBN",
+     "score": 67.0,
+     "rank": 12
+    },
+    {
+     "iso": "LBR",
+     "score": 66.0,
+     "rank": 4
+    },
+    {
+     "iso": "LBY",
+     "score": 72.0,
+     "rank": 7
+    },
+    {
+     "iso": "LKA",
+     "score": 45.0,
+     "rank": 11
+    },
+    {
+     "iso": "LSO",
+     "score": 42.0,
+     "rank": 8
+    },
+    {
+     "iso": "LTU",
+     "score": 54.0,
+     "rank": 3
+    },
+    {
+     "iso": "LUX",
+     "score": 48.0,
+     "rank": 3
+    },
+    {
+     "iso": "LVA",
+     "score": 62.0,
+     "rank": 3
+    },
+    {
+     "iso": "MAR",
+     "score": 63.0,
+     "rank": 6
+    },
+    {
+     "iso": "MCO",
+     "score": 66.0,
+     "rank": 7
+    },
+    {
+     "iso": "MDA",
+     "score": 65.0,
+     "rank": 9
+    },
+    {
+     "iso": "MDG",
+     "score": 41.0,
+     "rank": 9
+    },
+    {
+     "iso": "MEX",
+     "score": 79.0,
+     "rank": 9
+    },
+    {
+     "iso": "MLI",
+     "score": 52.0,
+     "rank": 5
+    },
+    {
+     "iso": "MLT",
+     "score": 46.0,
+     "rank": 0
+    },
+    {
+     "iso": "MMR",
+     "score": 74.0,
+     "rank": 10
+    },
+    {
+     "iso": "MNG",
+     "score": 68.0,
+     "rank": 4
+    },
+    {
+     "iso": "MOZ",
+     "score": 45.0,
+     "rank": 4
+    },
+    {
+     "iso": "MRT",
+     "score": 28.0,
+     "rank": 12
+    },
+    {
+     "iso": "MUS",
+     "score": 37.0,
+     "rank": 13
+    },
+    {
+     "iso": "MWI",
+     "score": 50.0,
+     "rank": 3
+    },
+    {
+     "iso": "MYS",
+     "score": 73.0,
+     "rank": 4
+    },
+    {
+     "iso": "NAM",
+     "score": 42.0,
+     "rank": 14
+    },
+    {
+     "iso": "NER",
+     "score": 11.0,
+     "rank": 3
+    },
+    {
+     "iso": "NGA",
+     "score": 43.0,
+     "rank": 3
+    },
+    {
+     "iso": "NIC",
+     "score": 0.0,
+     "rank": 11
+    },
+    {
+     "iso": "NLD",
+     "score": 70.0,
+     "rank": 2
+    },
+    {
+     "iso": "NOR",
+     "score": 59.0,
+     "rank": 10
+    },
+    {
+     "iso": "NPL",
+     "score": 53.0,
+     "rank": 12
+    },
+    {
+     "iso": "NZL",
+     "score": 16.0,
+     "rank": 6
+    },
+    {
+     "iso": "OMN",
+     "score": 50.0,
+     "rank": 9
+    },
+    {
+     "iso": "PAK",
+     "score": 70.0,
+     "rank": 5
+    },
+    {
+     "iso": "PAN",
+     "score": 69.0,
+     "rank": 6
+    },
+    {
+     "iso": "PER",
+     "score": 72.0,
+     "rank": 4
+    },
+    {
+     "iso": "PHL",
+     "score": 65.0,
+     "rank": 13
+    },
+    {
+     "iso": "PNG",
+     "score": 56.0,
+     "rank": 10
+    },
+    {
+     "iso": "POL",
+     "score": 60.0,
+     "rank": 5
+    },
+    {
+     "iso": "PRT",
+     "score": 71.0,
+     "rank": 3
+    },
+    {
+     "iso": "PRY",
+     "score": 67.0,
+     "rank": 5
+    },
+    {
+     "iso": "PSE",
+     "score": 64.0,
+     "rank": 0
+    },
+    {
+     "iso": "QAT",
+     "score": 55.0,
+     "rank": 8
+    },
+    {
+     "iso": "ROU",
+     "score": 49.0,
+     "rank": 7
+    },
+    {
+     "iso": "RUS",
+     "score": 56.0,
+     "rank": 6
+    },
+    {
+     "iso": "RWA",
+     "score": 70.0,
+     "rank": 11
+    },
+    {
+     "iso": "SAU",
+     "score": 39.0,
+     "rank": 5
+    },
+    {
+     "iso": "SDN",
+     "score": 55.0,
+     "rank": 4
+    },
+    {
+     "iso": "SEN",
+     "score": 21.0,
+     "rank": 11
+    },
+    {
+     "iso": "SGP",
+     "score": 59.0,
+     "rank": 5
+    },
+    {
+     "iso": "SLB",
+     "score": 11.0,
+     "rank": 2
+    },
+    {
+     "iso": "SLE",
+     "score": 30.0,
+     "rank": 3
+    },
+    {
+     "iso": "SLV",
+     "score": 48.0,
+     "rank": 11
+    },
+    {
+     "iso": "SMR",
+     "score": 37.0,
+     "rank": 8
+    },
+    {
+     "iso": "SOM",
+     "score": 20.0,
+     "rank": 5
+    },
+    {
+     "iso": "SRB",
+     "score": 59.0,
+     "rank": 9
+    },
+    {
+     "iso": "SSD",
+     "score": 39.0,
+     "rank": 12
+    },
+    {
+     "iso": "SUR",
+     "score": 56.0,
+     "rank": 8
+    },
+    {
+     "iso": "SVK",
+     "score": 50.0,
+     "rank": 4
+    },
+    {
+     "iso": "SVN",
+     "score": 52.0,
+     "rank": 9
+    },
+    {
+     "iso": "SWE",
+     "score": 41.0,
+     "rank": 12
+    },
+    {
+     "iso": "SWZ",
+     "score": 41.0,
+     "rank": 12
+    },
+    {
+     "iso": "SYC",
+     "score": 30.0,
+     "rank": 4
+    },
+    {
+     "iso": "SYR",
+     "score": 62.0,
+     "rank": 6
+    },
+    {
+     "iso": "TCD",
+     "score": 37.0,
+     "rank": 8
+    },
+    {
+     "iso": "TGO",
+     "score": 54.0,
+     "rank": 10
+    },
+    {
+     "iso": "THA",
+     "score": 40.0,
+     "rank": 6
+    },
+    {
+     "iso": "TJK",
+     "score": 14.0,
+     "rank": 11
+    },
+    {
+     "iso": "TLS",
+     "score": 32.0,
+     "rank": 0
+    },
+    {
+     "iso": "TTO",
+     "score": 65.0,
+     "rank": 12
+    },
+    {
+     "iso": "TUN",
+     "score": 38.0,
+     "rank": 13
+    },
+    {
+     "iso": "TUR",
+     "score": 60.0,
+     "rank": 9
+    },
+    {
+     "iso": "TWN",
+     "score": 8.0,
+     "rank": 11
+    },
+    {
+     "iso": "TZA",
+     "score": 0.0,
+     "rank": 9
+    },
+    {
+     "iso": "UGA",
+     "score": 68.0,
+     "rank": 12
+    },
+    {
+     "iso": "UKR",
+     "score": 62.0,
+     "rank": 5
+    },
+    {
+     "iso": "URY",
+     "score": 49.0,
+     "rank": 14
+    },
+    {
+     "iso": "USA",
+     "score": 59.0,
+     "rank": 4
+    },
+    {
+     "iso": "UZB",
+     "score": 36.0,
+     "rank": 3
+    },
+    {
+     "iso": "VEN",
+     "score": 89.0,
+     "rank": 5
+    },
+    {
+     "iso": "VNM",
+     "score": 64.0,
+     "rank": 12
+    },
+    {
+     "iso": "VUT",
+     "score": 0.0,
+     "rank": 5
+    },
+    {
+     "iso": "YEM",
+     "score": 26.0,
+     "rank": 3
+    },
+    {
+     "iso": "ZAF",
+     "score": 50.0,
+     "rank": 3
+    },
+    {
+     "iso": "ZMB",
+     "score": 42.0,
+     "rank": 10
+    },
+    {
+     "iso": "ZWE",
+     "score": 60.0,
+     "rank": 3
     }
    ]
   }
