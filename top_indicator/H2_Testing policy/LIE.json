@@ -11,51 +11,29 @@
   "year": 2019.0
  },
  {
-  "rank": 5,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
+  "rank": 3,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
   "Policy": "H2_Testing policy",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 1.968311,
-  "unit": "score",
+  "value": 14032.0,
+  "unit": "number",
   "year": 2019.0
  },
  {
-  "rank": 6,
-  "Category": "Social issues ",
-  "Indicator": "Press freedom score",
+  "rank": 11,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
   "Policy": "H2_Testing policy",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 19.52,
-  "unit": "score",
+  "value": 38137.0,
+  "unit": "total",
   "year": 2020.0
  },
  {
-  "rank": 7,
-  "Category": "Governance",
-  "Indicator": "Human Development Index",
-  "Policy": "H2_Testing policy",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 0.919,
-  "unit": "index",
-  "year": 2019.0
- },
- {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H2_Testing policy",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 58.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 14,
+  "rank": 16,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "H2_Testing policy",
@@ -68,27 +46,60 @@
  {
   "rank": 18,
   "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
+  "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "H2_Testing policy",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 1.259364,
+  "value": 57.0,
   "unit": "score",
-  "year": 2019.0
+  "year": 2021.0
  },
  {
-  "rank": 30,
+  "rank": 20,
   "Category": "Social issues ",
-  "Indicator": "Proportion of seats held by women in national parliaments (%)",
+  "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "H2_Testing policy",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 12.0,
+  "value": 2.6372698982,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2018.0
+ },
+ {
+  "rank": 21,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 154.0,
   "unit": "proportion",
   "year": 2020.0
  },
  {
-  "rank": 32,
+  "rank": 26,
+  "Category": "Governance",
+  "Indicator": "Human Development Index",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 0.919,
+  "unit": "index",
+  "year": 2019.0
+ },
+ {
+  "rank": 27,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 2000.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 30,
   "Category": "Governance",
   "Indicator": "Rule of law estimate ",
   "Policy": "H2_Testing policy",
@@ -100,39 +111,6 @@
  },
  {
   "rank": 34,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H2_Testing policy",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 14032.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 37,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
-  "Policy": "H2_Testing policy",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 57.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 39,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "H2_Testing policy",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 90.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 40,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "H2_Testing policy",
@@ -143,18 +121,18 @@
   "year": 2015.0
  },
  {
-  "rank": 44,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "rank": 35,
+  "Category": "Social issues ",
+  "Indicator": "Press freedom score",
   "Policy": "H2_Testing policy",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 1.627746,
+  "value": 19.52,
   "unit": "score",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
-  "rank": 46,
+  "rank": 36,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "H2_Testing policy",
@@ -165,62 +143,7 @@
   "year": 2016.0
  },
  {
-  "rank": 48,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "H2_Testing policy",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.696766,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "H2_Testing policy",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 38137.0,
-  "unit": "total",
-  "year": 2020.0
- },
- {
-  "rank": 57,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H2_Testing policy",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 3186.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 59,
-  "Category": "Demographics",
-  "Indicator": "Refugee population by country or territory of asylum",
-  "Policy": "H2_Testing policy",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 154.0,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 63,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "H2_Testing policy",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 14.416000366210938,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 64,
+  "rank": 43,
   "Category": "Governance",
   "Indicator": "Serious assault (rate)",
   "Policy": "H2_Testing policy",
@@ -231,7 +154,40 @@
   "year": 2018.0
  },
  {
-  "rank": 67,
+  "rank": 44,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 3186.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 49,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 14.416000366210938,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 55,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.968311,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 57,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
   "Policy": "H2_Testing policy",
@@ -242,29 +198,7 @@
   "year": 2019.0
  },
  {
-  "rank": 69,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
-  "Policy": "H2_Testing policy",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 33.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 89,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "H2_Testing policy",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 85.58399963378906,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 90,
+  "rank": 58,
   "Category": "Economics",
   "Indicator": "Starting a Business (Score)",
   "Policy": "H2_Testing policy",
@@ -275,18 +209,84 @@
   "year": 2020.0
  },
  {
-  "rank": 96,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
+  "rank": 61,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
   "Policy": "H2_Testing policy",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 2.6372698982,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2018.0
+  "value": 90.0,
+  "unit": "score",
+  "year": 2021.0
  },
  {
-  "rank": 98,
+  "rank": 64,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 33.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 85.58399963378906,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 68,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 71,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.259364,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 77,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.696766,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 78,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 58.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 82,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "H2_Testing policy",
@@ -295,5 +295,27 @@
   "value": 1.540814,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 84,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.627746,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 89,
+  "Category": "Social issues ",
+  "Indicator": "Proportion of seats held by women in national parliaments (%)",
+  "Policy": "H2_Testing policy",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 12.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

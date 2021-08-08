@@ -1,17 +1,6 @@
 [
  {
-  "rank": 3,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C8_International travel controls",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 9,
+  "rank": 2,
   "Category": "Health",
   "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
   "Policy": "C8_International travel controls",
@@ -22,29 +11,7 @@
   "year": 2018.0
  },
  {
-  "rank": 12,
-  "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
-  "Policy": "C8_International travel controls",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.009899,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 18,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "C8_International travel controls",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.000101,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 19,
+  "rank": 11,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
   "Policy": "C8_International travel controls",
@@ -55,18 +22,7 @@
   "year": 2019.0
  },
  {
-  "rank": 20,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "C8_International travel controls",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.014771,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 22,
+  "rank": 23,
   "Category": "Health",
   "Indicator": "Prevalence of Diabetes",
   "Policy": "C8_International travel controls",
@@ -77,62 +33,7 @@
   "year": 2019.0
  },
  {
-  "rank": 24,
-  "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "C8_International travel controls",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.036331,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 36,
-  "Category": "Health",
-  "Indicator": "Prevalence of obesity",
-  "Policy": "C8_International travel controls",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 55.9,
-  "unit": "percent",
-  "year": 2016.0
- },
- {
-  "rank": 41,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "C8_International travel controls",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.044727,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 50,
-  "Category": "Economics",
-  "Indicator": "Expenditure on social protection (% of GDP)",
-  "Policy": "C8_International travel controls",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 3.79368,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 53,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C8_International travel controls",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 60,
+  "rank": 25,
   "Category": "Health",
   "Indicator": "Prevalence of Respiratory infections and tuberculosis",
   "Policy": "C8_International travel controls",
@@ -143,40 +44,62 @@
   "year": 2019.0
  },
  {
-  "rank": 80,
+  "rank": 30,
   "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
+  "Indicator": "Prevalence of obesity",
   "Policy": "C8_International travel controls",
   "Country": "Cook Islands",
   "ISO": "COK",
-  "value": 0.146013,
+  "value": 55.9,
+  "unit": "percent",
+  "year": 2016.0
+ },
+ {
+  "rank": 31,
+  "Category": "Health",
+  "Indicator": "Prevalence of Depressive disorders",
+  "Policy": "C8_International travel controls",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.036331,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 99,
+  "rank": 34,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "C8_International travel controls",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.014771,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 45,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "C8_International travel controls",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.044727,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 51,
   "Category": "Economics",
-  "Indicator": "Trade, total as % of GDP",
+  "Indicator": "Expenditure on social protection (% of GDP)",
   "Policy": "C8_International travel controls",
   "Country": "Cook Islands",
   "ISO": "COK",
-  "value": 40.12978,
+  "value": 3.79368,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 103,
-  "Category": "Economics",
-  "Indicator": "Expenditure on education (% of GDP)",
-  "Policy": "C8_International travel controls",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 2.05039,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 105,
+  "rank": 60,
   "Category": "Economics",
   "Indicator": "International tourism, receipts",
   "Policy": "C8_International travel controls",
@@ -187,13 +110,90 @@
   "year": 2017.0
  },
  {
-  "rank": 114,
+  "rank": 62,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C8_International travel controls",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 63,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C8_International travel controls",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 72,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Policy": "C8_International travel controls",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.009899,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 79,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "C8_International travel controls",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.000101,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 81,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
+  "Policy": "C8_International travel controls",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.146013,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 94,
   "Category": "Economics",
   "Indicator": "Expenditure on health (% of GDP)",
   "Policy": "C8_International travel controls",
   "Country": "Cook Islands",
   "ISO": "COK",
   "value": 0.70939,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 102,
+  "Category": "Economics",
+  "Indicator": "Trade, total as % of GDP",
+  "Policy": "C8_International travel controls",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 40.12978,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 108,
+  "Category": "Economics",
+  "Indicator": "Expenditure on education (% of GDP)",
+  "Policy": "C8_International travel controls",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 2.05039,
   "unit": "percent",
   "year": 2019.0
  }

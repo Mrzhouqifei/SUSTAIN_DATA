@@ -1,72 +1,17 @@
 [
  {
-  "rank": 3,
-  "Category": "Economics",
-  "Indicator": "Trade, total as % of GDP",
-  "Policy": "H2_Testing policy",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 65.00378,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
   "rank": 4,
   "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
   "Policy": "H2_Testing policy",
   "Country": "Niue",
   "ISO": "NIU",
-  "value": 5.5,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H2_Testing policy",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 9,
-  "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
-  "Policy": "H2_Testing policy",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.005076,
+  "value": 0.335029,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 10,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "H2_Testing policy",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 25.73212,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 12,
-  "Category": "Health",
-  "Indicator": "Prevalence of obesity",
-  "Policy": "H2_Testing policy",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 50.0,
-  "unit": "percent",
-  "year": 2016.0
- },
- {
-  "rank": 21,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of Diabetes",
   "Policy": "H2_Testing policy",
@@ -77,7 +22,40 @@
   "year": 2019.0
  },
  {
-  "rank": 26,
+  "rank": 12,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "H2_Testing policy",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.000115,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 15,
+  "Category": "Health",
+  "Indicator": "Prevalence of obesity",
+  "Policy": "H2_Testing policy",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 50.0,
+  "unit": "percent",
+  "year": 2016.0
+ },
+ {
+  "rank": 17,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Policy": "H2_Testing policy",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.005076,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 19,
   "Category": "Health",
   "Indicator": "Prevalence of anxiety disorders",
   "Policy": "H2_Testing policy",
@@ -88,18 +66,18 @@
   "year": 2019.0
  },
  {
-  "rank": 27,
+  "rank": 24,
   "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
   "Policy": "H2_Testing policy",
   "Country": "Niue",
   "ISO": "NIU",
-  "value": 0.145487,
+  "value": 5.5,
   "unit": "percent",
-  "year": 2019.0
+  "year": 2018.0
  },
  {
-  "rank": 41,
+  "rank": 32,
   "Category": "Health",
   "Indicator": "Prevalence of Depressive disorders",
   "Policy": "H2_Testing policy",
@@ -110,14 +88,36 @@
   "year": 2019.0
  },
  {
-  "rank": 55,
+  "rank": 40,
   "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
+  "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "H2_Testing policy",
   "Country": "Niue",
   "ISO": "NIU",
-  "value": 0.000115,
+  "value": 0.145487,
   "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 44,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "H2_Testing policy",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 54,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "H2_Testing policy",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 25.73212,
+  "unit": "Rate (risk-weighted prevalence)",
   "year": 2019.0
  },
  {
@@ -132,9 +132,9 @@
   "year": 2019.0
  },
  {
-  "rank": 57,
+  "rank": 78,
   "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
+  "Indicator": "Mortality due to COVID-19",
   "Policy": "H2_Testing policy",
   "Country": "Niue",
   "ISO": "NIU",
@@ -143,18 +143,18 @@
   "year": 2021.0
  },
  {
-  "rank": 78,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "rank": 100,
+  "Category": "Economics",
+  "Indicator": "Trade, total as % of GDP",
   "Policy": "H2_Testing policy",
   "Country": "Niue",
   "ISO": "NIU",
-  "value": 0.335029,
+  "value": 65.00378,
   "unit": "percent",
-  "year": 2019.0
+  "year": 2018.0
  },
  {
-  "rank": 108,
+  "rank": 103,
   "Category": "Economics",
   "Indicator": "International tourism, receipts",
   "Policy": "H2_Testing policy",

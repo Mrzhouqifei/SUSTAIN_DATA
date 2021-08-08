@@ -34,6 +34,28 @@
  },
  {
   "rank": 4,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 169.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 5,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 2.2,
+  "unit": "Cases",
+  "year": 2019.0
+ },
+ {
+  "rank": 6,
   "Category": "Social issues ",
   "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "C6_Stay at home requirements",
@@ -44,28 +66,6 @@
   "year": 2014.0
  },
  {
-  "rank": 5,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 35000.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 11521.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
   "rank": 10,
   "Category": "Social issues ",
   "Indicator": "Net migration",
@@ -74,6 +74,17 @@
   "ISO": "ABW",
   "value": 1004.0,
   "unit": "net total / data are 5 year estimates",
+  "year": 2019.0
+ },
+ {
+  "rank": 11,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 35000.0,
+  "unit": "number",
   "year": 2019.0
  },
  {
@@ -88,18 +99,7 @@
   "year": 2019.0
  },
  {
-  "rank": 19,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.357372,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 23,
+  "rank": 20,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
   "Policy": "C6_Stay at home requirements",
@@ -110,40 +110,7 @@
   "year": 2019.0
  },
  {
-  "rank": 28,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 109.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 29,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 2.2,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 34,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 56.303001403808594,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 40,
+  "rank": 21,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "C6_Stay at home requirements",
@@ -154,7 +121,7 @@
   "year": 2016.0
  },
  {
-  "rank": 41,
+  "rank": 32,
   "Category": "Governance",
   "Indicator": "Rule of law estimate ",
   "Policy": "C6_Stay at home requirements",
@@ -165,73 +132,7 @@
   "year": 2019.0
  },
  {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.029933,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 49,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio, old (% of working-age population)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 20.57685688717561,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 50,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 6.72674756598399,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 55,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 135.134,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 74,
-  "Category": "Social issues ",
-  "Indicator": "Primary completion rate, total (% of relevant age group)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 101.180557250977,
-  "unit": "proportion",
-  "year": 2014.0
- },
- {
-  "rank": 79,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.294189,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 80,
+  "rank": 35,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "C6_Stay at home requirements",
@@ -242,18 +143,95 @@
   "year": 2020.0
  },
  {
-  "rank": 87,
-  "Category": "Social issues ",
-  "Indicator": "Literacy rate, adult total (% of people ages 15 and above)",
+  "rank": 44,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
   "Policy": "C6_Stay at home requirements",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 97.8074188232422,
-  "unit": "proportion",
-  "year": 2018.0
+  "value": 6.72674756598399,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
  },
  {
-  "rank": 94,
+  "rank": 46,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 135.134,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 65,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 11521.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 66,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 56.303001403808594,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 68,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.294189,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 77,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 109.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 80,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 81,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.029933,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 84,
   "Category": "Demographics",
   "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "C6_Stay at home requirements",
@@ -264,7 +242,7 @@
   "year": 2020.0
  },
  {
-  "rank": 116,
+  "rank": 91,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "C6_Stay at home requirements",
@@ -273,5 +251,49 @@
   "value": 106766.0,
   "unit": "total",
   "year": 2020.0
+ },
+ {
+  "rank": 93,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio, old (% of working-age population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 20.57685688717561,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 98,
+  "Category": "Social issues ",
+  "Indicator": "Primary completion rate, total (% of relevant age group)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 101.180557250977,
+  "unit": "proportion",
+  "year": 2014.0
+ },
+ {
+  "rank": 109,
+  "Category": "Social issues ",
+  "Indicator": "Literacy rate, adult total (% of people ages 15 and above)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 97.8074188232422,
+  "unit": "proportion",
+  "year": 2018.0
+ },
+ {
+  "rank": 114,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.357372,
+  "unit": "score",
+  "year": 2019.0
  }
 ]

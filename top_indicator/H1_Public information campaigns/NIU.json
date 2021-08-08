@@ -1,72 +1,6 @@
 [
  {
-  "rank": 7,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.210708,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 10,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.011615,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 12,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 25.73212,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 14,
-  "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.035593,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 24,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.000115,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 25,
+  "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "H1_Public information campaigns",
@@ -77,29 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 27,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.043864,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Niue",
-  "ISO": "NIU",
-  "value": 0.335029,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 44,
+  "rank": 19,
   "Category": "Health",
   "Indicator": "Prevalence of obesity",
   "Policy": "H1_Public information campaigns",
@@ -110,29 +22,51 @@
   "year": 2016.0
  },
  {
-  "rank": 45,
+  "rank": 20,
   "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Indicator": "Prevalence of Depressive disorders",
   "Policy": "H1_Public information campaigns",
   "Country": "Niue",
   "ISO": "NIU",
-  "value": 0.005076,
+  "value": 0.035593,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 53,
+  "rank": 21,
   "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
   "Policy": "H1_Public information campaigns",
   "Country": "Niue",
   "ISO": "NIU",
-  "value": 5.5,
+  "value": 0.335029,
   "unit": "percent",
-  "year": 2018.0
+  "year": 2019.0
  },
  {
-  "rank": 61,
+  "rank": 36,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.210708,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 47,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.011615,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 54,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H1_Public information campaigns",
@@ -143,18 +77,73 @@
   "year": 2021.0
  },
  {
-  "rank": 93,
-  "Category": "Economics",
-  "Indicator": "Trade, total as % of GDP",
+  "rank": 55,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "H1_Public information campaigns",
   "Country": "Niue",
   "ISO": "NIU",
-  "value": 65.00378,
+  "value": 0.005076,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 59,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 60,
+  "Category": "Health",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 5.5,
   "unit": "percent",
   "year": 2018.0
  },
  {
-  "rank": 115,
+  "rank": 70,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 25.73212,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 72,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.043864,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 73,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 0.000115,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 93,
   "Category": "Economics",
   "Indicator": "International tourism, receipts",
   "Policy": "H1_Public information campaigns",
@@ -163,5 +152,16 @@
   "value": 8000000.0,
   "unit": "US Dollar",
   "year": 2017.0
+ },
+ {
+  "rank": 97,
+  "Category": "Economics",
+  "Indicator": "Trade, total as % of GDP",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Niue",
+  "ISO": "NIU",
+  "value": 65.00378,
+  "unit": "percent",
+  "year": 2018.0
  }
 ]

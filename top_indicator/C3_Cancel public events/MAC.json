@@ -1,28 +1,6 @@
 [
  {
-  "rank": 69,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "C3_Cancel public events",
-  "Country": "Macao",
-  "ISO": "MAC",
-  "value": 100.0,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 81,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "C3_Cancel public events",
-  "Country": "Macao",
-  "ISO": "MAC",
-  "value": 649342.0,
-  "unit": "total",
-  "year": 2020.0
- },
- {
-  "rank": 82,
+  "rank": 27,
   "Category": "Demographics",
   "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "C3_Cancel public events",
@@ -33,13 +11,57 @@
   "year": 2020.0
  },
  {
-  "rank": 109,
+  "rank": 46,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "C3_Cancel public events",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 3920.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 53,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "C3_Cancel public events",
   "Country": "Macao",
   "ISO": "MAC",
   "value": 0.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 70,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "C3_Cancel public events",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C3_Cancel public events",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 649342.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 91,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 100.0,
   "unit": "proportion",
   "year": 2020.0
  }

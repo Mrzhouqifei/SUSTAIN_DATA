@@ -1,72 +1,6 @@
 [
  {
-  "rank": 7,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.170428,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 10,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.014771,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 12,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 24.80129,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 14,
-  "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.036331,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 24,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.000101,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 25,
+  "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "H1_Public information campaigns",
@@ -77,13 +11,35 @@
   "year": 2019.0
  },
  {
-  "rank": 27,
+  "rank": 19,
   "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
+  "Indicator": "Prevalence of obesity",
   "Policy": "H1_Public information campaigns",
   "Country": "Cook Islands",
   "ISO": "COK",
-  "value": 0.044727,
+  "value": 55.9,
+  "unit": "percent",
+  "year": 2016.0
+ },
+ {
+  "rank": 20,
+  "Category": "Health",
+  "Indicator": "Prevalence of Depressive disorders",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.036331,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 21,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.308144,
   "unit": "percent",
   "year": 2019.0
  },
@@ -99,51 +55,40 @@
   "year": 2019.0
  },
  {
-  "rank": 40,
+  "rank": 36,
   "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Indicator": "Prevalence of Diabetes",
   "Policy": "H1_Public information campaigns",
   "Country": "Cook Islands",
   "ISO": "COK",
-  "value": 0.308144,
+  "value": 0.170428,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 44,
-  "Category": "Health",
-  "Indicator": "Prevalence of obesity",
+  "rank": 43,
+  "Category": "Economics",
+  "Indicator": "Expenditure on education (% of GDP)",
   "Policy": "H1_Public information campaigns",
   "Country": "Cook Islands",
   "ISO": "COK",
-  "value": 55.9,
-  "unit": "percent",
-  "year": 2016.0
- },
- {
-  "rank": 45,
-  "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 0.009899,
+  "value": 2.05039,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 53,
+  "rank": 47,
   "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Indicator": "Prevalence of total cancers",
   "Policy": "H1_Public information campaigns",
   "Country": "Cook Islands",
   "ISO": "COK",
-  "value": 2.4,
+  "value": 0.014771,
   "unit": "percent",
-  "year": 2018.0
+  "year": 2019.0
  },
  {
-  "rank": 61,
+  "rank": 54,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H1_Public information campaigns",
@@ -154,7 +99,73 @@
   "year": 2021.0
  },
  {
-  "rank": 91,
+  "rank": 55,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.009899,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 59,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 60,
+  "Category": "Health",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 2.4,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 70,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 24.80129,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 72,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.044727,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 73,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Cook Islands",
+  "ISO": "COK",
+  "value": 0.000101,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 83,
   "Category": "Economics",
   "Indicator": "Expenditure on health (% of GDP)",
   "Policy": "H1_Public information campaigns",
@@ -167,17 +178,6 @@
  {
   "rank": 93,
   "Category": "Economics",
-  "Indicator": "Trade, total as % of GDP",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Cook Islands",
-  "ISO": "COK",
-  "value": 40.12978,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 115,
-  "Category": "Economics",
   "Indicator": "International tourism, receipts",
   "Policy": "H1_Public information campaigns",
   "Country": "Cook Islands",
@@ -187,13 +187,13 @@
   "year": 2017.0
  },
  {
-  "rank": 117,
+  "rank": 97,
   "Category": "Economics",
-  "Indicator": "Expenditure on education (% of GDP)",
+  "Indicator": "Trade, total as % of GDP",
   "Policy": "H1_Public information campaigns",
   "Country": "Cook Islands",
   "ISO": "COK",
-  "value": 2.05039,
+  "value": 40.12978,
   "unit": "percent",
   "year": 2019.0
  }

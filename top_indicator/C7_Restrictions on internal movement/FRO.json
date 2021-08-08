@@ -13,27 +13,16 @@
  {
   "rank": 4,
   "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
+  "Indicator": "Secure Internet servers",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Faroe Islands",
   "ISO": "FRO",
-  "value": 18021.0,
-  "unit": "number",
-  "year": 2019.0
+  "value": 294.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
  },
  {
-  "rank": 6,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 982.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 14,
+  "rank": 9,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "C7_Restrictions on internal movement",
@@ -44,62 +33,18 @@
   "year": 2019.0
  },
  {
-  "rank": 34,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 116.474,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 60,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 42.39799880981445,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 69,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 7.51358049162428,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 73,
+  "rank": 10,
   "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Faroe Islands",
   "ISO": "FRO",
-  "value": 1.0,
+  "value": 982.0,
   "unit": "Number (cumulative total by July 31, 2021)",
   "year": 2021.0
  },
  {
-  "rank": 78,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 48865.0,
-  "unit": "total",
-  "year": 2020.0
- },
- {
-  "rank": 80,
+  "rank": 16,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "C7_Restrictions on internal movement",
@@ -110,7 +55,40 @@
   "year": 2016.0
  },
  {
-  "rank": 84,
+  "rank": 37,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 42.39799880981445,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 45,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 1.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 48,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 7.51358049162428,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 59,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
@@ -119,5 +97,49 @@
   "value": 57.60200119018555,
   "unit": "proportion",
   "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 48865.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 69,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 116.474,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 18021.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 80,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
  }
 ]

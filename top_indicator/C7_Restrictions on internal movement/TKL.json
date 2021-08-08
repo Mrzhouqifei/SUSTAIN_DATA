@@ -1,39 +1,6 @@
 [
  {
-  "rank": 6,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
   "rank": 8,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.007214,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 9,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 27.98347,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 15,
   "Category": "Health",
   "Indicator": "Prevalence of Depressive disorders",
   "Policy": "C7_Restrictions on internal movement",
@@ -44,40 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 37,
+  "rank": 10,
   "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 0.040476,
-  "unit": "percent",
-  "year": 2019.0
+  "value": 0.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.111261,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 48,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.362278,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 51,
+  "rank": 17,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
   "Policy": "C7_Restrictions on internal movement",
@@ -88,18 +33,7 @@
   "year": 2019.0
  },
  {
-  "rank": 55,
-  "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.106118,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 71,
+  "rank": 32,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "C7_Restrictions on internal movement",
@@ -110,7 +44,29 @@
   "year": 2019.0
  },
  {
-  "rank": 73,
+  "rank": 34,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.362278,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 36,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.111261,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 45,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C7_Restrictions on internal movement",
@@ -119,5 +75,49 @@
   "value": 0.0,
   "unit": "Number (cumulative total by July 31, 2021)",
   "year": 2021.0
+ },
+ {
+  "rank": 54,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.106118,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 65,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.040476,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 68,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 27.98347,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 91,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.007214,
+  "unit": "percent",
+  "year": 2019.0
  }
 ]

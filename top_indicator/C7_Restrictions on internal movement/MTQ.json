@@ -11,7 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 6,
+  "rank": 10,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C7_Restrictions on internal movement",
@@ -24,27 +24,16 @@
  {
   "rank": 28,
   "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Indicator": "Control of corruption estimate",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Martinique",
   "ISO": "MTQ",
-  "value": 0.7850212,
+  "value": 1.234392,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 29,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 1.089055,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 56,
+  "rank": 31,
   "Category": "Governance",
   "Indicator": "Rule of law estimate ",
   "Policy": "C7_Restrictions on internal movement",
@@ -55,18 +44,7 @@
   "year": 2019.0
  },
  {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 1.234392,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 73,
+  "rank": 45,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "C7_Restrictions on internal movement",
@@ -75,5 +53,27 @@
   "value": 104.0,
   "unit": "Number (cumulative total by July 31, 2021)",
   "year": 2021.0
+ },
+ {
+  "rank": 83,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 0.7850212,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 85,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 1.089055,
+  "unit": "score",
+  "year": 2019.0
  }
 ]

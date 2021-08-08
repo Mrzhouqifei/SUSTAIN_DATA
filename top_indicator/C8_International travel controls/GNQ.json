@@ -11,15 +11,15 @@
   "year": 2019.0
  },
  {
-  "rank": 3,
+  "rank": 2,
   "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
+  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 8880.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
+  "value": 0.6,
+  "unit": "percent",
+  "year": 2018.0
  },
  {
   "rank": 4,
@@ -33,18 +33,18 @@
   "year": 2020.0
  },
  {
-  "rank": 5,
-  "Category": "Environment",
-  "Indicator": "PM2.5 air pollution, mean annual exposure",
+  "rank": 6,
+  "Category": "Governance",
+  "Indicator": "Fragile States Index Total",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 53.24062,
-  "unit": "micrograms per cubic meter",
-  "year": 2017.0
+  "value": 84.10000000000001,
+  "unit": "score",
+  "year": 2021.0
  },
  {
-  "rank": 6,
+  "rank": 7,
   "Category": "Economics",
   "Indicator": "Employment in services (% of total employment) (modeled ILO estimate)",
   "Policy": "C8_International travel controls",
@@ -55,29 +55,18 @@
   "year": 2020.0
  },
  {
-  "rank": 7,
+  "rank": 8,
   "Category": "Economics",
-  "Indicator": "Volume of imports",
+  "Indicator": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": -7.256,
-  "unit": "percent change",
+  "value": 62.2849998,
+  "unit": "Percentage of total population",
   "year": 2020.0
  },
  {
-  "rank": 9,
-  "Category": "Health",
-  "Indicator": "Domestic General Government Health Expenditure (GGHE-D) as % General Government Expenditure (GGE)",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 0.6,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 11,
+  "rank": 10,
   "Category": "Social issues ",
   "Indicator": "Net migration",
   "Policy": "C8_International travel controls",
@@ -88,26 +77,15 @@
   "year": 2019.0
  },
  {
-  "rank": 12,
+  "rank": 11,
   "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Indicator": "Summary exposure value tobacco",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 0.000463,
-  "unit": "percent",
+  "value": 13.12533,
+  "unit": "Rate (risk-weighted prevalence)",
   "year": 2019.0
- },
- {
-  "rank": 13,
-  "Category": "Health",
-  "Indicator": "Prevalence of overweight (modeled estimate, % of children under 5)",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 9.3,
-  "unit": "percent",
-  "year": 2020.0
  },
  {
   "rank": 14,
@@ -121,18 +99,7 @@
   "year": 2019.0
  },
  {
-  "rank": 15,
-  "Category": "Economics",
-  "Indicator": "Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 62.2849998,
-  "unit": "Percentage of total population",
-  "year": 2020.0
- },
- {
-  "rank": 16,
+  "rank": 17,
   "Category": "Economics",
   "Indicator": "Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",
   "Policy": "C8_International travel controls",
@@ -143,172 +110,29 @@
   "year": 2020.0
  },
  {
-  "rank": 17,
-  "Category": "Social issues ",
-  "Indicator": "Press freedom score",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 56.38,
-  "unit": "score",
-  "year": 2020.0
- },
- {
   "rank": 18,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
+  "Category": "Environment",
+  "Indicator": "PM2.5 air pollution, mean annual exposure",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 0.000154,
-  "unit": "percent",
-  "year": 2019.0
+  "value": 53.24062,
+  "unit": "micrograms per cubic meter",
+  "year": 2017.0
  },
  {
   "rank": 19,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 13.12533,
-  "unit": "Rate (risk-weighted prevalence)",
+  "value": -1.342012,
+  "unit": "score",
   "year": 2019.0
  },
  {
   "rank": 20,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 0.002171,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 22,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 0.026587,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 23,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 10848.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 24,
-  "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 0.046348,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 30,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": -0.1909256,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 31,
-  "Category": "Health",
-  "Indicator": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 19.7,
-  "unit": "percent",
-  "year": 2020.0
- },
- {
-  "rank": 32,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 45.1669,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 33,
-  "Category": "Health",
-  "Indicator": "Physicians (per 1,000 people)",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 0.4017,
-  "unit": "Ones",
-  "year": 2017.0
- },
- {
-  "rank": 34,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 7.82279977697172,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 35,
-  "Category": "Health",
-  "Indicator": "Prevalence of HIV, total (% of population ages 15-49)",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 7.2,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 36,
-  "Category": "Health",
-  "Indicator": "Prevalence of obesity",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 8.0,
-  "unit": "percent",
-  "year": 2016.0
- },
- {
-  "rank": 38,
-  "Category": "Environment",
-  "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 100.0,
-  "unit": "percent of total",
-  "year": 2017.0
- },
- {
-  "rank": 39,
   "Category": "Social issues ",
   "Indicator": "Proportion of seats held by women in national parliaments (%)",
   "Policy": "C8_International travel controls",
@@ -319,7 +143,106 @@
   "year": 2020.0
  },
  {
-  "rank": 40,
+  "rank": 22,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": -1.722886,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 23,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 0.026587,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 24,
+  "Category": "Governance",
+  "Indicator": "Human Development Index",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 0.592,
+  "unit": "index",
+  "year": 2019.0
+ },
+ {
+  "rank": 25,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 0.284161,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 27,
+  "Category": "Health",
+  "Indicator": "Prevalence of stunting, height for age (modeled estimate, % of children under 5)",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 19.7,
+  "unit": "percent",
+  "year": 2020.0
+ },
+ {
+  "rank": 28,
+  "Category": "Environment",
+  "Indicator": "PM2.5 air pollution, population exposed to levels exceeding WHO guideline value ",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 100.0,
+  "unit": "percent of total",
+  "year": 2017.0
+ },
+ {
+  "rank": 30,
+  "Category": "Health",
+  "Indicator": "Prevalence of obesity",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 8.0,
+  "unit": "percent",
+  "year": 2016.0
+ },
+ {
+  "rank": 31,
+  "Category": "Health",
+  "Indicator": "Prevalence of Depressive disorders",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 0.046348,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 1402985.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 33,
   "Category": "Health",
   "Indicator": "Immunization, DPT (% of children ages 12-23 months)",
   "Policy": "C8_International travel controls",
@@ -330,7 +253,84 @@
   "year": 2019.0
  },
  {
+  "rank": 34,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 0.002171,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 35,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": -1.863563,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 36,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 5.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 37,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 60.96392822265625,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 38,
+  "Category": "Economics",
+  "Indicator": "Volume of exports",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": -8.977,
+  "unit": "percent change",
+  "year": 2020.0
+ },
+ {
   "rank": 41,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 181.0,
+  "unit": "Cases",
+  "year": 2019.0
+ },
+ {
+  "rank": 44,
+  "Category": "Health",
+  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 53.0,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 45,
   "Category": "Health",
   "Indicator": "Prevalence of anxiety disorders",
   "Policy": "C8_International travel controls",
@@ -341,26 +341,15 @@
   "year": 2019.0
  },
  {
-  "rank": 42,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 4.653235,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
   "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": -1.863563,
-  "unit": "score",
-  "year": 2019.0
+  "value": 64.36729431152344,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
   "rank": 48,
@@ -374,73 +363,40 @@
   "year": 2020.0
  },
  {
-  "rank": 49,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
+  "rank": 50,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 5.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 51,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": -1.722886,
-  "unit": "score",
+  "value": 45.1669,
+  "unit": "per 100 people",
   "year": 2019.0
  },
  {
-  "rank": 53,
+  "rank": 52,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 10848.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 54,
   "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "Indicator": "Prevalence of overweight (modeled estimate, % of children under 5)",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 123.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 58,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": -1.342012,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 59,
-  "Category": "Governance",
-  "Indicator": "Human Development Index",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 0.592,
-  "unit": "index",
-  "year": 2019.0
- },
- {
-  "rank": 60,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 0.284161,
+  "value": 9.3,
   "unit": "percent",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
-  "rank": 61,
+  "rank": 56,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "C8_International travel controls",
@@ -451,51 +407,7 @@
   "year": 2021.0
  },
  {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": -1.422315,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 66,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality estimate",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": -1.520516,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 67,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 26.899999618530273,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 71,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 181.0,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 78,
+  "rank": 57,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "C8_International travel controls",
@@ -506,51 +418,106 @@
   "year": 2020.0
  },
  {
-  "rank": 79,
-  "Category": "Economics",
-  "Indicator": "Volume of exports",
+  "rank": 58,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": -8.977,
+  "value": 47.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
+  "Category": "Economics",
+  "Indicator": "Volume of imports",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": -7.256,
   "unit": "percent change",
   "year": 2020.0
  },
  {
-  "rank": 80,
+  "rank": 62,
   "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
+  "Indicator": "Mortality due to COVID-19",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 0.036612,
+  "value": 123.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 63,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 8880.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 64,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 4.653235,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 66,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": -1.422315,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 69,
+  "Category": "Social issues ",
+  "Indicator": "Press freedom score",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 56.38,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 72,
+  "Category": "Health",
+  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 0.000463,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 81,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
+  "rank": 75,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 1402985.0,
-  "unit": "total",
-  "year": 2020.0
+  "value": 7.82279977697172,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
  },
  {
-  "rank": 83,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
-  "Policy": "C8_International travel controls",
-  "Country": "Equatorial Guinea",
-  "ISO": "GNQ",
-  "value": 5.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 84,
+  "rank": 78,
   "Category": "Health",
   "Indicator": "Nurses and midwives (per 1,000 people)",
   "Policy": "C8_International travel controls",
@@ -561,36 +528,102 @@
   "year": 2017.0
  },
  {
-  "rank": 86,
+  "rank": 79,
   "Category": "Health",
-  "Indicator": "Immunization, measles (% of children ages 12-23 months)",
+  "Indicator": "Prevalence of down syndrome",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 53.0,
+  "value": 0.000154,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 94,
-  "Category": "Economics",
-  "Indicator": "Starting a Business (Score)",
+  "rank": 81,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 60.96392822265625,
-  "unit": "Score",
+  "value": 0.036612,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 82,
+  "Category": "Health",
+  "Indicator": "Prevalence of HIV, total (% of population ages 15-49)",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 7.2,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 83,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": -0.1909256,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 85,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 26.899999618530273,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
-  "rank": 97,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio (% of working-age population)",
+  "rank": 86,
+  "Category": "Health",
+  "Indicator": "Physicians (per 1,000 people)",
   "Policy": "C8_International travel controls",
   "Country": "Equatorial Guinea",
   "ISO": "GNQ",
-  "value": 64.36729431152344,
-  "unit": "proportion",
-  "year": 2020.0
+  "value": 0.4017,
+  "unit": "Ones",
+  "year": 2017.0
+ },
+ {
+  "rank": 89,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 5.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 93,
+  "Category": "Governance",
+  "Indicator": "Regulatory quality estimate",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": -1.520516,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 95,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "C8_International travel controls",
+  "Country": "Equatorial Guinea",
+  "ISO": "GNQ",
+  "value": 66.59217834472656,
+  "unit": "percent of population",
+  "year": 2019.0
  }
 ]

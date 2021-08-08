@@ -11,29 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H2_Testing policy",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 94.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 14,
+  "rank": 3,
   "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
+  "Indicator": "Fixed telephone subscriptions",
   "Policy": "H2_Testing policy",
   "Country": "Gibraltar",
   "ISO": "GIB",
-  "value": 56.2891,
-  "unit": "per 100 people",
+  "value": 16968.0,
+  "unit": "number",
   "year": 2019.0
  },
  {
-  "rank": 19,
+  "rank": 6,
   "Category": "Environment",
   "Indicator": "Electricity production from oil sources",
   "Policy": "H2_Testing policy",
@@ -44,7 +33,29 @@
   "year": 2015.0
  },
  {
-  "rank": 20,
+  "rank": 11,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H2_Testing policy",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 33691.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 16,
+  "Category": "Demographics",
+  "Indicator": "Fixed broadband subscriptions",
+  "Policy": "H2_Testing policy",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 56.2891,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 25,
   "Category": "Environment",
   "Indicator": "Energy imports, net ",
   "Policy": "H2_Testing policy",
@@ -55,7 +66,18 @@
   "year": 2014.0
  },
  {
-  "rank": 23,
+  "rank": 27,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "H2_Testing policy",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 757.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 29,
   "Category": "Environment",
   "Indicator": "Electricity production from coal sources ",
   "Policy": "H2_Testing policy",
@@ -67,17 +89,6 @@
  },
  {
   "rank": 34,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H2_Testing policy",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 16968.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 40,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "H2_Testing policy",
@@ -88,29 +99,7 @@
   "year": 2015.0
  },
  {
-  "rank": 42,
-  "Category": "Environment",
-  "Indicator": "Electricity production from nuclear sources ",
-  "Policy": "H2_Testing policy",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 0.0,
-  "unit": "percent of total",
-  "year": 2014.0
- },
- {
-  "rank": 45,
-  "Category": "Environment",
-  "Indicator": "Electricity production from renewable sources, excluding hydroelectric",
-  "Policy": "H2_Testing policy",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 0.0,
-  "unit": "kWh",
-  "year": 2015.0
- },
- {
-  "rank": 46,
+  "rank": 36,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "H2_Testing policy",
@@ -121,40 +110,7 @@
   "year": 2016.0
  },
  {
-  "rank": 51,
-  "Category": "Environment",
-  "Indicator": "Fossil fuel energy consumption",
-  "Policy": "H2_Testing policy",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 99.51282,
-  "unit": "percent of total",
-  "year": 2014.0
- },
- {
-  "rank": 53,
-  "Category": "Environment",
-  "Indicator": "Electric power consumption ",
-  "Policy": "H2_Testing policy",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 5693.106004447739,
-  "unit": "kWh per capita",
-  "year": 2014.0
- },
- {
-  "rank": 54,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "H2_Testing policy",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 33691.0,
-  "unit": "total",
-  "year": 2020.0
- },
- {
-  "rank": 57,
+  "rank": 44,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H2_Testing policy",
@@ -165,40 +121,7 @@
   "year": 2021.0
  },
  {
-  "rank": 63,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "H2_Testing policy",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 100.0,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 67,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H2_Testing policy",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 120.284,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 71,
-  "Category": "Environment",
-  "Indicator": "Energy use (kg of oil equivalent per capita)",
-  "Policy": "H2_Testing policy",
-  "Country": "Gibraltar",
-  "ISO": "GIB",
-  "value": 5812.453669384729,
-  "unit": "kg of oil equivalent per capita",
-  "year": 2014.0
- },
- {
-  "rank": 73,
+  "rank": 46,
   "Category": "Environment",
   "Indicator": "Combustible renewables and waste",
   "Policy": "H2_Testing policy",
@@ -209,7 +132,73 @@
   "year": 2014.0
  },
  {
-  "rank": 89,
+  "rank": 47,
+  "Category": "Environment",
+  "Indicator": "Electricity production from renewable sources, excluding hydroelectric",
+  "Policy": "H2_Testing policy",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 0.0,
+  "unit": "kWh",
+  "year": 2015.0
+ },
+ {
+  "rank": 49,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 100.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 57,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H2_Testing policy",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 120.284,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 60,
+  "Category": "Environment",
+  "Indicator": "Fossil fuel energy consumption",
+  "Policy": "H2_Testing policy",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 99.51282,
+  "unit": "percent of total",
+  "year": 2014.0
+ },
+ {
+  "rank": 63,
+  "Category": "Environment",
+  "Indicator": "Electricity production from oil, gas and coal sources",
+  "Policy": "H2_Testing policy",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 100.0,
+  "unit": "percent of total",
+  "year": 2015.0
+ },
+ {
+  "rank": 66,
+  "Category": "Environment",
+  "Indicator": "Electric power consumption ",
+  "Policy": "H2_Testing policy",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 5693.106004447739,
+  "unit": "kWh per capita",
+  "year": 2014.0
+ },
+ {
+  "rank": 67,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "H2_Testing policy",
@@ -220,14 +209,47 @@
   "year": 2020.0
  },
  {
-  "rank": 109,
+  "rank": 68,
   "Category": "Environment",
-  "Indicator": "Electricity production from oil, gas and coal sources",
+  "Indicator": "Access to electricity",
   "Policy": "H2_Testing policy",
   "Country": "Gibraltar",
   "ISO": "GIB",
   "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 78,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "H2_Testing policy",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 94.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 85,
+  "Category": "Environment",
+  "Indicator": "Energy use (kg of oil equivalent per capita)",
+  "Policy": "H2_Testing policy",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 5812.453669384729,
+  "unit": "kg of oil equivalent per capita",
+  "year": 2014.0
+ },
+ {
+  "rank": 90,
+  "Category": "Environment",
+  "Indicator": "Electricity production from nuclear sources ",
+  "Policy": "H2_Testing policy",
+  "Country": "Gibraltar",
+  "ISO": "GIB",
+  "value": 0.0,
   "unit": "percent of total",
-  "year": 2015.0
+  "year": 2014.0
  }
 ]

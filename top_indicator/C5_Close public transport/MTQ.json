@@ -11,7 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 9,
+  "rank": 7,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C5_Close public transport",
@@ -22,7 +22,7 @@
   "year": 2021.0
  },
  {
-  "rank": 18,
+  "rank": 11,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
   "Policy": "C5_Close public transport",
@@ -33,29 +33,18 @@
   "year": 2019.0
  },
  {
-  "rank": 35,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C5_Close public transport",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 104.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 52,
+  "rank": 57,
   "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Indicator": "Rule of law estimate ",
   "Policy": "C5_Close public transport",
   "Country": "Martinique",
   "ISO": "MTQ",
-  "value": 0.7850212,
+  "value": 0.6005772,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 59,
+  "rank": 60,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
   "Policy": "C5_Close public transport",
@@ -66,13 +55,24 @@
   "year": 2019.0
  },
  {
-  "rank": 60,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
+  "rank": 90,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
   "Policy": "C5_Close public transport",
   "Country": "Martinique",
   "ISO": "MTQ",
-  "value": 0.6005772,
+  "value": 104.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 93,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "C5_Close public transport",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 0.7850212,
   "unit": "score",
   "year": 2019.0
  }

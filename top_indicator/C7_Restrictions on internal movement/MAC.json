@@ -1,6 +1,17 @@
 [
  {
-  "rank": 60,
+  "rank": 4,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 3920.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 37,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "C7_Restrictions on internal movement",
@@ -11,7 +22,7 @@
   "year": 2020.0
  },
  {
-  "rank": 61,
+  "rank": 51,
   "Category": "Demographics",
   "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "C7_Restrictions on internal movement",
@@ -22,7 +33,18 @@
   "year": 2020.0
  },
  {
-  "rank": 78,
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 0.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 61,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "C7_Restrictions on internal movement",
@@ -33,14 +55,14 @@
   "year": 2020.0
  },
  {
-  "rank": 84,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
+  "rank": 80,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Macao",
   "ISO": "MAC",
-  "value": 0.0,
-  "unit": "proportion",
-  "year": 2020.0
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
  }
 ]

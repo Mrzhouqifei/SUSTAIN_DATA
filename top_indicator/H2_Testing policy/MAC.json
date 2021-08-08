@@ -1,17 +1,6 @@
 [
  {
-  "rank": 36,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio (% of working-age population)",
-  "Policy": "H2_Testing policy",
-  "Country": "Macao",
-  "ISO": "MAC",
-  "value": 35.73287582397461,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 54,
+  "rank": 11,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "H2_Testing policy",
@@ -22,7 +11,29 @@
   "year": 2020.0
  },
  {
-  "rank": 63,
+  "rank": 27,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "H2_Testing policy",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 3920.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 42,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 35.73287582397461,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 49,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "H2_Testing policy",
@@ -33,7 +44,7 @@
   "year": 2020.0
  },
  {
-  "rank": 89,
+  "rank": 67,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "H2_Testing policy",
@@ -42,5 +53,16 @@
   "value": 0.0,
   "unit": "proportion",
   "year": 2020.0
+ },
+ {
+  "rank": 68,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "H2_Testing policy",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
  }
 ]

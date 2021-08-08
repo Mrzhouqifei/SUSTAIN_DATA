@@ -11,18 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 5,
+  "rank": 4,
   "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
+  "Indicator": "Secure Internet servers",
   "Policy": "C5_Close public transport",
   "Country": "Faroe Islands",
   "ISO": "FRO",
-  "value": 18021.0,
-  "unit": "number",
-  "year": 2019.0
+  "value": 294.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
  },
  {
-  "rank": 9,
+  "rank": 7,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C5_Close public transport",
@@ -33,7 +33,7 @@
   "year": 2021.0
  },
  {
-  "rank": 13,
+  "rank": 16,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "C5_Close public transport",
@@ -44,18 +44,18 @@
   "year": 2019.0
  },
  {
-  "rank": 31,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
+  "rank": 48,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "C5_Close public transport",
   "Country": "Faroe Islands",
   "ISO": "FRO",
-  "value": 42.39799880981445,
-  "unit": "proportion",
-  "year": 2020.0
+  "value": 13.09289,
+  "unit": "metric tons per capita",
+  "year": 2016.0
  },
  {
-  "rank": 33,
+  "rank": 61,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "C5_Close public transport",
@@ -66,18 +66,7 @@
   "year": 2020.0
  },
  {
-  "rank": 35,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C5_Close public transport",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 1.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 74,
+  "rank": 65,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
   "Policy": "C5_Close public transport",
@@ -88,18 +77,40 @@
   "year": 2019.0
  },
  {
-  "rank": 82,
+  "rank": 76,
   "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
+  "Indicator": "Access to electricity",
   "Policy": "C5_Close public transport",
   "Country": "Faroe Islands",
   "ISO": "FRO",
-  "value": 7.51358049162428,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
  },
  {
-  "rank": 89,
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "C5_Close public transport",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 18021.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 90,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C5_Close public transport",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 1.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 91,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "C5_Close public transport",
@@ -110,14 +121,25 @@
   "year": 2020.0
  },
  {
-  "rank": 90,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
+  "rank": 96,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "C5_Close public transport",
   "Country": "Faroe Islands",
   "ISO": "FRO",
-  "value": 13.09289,
-  "unit": "metric tons per capita",
-  "year": 2016.0
+  "value": 42.39799880981445,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 110,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "C5_Close public transport",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 7.51358049162428,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
  }
 ]

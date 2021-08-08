@@ -23,6 +23,17 @@
  },
  {
   "rank": 4,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 2000.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 5,
   "Category": "Social issues ",
   "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "C5_Close public transport",
@@ -33,18 +44,7 @@
   "year": 2018.0
  },
  {
-  "rank": 5,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 14032.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 9,
+  "rank": 7,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C5_Close public transport",
@@ -55,18 +55,7 @@
   "year": 2021.0
  },
  {
-  "rank": 13,
-  "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 45.3747,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 18,
+  "rank": 11,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
   "Policy": "C5_Close public transport",
@@ -77,161 +66,7 @@
   "year": 2019.0
  },
  {
-  "rank": 31,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 14.416000366210938,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 33,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 85.58399963378906,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 35,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 58.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 39,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.259364,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 52,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.627746,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 54,
-  "Category": "Social issues ",
-  "Indicator": "Press freedom score",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 19.52,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 55,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 57.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 59,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.696766,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 60,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.679333,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 62,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 90.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Human Development Index",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 0.919,
-  "unit": "index",
-  "year": 2019.0
- },
- {
-  "rank": 72,
-  "Category": "Governance",
-  "Indicator": "Serious assault (rate)",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 208.34,
-  "unit": "rate",
-  "year": 2018.0
- },
- {
-  "rank": 74,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 127.06,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 82,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "C5_Close public transport",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 63.1344414422166,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 83,
+  "rank": 13,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "C5_Close public transport",
@@ -242,7 +77,29 @@
   "year": 2021.0
  },
  {
-  "rank": 87,
+  "rank": 14,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 73.00755310058594,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 16,
+  "Category": "Demographics",
+  "Indicator": "Fixed broadband subscriptions",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 45.3747,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 29,
   "Category": "Demographics",
   "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C5_Close public transport",
@@ -253,18 +110,18 @@
   "year": 2020.0
  },
  {
-  "rank": 89,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
+  "rank": 37,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "C5_Close public transport",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 38137.0,
-  "unit": "total",
-  "year": 2020.0
+  "value": 57.0,
+  "unit": "score",
+  "year": 2021.0
  },
  {
-  "rank": 90,
+  "rank": 48,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "C5_Close public transport",
@@ -275,7 +132,7 @@
   "year": 2016.0
  },
  {
-  "rank": 98,
+  "rank": 49,
   "Category": "Social issues ",
   "Indicator": "Proportion of seats held by women in national parliaments (%)",
   "Policy": "C5_Close public transport",
@@ -286,14 +143,179 @@
   "year": 2020.0
  },
  {
-  "rank": 113,
-  "Category": "Economics",
-  "Indicator": "Starting a Business (Score)",
+  "rank": 50,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
   "Policy": "C5_Close public transport",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 73.00755310058594,
-  "unit": "Score",
+  "value": 1.259364,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 54,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 90.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 56,
+  "Category": "Governance",
+  "Indicator": "Human Development Index",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 0.919,
+  "unit": "index",
+  "year": 2019.0
+ },
+ {
+  "rank": 57,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.679333,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 60,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.696766,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 61,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 85.58399963378906,
+  "unit": "proportion",
   "year": 2020.0
+ },
+ {
+  "rank": 63,
+  "Category": "Governance",
+  "Indicator": "Serious assault (rate)",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 208.34,
+  "unit": "rate",
+  "year": 2018.0
+ },
+ {
+  "rank": 65,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 127.06,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 68,
+  "Category": "Social issues ",
+  "Indicator": "Press freedom score",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 19.52,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 76,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 81,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 14032.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 90,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 58.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 91,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 38137.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 93,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.627746,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 96,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 14.416000366210938,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 110,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "C5_Close public transport",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 63.1344414422166,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
  }
 ]

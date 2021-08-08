@@ -11,29 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
+  "rank": 8,
+  "Category": "Demographics",
+  "Indicator": "People using at least basic sanitation services (% of population)",
   "Policy": "H6_Facial Coverings",
   "Country": "Cayman Islands",
   "ISO": "CYM",
-  "value": 640.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
+  "value": 83.654025,
+  "unit": "proportion",
+  "year": 2016.0
  },
  {
-  "rank": 7,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 0.9827613,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 13,
+  "rank": 11,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "H6_Facial Coverings",
@@ -44,7 +33,7 @@
   "year": 2015.0
  },
  {
-  "rank": 16,
+  "rank": 15,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "H6_Facial Coverings",
@@ -55,29 +44,29 @@
   "year": 2019.0
  },
  {
-  "rank": 32,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
+  "rank": 16,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "H6_Facial Coverings",
   "Country": "Cayman Islands",
   "ISO": "CYM",
-  "value": 100.0,
-  "unit": "proportion",
+  "value": 640.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 17,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 65720.0,
+  "unit": "total",
   "year": 2020.0
  },
  {
-  "rank": 38,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 8.2171969498,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2014.0
- },
- {
-  "rank": 42,
+  "rank": 19,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
@@ -88,7 +77,40 @@
   "year": 2021.0
  },
  {
-  "rank": 50,
+  "rank": 22,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 100.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 27,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 2002.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 30,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 8.2171969498,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2014.0
+ },
+ {
+  "rank": 36,
   "Category": "Health",
   "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "H6_Facial Coverings",
@@ -99,25 +121,25 @@
   "year": 2019.0
  },
  {
-  "rank": 53,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
+  "rank": 42,
+  "Category": "Social issues ",
+  "Indicator": "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",
   "Policy": "H6_Facial Coverings",
   "Country": "Cayman Islands",
   "ISO": "CYM",
-  "value": 8.732487,
-  "unit": "metric tons per capita",
-  "year": 2016.0
+  "value": 29.8638706207275,
+  "unit": "proportion",
+  "year": 2015.0
  },
  {
-  "rank": 55,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
+  "rank": 49,
+  "Category": "Governance",
+  "Indicator": "Regulatory quality estimate",
   "Policy": "H6_Facial Coverings",
   "Country": "Cayman Islands",
   "ISO": "CYM",
-  "value": 152.498,
-  "unit": "per 100 people",
+  "value": 0.9827613,
+  "unit": "score",
   "year": 2019.0
  },
  {
@@ -132,51 +154,7 @@
   "year": 2019.0
  },
  {
-  "rank": 59,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 0.0,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 65,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 1.4457,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 66,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 0.4661654,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 70,
-  "Category": "Demographics",
-  "Indicator": "People using at least basic sanitation services (% of population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 83.654025,
-  "unit": "proportion",
-  "year": 2016.0
- },
- {
-  "rank": 74,
+  "rank": 60,
   "Category": "Demographics",
   "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
@@ -187,7 +165,7 @@
   "year": 2020.0
  },
  {
-  "rank": 77,
+  "rank": 61,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
   "Policy": "H6_Facial Coverings",
@@ -198,7 +176,51 @@
   "year": 2019.0
  },
  {
-  "rank": 82,
+  "rank": 62,
+  "Category": "Social issues ",
+  "Indicator": "Primary completion rate, total (% of relevant age group)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 89.5522384643555,
+  "unit": "proportion",
+  "year": 2018.0
+ },
+ {
+  "rank": 65,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 0.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 67,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 0.4661654,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 68,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 152.498,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 71,
   "Category": "Governance",
   "Indicator": "Rule of law estimate ",
   "Policy": "H6_Facial Coverings",
@@ -209,18 +231,29 @@
   "year": 2019.0
  },
  {
-  "rank": 87,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
+  "rank": 74,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "H6_Facial Coverings",
   "Country": "Cayman Islands",
   "ISO": "CYM",
-  "value": 65720.0,
-  "unit": "total",
-  "year": 2020.0
+  "value": 8.732487,
+  "unit": "metric tons per capita",
+  "year": 2016.0
  },
  {
-  "rank": 90,
+  "rank": 75,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Cayman Islands",
+  "ISO": "CYM",
+  "value": 1.4457,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 79,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
   "Policy": "H6_Facial Coverings",
@@ -231,25 +264,14 @@
   "year": 2019.0
  },
  {
-  "rank": 112,
-  "Category": "Social issues ",
-  "Indicator": "Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",
+  "rank": 89,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
   "Policy": "H6_Facial Coverings",
   "Country": "Cayman Islands",
   "ISO": "CYM",
-  "value": 29.8638706207275,
-  "unit": "proportion",
-  "year": 2015.0
- },
- {
-  "rank": 115,
-  "Category": "Social issues ",
-  "Indicator": "Primary completion rate, total (% of relevant age group)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Cayman Islands",
-  "ISO": "CYM",
-  "value": 89.5522384643555,
-  "unit": "proportion",
-  "year": 2018.0
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
  }
 ]

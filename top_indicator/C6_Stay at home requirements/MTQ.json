@@ -11,29 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 17215.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 19,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 0.7850212,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 23,
+  "rank": 20,
   "Category": "Governance",
   "Indicator": "Control of corruption estimate",
   "Policy": "C6_Stay at home requirements",
@@ -44,18 +22,7 @@
   "year": 2019.0
  },
  {
-  "rank": 28,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 104.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 41,
+  "rank": 32,
   "Category": "Governance",
   "Indicator": "Rule of law estimate ",
   "Policy": "C6_Stay at home requirements",
@@ -66,13 +33,46 @@
   "year": 2019.0
  },
  {
-  "rank": 46,
+  "rank": 65,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 17215.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 77,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 104.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 81,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
   "Policy": "C6_Stay at home requirements",
   "Country": "Martinique",
   "ISO": "MTQ",
   "value": 1.089055,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 114,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 0.7850212,
   "unit": "score",
   "year": 2019.0
  }

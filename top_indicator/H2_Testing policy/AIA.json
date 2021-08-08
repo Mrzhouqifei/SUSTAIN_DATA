@@ -1,28 +1,6 @@
 [
  {
-  "rank": 5,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "H2_Testing policy",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 1.234392,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H2_Testing policy",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 0.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 32,
+  "rank": 30,
   "Category": "Governance",
   "Indicator": "Rule of law estimate ",
   "Policy": "H2_Testing policy",
@@ -34,28 +12,6 @@
  },
  {
   "rank": 44,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "H2_Testing policy",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 1.367357,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 48,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "H2_Testing policy",
-  "Country": "Anguilla",
-  "ISO": "AIA",
-  "value": 0.8158239,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 57,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H2_Testing policy",
@@ -66,13 +22,57 @@
   "year": 2021.0
  },
  {
-  "rank": 98,
+  "rank": 55,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H2_Testing policy",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 1.234392,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 77,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "H2_Testing policy",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 0.8158239,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 78,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "H2_Testing policy",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 0.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 82,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "H2_Testing policy",
   "Country": "Anguilla",
   "ISO": "AIA",
   "value": 0.8462311,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 84,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "H2_Testing policy",
+  "Country": "Anguilla",
+  "ISO": "AIA",
+  "value": 1.367357,
   "unit": "score",
   "year": 2019.0
  }

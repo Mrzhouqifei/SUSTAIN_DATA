@@ -12,94 +12,17 @@
  },
  {
   "rank": 4,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 5.6543496084,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2014.0
- },
- {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 2479.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 6,
   "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
+  "Indicator": "Secure Internet servers",
   "Policy": "H3_Contact tracing",
   "Country": "Turks and Caicos Islands",
   "ISO": "TCA",
-  "value": 4000.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 19,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 0.572166001038355,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 23,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 12.0,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 30,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 6.394999980926514,
-  "unit": "proportion",
+  "value": 30.0,
+  "unit": "per 1 million people",
   "year": 2020.0
  },
  {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 18.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 68,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 5.917914,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 80,
+  "rank": 5,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "H3_Contact tracing",
@@ -110,7 +33,40 @@
   "year": 2020.0
  },
  {
-  "rank": 96,
+  "rank": 14,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 6.394999980926514,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 15,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 8.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 24,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 5.6543496084,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2014.0
+ },
+ {
+  "rank": 29,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
@@ -121,7 +77,84 @@
   "year": 2020.0
  },
  {
-  "rank": 114,
+  "rank": 34,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 4000.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 39,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 18.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 45,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 12.0,
+  "unit": "Cases",
+  "year": 2019.0
+ },
+ {
+  "rank": 51,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 0.572166001038355,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 56,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 63,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 5.917914,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 64,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "H3_Contact tracing",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 2479.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 115,
   "Category": "Social issues ",
   "Indicator": "Primary completion rate, total (% of relevant age group)",
   "Policy": "H3_Contact tracing",
@@ -130,16 +163,5 @@
   "value": 129.401412963867,
   "unit": "proportion",
   "year": 2018.0
- },
- {
-  "rank": 116,
-  "Category": "Demographics",
-  "Indicator": "Refugee population by country or territory of asylum",
-  "Policy": "H3_Contact tracing",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 8.0,
-  "unit": "proportion",
-  "year": 2020.0
  }
 ]

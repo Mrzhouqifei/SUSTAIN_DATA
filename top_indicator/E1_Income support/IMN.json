@@ -1,17 +1,6 @@
 [
  {
   "rank": 4,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "E1_Income support",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 4333.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 6,
   "Category": "Social issues ",
   "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "E1_Income support",
@@ -22,29 +11,18 @@
   "year": 2016.0
  },
  {
-  "rank": 33,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "E1_Income support",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 4.2075897300392,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 39,
+  "rank": 8,
   "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "E1_Income support",
   "Country": "Isle of Man",
   "ISO": "IMN",
-  "value": 29.0,
+  "value": 4333.0,
   "unit": "Number (cumulative total by July 31, 2021)",
   "year": 2021.0
  },
  {
-  "rank": 52,
+  "rank": 9,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "E1_Income support",
@@ -55,7 +33,40 @@
   "year": 2020.0
  },
  {
-  "rank": 87,
+  "rank": 20,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "E1_Income support",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 52.89799880981445,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 42,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "E1_Income support",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 44,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "E1_Income support",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 1105.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 60,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "E1_Income support",
@@ -66,14 +77,25 @@
   "year": 2020.0
  },
  {
-  "rank": 95,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
+  "rank": 75,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
   "Policy": "E1_Income support",
   "Country": "Isle of Man",
   "ISO": "IMN",
-  "value": 52.89799880981445,
-  "unit": "proportion",
-  "year": 2020.0
+  "value": 29.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 83,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "E1_Income support",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 4.2075897300392,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
  }
 ]

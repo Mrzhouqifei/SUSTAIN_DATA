@@ -11,29 +11,29 @@
   "year": 2019.0
  },
  {
-  "rank": 5,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
+  "rank": 3,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
   "Policy": "H2_Testing policy",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 1.217238,
-  "unit": "score",
+  "value": 35000.0,
+  "unit": "number",
   "year": 2019.0
  },
  {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "rank": 11,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
   "Policy": "H2_Testing policy",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 109.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
+  "value": 106766.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
-  "rank": 14,
+  "rank": 16,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "H2_Testing policy",
@@ -44,15 +44,15 @@
   "year": 2019.0
  },
  {
-  "rank": 18,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
+  "rank": 20,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "H2_Testing policy",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 1.294189,
-  "unit": "score",
-  "year": 2019.0
+  "value": 1.9272278754,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2014.0
  },
  {
   "rank": 22,
@@ -66,7 +66,29 @@
   "year": 2019.0
  },
  {
-  "rank": 32,
+  "rank": 23,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "Policy": "H2_Testing policy",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 2.2,
+  "unit": "Cases",
+  "year": 2019.0
+ },
+ {
+  "rank": 27,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "H2_Testing policy",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 169.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 30,
   "Category": "Governance",
   "Indicator": "Rule of law estimate ",
   "Policy": "H2_Testing policy",
@@ -78,28 +100,6 @@
  },
  {
   "rank": 34,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "H2_Testing policy",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 35000.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 36,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio (% of working-age population)",
-  "Policy": "H2_Testing policy",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 47.03225326538086,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 40,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "H2_Testing policy",
@@ -110,18 +110,7 @@
   "year": 2015.0
  },
  {
-  "rank": 44,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "H2_Testing policy",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.357372,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 46,
+  "rank": 36,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "H2_Testing policy",
@@ -132,40 +121,18 @@
   "year": 2016.0
  },
  {
-  "rank": 47,
-  "Category": "Social issues ",
-  "Indicator": "Primary completion rate, total (% of relevant age group)",
-  "Policy": "H2_Testing policy",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 101.180557250977,
-  "unit": "proportion",
-  "year": 2014.0
- },
- {
-  "rank": 48,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "H2_Testing policy",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.029933,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 54,
+  "rank": 42,
   "Category": "Demographics",
-  "Indicator": "Population, total",
+  "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H2_Testing policy",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 106766.0,
-  "unit": "total",
+  "value": 47.03225326538086,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
-  "rank": 57,
+  "rank": 44,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H2_Testing policy",
@@ -176,7 +143,7 @@
   "year": 2021.0
  },
  {
-  "rank": 63,
+  "rank": 49,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "H2_Testing policy",
@@ -187,62 +154,7 @@
   "year": 2020.0
  },
  {
-  "rank": 66,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
-  "Policy": "H2_Testing policy",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 2.2,
-  "unit": "Cases",
-  "year": 2019.0
- },
- {
-  "rank": 67,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H2_Testing policy",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 135.134,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 89,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "H2_Testing policy",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 56.303001403808594,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 91,
-  "Category": "Social issues ",
-  "Indicator": "Literacy rate, adult total (% of people ages 15 and above)",
-  "Policy": "H2_Testing policy",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 97.8074188232422,
-  "unit": "proportion",
-  "year": 2018.0
- },
- {
-  "rank": 96,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
-  "Policy": "H2_Testing policy",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.9272278754,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2014.0
- },
- {
-  "rank": 97,
+  "rank": 51,
   "Category": "Demographics",
   "Indicator": "Age dependency ratio, old (% of working-age population)",
   "Policy": "H2_Testing policy",
@@ -253,7 +165,106 @@
   "year": 2019.0
  },
  {
-  "rank": 98,
+  "rank": 55,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H2_Testing policy",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.217238,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 57,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H2_Testing policy",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 135.134,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 67,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 56.303001403808594,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 68,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "H2_Testing policy",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 71,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "H2_Testing policy",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.294189,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 76,
+  "Category": "Demographics",
+  "Indicator": "People using at least basic sanitation services (% of population)",
+  "Policy": "H2_Testing policy",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 97.5434811165022,
+  "unit": "proportion",
+  "year": 2016.0
+ },
+ {
+  "rank": 77,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "H2_Testing policy",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.029933,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 78,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "H2_Testing policy",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 109.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 80,
+  "Category": "Social issues ",
+  "Indicator": "Literacy rate, adult total (% of people ages 15 and above)",
+  "Policy": "H2_Testing policy",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 97.8074188232422,
+  "unit": "proportion",
+  "year": 2018.0
+ },
+ {
+  "rank": 82,
   "Category": "Governance",
   "Indicator": "Regulatory quality estimate",
   "Policy": "H2_Testing policy",
@@ -264,14 +275,25 @@
   "year": 2019.0
  },
  {
-  "rank": 103,
-  "Category": "Demographics",
-  "Indicator": "People using at least basic sanitation services (% of population)",
+  "rank": 84,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "H2_Testing policy",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 97.5434811165022,
+  "value": 1.357372,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 115,
+  "Category": "Social issues ",
+  "Indicator": "Primary completion rate, total (% of relevant age group)",
+  "Policy": "H2_Testing policy",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 101.180557250977,
   "unit": "proportion",
-  "year": 2016.0
+  "year": 2014.0
  }
 ]

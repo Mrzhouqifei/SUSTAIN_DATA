@@ -11,7 +11,29 @@
   "year": 2019.0
  },
  {
-  "rank": 13,
+  "rank": 7,
+  "Category": "Social issues ",
+  "Indicator": "Net migration",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 2573.0,
+  "unit": "net total / data are 5 year estimates",
+  "year": 2019.0
+ },
+ {
+  "rank": 8,
+  "Category": "Demographics",
+  "Indicator": "People using at least basic sanitation services (% of population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 98.9502751182192,
+  "unit": "proportion",
+  "year": 2017.0
+ },
+ {
+  "rank": 11,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "H6_Facial Coverings",
@@ -22,18 +44,7 @@
   "year": 2015.0
  },
  {
-  "rank": 14,
-  "Category": "Environment",
-  "Indicator": "Energy use (kg of oil equivalent per capita)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 12650.8604378195,
-  "unit": "kg of oil equivalent per capita",
-  "year": 2014.0
- },
- {
-  "rank": 16,
+  "rank": 15,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "H6_Facial Coverings",
@@ -45,39 +56,17 @@
  },
  {
   "rank": 17,
-  "Category": "Social issues ",
-  "Indicator": "Net migration",
+  "Category": "Demographics",
+  "Indicator": "Population, total",
   "Policy": "H6_Facial Coverings",
   "Country": "Curacao",
   "ISO": "CUW",
-  "value": 2573.0,
-  "unit": "net total / data are 5 year estimates",
-  "year": 2019.0
+  "value": 155014.0,
+  "unit": "total",
+  "year": 2020.0
  },
  {
   "rank": 22,
-  "Category": "Environment",
-  "Indicator": "Energy use ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 471.5791055080478,
-  "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
-  "year": 2014.0
- },
- {
-  "rank": 27,
-  "Category": "Environment",
-  "Indicator": "Electric power consumption ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 4797.670435959438,
-  "unit": "kWh per capita",
-  "year": 2014.0
- },
- {
-  "rank": 32,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "H6_Facial Coverings",
@@ -88,18 +77,40 @@
   "year": 2020.0
  },
  {
-  "rank": 44,
-  "Category": "Social issues ",
-  "Indicator": "Proportion of women in managerial positions (%)",
+  "rank": 24,
+  "Category": "Environment",
+  "Indicator": "Electric power consumption ",
   "Policy": "H6_Facial Coverings",
   "Country": "Curacao",
   "ISO": "CUW",
-  "value": 42.41,
-  "unit": "percent",
-  "year": 2018.0
+  "value": 4797.670435959438,
+  "unit": "kWh per capita",
+  "year": 2014.0
  },
  {
-  "rank": 50,
+  "rank": 26,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio, old (% of working-age population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 26.68541265847763,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 27,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 735.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 36,
   "Category": "Health",
   "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "H6_Facial Coverings",
@@ -110,26 +121,15 @@
   "year": 2019.0
  },
  {
-  "rank": 53,
+  "rank": 56,
   "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Indicator": "Energy imports, net ",
   "Policy": "H6_Facial Coverings",
   "Country": "Curacao",
   "ISO": "CUW",
-  "value": 33.76146,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 55,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 115.548,
-  "unit": "per 100 people",
-  "year": 2019.0
+  "value": 99.86047334620102,
+  "unit": "percent of energy use",
+  "year": 2014.0
  },
  {
   "rank": 58,
@@ -143,51 +143,7 @@
   "year": 2019.0
  },
  {
-  "rank": 59,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 10.937999725341797,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 61,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio, old (% of working-age population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 26.68541265847763,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Energy imports, net ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 99.86047334620102,
-  "unit": "percent of energy use",
-  "year": 2014.0
- },
- {
-  "rank": 70,
-  "Category": "Demographics",
-  "Indicator": "People using at least basic sanitation services (% of population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 98.9502751182192,
-  "unit": "proportion",
-  "year": 2017.0
- },
- {
-  "rank": 74,
+  "rank": 60,
   "Category": "Demographics",
   "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
@@ -198,18 +154,51 @@
   "year": 2020.0
  },
  {
-  "rank": 87,
+  "rank": 65,
   "Category": "Demographics",
-  "Indicator": "Population, total",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "H6_Facial Coverings",
   "Country": "Curacao",
   "ISO": "CUW",
-  "value": 155014.0,
-  "unit": "total",
+  "value": 10.937999725341797,
+  "unit": "proportion",
   "year": 2020.0
  },
  {
-  "rank": 99,
+  "rank": 68,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 115.548,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 69,
+  "Category": "Environment",
+  "Indicator": "Energy use (kg of oil equivalent per capita)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 12650.8604378195,
+  "unit": "kg of oil equivalent per capita",
+  "year": 2014.0
+ },
+ {
+  "rank": 74,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 33.76146,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 77,
   "Category": "Demographics",
   "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H6_Facial Coverings",
@@ -218,5 +207,38 @@
   "value": 55.87129211425781,
   "unit": "proportion",
   "year": 2020.0
+ },
+ {
+  "rank": 80,
+  "Category": "Environment",
+  "Indicator": "Energy use ",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 471.5791055080478,
+  "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
+  "year": 2014.0
+ },
+ {
+  "rank": 81,
+  "Category": "Social issues ",
+  "Indicator": "Proportion of women in managerial positions (%)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 42.41,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 89,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
  }
 ]

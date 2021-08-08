@@ -11,40 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
+  "rank": 4,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
   "Policy": "H6_Facial Coverings",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 3186.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 7,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.540814,
-  "unit": "score",
-  "year": 2019.0
+  "value": 73.00755310058594,
+  "unit": "Score",
+  "year": 2020.0
  },
  {
   "rank": 11,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 90.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 13,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "H6_Facial Coverings",
@@ -55,7 +33,7 @@
   "year": 2015.0
  },
  {
-  "rank": 16,
+  "rank": 15,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "H6_Facial Coverings",
@@ -66,51 +44,29 @@
   "year": 2019.0
  },
  {
-  "rank": 29,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
+  "rank": 16,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "H6_Facial Coverings",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 57.0,
-  "unit": "score",
+  "value": 3186.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
   "year": 2021.0
  },
  {
-  "rank": 32,
+  "rank": 17,
   "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
+  "Indicator": "Population, total",
   "Policy": "H6_Facial Coverings",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 14.416000366210938,
-  "unit": "proportion",
+  "value": 38137.0,
+  "unit": "total",
   "year": 2020.0
  },
  {
-  "rank": 36,
-  "Category": "Social issues ",
-  "Indicator": "Proportion of seats held by women in national parliaments (%)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 12.0,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 38,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 2.6372698982,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2018.0
- },
- {
-  "rank": 42,
+  "rank": 19,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
@@ -121,40 +77,51 @@
   "year": 2021.0
  },
  {
-  "rank": 51,
-  "Category": "Social issues ",
-  "Indicator": "Press freedom score",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 19.52,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 52,
+  "rank": 21,
   "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
+  "Indicator": "Total freedom in the world score ",
   "Policy": "H6_Facial Coverings",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 33.0,
+  "value": 90.0,
   "unit": "score",
   "year": 2021.0
  },
  {
-  "rank": 53,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
+  "rank": 22,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "H6_Facial Coverings",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 1.363269,
-  "unit": "metric tons per capita",
-  "year": 2016.0
+  "value": 14.416000366210938,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
-  "rank": 54,
+  "rank": 23,
+  "Category": "Social issues ",
+  "Indicator": "Proportion of seats held by women in national parliaments (%)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 12.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 27,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 2000.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 29,
   "Category": "Governance",
   "Indicator": "Serious assault (rate)",
   "Policy": "H6_Facial Coverings",
@@ -165,14 +132,47 @@
   "year": 2018.0
  },
  {
-  "rank": 55,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
+  "rank": 30,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "H6_Facial Coverings",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 127.06,
-  "unit": "per 100 people",
+  "value": 2.6372698982,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2018.0
+ },
+ {
+  "rank": 37,
+  "Category": "Social issues ",
+  "Indicator": "Press freedom score",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 19.52,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 40,
+  "Category": "Governance",
+  "Indicator": "Human Development Index",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 0.919,
+  "unit": "index",
+  "year": 2019.0
+ },
+ {
+  "rank": 49,
+  "Category": "Governance",
+  "Indicator": "Regulatory quality estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.540814,
+  "unit": "score",
   "year": 2019.0
  },
  {
@@ -187,40 +187,7 @@
   "year": 2019.0
  },
  {
-  "rank": 59,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 85.58399963378906,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 65,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.627746,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 66,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.968311,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 74,
+  "rank": 60,
   "Category": "Demographics",
   "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "H6_Facial Coverings",
@@ -231,7 +198,7 @@
   "year": 2020.0
  },
  {
-  "rank": 77,
+  "rank": 61,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
   "Policy": "H6_Facial Coverings",
@@ -242,7 +209,40 @@
   "year": 2019.0
  },
  {
-  "rank": 82,
+  "rank": 65,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 85.58399963378906,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 67,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.968311,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 68,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 127.06,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 71,
   "Category": "Governance",
   "Indicator": "Rule of law estimate ",
   "Policy": "H6_Facial Coverings",
@@ -253,18 +253,29 @@
   "year": 2019.0
  },
  {
-  "rank": 87,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
+  "rank": 74,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "H6_Facial Coverings",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 38137.0,
-  "unit": "total",
-  "year": 2020.0
+  "value": 1.363269,
+  "unit": "metric tons per capita",
+  "year": 2016.0
  },
  {
-  "rank": 90,
+  "rank": 75,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.627746,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 79,
   "Category": "Governance",
   "Indicator": "Government effectiveness estimate",
   "Policy": "H6_Facial Coverings",
@@ -275,25 +286,36 @@
   "year": 2019.0
  },
  {
-  "rank": 95,
+  "rank": 86,
   "Category": "Governance",
-  "Indicator": "Human Development Index",
+  "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "H6_Facial Coverings",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 0.919,
-  "unit": "index",
+  "value": 33.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 89,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 100.0,
+  "unit": "percent of population",
   "year": 2019.0
  },
  {
-  "rank": 105,
-  "Category": "Economics",
-  "Indicator": "Starting a Business (Score)",
+  "rank": 102,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "H6_Facial Coverings",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 73.00755310058594,
-  "unit": "Score",
-  "year": 2020.0
+  "value": 57.0,
+  "unit": "score",
+  "year": 2021.0
  }
 ]

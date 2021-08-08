@@ -34,39 +34,39 @@
  },
  {
   "rank": 4,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
   "Policy": "H1_Public information campaigns",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 1.9272278754,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2014.0
+  "value": 169.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
  },
  {
-  "rank": 5,
+  "rank": 6,
   "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
+  "Indicator": "Population, total",
   "Policy": "H1_Public information campaigns",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 35000.0,
-  "unit": "number",
+  "value": 106766.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 8,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.217238,
+  "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 7,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 11521.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 11,
+  "rank": 13,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "H1_Public information campaigns",
@@ -77,15 +77,15 @@
   "year": 2019.0
  },
  {
-  "rank": 13,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "rank": 14,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "H1_Public information campaigns",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 2.2,
-  "unit": "Cases",
-  "year": 2019.0
+  "value": 1.9272278754,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2014.0
  },
  {
   "rank": 18,
@@ -99,73 +99,7 @@
   "year": 2019.0
  },
  {
-  "rank": 21,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.029933,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 28,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.357372,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 30,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 135.134,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 38,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.294189,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 42,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 1.217238,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 48,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 6.72674756598399,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 51,
+  "rank": 26,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "H1_Public information campaigns",
@@ -176,73 +110,40 @@
   "year": 2020.0
  },
  {
-  "rank": 61,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 109.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 63,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 8.426911,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 66,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio, old (% of working-age population)",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 20.57685688717561,
-  "unit": "proportion",
-  "year": 2019.0
- },
- {
-  "rank": 73,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Aruba",
-  "ISO": "ABW",
-  "value": 106766.0,
-  "unit": "total",
-  "year": 2020.0
- },
- {
-  "rank": 79,
+  "rank": 29,
   "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "H1_Public information campaigns",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 1.263128,
+  "value": 1.357372,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 95,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
+  "rank": 31,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
   "Policy": "H1_Public information campaigns",
   "Country": "Aruba",
   "ISO": "ABW",
-  "value": 43.696998596191406,
-  "unit": "proportion",
-  "year": 2020.0
+  "value": 6.72674756598399,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
  },
  {
-  "rank": 97,
+  "rank": 50,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 135.134,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 51,
   "Category": "Demographics",
   "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "H1_Public information campaigns",
@@ -253,7 +154,84 @@
   "year": 2020.0
  },
  {
-  "rank": 108,
+  "rank": 54,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 109.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 57,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 43.696998596191406,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 59,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 11521.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 62,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 35000.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 63,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.263128,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 64,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 2.2,
+  "unit": "Cases",
+  "year": 2019.0
+ },
+ {
+  "rank": 65,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 67,
   "Category": "Social issues ",
   "Indicator": "Literacy rate, adult total (% of people ages 15 and above)",
   "Policy": "H1_Public information campaigns",
@@ -264,7 +242,18 @@
   "year": 2018.0
  },
  {
-  "rank": 111,
+  "rank": 75,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio, old (% of working-age population)",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 20.57685688717561,
+  "unit": "proportion",
+  "year": 2019.0
+ },
+ {
+  "rank": 78,
   "Category": "Social issues ",
   "Indicator": "Primary completion rate, total (% of relevant age group)",
   "Policy": "H1_Public information campaigns",
@@ -273,5 +262,38 @@
   "value": 101.180557250977,
   "unit": "proportion",
   "year": 2014.0
+ },
+ {
+  "rank": 81,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.294189,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 84,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 8.426911,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 87,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Aruba",
+  "ISO": "ABW",
+  "value": 1.029933,
+  "unit": "score",
+  "year": 2019.0
  }
 ]

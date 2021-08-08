@@ -1,61 +1,17 @@
 [
  {
   "rank": 4,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 0.0,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2016.0
- },
- {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 4333.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 19,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 4.2075897300392,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 30,
   "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
+  "Indicator": "Secure Internet servers",
   "Policy": "H3_Contact tracing",
   "Country": "Isle of Man",
   "ISO": "IMN",
-  "value": 47.10200119018555,
-  "unit": "proportion",
+  "value": 1105.0,
+  "unit": "per 1 million people",
   "year": 2020.0
  },
  {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H3_Contact tracing",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 29.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 80,
+  "rank": 5,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "H3_Contact tracing",
@@ -66,7 +22,29 @@
   "year": 2020.0
  },
  {
-  "rank": 96,
+  "rank": 14,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 47.10200119018555,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 24,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 0.0,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2016.0
+ },
+ {
+  "rank": 29,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
@@ -75,5 +53,49 @@
   "value": 52.89799880981445,
   "unit": "proportion",
   "year": 2020.0
+ },
+ {
+  "rank": 39,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "H3_Contact tracing",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 29.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 51,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "H3_Contact tracing",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 4.2075897300392,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 56,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "H3_Contact tracing",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 64,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "H3_Contact tracing",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 4333.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  }
 ]

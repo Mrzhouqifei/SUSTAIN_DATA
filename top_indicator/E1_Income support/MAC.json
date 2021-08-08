@@ -1,6 +1,6 @@
 [
  {
-  "rank": 52,
+  "rank": 9,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "E1_Income support",
@@ -11,18 +11,7 @@
   "year": 2020.0
  },
  {
-  "rank": 87,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "E1_Income support",
-  "Country": "Macao",
-  "ISO": "MAC",
-  "value": 649342.0,
-  "unit": "total",
-  "year": 2020.0
- },
- {
-  "rank": 95,
+  "rank": 20,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "E1_Income support",
@@ -33,7 +22,29 @@
   "year": 2020.0
  },
  {
-  "rank": 97,
+  "rank": 42,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "E1_Income support",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 44,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "E1_Income support",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 3920.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 46,
   "Category": "Demographics",
   "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "E1_Income support",
@@ -41,6 +52,17 @@
   "ISO": "MAC",
   "value": 35.73287582397461,
   "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E1_Income support",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 649342.0,
+  "unit": "total",
   "year": 2020.0
  }
 ]

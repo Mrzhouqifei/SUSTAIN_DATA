@@ -1,17 +1,28 @@
 [
  {
-  "rank": 5,
+  "rank": 7,
   "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
+  "Indicator": "Prevalence of down syndrome",
   "Policy": "H7_Vaccination policy",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 0.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
+  "value": 0.000145,
+  "unit": "percent",
+  "year": 2019.0
  },
  {
-  "rank": 13,
+  "rank": 11,
+  "Category": "Health",
+  "Indicator": "Prevalence of Depressive disorders",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.030871,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 14,
   "Category": "Health",
   "Indicator": "Prevalence of Diabetes",
   "Policy": "H7_Vaccination policy",
@@ -22,7 +33,7 @@
   "year": 2019.0
  },
  {
-  "rank": 15,
+  "rank": 17,
   "Category": "Health",
   "Indicator": "Prevalence of total cancers",
   "Policy": "H7_Vaccination policy",
@@ -35,17 +46,6 @@
  {
   "rank": 18,
   "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.030871,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 24,
-  "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "H7_Vaccination policy",
   "Country": "Tokelau",
@@ -55,7 +55,7 @@
   "year": 2019.0
  },
  {
-  "rank": 34,
+  "rank": 19,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H7_Vaccination policy",
@@ -66,7 +66,18 @@
   "year": 2021.0
  },
  {
-  "rank": 56,
+  "rank": 27,
+  "Category": "Health",
+  "Indicator": "Prevalence of chronic kidney disease",
+  "Policy": "H7_Vaccination policy",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.106118,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 30,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
   "Policy": "H7_Vaccination policy",
@@ -77,29 +88,18 @@
   "year": 2019.0
  },
  {
-  "rank": 60,
+  "rank": 43,
   "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "H7_Vaccination policy",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 0.000145,
-  "unit": "percent",
-  "year": 2019.0
+  "value": 0.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
-  "rank": 68,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "H7_Vaccination policy",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.040476,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 69,
+  "rank": 46,
   "Category": "Health",
   "Indicator": "Prevalence of Respiratory infections and tuberculosis",
   "Policy": "H7_Vaccination policy",
@@ -110,13 +110,13 @@
   "year": 2019.0
  },
  {
-  "rank": 97,
+  "rank": 62,
   "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
+  "Indicator": "Prevalence of anxiety disorders",
   "Policy": "H7_Vaccination policy",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 0.106118,
+  "value": 0.040476,
   "unit": "percent",
   "year": 2019.0
  }

@@ -12,28 +12,17 @@
  },
  {
   "rank": 4,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
   "Policy": "E2_Debt/contract relief",
   "Country": "Turks and Caicos Islands",
   "ISO": "TCA",
-  "value": 5.6543496084,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2014.0
+  "value": 30.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
  },
  {
   "rank": 5,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 4000.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "E2_Debt/contract relief",
@@ -44,7 +33,18 @@
   "year": 2021.0
  },
  {
-  "rank": 28,
+  "rank": 6,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 5.6543496084,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2014.0
+ },
+ {
+  "rank": 11,
   "Category": "Health",
   "Indicator": "Incidence of tuberculosis (per 100,000 people)",
   "Policy": "E2_Debt/contract relief",
@@ -55,51 +55,7 @@
   "year": 2019.0
  },
  {
-  "rank": 39,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 5.917914,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 49,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 18.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 64,
-  "Category": "Social issues ",
-  "Indicator": "Primary completion rate, total (% of relevant age group)",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 129.401412963867,
-  "unit": "proportion",
-  "year": 2018.0
- },
- {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Turks and Caicos Islands",
-  "ISO": "TCA",
-  "value": 0.572166001038355,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 76,
+  "rank": 54,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "E2_Debt/contract relief",
@@ -110,7 +66,18 @@
   "year": 2020.0
  },
  {
-  "rank": 79,
+  "rank": 56,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 5.917914,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 59,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "E2_Debt/contract relief",
@@ -121,24 +88,79 @@
   "year": 2020.0
  },
  {
-  "rank": 82,
+  "rank": 60,
   "Category": "Demographics",
-  "Indicator": "Refugee population by country or territory of asylum",
+  "Indicator": "Fixed telephone subscriptions",
   "Policy": "E2_Debt/contract relief",
   "Country": "Turks and Caicos Islands",
   "ISO": "TCA",
-  "value": 8.0,
-  "unit": "proportion",
-  "year": 2020.0
+  "value": 4000.0,
+  "unit": "number",
+  "year": 2019.0
  },
  {
-  "rank": 88,
+  "rank": 68,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "E2_Debt/contract relief",
   "Country": "Turks and Caicos Islands",
   "ISO": "TCA",
   "value": 93.6050033569336,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 70,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 71,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 18.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 73,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 0.572166001038355,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 91,
+  "Category": "Social issues ",
+  "Indicator": "Primary completion rate, total (% of relevant age group)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 129.401412963867,
+  "unit": "proportion",
+  "year": 2018.0
+ },
+ {
+  "rank": 93,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Turks and Caicos Islands",
+  "ISO": "TCA",
+  "value": 8.0,
   "unit": "proportion",
   "year": 2020.0
  }

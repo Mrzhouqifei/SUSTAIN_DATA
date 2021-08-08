@@ -23,28 +23,17 @@
  },
  {
   "rank": 4,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
   "Policy": "E2_Debt/contract relief",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 2.6372698982,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2018.0
+  "value": 2000.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
  },
  {
   "rank": 5,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 14032.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "E2_Debt/contract relief",
@@ -55,7 +44,18 @@
   "year": 2021.0
  },
  {
-  "rank": 19,
+  "rank": 6,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 2.6372698982,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2018.0
+ },
+ {
+  "rank": 9,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "E2_Debt/contract relief",
@@ -66,95 +66,7 @@
   "year": 2019.0
  },
  {
-  "rank": 23,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 127.06,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 24,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability estimate",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.259364,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 34,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 57.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 39,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.363269,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 40,
-  "Category": "Social issues ",
-  "Indicator": "Press freedom score",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 19.52,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 49,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 58.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 50,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.968311,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 55,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.696766,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 59,
+  "rank": 18,
   "Category": "Governance",
   "Indicator": "Total freedom in the world score ",
   "Policy": "E2_Debt/contract relief",
@@ -165,7 +77,7 @@
   "year": 2021.0
  },
  {
-  "rank": 65,
+  "rank": 30,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "E2_Debt/contract relief",
@@ -176,40 +88,18 @@
   "year": 2019.0
  },
  {
-  "rank": 67,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 63.1344414422166,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 68,
+  "rank": 32,
   "Category": "Governance",
-  "Indicator": "Serious assault (rate)",
+  "Indicator": "Control of corruption estimate",
   "Policy": "E2_Debt/contract relief",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 208.34,
-  "unit": "rate",
-  "year": 2018.0
- },
- {
-  "rank": 71,
-  "Category": "Governance",
-  "Indicator": "Rule of law estimate ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.679333,
+  "value": 1.968311,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 72,
+  "rank": 33,
   "Category": "Social issues ",
   "Indicator": "Proportion of seats held by women in national parliaments (%)",
   "Policy": "E2_Debt/contract relief",
@@ -220,62 +110,18 @@
   "year": 2020.0
  },
  {
-  "rank": 75,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
+  "rank": 34,
+  "Category": "Social issues ",
+  "Indicator": "Press freedom score",
   "Policy": "E2_Debt/contract relief",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 33.0,
+  "value": 19.52,
   "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 76,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 38137.0,
-  "unit": "total",
   "year": 2020.0
  },
  {
-  "rank": 79,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 85.58399963378906,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 82,
-  "Category": "Demographics",
-  "Indicator": "Refugee population by country or territory of asylum",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 154.0,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 88,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 14.416000366210938,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 89,
+  "rank": 40,
   "Category": "Economics",
   "Indicator": "Starting a Business (Score)",
   "Policy": "E2_Debt/contract relief",
@@ -286,7 +132,150 @@
   "year": 2020.0
  },
  {
-  "rank": 101,
+  "rank": 49,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.696766,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 38137.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 55,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.259364,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 56,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.363269,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 57,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate ",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.679333,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 59,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 85.58399963378906,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 60,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 14032.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 65,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 127.06,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 68,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 14.416000366210938,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 70,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 71,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 58.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 73,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 63.1344414422166,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 82,
+  "Category": "Governance",
+  "Indicator": "Serious assault (rate)",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 208.34,
+  "unit": "rate",
+  "year": 2018.0
+ },
+ {
+  "rank": 83,
   "Category": "Governance",
   "Indicator": "Human Development Index",
   "Policy": "E2_Debt/contract relief",
@@ -295,5 +284,38 @@
   "value": 0.919,
   "unit": "index",
   "year": 2019.0
+ },
+ {
+  "rank": 84,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 33.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 85,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 57.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 93,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 154.0,
+  "unit": "proportion",
+  "year": 2020.0
  }
 ]

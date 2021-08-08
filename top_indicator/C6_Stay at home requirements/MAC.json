@@ -1,6 +1,28 @@
 [
  {
-  "rank": 34,
+  "rank": 4,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 3920.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 35,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 100.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 66,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "C6_Stay at home requirements",
@@ -12,17 +34,17 @@
  },
  {
   "rank": 80,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
   "Policy": "C6_Stay at home requirements",
   "Country": "Macao",
   "ISO": "MAC",
   "value": 100.0,
-  "unit": "proportion",
-  "year": 2020.0
+  "unit": "percent of population",
+  "year": 2019.0
  },
  {
-  "rank": 94,
+  "rank": 84,
   "Category": "Demographics",
   "Indicator": "Age dependency ratio (% of working-age population)",
   "Policy": "C6_Stay at home requirements",
@@ -33,7 +55,7 @@
   "year": 2020.0
  },
  {
-  "rank": 116,
+  "rank": 91,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "C6_Stay at home requirements",

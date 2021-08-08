@@ -1,72 +1,6 @@
 [
  {
-  "rank": 7,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.111261,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 10,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.007214,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 12,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 27.98347,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 14,
-  "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.030871,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 24,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.000145,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 25,
+  "rank": 9,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "H1_Public information campaigns",
@@ -77,18 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 27,
+  "rank": 20,
   "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
+  "Indicator": "Prevalence of Depressive disorders",
   "Policy": "H1_Public information campaigns",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 0.040476,
+  "value": 0.030871,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 40,
+  "rank": 21,
   "Category": "Health",
   "Indicator": "Prevalence of Respiratory infections and tuberculosis",
   "Policy": "H1_Public information campaigns",
@@ -99,7 +33,40 @@
   "year": 2019.0
  },
  {
-  "rank": 45,
+  "rank": 36,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.111261,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 47,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.007214,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 54,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 55,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "H1_Public information campaigns",
@@ -110,14 +77,47 @@
   "year": 2019.0
  },
  {
-  "rank": 61,
+  "rank": 59,
   "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "H1_Public information campaigns",
   "Country": "Tokelau",
   "ISO": "TKL",
   "value": 0.0,
   "unit": "Number (cumulative total by July 31, 2021)",
   "year": 2021.0
+ },
+ {
+  "rank": 70,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 27.98347,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 72,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.040476,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 73,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.000145,
+  "unit": "percent",
+  "year": 2019.0
  }
 ]

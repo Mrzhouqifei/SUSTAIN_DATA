@@ -11,7 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 9,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "E2_Debt/contract relief",
@@ -22,40 +22,7 @@
   "year": 2021.0
  },
  {
-  "rank": 49,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 104.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 50,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 1.234392,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 55,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Martinique",
-  "ISO": "MTQ",
-  "value": 1.089055,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 65,
+  "rank": 30,
   "Category": "Governance",
   "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "E2_Debt/contract relief",
@@ -66,7 +33,29 @@
   "year": 2019.0
  },
  {
-  "rank": 71,
+  "rank": 32,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 1.234392,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 49,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 1.089055,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 57,
   "Category": "Governance",
   "Indicator": "Rule of law estimate ",
   "Policy": "E2_Debt/contract relief",
@@ -75,5 +64,16 @@
   "value": 0.6005772,
   "unit": "score",
   "year": 2019.0
+ },
+ {
+  "rank": 71,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Martinique",
+  "ISO": "MTQ",
+  "value": 104.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  }
 ]

@@ -1,6 +1,28 @@
 [
  {
-  "rank": 26,
+  "rank": 44,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 35.73287582397461,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "C2_Workplace closing",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 3920.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 58,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "C2_Workplace closing",
@@ -11,18 +33,18 @@
   "year": 2020.0
  },
  {
-  "rank": 79,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
+  "rank": 59,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
   "Policy": "C2_Workplace closing",
   "Country": "Macao",
   "ISO": "MAC",
-  "value": 0.0,
-  "unit": "proportion",
-  "year": 2020.0
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
  },
  {
-  "rank": 84,
+  "rank": 61,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "C2_Workplace closing",
@@ -33,13 +55,13 @@
   "year": 2020.0
  },
  {
-  "rank": 102,
+  "rank": 72,
   "Category": "Demographics",
-  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Indicator": "Rural population (% of total population)",
   "Policy": "C2_Workplace closing",
   "Country": "Macao",
   "ISO": "MAC",
-  "value": 35.73287582397461,
+  "value": 0.0,
   "unit": "proportion",
   "year": 2020.0
  }

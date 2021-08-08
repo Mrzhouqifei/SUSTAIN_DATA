@@ -11,106 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 3,
-  "Category": "Demographics",
-  "Indicator": "People using at least basic sanitation services (% of population)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 98.9502751182192,
-  "unit": "proportion",
-  "year": 2017.0
- },
- {
-  "rank": 5,
-  "Category": "Environment",
-  "Indicator": "Electric power consumption ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 4797.670435959438,
-  "unit": "kWh per capita",
-  "year": 2014.0
- },
- {
-  "rank": 11,
-  "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
-  "Policy": "C2_Workplace closing",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 30.4623,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 16,
-  "Category": "Social issues ",
-  "Indicator": "Proportion of women in managerial positions (%)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 42.41,
-  "unit": "percent",
-  "year": 2018.0
- },
- {
-  "rank": 21,
-  "Category": "Social issues ",
-  "Indicator": "Net migration",
-  "Policy": "C2_Workplace closing",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 2573.0,
-  "unit": "net total / data are 5 year estimates",
-  "year": 2019.0
- },
- {
-  "rank": 24,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "C2_Workplace closing",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 61709.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 26,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "C2_Workplace closing",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 155014.0,
-  "unit": "total",
-  "year": 2020.0
- },
- {
-  "rank": 36,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 0.347766267819474,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 50,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "C2_Workplace closing",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 115.548,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 63,
+  "rank": 4,
   "Category": "Demographics",
   "Indicator": "Age dependency ratio, old (% of working-age population)",
   "Policy": "C2_Workplace closing",
@@ -121,7 +22,7 @@
   "year": 2019.0
  },
  {
-  "rank": 64,
+  "rank": 6,
   "Category": "Environment",
   "Indicator": "Energy imports, net ",
   "Policy": "C2_Workplace closing",
@@ -132,18 +33,7 @@
   "year": 2014.0
  },
  {
-  "rank": 68,
-  "Category": "Environment",
-  "Indicator": "Energy use (kg of oil equivalent per capita)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 12650.8604378195,
-  "unit": "kg of oil equivalent per capita",
-  "year": 2014.0
- },
- {
-  "rank": 69,
+  "rank": 8,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "C2_Workplace closing",
@@ -154,40 +44,139 @@
   "year": 2016.0
  },
  {
-  "rank": 78,
-  "Category": "Health",
-  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "rank": 11,
+  "Category": "Social issues ",
+  "Indicator": "Net migration",
   "Policy": "C2_Workplace closing",
   "Country": "Curacao",
   "ISO": "CUW",
-  "value": 7.2,
-  "unit": "Cases",
+  "value": 2573.0,
+  "unit": "net total / data are 5 year estimates",
   "year": 2019.0
  },
  {
-  "rank": 79,
+  "rank": 12,
   "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
+  "Indicator": "People using at least basic sanitation services (% of population)",
   "Policy": "C2_Workplace closing",
   "Country": "Curacao",
   "ISO": "CUW",
-  "value": 10.937999725341797,
+  "value": 98.9502751182192,
+  "unit": "proportion",
+  "year": 2017.0
+ },
+ {
+  "rank": 14,
+  "Category": "Demographics",
+  "Indicator": "Fixed broadband subscriptions",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 30.4623,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 22,
+  "Category": "Environment",
+  "Indicator": "Electric power consumption ",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 4797.670435959438,
+  "unit": "kWh per capita",
+  "year": 2014.0
+ },
+ {
+  "rank": 35,
+  "Category": "Demographics",
+  "Indicator": "Fixed telephone subscriptions",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 61709.0,
+  "unit": "number",
+  "year": 2019.0
+ },
+ {
+  "rank": 41,
+  "Category": "Environment",
+  "Indicator": "Energy use (kg of oil equivalent per capita)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 12650.8604378195,
+  "unit": "kg of oil equivalent per capita",
+  "year": 2014.0
+ },
+ {
+  "rank": 43,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 0.347766267819474,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 44,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 55.87129211425781,
   "unit": "proportion",
   "year": 2020.0
  },
  {
-  "rank": 81,
-  "Category": "Environment",
-  "Indicator": "Energy use ",
+  "rank": 54,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
   "Policy": "C2_Workplace closing",
   "Country": "Curacao",
   "ISO": "CUW",
-  "value": 471.5791055080478,
-  "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
-  "year": 2014.0
+  "value": 735.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
  },
  {
-  "rank": 84,
+  "rank": 57,
+  "Category": "Social issues ",
+  "Indicator": "Proportion of women in managerial positions (%)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 42.41,
+  "unit": "percent",
+  "year": 2018.0
+ },
+ {
+  "rank": 58,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 155014.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 59,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 61,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "C2_Workplace closing",
@@ -198,24 +187,57 @@
   "year": 2020.0
  },
  {
-  "rank": 86,
+  "rank": 67,
+  "Category": "Environment",
+  "Indicator": "Energy use ",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 471.5791055080478,
+  "unit": "(kg of oil equivalent) per $1,000 GDP (constant 2017 PPP)",
+  "year": 2014.0
+ },
+ {
+  "rank": 68,
+  "Category": "Health",
+  "Indicator": "Incidence of tuberculosis (per 100,000 people)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 7.2,
+  "unit": "Cases",
+  "year": 2019.0
+ },
+ {
+  "rank": 72,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 10.937999725341797,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 73,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "C2_Workplace closing",
+  "Country": "Curacao",
+  "ISO": "CUW",
+  "value": 115.548,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 81,
   "Category": "Demographics",
   "Indicator": "Refugee population by country or territory of asylum",
   "Policy": "C2_Workplace closing",
   "Country": "Curacao",
   "ISO": "CUW",
   "value": 78.0,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 102,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio (% of working-age population)",
-  "Policy": "C2_Workplace closing",
-  "Country": "Curacao",
-  "ISO": "CUW",
-  "value": 55.87129211425781,
   "unit": "proportion",
   "year": 2020.0
  }

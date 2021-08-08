@@ -1,17 +1,6 @@
 [
  {
-  "rank": 5,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 4333.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 13,
+  "rank": 11,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "H6_Facial Coverings",
@@ -22,29 +11,29 @@
   "year": 2015.0
  },
  {
-  "rank": 32,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
+  "rank": 16,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "H6_Facial Coverings",
   "Country": "Isle of Man",
   "ISO": "IMN",
-  "value": 52.89799880981445,
-  "unit": "proportion",
+  "value": 4333.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 17,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 85032.0,
+  "unit": "total",
   "year": 2020.0
  },
  {
-  "rank": 38,
-  "Category": "Social issues ",
-  "Indicator": "Intentional homicides (per 100,000 people)",
-  "Policy": "H6_Facial Coverings",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 0.0,
-  "unit": "proportion, pero 100,000 people",
-  "year": 2016.0
- },
- {
-  "rank": 42,
+  "rank": 19,
   "Category": "Health",
   "Indicator": "Mortality due to COVID-19",
   "Policy": "H6_Facial Coverings",
@@ -55,7 +44,40 @@
   "year": 2021.0
  },
  {
-  "rank": 59,
+  "rank": 22,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 52.89799880981445,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 27,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 1105.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 30,
+  "Category": "Social issues ",
+  "Indicator": "Intentional homicides (per 100,000 people)",
+  "Policy": "H6_Facial Coverings",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 0.0,
+  "unit": "proportion, pero 100,000 people",
+  "year": 2016.0
+ },
+ {
+  "rank": 65,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "H6_Facial Coverings",
@@ -66,14 +88,14 @@
   "year": 2020.0
  },
  {
-  "rank": 87,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
+  "rank": 89,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
   "Policy": "H6_Facial Coverings",
   "Country": "Isle of Man",
   "ISO": "IMN",
-  "value": 85032.0,
-  "unit": "total",
-  "year": 2020.0
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
  }
 ]

@@ -11,29 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "H2_Testing policy",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 1.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 14,
-  "Category": "Demographics",
-  "Indicator": "Fixed broadband subscriptions",
-  "Policy": "H2_Testing policy",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 37.328,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
-  "rank": 34,
+  "rank": 3,
   "Category": "Demographics",
   "Indicator": "Fixed telephone subscriptions",
   "Policy": "H2_Testing policy",
@@ -44,29 +22,7 @@
   "year": 2019.0
  },
  {
-  "rank": 40,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "H2_Testing policy",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 7.51358049162428,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 46,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "H2_Testing policy",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 13.09289,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 54,
+  "rank": 11,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "H2_Testing policy",
@@ -77,7 +33,51 @@
   "year": 2020.0
  },
  {
-  "rank": 57,
+  "rank": 16,
+  "Category": "Demographics",
+  "Indicator": "Fixed broadband subscriptions",
+  "Policy": "H2_Testing policy",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 37.328,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 27,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "H2_Testing policy",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 294.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 34,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "H2_Testing policy",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 7.51358049162428,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 36,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "H2_Testing policy",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 13.09289,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 44,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "H2_Testing policy",
@@ -88,7 +88,7 @@
   "year": 2021.0
  },
  {
-  "rank": 63,
+  "rank": 49,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "H2_Testing policy",
@@ -99,7 +99,7 @@
   "year": 2020.0
  },
  {
-  "rank": 67,
+  "rank": 57,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
   "Policy": "H2_Testing policy",
@@ -110,7 +110,7 @@
   "year": 2019.0
  },
  {
-  "rank": 89,
+  "rank": 67,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "H2_Testing policy",
@@ -119,5 +119,27 @@
   "value": 57.60200119018555,
   "unit": "proportion",
   "year": 2020.0
+ },
+ {
+  "rank": 68,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "H2_Testing policy",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 78,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "H2_Testing policy",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 1.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  }
 ]

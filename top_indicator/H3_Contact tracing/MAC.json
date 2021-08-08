@@ -1,28 +1,17 @@
 [
  {
-  "rank": 30,
+  "rank": 4,
   "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
+  "Indicator": "Secure Internet servers",
   "Policy": "H3_Contact tracing",
   "Country": "Macao",
   "ISO": "MAC",
-  "value": 0.0,
-  "unit": "proportion",
+  "value": 3920.0,
+  "unit": "per 1 million people",
   "year": 2020.0
  },
  {
-  "rank": 73,
-  "Category": "Demographics",
-  "Indicator": "Age dependency ratio (% of working-age population)",
-  "Policy": "H3_Contact tracing",
-  "Country": "Macao",
-  "ISO": "MAC",
-  "value": 35.73287582397461,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 80,
+  "rank": 5,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "H3_Contact tracing",
@@ -33,7 +22,29 @@
   "year": 2020.0
  },
  {
-  "rank": 96,
+  "rank": 14,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 0.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 17,
+  "Category": "Demographics",
+  "Indicator": "Age dependency ratio (% of working-age population)",
+  "Policy": "H3_Contact tracing",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 35.73287582397461,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 29,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "H3_Contact tracing",
@@ -42,5 +53,16 @@
   "value": 100.0,
   "unit": "proportion",
   "year": 2020.0
+ },
+ {
+  "rank": 56,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "H3_Contact tracing",
+  "Country": "Macao",
+  "ISO": "MAC",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
  }
 ]

@@ -1,17 +1,6 @@
 [
  {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.111261,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 9,
+  "rank": 5,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "E2_Debt/contract relief",
@@ -22,18 +11,7 @@
   "year": 2021.0
  },
  {
-  "rank": 10,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.040476,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 12,
+  "rank": 17,
   "Category": "Health",
   "Indicator": "Prevalence of total cancers",
   "Policy": "E2_Debt/contract relief",
@@ -44,62 +22,7 @@
   "year": 2019.0
  },
  {
-  "rank": 15,
-  "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.030871,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 25,
-  "Category": "Health",
-  "Indicator": "Summary exposure value tobacco",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 27.98347,
-  "unit": "Rate (risk-weighted prevalence)",
-  "year": 2019.0
- },
- {
-  "rank": 38,
-  "Category": "Health",
-  "Indicator": "Prevalence of down syndrome",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.000145,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 49,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 54,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.362278,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 56,
+  "rank": 20,
   "Category": "Health",
   "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "E2_Debt/contract relief",
@@ -110,13 +33,90 @@
   "year": 2019.0
  },
  {
-  "rank": 74,
+  "rank": 23,
+  "Category": "Health",
+  "Indicator": "Prevalence of down syndrome",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.000145,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 24,
+  "Category": "Health",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.362278,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 25,
+  "Category": "Health",
+  "Indicator": "Prevalence of Depressive disorders",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.030871,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 41,
+  "Category": "Health",
+  "Indicator": "Prevalence of Diabetes",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.111261,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 64,
+  "Category": "Health",
+  "Indicator": "Summary exposure value tobacco",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 27.98347,
+  "unit": "Rate (risk-weighted prevalence)",
+  "year": 2019.0
+ },
+ {
+  "rank": 69,
   "Category": "Health",
   "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "E2_Debt/contract relief",
   "Country": "Tokelau",
   "ISO": "TKL",
   "value": 0.106118,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 71,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 112,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.040476,
   "unit": "percent",
   "year": 2019.0
  }

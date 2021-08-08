@@ -11,18 +11,7 @@
   "year": 2019.0
  },
  {
-  "rank": 5,
-  "Category": "Demographics",
-  "Indicator": "Fixed telephone subscriptions",
-  "Policy": "C3_Cancel public events",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 18021.0,
-  "unit": "number",
-  "year": 2019.0
- },
- {
-  "rank": 13,
+  "rank": 14,
   "Category": "Demographics",
   "Indicator": "Fixed broadband subscriptions",
   "Policy": "C3_Cancel public events",
@@ -34,28 +23,6 @@
  },
  {
   "rank": 15,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C3_Cancel public events",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 1.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 56,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C3_Cancel public events",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 982.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 59,
   "Category": "Demographics",
   "Indicator": "Mobile cellular subscriptions",
   "Policy": "C3_Cancel public events",
@@ -66,40 +33,18 @@
   "year": 2019.0
  },
  {
-  "rank": 68,
-  "Category": "Environment",
-  "Indicator": "CO2 emissions (metric tons per capita)",
-  "Policy": "C3_Cancel public events",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 13.09289,
-  "unit": "metric tons per capita",
-  "year": 2016.0
- },
- {
-  "rank": 69,
+  "rank": 20,
   "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
+  "Indicator": "Fixed telephone subscriptions",
   "Policy": "C3_Cancel public events",
   "Country": "Faroe Islands",
   "ISO": "FRO",
-  "value": 42.39799880981445,
-  "unit": "proportion",
-  "year": 2020.0
+  "value": 18021.0,
+  "unit": "number",
+  "year": 2019.0
  },
  {
-  "rank": 81,
-  "Category": "Demographics",
-  "Indicator": "Population, total",
-  "Policy": "C3_Cancel public events",
-  "Country": "Faroe Islands",
-  "ISO": "FRO",
-  "value": 48865.0,
-  "unit": "total",
-  "year": 2020.0
- },
- {
-  "rank": 93,
+  "rank": 30,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "C3_Cancel public events",
@@ -110,13 +55,90 @@
   "year": 2015.0
  },
  {
-  "rank": 109,
+  "rank": 32,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C3_Cancel public events",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 982.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 46,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "C3_Cancel public events",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 294.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 53,
   "Category": "Demographics",
   "Indicator": "Rural population (% of total population)",
   "Policy": "C3_Cancel public events",
   "Country": "Faroe Islands",
   "ISO": "FRO",
   "value": 57.60200119018555,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 70,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "C3_Cancel public events",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 77,
+  "Category": "Environment",
+  "Indicator": "CO2 emissions (metric tons per capita)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 13.09289,
+  "unit": "metric tons per capita",
+  "year": 2016.0
+ },
+ {
+  "rank": 85,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C3_Cancel public events",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 1.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 86,
+  "Category": "Demographics",
+  "Indicator": "Population, total",
+  "Policy": "C3_Cancel public events",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 48865.0,
+  "unit": "total",
+  "year": 2020.0
+ },
+ {
+  "rank": 91,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
+  "Policy": "C3_Cancel public events",
+  "Country": "Faroe Islands",
+  "ISO": "FRO",
+  "value": 42.39799880981445,
   "unit": "proportion",
   "year": 2020.0
  }

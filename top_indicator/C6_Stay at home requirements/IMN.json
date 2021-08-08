@@ -1,6 +1,17 @@
 [
  {
   "rank": 4,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 1105.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 6,
   "Category": "Social issues ",
   "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "C6_Stay at home requirements",
@@ -11,51 +22,7 @@
   "year": 2016.0
  },
  {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 4333.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 28,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 29.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 34,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 47.10200119018555,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 50,
-  "Category": "Environment",
-  "Indicator": "Renewable energy consumption ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Isle of Man",
-  "ISO": "IMN",
-  "value": 4.2075897300392,
-  "unit": "percent of total final energy consumption",
-  "year": 2015.0
- },
- {
-  "rank": 80,
+  "rank": 35,
   "Category": "Demographics",
   "Indicator": "Urban population (% of total population)",
   "Policy": "C6_Stay at home requirements",
@@ -66,7 +33,62 @@
   "year": 2020.0
  },
  {
-  "rank": 116,
+  "rank": 44,
+  "Category": "Environment",
+  "Indicator": "Renewable energy consumption ",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 4.2075897300392,
+  "unit": "percent of total final energy consumption",
+  "year": 2015.0
+ },
+ {
+  "rank": 65,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 4333.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 66,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 47.10200119018555,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 77,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 29.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 80,
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Isle of Man",
+  "ISO": "IMN",
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
+ },
+ {
+  "rank": 91,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "C6_Stay at home requirements",

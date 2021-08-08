@@ -23,6 +23,17 @@
  },
  {
   "rank": 4,
+  "Category": "Demographics",
+  "Indicator": "Secure Internet servers",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 2000.0,
+  "unit": "per 1 million people",
+  "year": 2020.0
+ },
+ {
+  "rank": 6,
   "Category": "Social issues ",
   "Indicator": "Intentional homicides (per 100,000 people)",
   "Policy": "C6_Stay at home requirements",
@@ -33,7 +44,7 @@
   "year": 2018.0
  },
  {
-  "rank": 5,
+  "rank": 11,
   "Category": "Demographics",
   "Indicator": "Fixed telephone subscriptions",
   "Policy": "C6_Stay at home requirements",
@@ -42,17 +53,6 @@
   "value": 14032.0,
   "unit": "number",
   "year": 2019.0
- },
- {
-  "rank": 8,
-  "Category": "Health",
-  "Indicator": "Prevalence of COVID-19",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 3186.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
  },
  {
   "rank": 12,
@@ -66,29 +66,7 @@
   "year": 2019.0
  },
  {
-  "rank": 19,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence/terrorism estimate",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.627746,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 23,
-  "Category": "Governance",
-  "Indicator": "Control of corruption estimate",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 1.968311,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 26,
+  "rank": 17,
   "Category": "Governance",
   "Indicator": "Serious assault (rate)",
   "Policy": "C6_Stay at home requirements",
@@ -99,40 +77,18 @@
   "year": 2018.0
  },
  {
-  "rank": 28,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
+  "rank": 20,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
   "Policy": "C6_Stay at home requirements",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 58.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 34,
-  "Category": "Demographics",
-  "Indicator": "Rural population (% of total population)",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 85.58399963378906,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 39,
-  "Category": "Social issues ",
-  "Indicator": "Press freedom score",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 19.52,
+  "value": 1.968311,
   "unit": "score",
-  "year": 2020.0
+  "year": 2019.0
  },
  {
-  "rank": 40,
+  "rank": 21,
   "Category": "Environment",
   "Indicator": "CO2 emissions (metric tons per capita)",
   "Policy": "C6_Stay at home requirements",
@@ -143,7 +99,29 @@
   "year": 2016.0
  },
  {
-  "rank": 41,
+  "rank": 26,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 33.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 29,
+  "Category": "Demographics",
+  "Indicator": "Refugee population by country or territory of asylum",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 154.0,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 32,
   "Category": "Governance",
   "Indicator": "Rule of law estimate ",
   "Policy": "C6_Stay at home requirements",
@@ -154,18 +132,40 @@
   "year": 2019.0
  },
  {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness estimate",
+  "rank": 35,
+  "Category": "Demographics",
+  "Indicator": "Urban population (% of total population)",
   "Policy": "C6_Stay at home requirements",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 1.696766,
-  "unit": "score",
-  "year": 2019.0
+  "value": 14.416000366210938,
+  "unit": "proportion",
+  "year": 2020.0
  },
  {
-  "rank": 50,
+  "rank": 36,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 73.00755310058594,
+  "unit": "Score",
+  "year": 2020.0
+ },
+ {
+  "rank": 39,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score ",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 90.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 44,
   "Category": "Environment",
   "Indicator": "Renewable energy consumption ",
   "Policy": "C6_Stay at home requirements",
@@ -174,6 +174,28 @@
   "value": 63.1344414422166,
   "unit": "percent of total final energy consumption",
   "year": 2015.0
+ },
+ {
+  "rank": 46,
+  "Category": "Demographics",
+  "Indicator": "Mobile cellular subscriptions",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 127.06,
+  "unit": "per 100 people",
+  "year": 2019.0
+ },
+ {
+  "rank": 51,
+  "Category": "Governance",
+  "Indicator": "Human Development Index",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 0.919,
+  "unit": "index",
+  "year": 2019.0
  },
  {
   "rank": 53,
@@ -187,51 +209,7 @@
   "year": 2020.0
  },
  {
-  "rank": 55,
-  "Category": "Demographics",
-  "Indicator": "Mobile cellular subscriptions",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 127.06,
-  "unit": "per 100 people",
-  "year": 2019.0
- },
- {
   "rank": 64,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 33.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 66,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 90.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 67,
-  "Category": "Demographics",
-  "Indicator": "Refugee population by country or territory of asylum",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Liechtenstein",
-  "ISO": "LIE",
-  "value": 154.0,
-  "unit": "proportion",
-  "year": 2020.0
- },
- {
-  "rank": 70,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "C6_Stay at home requirements",
@@ -242,18 +220,29 @@
   "year": 2021.0
  },
  {
-  "rank": 78,
-  "Category": "Governance",
-  "Indicator": "Human Development Index",
+  "rank": 65,
+  "Category": "Health",
+  "Indicator": "Prevalence of COVID-19",
   "Policy": "C6_Stay at home requirements",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 0.919,
-  "unit": "index",
-  "year": 2019.0
+  "value": 3186.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  },
  {
-  "rank": 79,
+  "rank": 66,
+  "Category": "Demographics",
+  "Indicator": "Rural population (% of total population)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 85.58399963378906,
+  "unit": "proportion",
+  "year": 2020.0
+ },
+ {
+  "rank": 68,
   "Category": "Governance",
   "Indicator": "Voice and accountability estimate",
   "Policy": "C6_Stay at home requirements",
@@ -264,29 +253,51 @@
   "year": 2019.0
  },
  {
+  "rank": 77,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 58.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
+ },
+ {
+  "rank": 78,
+  "Category": "Social issues ",
+  "Indicator": "Press freedom score",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 19.52,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
   "rank": 80,
-  "Category": "Demographics",
-  "Indicator": "Urban population (% of total population)",
+  "Category": "Environment",
+  "Indicator": "Access to electricity",
   "Policy": "C6_Stay at home requirements",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 14.416000366210938,
-  "unit": "proportion",
-  "year": 2020.0
+  "value": 100.0,
+  "unit": "percent of population",
+  "year": 2019.0
  },
  {
-  "rank": 100,
-  "Category": "Economics",
-  "Indicator": "Starting a Business (Score)",
+  "rank": 81,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
   "Policy": "C6_Stay at home requirements",
   "Country": "Liechtenstein",
   "ISO": "LIE",
-  "value": 73.00755310058594,
-  "unit": "Score",
-  "year": 2020.0
+  "value": 1.696766,
+  "unit": "score",
+  "year": 2019.0
  },
  {
-  "rank": 116,
+  "rank": 91,
   "Category": "Demographics",
   "Indicator": "Population, total",
   "Policy": "C6_Stay at home requirements",
@@ -295,5 +306,16 @@
   "value": 38137.0,
   "unit": "total",
   "year": 2020.0
+ },
+ {
+  "rank": 114,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Liechtenstein",
+  "ISO": "LIE",
+  "value": 1.627746,
+  "unit": "score",
+  "year": 2019.0
  }
 ]

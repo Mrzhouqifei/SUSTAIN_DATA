@@ -1,6 +1,6 @@
 [
  {
-  "rank": 9,
+  "rank": 7,
   "Category": "Health",
   "Indicator": "Prevalence of COVID-19",
   "Policy": "C5_Close public transport",
@@ -11,29 +11,7 @@
   "year": 2021.0
  },
  {
-  "rank": 10,
-  "Category": "Health",
-  "Indicator": "Prevalence of total cancers",
-  "Policy": "C5_Close public transport",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.007214,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 11,
-  "Category": "Health",
-  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
-  "Policy": "C5_Close public transport",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.362278,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 14,
+  "rank": 9,
   "Category": "Health",
   "Indicator": "Summary exposure value tobacco",
   "Policy": "C5_Close public transport",
@@ -46,49 +24,38 @@
  {
   "rank": 17,
   "Category": "Health",
-  "Indicator": "Prevalence of Hypertensive heart disease",
+  "Indicator": "Prevalence of Diabetes",
   "Policy": "C5_Close public transport",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 0.003708,
+  "value": 0.111261,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 30,
+  "rank": 19,
   "Category": "Health",
-  "Indicator": "Prevalence of chronic kidney disease",
+  "Indicator": "Prevalence of Respiratory infections and tuberculosis",
   "Policy": "C5_Close public transport",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 0.106118,
+  "value": 0.362278,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 27,
+  "Category": "Health",
+  "Indicator": "Prevalence of Depressive disorders",
+  "Policy": "C5_Close public transport",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.030871,
   "unit": "percent",
   "year": 2019.0
  },
  {
   "rank": 35,
-  "Category": "Health",
-  "Indicator": "Mortality due to COVID-19",
-  "Policy": "C5_Close public transport",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.0,
-  "unit": "Number (cumulative total by July 31, 2021)",
-  "year": 2021.0
- },
- {
-  "rank": 40,
-  "Category": "Health",
-  "Indicator": "Prevalence of anxiety disorders",
-  "Policy": "C5_Close public transport",
-  "Country": "Tokelau",
-  "ISO": "TKL",
-  "value": 0.040476,
-  "unit": "percent",
-  "year": 2019.0
- },
- {
-  "rank": 49,
   "Category": "Health",
   "Indicator": "Prevalence of down syndrome",
   "Policy": "C5_Close public transport",
@@ -99,25 +66,58 @@
   "year": 2019.0
  },
  {
-  "rank": 65,
+  "rank": 40,
   "Category": "Health",
-  "Indicator": "Prevalence of Diabetes",
+  "Indicator": "Prevalence of Hypertensive heart disease",
   "Policy": "C5_Close public transport",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 0.111261,
+  "value": 0.003708,
   "unit": "percent",
   "year": 2019.0
  },
  {
-  "rank": 78,
+  "rank": 43,
   "Category": "Health",
-  "Indicator": "Prevalence of Depressive disorders",
+  "Indicator": "Prevalence of chronic kidney disease",
   "Policy": "C5_Close public transport",
   "Country": "Tokelau",
   "ISO": "TKL",
-  "value": 0.030871,
+  "value": 0.106118,
   "unit": "percent",
   "year": 2019.0
+ },
+ {
+  "rank": 70,
+  "Category": "Health",
+  "Indicator": "Prevalence of anxiety disorders",
+  "Policy": "C5_Close public transport",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.040476,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 88,
+  "Category": "Health",
+  "Indicator": "Prevalence of total cancers",
+  "Policy": "C5_Close public transport",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.007214,
+  "unit": "percent",
+  "year": 2019.0
+ },
+ {
+  "rank": 90,
+  "Category": "Health",
+  "Indicator": "Mortality due to COVID-19",
+  "Policy": "C5_Close public transport",
+  "Country": "Tokelau",
+  "ISO": "TKL",
+  "value": 0.0,
+  "unit": "Number (cumulative total by July 31, 2021)",
+  "year": 2021.0
  }
 ]
