@@ -1,105 +1,6 @@
 [
  {
-  "rank": 23,
-  "Category": "Governance",
-  "Indicator": "Human Freedom Score ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.42,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 31,
-  "Category": "Social issues",
-  "Indicator": "Life Ladder ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 6.584400177001953,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 32,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality",
-  "Policy": "C2_Workplace closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.4027600288391113,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 39,
-  "Category": "Governance",
-  "Indicator": "Rule of law",
-  "Policy": "C2_Workplace closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.1411210298538208,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 43,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence",
-  "Policy": "C2_Workplace closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.7195976972579956,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 44,
-  "Category": "Governance",
-  "Indicator": "Corruption Perceptions Index",
-  "Policy": "C2_Workplace closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 65.0,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 45,
-  "Category": "Governance",
-  "Indicator": "Personal Freedom Score ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.9,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 54,
-  "Category": "Social issues",
-  "Indicator": "Press freedom score",
-  "Policy": "C2_Workplace closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 23.76,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 59,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "C2_Workplace closing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 94.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 71,
+  "rank": 5,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "C2_Workplace closing",
@@ -110,29 +11,40 @@
   "year": 2021.0
  },
  {
-  "rank": 82,
+  "rank": 19,
   "Category": "Governance",
-  "Indicator": "Control of corruption",
+  "Indicator": "Personal Freedom Score",
   "Policy": "C2_Workplace closing",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 1.045266032218933,
+  "value": 8.9,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 26,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "C2_Workplace closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.7195976972579956,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 86,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability",
+  "rank": 27,
+  "Category": "Social issues",
+  "Indicator": "Press freedom score",
   "Policy": "C2_Workplace closing",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 0.9959083199501038,
+  "value": 23.76,
   "unit": "score",
-  "year": 2019.0
+  "year": 2020.0
  },
  {
-  "rank": 90,
+  "rank": 28,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "C2_Workplace closing",
@@ -143,9 +55,20 @@
   "year": 2021.0
  },
  {
-  "rank": 95,
+  "rank": 30,
+  "Category": "Governance",
+  "Indicator": "Human Freedom Score",
+  "Policy": "C2_Workplace closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.42,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 38,
   "Category": "Economics",
-  "Indicator": "Starting a business",
+  "Indicator": "Starting a Business (Score)",
   "Policy": "C2_Workplace closing",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -154,7 +77,7 @@
   "year": 2020.0
  },
  {
-  "rank": 96,
+  "rank": 40,
   "Category": "Governance",
   "Indicator": "Economic Freedom Score",
   "Policy": "C2_Workplace closing",
@@ -165,9 +88,86 @@
   "year": 2018.0
  },
  {
-  "rank": 98,
+  "rank": 51,
   "Category": "Governance",
-  "Indicator": "Government effectiveness",
+  "Indicator": "Regulatory quality estimate",
+  "Policy": "C2_Workplace closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.4027600288391113,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 52,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score",
+  "Policy": "C2_Workplace closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 94.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 60,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate",
+  "Policy": "C2_Workplace closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.1411210298538208,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 62,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "C2_Workplace closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.045266032218933,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 75,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "C2_Workplace closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.9959083199501038,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 77,
+  "Category": "Social issues",
+  "Indicator": "Life Ladder",
+  "Policy": "C2_Workplace closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 6.584400177001953,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 78,
+  "Category": "Governance",
+  "Indicator": "Corruption Perceptions Index",
+  "Policy": "C2_Workplace closing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 65.0,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 83,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
   "Policy": "C2_Workplace closing",
   "Country": "Taiwan",
   "ISO": "TWN",

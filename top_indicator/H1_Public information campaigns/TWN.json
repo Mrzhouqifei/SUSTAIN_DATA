@@ -1,41 +1,8 @@
 [
  {
-  "rank": 9,
+  "rank": 3,
   "Category": "Governance",
-  "Indicator": "Human Freedom Score ",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.42,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 15,
-  "Category": "Economics",
-  "Indicator": "Starting a business",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 94.43856811523438,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 16,
-  "Category": "Governance",
-  "Indicator": "Personal Freedom Score ",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.9,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 20,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality",
+  "Indicator": "Regulatory quality estimate",
   "Policy": "H1_Public information campaigns",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -44,15 +11,81 @@
   "year": 2019.0
  },
  {
-  "rank": 25,
+  "rank": 7,
   "Category": "Social issues",
-  "Indicator": "Life Ladder ",
+  "Indicator": "Press freedom score",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 23.76,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 8,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.045266032218933,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 22,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 94.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 23,
+  "Category": "Social issues",
+  "Indicator": "Life Ladder",
   "Policy": "H1_Public information campaigns",
   "Country": "Taiwan",
   "ISO": "TWN",
   "value": 6.584400177001953,
   "unit": "score",
   "year": 2021.0
+ },
+ {
+  "rank": 26,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 38.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 27,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 94.43856811523438,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 28,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.7195976972579956,
+  "unit": "score",
+  "year": 2019.0
  },
  {
   "rank": 33,
@@ -66,20 +99,31 @@
   "year": 2018.0
  },
  {
-  "rank": 35,
+  "rank": 39,
   "Category": "Governance",
-  "Indicator": "Voice and accountability",
+  "Indicator": "Human Freedom Score",
   "Policy": "H1_Public information campaigns",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 0.9959083199501038,
+  "value": 8.42,
   "unit": "score",
-  "year": 2019.0
+  "year": 2018.0
  },
  {
-  "rank": 42,
+  "rank": 49,
   "Category": "Governance",
-  "Indicator": "Rule of law",
+  "Indicator": "Personal Freedom Score",
+  "Policy": "H1_Public information campaigns",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.9,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 60,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate",
   "Policy": "H1_Public information campaigns",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -88,18 +132,18 @@
   "year": 2019.0
  },
  {
-  "rank": 62,
+  "rank": 75,
   "Category": "Governance",
-  "Indicator": "Control of corruption",
+  "Indicator": "Voice and accountability estimate",
   "Policy": "H1_Public information campaigns",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 1.045266032218933,
+  "value": 0.9959083199501038,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 63,
+  "rank": 76,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "H1_Public information campaigns",
@@ -110,9 +154,9 @@
   "year": 2021.0
  },
  {
-  "rank": 64,
+  "rank": 81,
   "Category": "Governance",
-  "Indicator": "Government effectiveness",
+  "Indicator": "Government effectiveness estimate",
   "Policy": "H1_Public information campaigns",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -121,7 +165,7 @@
   "year": 2019.0
  },
  {
-  "rank": 66,
+  "rank": 83,
   "Category": "Governance",
   "Indicator": "Corruption Perceptions Index",
   "Policy": "H1_Public information campaigns",
@@ -130,49 +174,5 @@
   "value": 65.0,
   "unit": "score",
   "year": 2020.0
- },
- {
-  "rank": 79,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 38.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 81,
-  "Category": "Social issues",
-  "Indicator": "Press freedom score",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 23.76,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 98,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 94.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 99,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence",
-  "Policy": "H1_Public information campaigns",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.7195976972579956,
-  "unit": "score",
-  "year": 2019.0
  }
 ]

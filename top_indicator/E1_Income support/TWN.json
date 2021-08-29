@@ -1,116 +1,6 @@
 [
  {
-  "rank": 9,
-  "Category": "Governance",
-  "Indicator": "Human Freedom Score ",
-  "Policy": "E1_Income support",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.42,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability",
-  "Policy": "E1_Income support",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.9959083199501038,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 19,
-  "Category": "Governance",
-  "Indicator": "Personal Freedom Score ",
-  "Policy": "E1_Income support",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.9,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 21,
-  "Category": "Social issues",
-  "Indicator": "Life Ladder ",
-  "Policy": "E1_Income support",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 6.584400177001953,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 28,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality",
-  "Policy": "E1_Income support",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.4027600288391113,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 30,
-  "Category": "Social issues",
-  "Indicator": "Press freedom score",
-  "Policy": "E1_Income support",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 23.76,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 35,
-  "Category": "Economics",
-  "Indicator": "Starting a business",
-  "Policy": "E1_Income support",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 94.43856811523438,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "E1_Income support",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 94.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 55,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
-  "Policy": "E1_Income support",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 56.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 56,
-  "Category": "Governance",
-  "Indicator": "Rule of law",
-  "Policy": "E1_Income support",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.1411210298538208,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 57,
+  "rank": 12,
   "Category": "Governance",
   "Indicator": "Economic Freedom Score",
   "Policy": "E1_Income support",
@@ -121,7 +11,29 @@
   "year": 2018.0
  },
  {
-  "rank": 63,
+  "rank": 23,
+  "Category": "Social issues",
+  "Indicator": "Press freedom score",
+  "Policy": "E1_Income support",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 23.76,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 25,
+  "Category": "Social issues",
+  "Indicator": "Life Ladder",
+  "Policy": "E1_Income support",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 6.584400177001953,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 26,
   "Category": "Governance",
   "Indicator": "Corruption Perceptions Index",
   "Policy": "E1_Income support",
@@ -132,20 +44,31 @@
   "year": 2020.0
  },
  {
-  "rank": 65,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness",
+  "rank": 27,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
   "Policy": "E1_Income support",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 1.4367539882659912,
+  "value": 94.43856811523438,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 29,
+  "Category": "Governance",
+  "Indicator": "Regulatory quality estimate",
+  "Policy": "E1_Income support",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.4027600288391113,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 69,
+  "rank": 39,
   "Category": "Governance",
-  "Indicator": "Control of corruption",
+  "Indicator": "Control of corruption estimate",
   "Policy": "E1_Income support",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -154,9 +77,75 @@
   "year": 2019.0
  },
  {
-  "rank": 85,
+  "rank": 43,
   "Category": "Governance",
-  "Indicator": "Political stability and absence of violence",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "E1_Income support",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.4367539882659912,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 46,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
+  "Policy": "E1_Income support",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 56.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 47,
+  "Category": "Governance",
+  "Indicator": "Human Freedom Score",
+  "Policy": "E1_Income support",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.42,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 50,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "E1_Income support",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.9959083199501038,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 68,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score",
+  "Policy": "E1_Income support",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 94.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 71,
+  "Category": "Governance",
+  "Indicator": "Personal Freedom Score",
+  "Policy": "E1_Income support",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.9,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 76,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "E1_Income support",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -165,7 +154,7 @@
   "year": 2019.0
  },
  {
-  "rank": 90,
+  "rank": 84,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "E1_Income support",
@@ -174,5 +163,16 @@
   "value": 38.0,
   "unit": "score",
   "year": 2021.0
+ },
+ {
+  "rank": 89,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate",
+  "Policy": "E1_Income support",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.1411210298538208,
+  "unit": "score",
+  "year": 2019.0
  }
 ]

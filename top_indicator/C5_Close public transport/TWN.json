@@ -1,17 +1,72 @@
 [
  {
-  "rank": 8,
+  "rank": 3,
   "Category": "Governance",
-  "Indicator": "Human Freedom Score ",
+  "Indicator": "Regulatory quality estimate",
   "Policy": "C5_Close public transport",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 8.42,
+  "value": 1.4027600288391113,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 9,
+  "Category": "Governance",
+  "Indicator": "Personal Freedom Score",
+  "Policy": "C5_Close public transport",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.9,
   "unit": "score",
   "year": 2018.0
  },
  {
-  "rank": 20,
+  "rank": 10,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
+  "Policy": "C5_Close public transport",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.045266032218933,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 12,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
+  "Policy": "C5_Close public transport",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 38.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 13,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C5_Close public transport",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 94.43856811523438,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 19,
+  "Category": "Social issues",
+  "Indicator": "Life Ladder",
+  "Policy": "C5_Close public transport",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 6.584400177001953,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 32,
   "Category": "Governance",
   "Indicator": "Corruption Perceptions Index",
   "Policy": "C5_Close public transport",
@@ -22,18 +77,7 @@
   "year": 2020.0
  },
  {
-  "rank": 33,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality",
-  "Policy": "C5_Close public transport",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.4027600288391113,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 35,
+  "rank": 34,
   "Category": "Governance",
   "Indicator": "Economic Freedom Score",
   "Policy": "C5_Close public transport",
@@ -44,40 +88,7 @@
   "year": 2018.0
  },
  {
-  "rank": 37,
-  "Category": "Governance",
-  "Indicator": "Personal Freedom Score ",
-  "Policy": "C5_Close public transport",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.9,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 42,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence",
-  "Policy": "C5_Close public transport",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.7195976972579956,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 52,
-  "Category": "Social issues",
-  "Indicator": "Press freedom score",
-  "Policy": "C5_Close public transport",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 23.76,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 53,
+  "rank": 35,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "C5_Close public transport",
@@ -88,75 +99,9 @@
   "year": 2021.0
  },
  {
-  "rank": 56,
-  "Category": "Economics",
-  "Indicator": "Starting a business",
-  "Policy": "C5_Close public transport",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 94.43856811523438,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 69,
+  "rank": 47,
   "Category": "Governance",
-  "Indicator": "Control of corruption",
-  "Policy": "C5_Close public transport",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.045266032218933,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 75,
-  "Category": "Social issues",
-  "Indicator": "Life Ladder ",
-  "Policy": "C5_Close public transport",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 6.584400177001953,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 83,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "C5_Close public transport",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 94.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 84,
-  "Category": "Governance",
-  "Indicator": "Rule of law",
-  "Policy": "C5_Close public transport",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.1411210298538208,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 88,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness",
-  "Policy": "C5_Close public transport",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.4367539882659912,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 94,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability",
+  "Indicator": "Voice and accountability estimate",
   "Policy": "C5_Close public transport",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -165,14 +110,69 @@
   "year": 2019.0
  },
  {
-  "rank": 97,
+  "rank": 51,
   "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
+  "Indicator": "Total freedom in the world score",
   "Policy": "C5_Close public transport",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 38.0,
+  "value": 94.0,
   "unit": "score",
   "year": 2021.0
+ },
+ {
+  "rank": 54,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate",
+  "Policy": "C5_Close public transport",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.1411210298538208,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 57,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "C5_Close public transport",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.4367539882659912,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 64,
+  "Category": "Social issues",
+  "Indicator": "Press freedom score",
+  "Policy": "C5_Close public transport",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 23.76,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 67,
+  "Category": "Governance",
+  "Indicator": "Human Freedom Score",
+  "Policy": "C5_Close public transport",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.42,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 87,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "C5_Close public transport",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.7195976972579956,
+  "unit": "score",
+  "year": 2019.0
  }
 ]

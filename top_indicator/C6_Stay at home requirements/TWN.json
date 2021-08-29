@@ -1,41 +1,8 @@
 [
  {
-  "rank": 8,
+  "rank": 3,
   "Category": "Governance",
-  "Indicator": "Human Freedom Score ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.42,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 9,
-  "Category": "Social issues",
-  "Indicator": "Life Ladder ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 6.584400177001953,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 17,
-  "Category": "Governance",
-  "Indicator": "Economic Freedom Score",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 7.94,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 33,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality",
+  "Indicator": "Regulatory quality estimate",
   "Policy": "C6_Stay at home requirements",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -44,62 +11,18 @@
   "year": 2019.0
  },
  {
-  "rank": 35,
-  "Category": "Social issues",
-  "Indicator": "Press freedom score",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 23.76,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 40,
+  "rank": 20,
   "Category": "Governance",
-  "Indicator": "Government effectiveness",
+  "Indicator": "Control of corruption estimate",
   "Policy": "C6_Stay at home requirements",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 1.4367539882659912,
+  "value": 1.045266032218933,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 46,
-  "Category": "Governance",
-  "Indicator": "Personal Freedom Score ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.9,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 56.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 72,
-  "Category": "Economics",
-  "Indicator": "Starting a business",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 94.43856811523438,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 82,
+  "rank": 26,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "C6_Stay at home requirements",
@@ -110,7 +33,128 @@
   "year": 2021.0
  },
  {
+  "rank": 31,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.1411210298538208,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 35,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 94.43856811523438,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 38,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 94.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 40,
+  "Category": "Social issues",
+  "Indicator": "Life Ladder",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 6.584400177001953,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 62,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 56.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 66,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.9959083199501038,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 67,
+  "Category": "Governance",
+  "Indicator": "Economic Freedom Score",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 7.94,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 73,
+  "Category": "Social issues",
+  "Indicator": "Press freedom score",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 23.76,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 76,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.4367539882659912,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 80,
+  "Category": "Governance",
+  "Indicator": "Personal Freedom Score",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.9,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
   "rank": 87,
+  "Category": "Governance",
+  "Indicator": "Human Freedom Score",
+  "Policy": "C6_Stay at home requirements",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.42,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 91,
   "Category": "Governance",
   "Indicator": "Corruption Perceptions Index",
   "Policy": "C6_Stay at home requirements",
@@ -121,57 +165,13 @@
   "year": 2020.0
  },
  {
-  "rank": 88,
+  "rank": 106,
   "Category": "Governance",
-  "Indicator": "Control of corruption",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.045266032218933,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 90,
-  "Category": "Governance",
-  "Indicator": "Rule of law",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.1411210298538208,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 92,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 94.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 96,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
   "Policy": "C6_Stay at home requirements",
   "Country": "Taiwan",
   "ISO": "TWN",
   "value": 0.7195976972579956,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 97,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability",
-  "Policy": "C6_Stay at home requirements",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.9959083199501038,
   "unit": "score",
   "year": 2019.0
  }

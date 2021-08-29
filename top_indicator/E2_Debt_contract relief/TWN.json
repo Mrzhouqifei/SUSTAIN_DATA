@@ -1,30 +1,8 @@
 [
  {
-  "rank": 14,
+  "rank": 3,
   "Category": "Governance",
-  "Indicator": "Human Freedom Score ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.42,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 18,
-  "Category": "Governance",
-  "Indicator": "Personal Freedom Score ",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.9,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 29,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality",
+  "Indicator": "Regulatory quality estimate",
   "Policy": "E2_Debt/contract relief",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -33,9 +11,42 @@
   "year": 2019.0
  },
  {
+  "rank": 14,
+  "Category": "Governance",
+  "Indicator": "Personal Freedom Score",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.9,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 18,
+  "Category": "Governance",
+  "Indicator": "Total freedom in the world score",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 94.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
   "rank": 30,
   "Category": "Governance",
-  "Indicator": "Control of corruption",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.7195976972579956,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 32,
+  "Category": "Governance",
+  "Indicator": "Control of corruption estimate",
   "Policy": "E2_Debt/contract relief",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -44,29 +55,7 @@
   "year": 2019.0
  },
  {
-  "rank": 36,
-  "Category": "Economics",
-  "Indicator": "Starting a business",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 94.43856811523438,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 43,
-  "Category": "Governance",
-  "Indicator": "Economic Freedom Score",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 7.94,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 50,
+  "rank": 34,
   "Category": "Social issues",
   "Indicator": "Press freedom score",
   "Policy": "E2_Debt/contract relief",
@@ -77,51 +66,73 @@
   "year": 2020.0
  },
  {
-  "rank": 64,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Civil Liberties category",
+  "rank": 37,
+  "Category": "Social issues",
+  "Indicator": "Life Ladder",
   "Policy": "E2_Debt/contract relief",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 56.0,
+  "value": 6.584400177001953,
   "unit": "score",
   "year": 2021.0
  },
  {
-  "rank": 68,
-  "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
+  "rank": 40,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
   "Policy": "E2_Debt/contract relief",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 94.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 73,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.7195976972579956,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 81,
-  "Category": "Governance",
-  "Indicator": "Corruption Perceptions Index",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 65.0,
+  "value": 94.43856811523438,
   "unit": "score",
   "year": 2020.0
  },
  {
-  "rank": 82,
+  "rank": 44,
+  "Category": "Governance",
+  "Indicator": "Economic Freedom Score",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 7.94,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 47,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.4367539882659912,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 52,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.9959083199501038,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 54,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate",
+  "Policy": "E2_Debt/contract relief",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.1411210298538208,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 79,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "E2_Debt/contract relief",
@@ -132,47 +143,36 @@
   "year": 2021.0
  },
  {
-  "rank": 86,
-  "Category": "Social issues",
-  "Indicator": "Life Ladder ",
+  "rank": 80,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "E2_Debt/contract relief",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 6.584400177001953,
+  "value": 56.0,
   "unit": "score",
   "year": 2021.0
  },
  {
-  "rank": 88,
+  "rank": 87,
   "Category": "Governance",
-  "Indicator": "Government effectiveness",
+  "Indicator": "Human Freedom Score",
   "Policy": "E2_Debt/contract relief",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 1.4367539882659912,
+  "value": 8.42,
   "unit": "score",
-  "year": 2019.0
+  "year": 2018.0
  },
  {
-  "rank": 89,
+  "rank": 91,
   "Category": "Governance",
-  "Indicator": "Rule of law",
+  "Indicator": "Corruption Perceptions Index",
   "Policy": "E2_Debt/contract relief",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 1.1411210298538208,
+  "value": 65.0,
   "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 92,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability",
-  "Policy": "E2_Debt/contract relief",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.9959083199501038,
-  "unit": "score",
-  "year": 2019.0
+  "year": 2020.0
  }
 ]

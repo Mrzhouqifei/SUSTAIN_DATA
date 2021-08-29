@@ -1,17 +1,28 @@
 [
  {
-  "rank": 9,
+  "rank": 3,
   "Category": "Governance",
-  "Indicator": "Human Freedom Score ",
+  "Indicator": "Regulatory quality estimate",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 8.42,
+  "value": 1.4027600288391113,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 11,
+  "Category": "Governance",
+  "Indicator": "Personal Freedom Score",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.9,
   "unit": "score",
   "year": 2018.0
  },
  {
-  "rank": 11,
+  "rank": 23,
   "Category": "Governance",
   "Indicator": "Corruption Perceptions Index",
   "Policy": "C7_Restrictions on internal movement",
@@ -22,9 +33,9 @@
   "year": 2020.0
  },
  {
-  "rank": 22,
+  "rank": 28,
   "Category": "Governance",
-  "Indicator": "Control of corruption",
+  "Indicator": "Control of corruption estimate",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -33,9 +44,9 @@
   "year": 2019.0
  },
  {
-  "rank": 28,
+  "rank": 31,
   "Category": "Governance",
-  "Indicator": "Rule of law",
+  "Indicator": "Rule of law estimate",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -44,73 +55,18 @@
   "year": 2019.0
  },
  {
-  "rank": 34,
-  "Category": "Governance",
-  "Indicator": "Regulatory quality",
+  "rank": 33,
+  "Category": "Economics",
+  "Indicator": "Starting a Business (Score)",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 1.4027600288391113,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 36,
-  "Category": "Social issues",
-  "Indicator": "Press freedom score",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 23.76,
+  "value": 94.43856811523438,
   "unit": "score",
   "year": 2020.0
  },
  {
-  "rank": 43,
-  "Category": "Governance",
-  "Indicator": "Personal Freedom Score ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 8.9,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 47,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.7195976972579956,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 54,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.9959083199501038,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 56,
-  "Category": "Social issues",
-  "Indicator": "Life Ladder ",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 6.584400177001953,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 65,
+  "rank": 49,
   "Category": "Governance",
   "Indicator": "Economic Freedom Score",
   "Policy": "C7_Restrictions on internal movement",
@@ -121,7 +77,18 @@
   "year": 2018.0
  },
  {
-  "rank": 77,
+  "rank": 53,
+  "Category": "Governance",
+  "Indicator": "Voice and accountability estimate",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.9959083199501038,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 54,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "C7_Restrictions on internal movement",
@@ -132,20 +99,20 @@
   "year": 2021.0
  },
  {
-  "rank": 84,
-  "Category": "Economics",
-  "Indicator": "Starting a business",
+  "rank": 59,
+  "Category": "Social issues",
+  "Indicator": "Press freedom score",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 94.43856811523438,
+  "value": 23.76,
   "unit": "score",
   "year": 2020.0
  },
  {
-  "rank": 92,
+  "rank": 63,
   "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
+  "Indicator": "Total freedom in the world score",
   "Policy": "C7_Restrictions on internal movement",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -154,7 +121,51 @@
   "year": 2021.0
  },
  {
-  "rank": 94,
+  "rank": 70,
+  "Category": "Governance",
+  "Indicator": "Human Freedom Score",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.42,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 71,
+  "Category": "Social issues",
+  "Indicator": "Life Ladder",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 6.584400177001953,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 79,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.7195976972579956,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 81,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "C7_Restrictions on internal movement",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.4367539882659912,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 92,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Political Rights category",
   "Policy": "C7_Restrictions on internal movement",
@@ -163,16 +174,5 @@
   "value": 38.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 103,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness",
-  "Policy": "C7_Restrictions on internal movement",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.4367539882659912,
-  "unit": "score",
-  "year": 2019.0
  }
 ]

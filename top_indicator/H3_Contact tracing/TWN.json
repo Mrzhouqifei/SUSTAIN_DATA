@@ -1,41 +1,30 @@
 [
  {
-  "rank": 8,
+  "rank": 3,
   "Category": "Governance",
-  "Indicator": "Human Freedom Score ",
+  "Indicator": "Regulatory quality estimate",
   "Policy": "H3_Contact tracing",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 8.42,
-  "unit": "score",
-  "year": 2018.0
- },
- {
-  "rank": 13,
-  "Category": "Governance",
-  "Indicator": "Voice and accountability",
-  "Policy": "H3_Contact tracing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.9959083199501038,
+  "value": 1.4027600288391113,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 19,
+  "rank": 6,
   "Category": "Governance",
-  "Indicator": "Personal Freedom Score ",
+  "Indicator": "Control of corruption estimate",
   "Policy": "H3_Contact tracing",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 8.9,
+  "value": 1.045266032218933,
   "unit": "score",
-  "year": 2018.0
+  "year": 2019.0
  },
  {
-  "rank": 23,
+  "rank": 24,
   "Category": "Economics",
-  "Indicator": "Starting a business",
+  "Indicator": "Starting a Business (Score)",
   "Policy": "H3_Contact tracing",
   "Country": "Taiwan",
   "ISO": "TWN",
@@ -44,15 +33,15 @@
   "year": 2020.0
  },
  {
-  "rank": 28,
-  "Category": "Governance",
-  "Indicator": "Rule of law",
+  "rank": 29,
+  "Category": "Social issues",
+  "Indicator": "Life Ladder",
   "Policy": "H3_Contact tracing",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 1.1411210298538208,
+  "value": 6.584400177001953,
   "unit": "score",
-  "year": 2019.0
+  "year": 2021.0
  },
  {
   "rank": 31,
@@ -66,73 +55,18 @@
   "year": 2020.0
  },
  {
-  "rank": 36,
+  "rank": 32,
   "Category": "Governance",
-  "Indicator": "Regulatory quality",
+  "Indicator": "Voice and accountability estimate",
   "Policy": "H3_Contact tracing",
   "Country": "Taiwan",
   "ISO": "TWN",
-  "value": 1.4027600288391113,
+  "value": 0.9959083199501038,
   "unit": "score",
   "year": 2019.0
  },
  {
-  "rank": 39,
-  "Category": "Social issues",
-  "Indicator": "Press freedom score",
-  "Policy": "H3_Contact tracing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 23.76,
-  "unit": "score",
-  "year": 2020.0
- },
- {
-  "rank": 56,
-  "Category": "Social issues",
-  "Indicator": "Life Ladder ",
-  "Policy": "H3_Contact tracing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 6.584400177001953,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 63,
-  "Category": "Governance",
-  "Indicator": "Control of corruption",
-  "Policy": "H3_Contact tracing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.045266032218933,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 73,
-  "Category": "Governance",
-  "Indicator": "Political stability and absence of violence",
-  "Policy": "H3_Contact tracing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 0.7195976972579956,
-  "unit": "score",
-  "year": 2019.0
- },
- {
-  "rank": 77,
-  "Category": "Governance",
-  "Indicator": "Aggregate score for the Political Rights category",
-  "Policy": "H3_Contact tracing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 38.0,
-  "unit": "score",
-  "year": 2021.0
- },
- {
-  "rank": 86,
+  "rank": 34,
   "Category": "Governance",
   "Indicator": "Economic Freedom Score",
   "Policy": "H3_Contact tracing",
@@ -143,7 +77,84 @@
   "year": 2018.0
  },
  {
-  "rank": 92,
+  "rank": 43,
+  "Category": "Governance",
+  "Indicator": "Human Freedom Score",
+  "Policy": "H3_Contact tracing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.42,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 50,
+  "Category": "Governance",
+  "Indicator": "Personal Freedom Score",
+  "Policy": "H3_Contact tracing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 8.9,
+  "unit": "score",
+  "year": 2018.0
+ },
+ {
+  "rank": 52,
+  "Category": "Governance",
+  "Indicator": "Rule of law estimate",
+  "Policy": "H3_Contact tracing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.1411210298538208,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 53,
+  "Category": "Governance",
+  "Indicator": "Political stability and absence of violence/terrorism estimate",
+  "Policy": "H3_Contact tracing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 0.7195976972579956,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 68,
+  "Category": "Governance",
+  "Indicator": "Government effectiveness estimate",
+  "Policy": "H3_Contact tracing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 1.4367539882659912,
+  "unit": "score",
+  "year": 2019.0
+ },
+ {
+  "rank": 72,
+  "Category": "Governance",
+  "Indicator": "Aggregate score for the Political Rights category",
+  "Policy": "H3_Contact tracing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 38.0,
+  "unit": "score",
+  "year": 2021.0
+ },
+ {
+  "rank": 73,
+  "Category": "Social issues",
+  "Indicator": "Press freedom score",
+  "Policy": "H3_Contact tracing",
+  "Country": "Taiwan",
+  "ISO": "TWN",
+  "value": 23.76,
+  "unit": "score",
+  "year": 2020.0
+ },
+ {
+  "rank": 80,
   "Category": "Governance",
   "Indicator": "Aggregate score for the Civil Liberties category",
   "Policy": "H3_Contact tracing",
@@ -154,25 +165,14 @@
   "year": 2021.0
  },
  {
-  "rank": 95,
+  "rank": 82,
   "Category": "Governance",
-  "Indicator": "Total freedom in the world score ",
+  "Indicator": "Total freedom in the world score",
   "Policy": "H3_Contact tracing",
   "Country": "Taiwan",
   "ISO": "TWN",
   "value": 94.0,
   "unit": "score",
   "year": 2021.0
- },
- {
-  "rank": 101,
-  "Category": "Governance",
-  "Indicator": "Government effectiveness",
-  "Policy": "H3_Contact tracing",
-  "Country": "Taiwan",
-  "ISO": "TWN",
-  "value": 1.4367539882659912,
-  "unit": "score",
-  "year": 2019.0
  }
 ]
