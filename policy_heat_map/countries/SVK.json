@@ -1,85 +1,1423 @@
 {
- "source": "First confirmed case\\policy strictness score and ranking.dta",
- "build_id": "2021-08-07",
- "name": "DataSet",
+ "build_id": "2.3",
  "data": [
   {
    "label": "Overall",
    "data": [
     {
      "policy": "C1_School closing",
-     "score": 75,
-     "rank": 7
+     "score": 73,
+     "rank": 8
     },
     {
      "policy": "C2_Workplace closing",
-     "score": 54,
-     "rank": 4
-    },
-    {
-     "policy": "C3_Cancel public events",
-     "score": 77,
-     "rank": 12
-    },
-    {
-     "policy": "C4_Restrictions on gatherings",
-     "score": 81,
+     "score": 49,
      "rank": 3
     },
     {
-     "policy": "C5_Close public transport",
-     "score": 8,
+     "policy": "C3_Cancel public events",
+     "score": 78,
      "rank": 13
     },
     {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
      "policy": "C6_Stay at home requirements",
-     "score": 42,
+     "score": 31,
      "rank": 5
     },
     {
      "policy": "C7_Restrictions on internal movement",
-     "score": 54,
+     "score": 48,
      "rank": 6
     },
     {
      "policy": "C8_International travel controls",
-     "score": 59,
-     "rank": 10
+     "score": 58,
+     "rank": 11
     },
     {
      "policy": "E1_Income support",
      "score": 95,
-     "rank": 9
+     "rank": 10
     },
     {
      "policy": "E2_Debt_contract relief",
      "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    },
+    {
+     "policy": "H7_Vaccination policy",
+     "score": 50,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 1",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    },
+    {
+     "policy": "H7_Vaccination policy",
+     "score": 50,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 2",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    },
+    {
+     "policy": "H7_Vaccination policy",
+     "score": 50,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 3",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    },
+    {
+     "policy": "H7_Vaccination policy",
+     "score": 50,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 4",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    },
+    {
+     "policy": "H7_Vaccination policy",
+     "score": 50,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 5",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    },
+    {
+     "policy": "H7_Vaccination policy",
+     "score": 50,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 6",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    },
+    {
+     "policy": "H7_Vaccination policy",
+     "score": 50,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 7",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    },
+    {
+     "policy": "H7_Vaccination policy",
+     "score": 50,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 8",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    }
+   ]
+  },
+  {
+   "label": "Month 9",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    }
+   ]
+  },
+  {
+   "label": "Month 10",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    }
+   ]
+  },
+  {
+   "label": "Month 11",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    }
+   ]
+  },
+  {
+   "label": "Month 12",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    }
+   ]
+  },
+  {
+   "label": "Month 13",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    }
+   ]
+  },
+  {
+   "label": "Month 14",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    }
+   ]
+  },
+  {
+   "label": "Month 15",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    }
+   ]
+  },
+  {
+   "label": "Month 16",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
+     "rank": 11
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 74,
+     "rank": 2
+    }
+   ]
+  },
+  {
+   "label": "Month 17",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 73,
+     "rank": 8
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 49,
+     "rank": 3
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 78,
+     "rank": 13
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 82,
+     "rank": 4
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 95,
+     "rank": 10
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 97,
+     "rank": 12
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 15
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
+    },
+    {
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
+    }
+   ]
+  },
+  {
+   "label": "Month 18",
+   "data": [
+    {
+     "policy": "C5_Close public transport",
+     "score": 7,
+     "rank": 14
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 31,
+     "rank": 5
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 48,
+     "rank": 6
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 58,
      "rank": 11
     },
     {
      "policy": "H1_Public information campaigns",
      "score": 100,
-     "rank": 14
-    },
-    {
-     "policy": "H2_Testing policy",
-     "score": 78,
-     "rank": 8
-    },
-    {
-     "policy": "H3_Contact tracing",
-     "score": 92,
      "rank": 15
     },
     {
-     "policy": "H6_Facial Coverings",
-     "score": 76,
-     "rank": 2
+     "policy": "H2_Testing policy",
+     "score": 89,
+     "rank": 7
     },
     {
-     "policy": "H7_Vaccination policy",
-     "score": 72,
-     "rank": 1
+     "policy": "H3_Contact tracing",
+     "score": 89,
+     "rank": 9
     }
    ]
   }
