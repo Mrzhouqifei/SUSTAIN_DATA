@@ -1,17 +1,128 @@
 {
- "source": "First confirmed case\\policy strictness score and ranking.dta",
- "build_id": "2021-08-07",
- "name": "DataSet",
+ "build_id": "2.3",
  "data": [
   {
    "label": "Overall",
    "data": [
     {
+     "policy": "H7_Vaccination policy",
+     "score": 0,
+     "rank": 4
+    },
+    {
      "policy": "H6_Facial Coverings",
      "score": 53,
-     "rank": 0
+     "rank": 1
     }
    ]
+  },
+  {
+   "label": "Month 1",
+   "data": [
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 53,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 2",
+   "data": [
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 53,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 3",
+   "data": [
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 53,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 4",
+   "data": [
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 53,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 5",
+   "data": [
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 53,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 6",
+   "data": [
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 53,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 7",
+   "data": []
+  },
+  {
+   "label": "Month 8",
+   "data": []
+  },
+  {
+   "label": "Month 9",
+   "data": []
+  },
+  {
+   "label": "Month 10",
+   "data": []
+  },
+  {
+   "label": "Month 11",
+   "data": []
+  },
+  {
+   "label": "Month 12",
+   "data": []
+  },
+  {
+   "label": "Month 13",
+   "data": []
+  },
+  {
+   "label": "Month 14",
+   "data": []
+  },
+  {
+   "label": "Month 15",
+   "data": []
+  },
+  {
+   "label": "Month 16",
+   "data": []
+  },
+  {
+   "label": "Month 17",
+   "data": []
+  },
+  {
+   "label": "Month 18",
+   "data": []
   }
  ]
 }
