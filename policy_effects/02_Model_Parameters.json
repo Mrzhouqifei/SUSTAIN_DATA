@@ -54,7 +54,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Total",
+    "indicator_descr": "The number of distinct, publicly-trusted TLS/SSL certificates found in the Netcraft Secure Server Survey.",
+    "source": "Netcraft (http://www.netcraft.com/)",
+    "": ""
   },
   {
     "first_category": "Demographics",
@@ -100,7 +104,7 @@
     "CV Factor": 0.360089959,
     "Format": "Amount",
     "MIN Value": 0,
-    "MAX Value": "#NAME?",
+    "MAX Value": 100,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -111,7 +115,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Percentage",
+    "indicator_descr": "Fixed broadband subscriptions refers to fixed subscriptions to high-speed access to the public Internet (a TCP/IP connection), at downstream speeds equal to, or greater than, 256 kbit/s.",
+    "source": "International Telecommunication Union (ITU) World Telecommunication/ICT Indicators Database",
+    "": ""
   },
   {
     "first_category": "Demographics",
@@ -168,7 +176,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Percentage",
+    "indicator_descr": "Internet users are individuals who have used the Internet (from any location) in the last 3 months. The Internet can be used via a computer, mobile phone, personal digital assistant, games machine, digital TV etc.",
+    "source": "International Telecommunication Union (ITU) World Telecommunication/ICT Indicators Database",
+    "": ""
   },
   {
     "first_category": "Demographics",
@@ -225,7 +237,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Total",
+    "indicator_descr": "Mobile cellular telephone subscriptions are subscriptions to a public mobile telephone service that provide access to the PSTN using cellular technology.",
+    "source": "International Telecommunication Union (ITU) World Telecommunication/ICT Indicators Database",
+    "": ""
   },
   {
     "first_category": "Demographics",
@@ -282,7 +298,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Ratio",
+    "indicator_descr": "Age dependency ratio is the ratio of dependents--people younger than 15 or older than 64--to the working-age population--those ages 15-64. Data are shown as the proportion of dependents per 100 working-age population.",
+    "source": "World Bank staff estimates based on age distributions of United Nations Population Division's World Population Prospects: 2019 Revision.",
+    "": ""
   },
   {
     "first_category": "Demographics",
@@ -339,7 +359,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Ratio",
+    "indicator_descr": "Age dependency ratio, young, is the ratio of younger dependents--people younger than 15--to the working-age population--those ages 15-64. Data are shown as the proportion of dependents per 100 working-age population.",
+    "source": "World Bank staff estimates based on age distributions of United Nations Population Division's World Population Prospects: 2019 Revision.",
+    "": ""
   },
   {
     "first_category": "Demographics",
@@ -396,7 +420,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Number",
+    "indicator_descr": "Refugee population by country or territory of origin",
+    "source": "UNHCR",
+    "": ""
   },
   {
     "first_category": "Demographics",
@@ -453,7 +481,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Ratio",
+    "indicator_descr": "Age dependency ratio, old, is the ratio of older dependents--people older than 64--to the working-age population--those ages 15-64. Data are shown as the proportion of dependents per 100 working-age population.",
+    "source": "World Bank staff estimates based on age distributions of United Nations Population Division's World Population Prospects: 2019 Revision.",
+    "": ""
   },
   {
     "first_category": "Demographics",
@@ -510,7 +542,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Percentage",
+    "indicator_descr": "Rural population refers to people living in rural areas as defined by national statistical offices. It is calculated as the difference between total population and urban population.",
+    "source": "World Bank staff estimates based on the United Nations Population Division's World Urbanization Prospects: 2018 Revision.",
+    "": ""
   },
   {
     "first_category": "Demographics",
@@ -567,7 +603,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Number",
+    "indicator_descr": "People or groups of people who have been forced or obliged to flee or to leave their homes or places of habitual residence, in particular as a result of conflict, violence, or disasters and who have not crossed an international border. \"New Displacement\" refers to the number of new cases or incidents of displacement recorded over the specified year, rather than the number of people displaced.",
+    "source": "The Internal Displacement Monitoring Centre (http://www.internal-displacement.org/)",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -624,7 +664,11 @@
     "MaxFactorYear1": 0.092277029,
     "MaxFactorYear2": 0.13671763,
     "MaxFactorYear3": 0.172883328,
-    "MaxFactorYear4": 0.205771491
+    "MaxFactorYear4": 0.205771491,
+    "unit": "Score",
+    "indicator_descr": "The ease of doing business score is the simple average of the scores for each of the Doing Business topics: starting a business, dealing with construction permits, getting electricity, registering property, getting credit, protecting minority investors, paying taxes, trading across borders, enforcing contracts and resolving insolvency.",
+    "source": "World Bank Group, Doing Business project",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -681,7 +725,11 @@
     "MaxFactorYear1": 0.092277029,
     "MaxFactorYear2": 0.13671763,
     "MaxFactorYear3": 0.172883328,
-    "MaxFactorYear4": 0.205771491
+    "MaxFactorYear4": 0.205771491,
+    "unit": "Score",
+    "indicator_descr": "The score for dealing with construction permits is the simple average of the scores for each of the component indicators: the procedures, time, cost to deal with construction permits, as well as the building quality control index that evaluate the quality of building regulations, the strength of quality control and safety mechanisms, liability and insurance regimes and professional certification requirements.",
+    "source": "World Bank Group, Doing Business project",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -738,7 +786,11 @@
     "MaxFactorYear1": 0.092277029,
     "MaxFactorYear2": 0.13671763,
     "MaxFactorYear3": 0.172883328,
-    "MaxFactorYear4": 0.205771491
+    "MaxFactorYear4": 0.205771491,
+    "unit": "Score",
+    "indicator_descr": "The score for enforcing contracts is the simple average of the scores for each of the component indicators: the time and cost for resolving a commercial dispute through a local first-instance court, as well as the quality of judicial processes that promotes quality and efficiency in the court system.",
+    "source": "World Bank Group, Doing Business project",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -795,7 +847,11 @@
     "MaxFactorYear1": 0.092277029,
     "MaxFactorYear2": 0.13671763,
     "MaxFactorYear3": 0.172883328,
-    "MaxFactorYear4": 0.205771491
+    "MaxFactorYear4": 0.205771491,
+    "unit": "Score",
+    "indicator_descr": "The score for getting credit benchmarks economies with respect to the regulatory best practice on the indicator set. The score is indicated on a scale from 0 to 100, where 0 represents the worst regulatory performance and 100 the best regulatory performance.",
+    "source": "World Bank Group, Doing Business project",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -852,7 +908,11 @@
     "MaxFactorYear1": 0.092277029,
     "MaxFactorYear2": 0.13671763,
     "MaxFactorYear3": 0.172883328,
-    "MaxFactorYear4": 0.205771491
+    "MaxFactorYear4": 0.205771491,
+    "unit": "Score",
+    "indicator_descr": "The score for paying taxes is the simple average of the scores for each of the component indicators, the payments, time and total tax and contribution rate for a company to comply with tax laws in an economy, as well as the postfiling procedures to request and process a VAT refund claim and to comply with and complete a corporate income tax correction.",
+    "source": "World Bank Group, Doing Business project",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -909,7 +969,11 @@
     "MaxFactorYear1": 0.092277029,
     "MaxFactorYear2": 0.13671763,
     "MaxFactorYear3": 0.172883328,
-    "MaxFactorYear4": 0.205771491
+    "MaxFactorYear4": 0.205771491,
+    "unit": "Score",
+    "indicator_descr": "The score for protecting minority investors benchmarks economies with respect to the regulatory best practice on the indicator set. The score is indicated on a scale from 0 to 100, where 0 represents the worst regulatory performance and 100 the best regulatory performance, and is computed based on the methodology in the DB15-20 studies.",
+    "source": "World Bank Group, Doing Business project",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -966,7 +1030,11 @@
     "MaxFactorYear1": 0.092277029,
     "MaxFactorYear2": 0.13671763,
     "MaxFactorYear3": 0.172883328,
-    "MaxFactorYear4": 0.205771491
+    "MaxFactorYear4": 0.205771491,
+    "unit": "Score",
+    "indicator_descr": "The score for registering property is the simple average of the scores for each of the component indicators: the procedures, time, cost to transfer property between two local companies, as well as the quality of land administration index that evaluates the reliability of infrastructure, transparency of information, geographic coverage, land dispute resolution and equal access to property rights.",
+    "source": "World Bank Group, Doing Business project",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1023,7 +1091,11 @@
     "MaxFactorYear1": 0.092277029,
     "MaxFactorYear2": 0.13671763,
     "MaxFactorYear3": 0.172883328,
-    "MaxFactorYear4": 0.205771491
+    "MaxFactorYear4": 0.205771491,
+    "unit": "Score",
+    "indicator_descr": "The score for resolving insolvency is the simple average of the scores for each of the component indicators: the recovery rate of insolvency proceedings involving domestic entities, as well as the strength of the legal framework applicable to judicial liquidation and reorganization proceedings.",
+    "source": "World Bank Group, Doing Business project",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1080,7 +1152,11 @@
     "MaxFactorYear1": 0.092277029,
     "MaxFactorYear2": 0.13671763,
     "MaxFactorYear3": 0.172883328,
-    "MaxFactorYear4": 0.205771491
+    "MaxFactorYear4": 0.205771491,
+    "unit": "Score",
+    "indicator_descr": "The score for starting a business is the simple average of the scores for each of the component indicators: the procedures, time and cost for an entrepreneur to start and formally operate a business, as well as the paid-in minimum capital requirement.",
+    "source": "World Bank Group, Doing Business project",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1137,7 +1213,11 @@
     "MaxFactorYear1": 0.092277029,
     "MaxFactorYear2": 0.13671763,
     "MaxFactorYear3": 0.172883328,
-    "MaxFactorYear4": 0.205771491
+    "MaxFactorYear4": 0.205771491,
+    "unit": "Score",
+    "indicator_descr": "Doing Business measures the time and cost associated with three sets of procedures of exporting and importing goods �documentary compliance, border compliance and domestic transport�within the overall process of exporting or importing a shipment of goods.",
+    "source": "World Bank Group, Doing Business project",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1194,7 +1274,11 @@
     "MaxFactorYear1": 0.092277029,
     "MaxFactorYear2": 0.13671763,
     "MaxFactorYear3": 0.172883328,
-    "MaxFactorYear4": 0.205771491
+    "MaxFactorYear4": 0.205771491,
+    "unit": "Percentage",
+    "indicator_descr": "Other taxes include employer payroll or labor taxes, taxes on property, and taxes not allocable to other categories, such as penalties for late payment or nonpayment of taxes.",
+    "source": "International Monetary Fund, Government Finance Statistics Yearbook and data files.",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1251,7 +1335,11 @@
     "MaxFactorYear1": 0.221511804,
     "MaxFactorYear2": 0.330770698,
     "MaxFactorYear3": 0.417019452,
-    "MaxFactorYear4": 0.491637257
+    "MaxFactorYear4": 0.491637257,
+    "unit": "Percentage",
+    "indicator_descr": "Agriculture corresponds to ISIC divisions 1-5 and includes forestry, hunting, and fishing, as well as cultivation of crops and livestock production.",
+    "source": "World Bank national accounts data, and OECD National Accounts data files.",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1308,7 +1396,11 @@
     "MaxFactorYear1": 0.124875268,
     "MaxFactorYear2": 0.174506198,
     "MaxFactorYear3": 0.212431421,
-    "MaxFactorYear4": 0.245058843
+    "MaxFactorYear4": 0.245058843,
+    "unit": "Percentage",
+    "indicator_descr": "Industry corresponds to ISIC divisions 10-45 and includes manufacturing (ISIC divisions 15-37). It comprises value added in mining, manufacturing (also reported as a separate subgroup), construction, electricity, water, and gas.",
+    "source": "World Bank national accounts data, and OECD National Accounts data files.",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1353,8 +1445,8 @@
     "conflict_baseline": -0.496210759,
     "CV Factor": 1,
     "Format": "Percent",
-    "MIN Value": "#NAME?",
-    "MAX Value": "#NAME?",
+    "MIN Value": 0,
+    "MAX Value": 100,
     "LOG transform": 0,
     "Growth": 1,
     "GDP": 0,
@@ -1365,7 +1457,11 @@
     "MaxFactorYear1": 0.124875268,
     "MaxFactorYear2": 0.174506198,
     "MaxFactorYear3": 0.212431421,
-    "MaxFactorYear4": 0.245058843
+    "MaxFactorYear4": 0.245058843,
+    "unit": "Percentage",
+    "indicator_descr": "Annual percentage growth rate of GDP at market prices based on constant local currency. Aggregates are based on constant 2010 U.S. dollars.",
+    "source": "World Bank national accounts data, and OECD National Accounts data files.",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1422,7 +1518,11 @@
     "MaxFactorYear1": 0.221511804,
     "MaxFactorYear2": 0.330770698,
     "MaxFactorYear3": 0.417019452,
-    "MaxFactorYear4": 0.491637257
+    "MaxFactorYear4": 0.491637257,
+    "unit": "Percentage",
+    "indicator_descr": "Services correspond to ISIC divisions 50-99 and they include value added in wholesale and retail trade (including hotels and restaurants), transport, and government, financial, professional, and personal services such as education, health care, and real estate services.",
+    "source": "World Bank national accounts data, and OECD National Accounts data files.",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1479,7 +1579,11 @@
     "MaxFactorYear1": 0.221511804,
     "MaxFactorYear2": 0.330770698,
     "MaxFactorYear3": 0.417019452,
-    "MaxFactorYear4": 0.491637257
+    "MaxFactorYear4": 0.491637257,
+    "unit": "Index",
+    "indicator_descr": "Food production index covers food crops that are considered edible and that contain nutrients. Coffee and tea are excluded because, although edible, they have no nutritive value.",
+    "source": "Food and Agriculture Organization, electronic files and web site.",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1536,7 +1640,11 @@
     "MaxFactorYear1": 0.221511804,
     "MaxFactorYear2": 0.330770698,
     "MaxFactorYear3": 0.417019452,
-    "MaxFactorYear4": 0.491637257
+    "MaxFactorYear4": 0.491637257,
+    "unit": "Percentage",
+    "indicator_descr": "General government expenditure on education (current, capital, and transfers) is expressed as a percentage of total general government expenditure on all sectors (including health, education, social services, etc.). It includes expenditure funded by transfers from international sources to government. General government usually refers to local, regional and central governments.",
+    "source": "UNESCO Institute for Statistics",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1593,7 +1701,11 @@
     "MaxFactorYear1": 0.124875268,
     "MaxFactorYear2": 0.174506198,
     "MaxFactorYear3": 0.212431421,
-    "MaxFactorYear4": 0.245058843
+    "MaxFactorYear4": 0.245058843,
+    "unit": "Percentage",
+    "indicator_descr": "Level of current health expenditure expressed as a percentage of GDP. Estimates of current health expenditures include healthcare goods and services consumed during each year. This indicator does not include capital health expenditures such as buildings, machinery, IT and stocks of vaccines for emergency or outbreaks.",
+    "source": "World Health Organization",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1650,7 +1762,11 @@
     "MaxFactorYear1": 0.048529761,
     "MaxFactorYear2": 0.060522261,
     "MaxFactorYear3": 0.074956975,
-    "MaxFactorYear4": 0.086908366
+    "MaxFactorYear4": 0.086908366,
+    "unit": "Percentage",
+    "indicator_descr": "Labor force participation rate is the proportion of the population ages 15 and older that is economically active: all people who supply labor for the production of goods and services during a specified period.",
+    "source": "International Labour Organization",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1707,7 +1823,11 @@
     "MaxFactorYear1": 0.534591368,
     "MaxFactorYear2": 0.883245456,
     "MaxFactorYear3": 1.200423227,
-    "MaxFactorYear4": 1.51721292
+    "MaxFactorYear4": 1.51721292,
+    "unit": "Percentage",
+    "indicator_descr": "Unemployment refers to the share of the labor force that is without work but available for and seeking employment.",
+    "source": "International Labour Organization",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1753,7 +1873,7 @@
     "CV Factor": 1,
     "Format": "Percent",
     "MIN Value": 0,
-    "MAX Value": "#NAME?",
+    "MAX Value": 100,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -1764,7 +1884,11 @@
     "MaxFactorYear1": 0.534591368,
     "MaxFactorYear2": 0.883245456,
     "MaxFactorYear3": 1.200423227,
-    "MaxFactorYear4": 1.51721292
+    "MaxFactorYear4": 1.51721292,
+    "unit": "Percentage",
+    "indicator_descr": "Ratio Of Female To Male Youth who are without work but available for and seeking employment.",
+    "source": "International Labour Organization, Key Indicators of the Labour Market database.",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1821,7 +1945,11 @@
     "MaxFactorYear1": 0.221511804,
     "MaxFactorYear2": 0.330770698,
     "MaxFactorYear3": 0.417019452,
-    "MaxFactorYear4": 0.491637257
+    "MaxFactorYear4": 0.491637257,
+    "unit": "Percentage",
+    "indicator_descr": "Employment is defined as persons of working age who were engaged in any activity to produce goods or provide services for pay or profit, whether at work during the reference period or not at work due to temporary absence from a job, or to working-time arrangement. The services sector consists of wholesale and retail trade and restaurants and hotels; transport, storage, and communications; financing, insurance, real estate, and business services; and community, social, and personal services, in accordance with divisions 6-9 (ISIC 2) or categories G-Q (ISIC 3) or categories G-U (ISIC 4).",
+    "source": "International Labour Organization",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1878,7 +2006,11 @@
     "MaxFactorYear1": 0.221511804,
     "MaxFactorYear2": 0.330770698,
     "MaxFactorYear3": 0.417019452,
-    "MaxFactorYear4": 0.491637257
+    "MaxFactorYear4": 0.491637257,
+    "unit": "Percentage",
+    "indicator_descr": "Contributing family workers are those workers who hold \"self-employment jobs\" as own-account workers in a market-oriented establishment operated by a related person living in the same household.",
+    "source": "International Labour Organization",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1935,7 +2067,11 @@
     "MaxFactorYear1": 0.048529761,
     "MaxFactorYear2": 0.060522261,
     "MaxFactorYear3": 0.074956975,
-    "MaxFactorYear4": 0.086908366
+    "MaxFactorYear4": 0.086908366,
+    "unit": "Percentage",
+    "indicator_descr": "Female labor force as a percentage of the total show the extent to which women are active in the labor force. Labor force comprises people ages 15 and older who supply labor for the production of goods and services during a specified period.",
+    "source": "Derived using data from International Labour Organization",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -1992,7 +2128,11 @@
     "MaxFactorYear1": 0.534591368,
     "MaxFactorYear2": 0.883245456,
     "MaxFactorYear3": 1.200423227,
-    "MaxFactorYear4": 1.51721292
+    "MaxFactorYear4": 1.51721292,
+    "unit": "Percentage",
+    "indicator_descr": "Share of youth not in education, employment or training (NEET) is the proportion of young people who are not in education, employment, or training to the population of the corresponding age group: youth (ages 15 to 24); persons ages 15 to 29; or both age groups.",
+    "source": "International Labour Organization",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -2049,7 +2189,11 @@
     "MaxFactorYear1": 0.221511804,
     "MaxFactorYear2": 0.330770698,
     "MaxFactorYear3": 0.417019452,
-    "MaxFactorYear4": 0.491637257
+    "MaxFactorYear4": 0.491637257,
+    "unit": "Rate",
+    "indicator_descr": "Annual average rate of change in the prices of a basket of goods and services typically purchased by specific groups of households.",
+    "source": "International Monetary Fund, World Economic Outlook",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -2095,7 +2239,7 @@
     "CV Factor": 0.47235497,
     "Format": "Percent",
     "MIN Value": 0,
-    "MAX Value": "#NAME?",
+    "MAX Value": 100,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -2106,7 +2250,11 @@
     "MaxFactorYear1": 0.124875268,
     "MaxFactorYear2": 0.174506198,
     "MaxFactorYear3": 0.212431421,
-    "MaxFactorYear4": 0.245058843
+    "MaxFactorYear4": 0.245058843,
+    "unit": "Percentage",
+    "indicator_descr": "Total debt service is the sum of principal repayments and interest actually paid in currency, goods, or services on long-term debt, interest paid on short-term debt, and repayments (repurchases and charges) to the IMF. Data are in current U.S. dollars.",
+    "source": "World Bank, International Debt Statistics.",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -2163,7 +2311,11 @@
     "MaxFactorYear1": 0.221511804,
     "MaxFactorYear2": 0.330770698,
     "MaxFactorYear3": 0.417019452,
-    "MaxFactorYear4": 0.491637257
+    "MaxFactorYear4": 0.491637257,
+    "unit": "Percentage",
+    "indicator_descr": "Exports of goods and services represent the value of all goods and other market services provided to the rest of the world.",
+    "source": "World Bank, Macro Poverty Outlook",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -2220,7 +2372,11 @@
     "MaxFactorYear1": 0.221511804,
     "MaxFactorYear2": 0.330770698,
     "MaxFactorYear3": 0.417019452,
-    "MaxFactorYear4": 0.491637257
+    "MaxFactorYear4": 0.491637257,
+    "unit": "Percentage",
+    "indicator_descr": "Imports of goods and services represent the value of all goods and other market services received from the rest of the world.",
+    "source": "World Bank, Macro Poverty Outlook",
+    "": ""
   },
   {
     "first_category": "Economic",
@@ -2277,7 +2433,11 @@
     "MaxFactorYear1": 0.221511804,
     "MaxFactorYear2": 0.330770698,
     "MaxFactorYear3": 0.417019452,
-    "MaxFactorYear4": 0.491637257
+    "MaxFactorYear4": 0.491637257,
+    "unit": "Percentage",
+    "indicator_descr": "Gross investments consists of outlays on additions to the fixed assets of the economy plus net changes in the level of inventories.",
+    "source": "World Bank, Macro Poverty Outlook",
+    "": ""
   },
   {
     "first_category": "Environment",
@@ -2334,7 +2494,11 @@
     "MaxFactorYear1": 0.484345212,
     "MaxFactorYear2": 0.790616939,
     "MaxFactorYear3": 1.076214209,
-    "MaxFactorYear4": 1.360296174
+    "MaxFactorYear4": 1.360296174,
+    "unit": "EPI SCORE",
+    "indicator_descr": "Number of age-standardized disability-adjusted life-years lost per 100,000 persons (DALY rate) due to\nlead contamination in the environment.",
+    "source": "Institute for Health Metrics and Evaluation; This is based on EPI Score. Please see this: https://epi.yale.edu/epi-results/2020/component/pbd",
+    "": ""
   },
   {
     "first_category": "Environment",
@@ -2391,7 +2555,11 @@
     "MaxFactorYear1": 0.484345212,
     "MaxFactorYear2": 0.790616939,
     "MaxFactorYear3": 1.076214209,
-    "MaxFactorYear4": 1.360296174
+    "MaxFactorYear4": 1.360296174,
+    "unit": "MtCO2/yr",
+    "indicator_descr": "A metric measure used to compare the emissions from different greenhouse gases based upon their global warming potential (GWP). The carbon dioxide equivalent for a gas is derived by multiplying the tons of the gas by its associated GWP.",
+    "source": "Mean emissions in MtCO2/day are from the Global Carbon Project using sector allocation from the International Energy Agency; World Energy Balances; Also, see: https://www.icos-cp.eu/gcp-covid19 for DAILY 2020 DATA",
+    "": ""
   },
   {
     "first_category": "Environment",
@@ -2448,7 +2616,11 @@
     "MaxFactorYear1": 0.484345212,
     "MaxFactorYear2": 0.790616939,
     "MaxFactorYear3": 1.076214209,
-    "MaxFactorYear4": 1.360296174
+    "MaxFactorYear4": 1.360296174,
+    "unit": "EPI SCORE",
+    "indicator_descr": "Number of age-standardized\ndisability-adjusted life-years lost per 100,000 persons (DALY rate) due to exposure to fine air particulate matter smaller than 2.5 micrometers (PM2.5).",
+    "source": "Institute for Health Metrics and Evaluation; This is based on EPI Score. Please see this: https://epi.yale.edu/epi-results/2020/component/pmd",
+    "": ""
   },
   {
     "first_category": "Environment",
@@ -2505,7 +2677,11 @@
     "MaxFactorYear1": 0.484345212,
     "MaxFactorYear2": 0.790616939,
     "MaxFactorYear3": 1.076214209,
-    "MaxFactorYear4": 1.360296174
+    "MaxFactorYear4": 1.360296174,
+    "unit": "micrograms per cubic meter",
+    "indicator_descr": "Number of Population-weighted exposure to ambient PM2.5 pollution is defined as the average level of exposure of a nation's population to concentrations of suspended particles measuring less than 2.5 microns in aerodynamic diameter, which are capable of penetrating deep into the respiratory tract and causing severe health damage. Exposure is calculated by weighting mean annual concentrations of PM2.5 by population in both urban and rural areas.\nage-standardized disability-adjusted life-years lost per 100,000 persons (DALY rate) due toexposure to fine air particulate matter smaller than 2.5 micrometers (PM2.5).",
+    "source": "Brauer, M. et al. 2017, for the Global Burden of Disease Study 2017; IQAir - World Air Quality; https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3; https://www.iqair.com/th-en/world-most-polluted-countries",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -2550,7 +2726,7 @@
     "conflict_baseline": 0.091725729,
     "CV Factor": 1,
     "Format": "Amount",
-    "MIN Value": 1,
+    "MIN Value": 0,
     "MAX Value": 12,
     "LOG transform": 0,
     "Growth": 0,
@@ -2562,7 +2738,11 @@
     "MaxFactorYear1": 0.193764256,
     "MaxFactorYear2": 0.284604399,
     "MaxFactorYear3": 0.355196487,
-    "MaxFactorYear4": 0.416447054
+    "MaxFactorYear4": 0.416447054,
+    "unit": "Score",
+    "indicator_descr": "This indicator analyzes the existence of fair and free elections as well as whether the electoral laws and framework are fair and implemented impartially. The greater the score, the greater the freedom.",
+    "source": "Freedom House",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -2607,7 +2787,7 @@
     "conflict_baseline": 0.064911438,
     "CV Factor": 1,
     "Format": "Amount",
-    "MIN Value": 1,
+    "MIN Value": 0,
     "MAX Value": 16,
     "LOG transform": 0,
     "Growth": 0,
@@ -2619,7 +2799,11 @@
     "MaxFactorYear1": 0.193764256,
     "MaxFactorYear2": 0.284604399,
     "MaxFactorYear3": 0.355196487,
-    "MaxFactorYear4": 0.416447054
+    "MaxFactorYear4": 0.416447054,
+    "unit": "Score",
+    "indicator_descr": "This indicator analyzes whether people have the right to organize in different political parties and whether there a realistic opportunity for the opposition to increase its support. The greater the score, the greater the freedom.",
+    "source": "Freedom House",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -2664,7 +2848,7 @@
     "conflict_baseline": 0.028516033,
     "CV Factor": 1,
     "Format": "Amount",
-    "MIN Value": 1,
+    "MIN Value": 0,
     "MAX Value": 16,
     "LOG transform": 0,
     "Growth": 0,
@@ -2676,7 +2860,11 @@
     "MaxFactorYear1": 0.193764256,
     "MaxFactorYear2": 0.284604399,
     "MaxFactorYear3": 0.355196487,
-    "MaxFactorYear4": 0.416447054
+    "MaxFactorYear4": 0.416447054,
+    "unit": "Score",
+    "indicator_descr": "This indicator analyzes whether safeguards against official corruption are strong and effective and if the government operates with openness and transparency. The greater the score, the greater the freedom.",
+    "source": "Freedom House",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -2733,7 +2921,11 @@
     "MaxFactorYear1": 0.193764256,
     "MaxFactorYear2": 0.284604399,
     "MaxFactorYear3": 0.355196487,
-    "MaxFactorYear4": 0.416447054
+    "MaxFactorYear4": 0.416447054,
+    "unit": "Aggregated Score",
+    "indicator_descr": "This indicator groups together: Freedom of Expression and Belief, Associational and Organizational Rights, Rule of Law, and Personal Autonomy and Individual Rights. The greater the score, the greater the freedom.",
+    "source": "Freedom House",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -2778,7 +2970,7 @@
     "conflict_baseline": 0.007090673,
     "CV Factor": 1,
     "Format": "Amount",
-    "MIN Value": 1,
+    "MIN Value": 0,
     "MAX Value": 16,
     "LOG transform": 0,
     "Growth": 0,
@@ -2790,7 +2982,11 @@
     "MaxFactorYear1": 0.193764256,
     "MaxFactorYear2": 0.284604399,
     "MaxFactorYear3": 0.355196487,
-    "MaxFactorYear4": 0.416447054
+    "MaxFactorYear4": 0.416447054,
+    "unit": "Score",
+    "indicator_descr": "This indicator analyzes whether there is a free and independent media and whether individuals are free to practice and express their religious faith or nonbelief. The greater the score, the greater the freedom.",
+    "source": "Freedom House",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -2835,7 +3031,7 @@
     "conflict_baseline": -0.016461262,
     "CV Factor": 1,
     "Format": "Amount",
-    "MIN Value": 1,
+    "MIN Value": 0,
     "MAX Value": 12,
     "LOG transform": 0,
     "Growth": 0,
@@ -2847,7 +3043,11 @@
     "MaxFactorYear1": 0.193764256,
     "MaxFactorYear2": 0.284604399,
     "MaxFactorYear3": 0.355196487,
-    "MaxFactorYear4": 0.416447054
+    "MaxFactorYear4": 0.416447054,
+    "unit": "Score",
+    "indicator_descr": "This indicator analyzes whether there is freedom of assembly. The greater the score the greater the freedom.",
+    "source": "Freedom House",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -2904,7 +3104,11 @@
     "MaxFactorYear1": 0.193764256,
     "MaxFactorYear2": 0.284604399,
     "MaxFactorYear3": 0.355196487,
-    "MaxFactorYear4": 0.416447054
+    "MaxFactorYear4": 0.416447054,
+    "unit": "Aggregated Score",
+    "indicator_descr": "This indicator groups together: Electoral Process, Political Pluralism and Participation, and Functioning of Government. The greater the score, the greater the freedom.",
+    "source": "Freedom House",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -2949,7 +3153,7 @@
     "conflict_baseline": 0.014677734,
     "CV Factor": 1,
     "Format": "Amount",
-    "MIN Value": 0,
+    "MIN Value": -4,
     "MAX Value": 100,
     "LOG transform": 0,
     "Growth": 0,
@@ -2961,7 +3165,11 @@
     "MaxFactorYear1": 0.193764256,
     "MaxFactorYear2": 0.284604399,
     "MaxFactorYear3": 0.355196487,
-    "MaxFactorYear4": 0.416447054
+    "MaxFactorYear4": 0.416447054,
+    "unit": "Score",
+    "indicator_descr": "Aggregate Political Rights score, on a scale of 0�40 and aggregate Civil Liberties score on a scale of 0�60. The total Political Rights and Civil Liberties scores are equally weighted in this calculation. The greater the score, the greater the freedom.",
+    "source": "Freedom House",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3018,7 +3226,11 @@
     "MaxFactorYear1": 0.193764256,
     "MaxFactorYear2": 0.284604399,
     "MaxFactorYear3": 0.355196487,
-    "MaxFactorYear4": 0.416447054
+    "MaxFactorYear4": 0.416447054,
+    "unit": "Score",
+    "indicator_descr": "This indicator analyzes the existance of an independent judiciary, of due process, and whether laws, policies, and practices guarantee equal treatment of various segments of the population. The greater the score, the greater the freedom.",
+    "source": "Freedom House",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3075,7 +3287,11 @@
     "MaxFactorYear1": 0.193764256,
     "MaxFactorYear2": 0.284604399,
     "MaxFactorYear3": 0.355196487,
-    "MaxFactorYear4": 0.416447054
+    "MaxFactorYear4": 0.416447054,
+    "unit": "Score",
+    "indicator_descr": "This indicator analyzes whether  individuals enjoy freedom of movement, are able to exercise the right to own property, and enjoy personal social freedoms, including choice of marriage partner and size of family. The greater the score the greater the freedom.",
+    "source": "Freedom House",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3132,7 +3348,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "Control of Corruption captures perceptions of the extent to which public power is exercised for private gain, including both petty and grand forms of corruption, as well as \"capture\" of the state by elites and private interests. Scores range from -2.5 to 2.5.",
+    "source": "Worldwide Governance Indicators, World Bank",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3189,7 +3409,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "Government Effectiveness captures perceptions of the quality of public services, civil service, policy formulation and implementation, and the credibility of the government's commitment to such policies. Scores range from -2.5 to 2.5.",
+    "source": "Worldwide Governance Indicators, World Bank",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3246,7 +3470,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "Political Stability and Absence of Violence/Terrorism measures perceptions of the likelihood of political instability and/or politically-motivated violence, including terrorism. Scores range from -2.5 to 2.5.",
+    "source": "Worldwide Governance Indicators, World Bank",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3303,7 +3531,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "Regulatory Quality captures perceptions of the ability of the government to formulate and implement sound policies and regulations that permit and promote private sector development. Scores range from -2.5 to 2.5.",
+    "source": "Worldwide Governance Indicators, World Bank",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3360,7 +3592,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "Rule of Law captures perceptions of the extent to which agents have confidence in and abide by the rules of society, and in particular the quality of contract enforcement, property rights, the police, and the courts, as well as the likelihood of crime and violence. Scores range from -2.5 to 2.5.",
+    "source": "Worldwide Governance Indicators, World Bank",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3417,235 +3653,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
-  },
-  {
-    "first_category": "Governance",
-    "second_category": "Security",
-    "indicator": "Intentional homicides (per 100,000 people) (modelled SM)",
-    "indicator_code": "HOMI",
-    "Intercept": -0.015976803,
-    "c1_school_closures": 0.056177073,
-    "c2_workplace_closures": 0.056177073,
-    "c3_cancel_public_events": 0,
-    "c4_restriction_gatherings": 0,
-    "c5_close_public_transport": 0,
-    "c6_stay_home_requirements": 0,
-    "c7_internal_movements": 0,
-    "c8_international_travel_controls": 0.070186945,
-    "e1_income_support": 0,
-    "e2_debt_relief": -0.084729897,
-    "h1_public_information_campaigns": 0,
-    "h2_testing_policy": 0,
-    "h3_contact_tracing": 0,
-    "h6_facial_coverings": 0,
-    "h7_vaccination_policy": -0.08256774,
-    "covid": -0.001713575,
-    "baseline": 0.025696863,
-    "conflict_Intercept": -0.013758216,
-    "conflict_c1_school_closures": 0,
-    "conflict_c2_workplace_closures": 0,
-    "conflict_c3_cancel_public_events": 0,
-    "conflict_c4_restriction_gatherings": 0,
-    "conflict_c5_close_public_transport": 0.034916184,
-    "conflict_c6_stay_home_requirements": 0.034916184,
-    "conflict_c7_internal_movements": 0.034916184,
-    "conflict_c8_international_travel_controls": 0,
-    "conflict_e1_income_support": 0,
-    "conflict_e2_debt_relief": -0.032962621,
-    "conflict_h1_public_information_campaigns": -0.102464612,
-    "conflict_h2_testing_policy": 0,
-    "conflict_h3_contact_tracing": 0.040675005,
-    "conflict_h6_facial_coverings": 0,
-    "conflict_h7_vaccination_policy": -0.145507326,
-    "conflict_covid": -0.069927997,
-    "conflict_baseline": -0.015376034,
-    "CV Factor": 5.154300768,
-    "Format": "Amount",
-    "MIN Value": 0,
-    "MAX Value": "#NAME?",
-    "LOG transform": 0,
-    "Growth": 0,
-    "GDP": 0,
-    "MinFactorYear1": 0.153249749,
-    "MinFactorYear2": 0.209159594,
-    "MinFactorYear3": 0.251996958,
-    "MinFactorYear4": 0.289697528,
-    "MaxFactorYear1": 0.152612851,
-    "MaxFactorYear2": 0.230145306,
-    "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
-  },
-  {
-    "first_category": "Governance",
-    "second_category": "Security",
-    "indicator": "Serious assault (rate) (modelled SM)",
-    "indicator_code": "SRSASLT",
-    "Intercept": -0.015976803,
-    "c1_school_closures": 0.056177073,
-    "c2_workplace_closures": 0.056177073,
-    "c3_cancel_public_events": 0,
-    "c4_restriction_gatherings": 0,
-    "c5_close_public_transport": 0,
-    "c6_stay_home_requirements": 0,
-    "c7_internal_movements": 0,
-    "c8_international_travel_controls": 0.070186945,
-    "e1_income_support": 0,
-    "e2_debt_relief": -0.084729897,
-    "h1_public_information_campaigns": 0,
-    "h2_testing_policy": 0,
-    "h3_contact_tracing": 0,
-    "h6_facial_coverings": 0,
-    "h7_vaccination_policy": -0.08256774,
-    "covid": -0.001713575,
-    "baseline": 0.025696863,
-    "conflict_Intercept": -0.013758216,
-    "conflict_c1_school_closures": 0,
-    "conflict_c2_workplace_closures": 0,
-    "conflict_c3_cancel_public_events": 0,
-    "conflict_c4_restriction_gatherings": 0,
-    "conflict_c5_close_public_transport": 0.034916184,
-    "conflict_c6_stay_home_requirements": 0.034916184,
-    "conflict_c7_internal_movements": 0.034916184,
-    "conflict_c8_international_travel_controls": 0,
-    "conflict_e1_income_support": 0,
-    "conflict_e2_debt_relief": -0.032962621,
-    "conflict_h1_public_information_campaigns": -0.102464612,
-    "conflict_h2_testing_policy": 0,
-    "conflict_h3_contact_tracing": 0.040675005,
-    "conflict_h6_facial_coverings": 0,
-    "conflict_h7_vaccination_policy": -0.145507326,
-    "conflict_covid": -0.069927997,
-    "conflict_baseline": -0.015376034,
-    "CV Factor": 4.776119663,
-    "Format": "Amount",
-    "MIN Value": 0,
-    "MAX Value": "#NAME?",
-    "LOG transform": 0,
-    "Growth": 0,
-    "GDP": 0,
-    "MinFactorYear1": 0.153249749,
-    "MinFactorYear2": 0.209159594,
-    "MinFactorYear3": 0.251996958,
-    "MinFactorYear4": 0.289697528,
-    "MaxFactorYear1": 0.152612851,
-    "MaxFactorYear2": 0.230145306,
-    "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
-  },
-  {
-    "first_category": "Governance",
-    "second_category": "Security",
-    "indicator": "Intentional homicides, female (per 100,000 female) (modelled SM)",
-    "indicator_code": "HOMIF",
-    "Intercept": -0.015976803,
-    "c1_school_closures": 0.056177073,
-    "c2_workplace_closures": 0.056177073,
-    "c3_cancel_public_events": 0,
-    "c4_restriction_gatherings": 0,
-    "c5_close_public_transport": 0,
-    "c6_stay_home_requirements": 0,
-    "c7_internal_movements": 0,
-    "c8_international_travel_controls": 0.070186945,
-    "e1_income_support": 0,
-    "e2_debt_relief": -0.084729897,
-    "h1_public_information_campaigns": 0,
-    "h2_testing_policy": 0,
-    "h3_contact_tracing": 0,
-    "h6_facial_coverings": 0,
-    "h7_vaccination_policy": -0.08256774,
-    "covid": -0.001713575,
-    "baseline": 0.025696863,
-    "conflict_Intercept": -0.013758216,
-    "conflict_c1_school_closures": 0,
-    "conflict_c2_workplace_closures": 0,
-    "conflict_c3_cancel_public_events": 0,
-    "conflict_c4_restriction_gatherings": 0,
-    "conflict_c5_close_public_transport": 0.034916184,
-    "conflict_c6_stay_home_requirements": 0.034916184,
-    "conflict_c7_internal_movements": 0.034916184,
-    "conflict_c8_international_travel_controls": 0,
-    "conflict_e1_income_support": 0,
-    "conflict_e2_debt_relief": -0.032962621,
-    "conflict_h1_public_information_campaigns": -0.102464612,
-    "conflict_h2_testing_policy": 0,
-    "conflict_h3_contact_tracing": 0.040675005,
-    "conflict_h6_facial_coverings": 0,
-    "conflict_h7_vaccination_policy": -0.145507326,
-    "conflict_covid": -0.069927997,
-    "conflict_baseline": -0.015376034,
-    "CV Factor": 5.698708143,
-    "Format": "Amount",
-    "MIN Value": 0,
-    "MAX Value": "#NAME?",
-    "LOG transform": 0,
-    "Growth": 0,
-    "GDP": 0,
-    "MinFactorYear1": 0.153249749,
-    "MinFactorYear2": 0.209159594,
-    "MinFactorYear3": 0.251996958,
-    "MinFactorYear4": 0.289697528,
-    "MaxFactorYear1": 0.152612851,
-    "MaxFactorYear2": 0.230145306,
-    "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
-  },
-  {
-    "first_category": "Governance",
-    "second_category": "Security",
-    "indicator": "Intentional homicides, male (per 100,000 male) (modelled SM)",
-    "indicator_code": "HOMIM",
-    "Intercept": -0.015976803,
-    "c1_school_closures": 0.056177073,
-    "c2_workplace_closures": 0.056177073,
-    "c3_cancel_public_events": 0,
-    "c4_restriction_gatherings": 0,
-    "c5_close_public_transport": 0,
-    "c6_stay_home_requirements": 0,
-    "c7_internal_movements": 0,
-    "c8_international_travel_controls": 0.070186945,
-    "e1_income_support": 0,
-    "e2_debt_relief": -0.084729897,
-    "h1_public_information_campaigns": 0,
-    "h2_testing_policy": 0,
-    "h3_contact_tracing": 0,
-    "h6_facial_coverings": 0,
-    "h7_vaccination_policy": -0.08256774,
-    "covid": -0.001713575,
-    "baseline": 0.025696863,
-    "conflict_Intercept": -0.013758216,
-    "conflict_c1_school_closures": 0,
-    "conflict_c2_workplace_closures": 0,
-    "conflict_c3_cancel_public_events": 0,
-    "conflict_c4_restriction_gatherings": 0,
-    "conflict_c5_close_public_transport": 0.034916184,
-    "conflict_c6_stay_home_requirements": 0.034916184,
-    "conflict_c7_internal_movements": 0.034916184,
-    "conflict_c8_international_travel_controls": 0,
-    "conflict_e1_income_support": 0,
-    "conflict_e2_debt_relief": -0.032962621,
-    "conflict_h1_public_information_campaigns": -0.102464612,
-    "conflict_h2_testing_policy": 0,
-    "conflict_h3_contact_tracing": 0.040675005,
-    "conflict_h6_facial_coverings": 0,
-    "conflict_h7_vaccination_policy": -0.145507326,
-    "conflict_covid": -0.069927997,
-    "conflict_baseline": -0.015376034,
-    "CV Factor": 5.330753004,
-    "Format": "Amount",
-    "MIN Value": 0,
-    "MAX Value": "#NAME?",
-    "LOG transform": 0,
-    "Growth": 0,
-    "GDP": 0,
-    "MinFactorYear1": 0.153249749,
-    "MinFactorYear2": 0.209159594,
-    "MinFactorYear3": 0.251996958,
-    "MinFactorYear4": 0.289697528,
-    "MaxFactorYear1": 0.152612851,
-    "MaxFactorYear2": 0.230145306,
-    "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "Voice and Accountability captures perceptions of the extent to which a country's citizens are able to participate in selecting their government, as well as freedom of expression, freedom of association, and a free media. Scores range from -2.5 to 2.5.",
+    "source": "Worldwide Governance Indicators, World Bank",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3702,7 +3714,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "The Security Apparatus indicator considers the security threats to a state, such as bombings, attacks and battle-related deaths, rebel movements, mutinies, coups, or terrorism. The Security Apparatus also takes into account serious criminal factors, such as organized crime and homicides, and perceived trust of citizens in domestic security. A score of 1 indicates most stable.",
+    "source": "The Fund for Peace",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3759,7 +3775,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "The Factionalized Elites indicator measures power struggles, political competition, political transitions, and where elections occur will factor in the credibility of electoral processes (or in their absence, the perceived legitimacy of the ruling class). A score of 1 indicates most stable.",
+    "source": "The Fund for Peace",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3816,7 +3836,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "The Economic Decline Indicator considers factors related to economic decline within a country. A score of 1 indicates most stable.",
+    "source": "The Fund for Peace",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3873,7 +3897,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "The Uneven Economic Development Indicator considers inequality within the economy, irrespective of the actual performance of an economy. A score of 1 indicates most stable.",
+    "source": "The Fund for Peace",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3930,7 +3958,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "The Human Flight and Brain Drain Indicator considers the economic impact of human displacement and the consequences this may have on a country�s development. A score of 1 indicates most stable.",
+    "source": "The Fund for Peace",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -3987,7 +4019,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Overall Score",
+    "indicator_descr": "Aggregate measure of state fragility. A score of 1 indicates most stable.",
+    "source": "The Fund for Peace",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -4044,7 +4080,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "The State Legitimacy Indicator considers the representativeness and openness of government and its relationship with its citizenry. A score of 1 indicates most stable.",
+    "source": "The Fund for Peace",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -4101,7 +4141,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "The Public Services Indicator refers to the presence of basic state functions that serve the people. A score of 1 indicates most stable.",
+    "source": "The Fund for Peace",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -4158,7 +4202,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "The Human Rights and Rule of Law Indicator considers the relationship between the state and its population insofar as fundamental human rights are protected and freedoms are observed and respected. A score of 1 indicates most stable.",
+    "source": "The Fund for Peace",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -4215,7 +4263,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "The Demographic Pressures Indicator considers pressures upon the state deriving from the population itself or the environment around it. A score of 1 indicates most stable.",
+    "source": "The Fund for Peace",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -4272,7 +4324,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "The Refugees and Internally Displaced Persons Indicator measures the pressure upon states caused by the forced displacement of large communities as a result of social, political, environmental or other causes. A score of 1 indicates most stable.",
+    "source": "The Fund for Peace",
+    "": ""
   },
   {
     "first_category": "Governance",
@@ -4329,7 +4385,11 @@
     "MaxFactorYear1": 0.152612851,
     "MaxFactorYear2": 0.230145306,
     "MaxFactorYear3": 0.295497797,
-    "MaxFactorYear4": 0.354882011
+    "MaxFactorYear4": 0.354882011,
+    "unit": "Score",
+    "indicator_descr": "The External Intervention Indicator considers the influence and impact of external actors in the functioning � particularly security and economic � of a state. A score of 1 indicates most stable.",
+    "source": "The Fund for Peace",
+    "": ""
   },
   {
     "first_category": "Health",
@@ -4375,7 +4435,7 @@
     "CV Factor": 0.303777087,
     "Format": "Percent",
     "MIN Value": 0,
-    "MAX Value": 100,
+    "MAX Value": 60,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -4386,7 +4446,11 @@
     "MaxFactorYear1": 0.252499091,
     "MaxFactorYear2": 0.382486175,
     "MaxFactorYear3": 0.500907625,
-    "MaxFactorYear4": 0.624145135
+    "MaxFactorYear4": 0.624145135,
+    "unit": "Percent",
+    "indicator_descr": "Proportion of total cases of chronic kidney disease relative to cases from all causes (of death and/or morbidity)",
+    "source": "Global Health Data Exchange, Institute for Health Metrics and Evaluation",
+    "": ""
   },
   {
     "first_category": "Health",
@@ -4432,7 +4496,7 @@
     "CV Factor": 0.545606465,
     "Format": "Percent",
     "MIN Value": 0,
-    "MAX Value": 100,
+    "MAX Value": 60,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -4443,7 +4507,11 @@
     "MaxFactorYear1": 0.252499091,
     "MaxFactorYear2": 0.382486175,
     "MaxFactorYear3": 0.500907625,
-    "MaxFactorYear4": 0.624145135
+    "MaxFactorYear4": 0.624145135,
+    "unit": "Percent",
+    "indicator_descr": "Proportion of total cases of diabetes mellitus relative to cases from all causes (of death and/or morbidity)",
+    "source": "Global Health Data Exchange, Institute for Health Metrics and Evaluation",
+    "": ""
   },
   {
     "first_category": "Health",
@@ -4489,7 +4557,7 @@
     "CV Factor": 0.337641831,
     "Format": "Percent",
     "MIN Value": 0,
-    "MAX Value": 100,
+    "MAX Value": 60,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -4500,7 +4568,11 @@
     "MaxFactorYear1": 0.252499091,
     "MaxFactorYear2": 0.382486175,
     "MaxFactorYear3": 0.500907625,
-    "MaxFactorYear4": 0.624145135
+    "MaxFactorYear4": 0.624145135,
+    "unit": "Percent",
+    "indicator_descr": "Proportion of total cases of hypertensive heart disease relative to cases from all causes (of death and/or morbidity)",
+    "source": "Global Health Data Exchange, Institute for Health Metrics and Evaluation",
+    "": ""
   },
   {
     "first_category": "Health",
@@ -4557,12 +4629,16 @@
     "MaxFactorYear1": 0.252499091,
     "MaxFactorYear2": 0.382486175,
     "MaxFactorYear3": 0.500907625,
-    "MaxFactorYear4": 0.624145135
+    "MaxFactorYear4": 0.624145135,
+    "unit": "Percent",
+    "indicator_descr": "Proportion of total cases of respiratory infections and tuberculosis relative to cases from all causes (of death and/or morbidity)",
+    "source": "Global Health Data Exchange, Institute for Health Metrics and Evaluation",
+    "": ""
   },
   {
     "first_category": "Health",
     "second_category": "Health condition",
-    "indicator": "Prevalence of tuberculosis (modelled SM)",
+    "indicator": "Number of new and relapse tuberculosis cases per year (modelled SM)",
     "indicator_code": "PRTUB",
     "Intercept": -0.006860274,
     "c1_school_closures": 0,
@@ -4614,7 +4690,11 @@
     "MaxFactorYear1": 0.252499091,
     "MaxFactorYear2": 0.382486175,
     "MaxFactorYear3": 0.500907625,
-    "MaxFactorYear4": 0.624145135
+    "MaxFactorYear4": 0.624145135,
+    "unit": "Number",
+    "indicator_descr": "The number of tuberculosis (TB) cases detected in a given year. Data for 2020 and 2021 (estimated) taken from the WHO's provisional notifications.",
+    "source": "WHO",
+    "": ""
   },
   {
     "first_category": "Health",
@@ -4660,7 +4740,7 @@
     "CV Factor": 1,
     "Format": "Percent",
     "MIN Value": 0,
-    "MAX Value": 100,
+    "MAX Value": 60,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -4671,7 +4751,11 @@
     "MaxFactorYear1": 0.252499091,
     "MaxFactorYear2": 0.382486175,
     "MaxFactorYear3": 0.500907625,
-    "MaxFactorYear4": 0.624145135
+    "MaxFactorYear4": 0.624145135,
+    "unit": "Percent",
+    "indicator_descr": "Percentage of adults (aged 18 and older) with a body mass index (BMI) of 30 kg/m2 or higher.",
+    "source": "World Health Organization",
+    "": ""
   },
   {
     "first_category": "Health",
@@ -4728,7 +4812,11 @@
     "MaxFactorYear1": 0.252499091,
     "MaxFactorYear2": 0.382486175,
     "MaxFactorYear3": 0.500907625,
-    "MaxFactorYear4": 0.624145135
+    "MaxFactorYear4": 0.624145135,
+    "unit": "Number",
+    "indicator_descr": "Number of adults (15+) newly infected by HIV, does nto include overall cases.",
+    "source": "UNAIDS",
+    "": ""
   },
   {
     "first_category": "Health",
@@ -4785,7 +4873,11 @@
     "MaxFactorYear1": 0.252499091,
     "MaxFactorYear2": 0.382486175,
     "MaxFactorYear3": 0.500907625,
-    "MaxFactorYear4": 0.624145135
+    "MaxFactorYear4": 0.624145135,
+    "unit": "Percent",
+    "indicator_descr": "The proportion of population at risk of impoverishing expenditure when surgical care is required. Impoverishing expenditure is defined as direct out of pocket payments for surgical and anaesthesia care which drive people below a poverty threshold (using a threshold of $1.90 PPP/day).",
+    "source": "The Program in Global Surgery and Social Change (PGSSC) at Harvard Medical School",
+    "": ""
   },
   {
     "first_category": "Health",
@@ -4842,7 +4934,11 @@
     "MaxFactorYear1": 0.252499091,
     "MaxFactorYear2": 0.382486175,
     "MaxFactorYear3": 0.500907625,
-    "MaxFactorYear4": 0.624145135
+    "MaxFactorYear4": 0.624145135,
+    "unit": "Percent",
+    "indicator_descr": "The proportion of population at risk of catastrophic expenditure when surgical care is required. Catastrophic expenditure is defined as direct out of pocket payments for surgical and anaesthesia care exceeding 10% of total income. (Worldbank data)",
+    "source": "The Program in Global Surgery and Social Change (PGSSC) at Harvard Medical School",
+    "": ""
   },
   {
     "first_category": "Health",
@@ -4888,7 +4984,7 @@
     "CV Factor": 1,
     "Format": "Percent",
     "MIN Value": 0,
-    "MAX Value": 100,
+    "MAX Value": 50,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -4899,7 +4995,11 @@
     "MaxFactorYear1": 0.252499091,
     "MaxFactorYear2": 0.382486175,
     "MaxFactorYear3": 0.500907625,
-    "MaxFactorYear4": 0.624145135
+    "MaxFactorYear4": 0.624145135,
+    "unit": "Percent",
+    "indicator_descr": "Proportion of total cases of anxiety disorders relative to cases from all causes (of death and/or morbidity)",
+    "source": "WHO/UNICEF Joint Monitoring Programme ( JMP ) for Water Supply, Sanitation and Hygiene",
+    "": ""
   },
   {
     "first_category": "Health",
@@ -4945,7 +5045,7 @@
     "CV Factor": 1,
     "Format": "Percent",
     "MIN Value": 0,
-    "MAX Value": 100,
+    "MAX Value": 50,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -4956,7 +5056,11 @@
     "MaxFactorYear1": 0.252499091,
     "MaxFactorYear2": 0.382486175,
     "MaxFactorYear3": 0.500907625,
-    "MaxFactorYear4": 0.624145135
+    "MaxFactorYear4": 0.624145135,
+    "unit": "Percent",
+    "indicator_descr": "Proportion of total cases of depressive disorders relative to cases from all causes (of death and/or morbidity)",
+    "source": "Global Health Data Exchange, Institute for Health Metrics and Evaluation",
+    "": ""
   },
   {
     "first_category": "Social issues",
@@ -5013,7 +5117,11 @@
     "MaxFactorYear1": 0.749347298,
     "MaxFactorYear2": 1.317574043,
     "MaxFactorYear3": 1.924197118,
-    "MaxFactorYear4": 2.592507517
+    "MaxFactorYear4": 2.592507517,
+    "unit": "Score",
+    "indicator_descr": "dropped",
+    "source": "dropped",
+    "": "DROPPED"
   },
   {
     "first_category": "Social issues",
@@ -5059,7 +5167,7 @@
     "CV Factor": 1.227178862,
     "Format": "Percent",
     "MIN Value": 0,
-    "MAX Value": 100,
+    "MAX Value": 60,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -5070,7 +5178,11 @@
     "MaxFactorYear1": 0.749347298,
     "MaxFactorYear2": 1.317574043,
     "MaxFactorYear3": 1.924197118,
-    "MaxFactorYear4": 2.592507517
+    "MaxFactorYear4": 2.592507517,
+    "unit": "Proportion",
+    "indicator_descr": "Proportion of females in the total number of persons employed in managerial positions.",
+    "source": "United Nations Statistics Division�s Open SDG Data Hub",
+    "": ""
   },
   {
     "first_category": "Social issues",
@@ -5127,7 +5239,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Index",
+    "indicator_descr": "A composite index measuring average achievement in three basic dimensions of human development�a long and healthy life, knowledge and a decent standard of living.",
+    "source": "UNDP",
+    "": ""
   },
   {
     "first_category": "Social issues",
@@ -5173,7 +5289,7 @@
     "CV Factor": 0.53684902,
     "Format": "Amount",
     "MIN Value": 0,
-    "MAX Value": "#NAME?",
+    "MAX Value": 100,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -5184,7 +5300,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Index",
+    "indicator_descr": "Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from a perfectly equal distribution. A Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.",
+    "source": "World Bank",
+    "": ""
   },
   {
     "first_category": "Social issues",
@@ -5230,7 +5350,7 @@
     "CV Factor": 1,
     "Format": "Amount",
     "MIN Value": 0,
-    "MAX Value": 100,
+    "MAX Value": 60,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -5241,7 +5361,11 @@
     "MaxFactorYear1": 0.749347298,
     "MaxFactorYear2": 1.317574043,
     "MaxFactorYear3": 1.924197118,
-    "MaxFactorYear4": 2.592507517
+    "MaxFactorYear4": 2.592507517,
+    "unit": "Percent",
+    "indicator_descr": "Proportion of women in ministerial or equivalent positions (including deputy prime ministers) in the government. Prime Ministers/Heads of Government are included when they hold ministerial portfolios. Vice-Presidents and heads of governmental or public agencies are excluded.",
+    "source": "Inter-Parliamentary Union (IPU). Women in Politics.",
+    "": ""
   },
   {
     "first_category": "Social issues",
@@ -5287,7 +5411,7 @@
     "CV Factor": 1,
     "Format": "Amount",
     "MIN Value": 0,
-    "MAX Value": 100,
+    "MAX Value": 60,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -5298,7 +5422,11 @@
     "MaxFactorYear1": 0.749347298,
     "MaxFactorYear2": 1.317574043,
     "MaxFactorYear3": 1.924197118,
-    "MaxFactorYear4": 2.592507517
+    "MaxFactorYear4": 2.592507517,
+    "unit": "Percent",
+    "indicator_descr": "Percentage of parliamentary seats in a single or lower chamber held by women.",
+    "source": "Inter-Parliamentary Union (IPU). Women in Politics.",
+    "": ""
   },
   {
     "first_category": "Social issues",
@@ -5344,7 +5472,7 @@
     "CV Factor": 1,
     "Format": "Amount",
     "MIN Value": 0,
-    "MAX Value": "#NAME?",
+    "MAX Value": 1,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -5355,7 +5483,11 @@
     "MaxFactorYear1": 0.161334181,
     "MaxFactorYear2": 0.241064662,
     "MaxFactorYear3": 0.306922802,
-    "MaxFactorYear4": 0.365816081
+    "MaxFactorYear4": 0.365816081,
+    "unit": "Score",
+    "indicator_descr": "Freedom to make life choices is the national average of responses to the GWP question �Are you satisfied or dissatisfied with your freedom to choose what you do with your life?� A higher score indicates greater perceived freedom.",
+    "source": "Sustainable Development Solutions Network",
+    "": ""
   },
   {
     "first_category": "Social issues",
@@ -5401,7 +5533,7 @@
     "CV Factor": 1,
     "Format": "Amount",
     "MIN Value": 0,
-    "MAX Value": "#NAME?",
+    "MAX Value": 10,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -5412,7 +5544,11 @@
     "MaxFactorYear1": 0.161334181,
     "MaxFactorYear2": 0.241064662,
     "MaxFactorYear3": 0.306922802,
-    "MaxFactorYear4": 0.365816081
+    "MaxFactorYear4": 0.365816081,
+    "unit": "Score",
+    "indicator_descr": "Life ladder refers to the happiness score or subjective well-being. A greater score represents greater overall subjective well-being.",
+    "source": "Sustainable Development Solutions Network",
+    "": ""
   },
   {
     "first_category": "Social issues",
@@ -5458,7 +5594,7 @@
     "CV Factor": 1,
     "Format": "Amount",
     "MIN Value": 0,
-    "MAX Value": "#NAME?",
+    "MAX Value": 1,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -5469,7 +5605,11 @@
     "MaxFactorYear1": 0.161334181,
     "MaxFactorYear2": 0.241064662,
     "MaxFactorYear3": 0.306922802,
-    "MaxFactorYear4": 0.365816081
+    "MaxFactorYear4": 0.365816081,
+    "unit": "Score",
+    "indicator_descr": "Negative affect is defined as the average of three negative affect measures in GWP. They are worry, sadness and anger. A higher score indicates greater negative affect.",
+    "source": "Sustainable Development Solutions Network",
+    "": ""
   },
   {
     "first_category": "Social issues",
@@ -5515,7 +5655,7 @@
     "CV Factor": 1,
     "Format": "Amount",
     "MIN Value": 0,
-    "MAX Value": "#NAME?",
+    "MAX Value": 1,
     "LOG transform": 0,
     "Growth": 0,
     "GDP": 0,
@@ -5526,7 +5666,11 @@
     "MaxFactorYear1": 0.161334181,
     "MaxFactorYear2": 0.241064662,
     "MaxFactorYear3": 0.306922802,
-    "MaxFactorYear4": 0.365816081
+    "MaxFactorYear4": 0.365816081,
+    "unit": "Score",
+    "indicator_descr": "Positive affect is defined as the average of three positive affect measures in GWP: happiness, laugh and enjoyment. A greater score indicates greater positive affect.",
+    "source": "Sustainable Development Solutions Network",
+    "": ""
   },
   {
     "first_category": "Social issues",
@@ -5583,7 +5727,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Rate",
+    "indicator_descr": "Upper middle-income poverty rate ($5.5 in 2011 PPP)",
+    "source": "World Bank",
+    "": ""
   },
   {
     "first_category": "Social issues",
@@ -5640,7 +5788,11 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Rate",
+    "indicator_descr": "Lower middle-income poverty rate ($3.2 in 2011 PPP)",
+    "source": "World Bank",
+    "": ""
   },
   {
     "first_category": "Social issues",
@@ -5697,6 +5849,10 @@
     "MaxFactorYear1": 0.216564021,
     "MaxFactorYear2": 0.326219297,
     "MaxFactorYear3": 0.416083799,
-    "MaxFactorYear4": 0.495702351
+    "MaxFactorYear4": 0.495702351,
+    "unit": "Rate",
+    "indicator_descr": "International poverty rate ($1.9 in 2011 PPP)",
+    "source": "World Bank",
+    "": ""
   }
 ]
