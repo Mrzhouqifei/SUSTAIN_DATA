@@ -57,7 +57,7 @@
     "MaxFactorYear4": 0.495702351,
     "unit": "Total",
     "indicator_descr": "The number of distinct, publicly-trusted TLS/SSL certificates found in the Netcraft Secure Server Survey.",
-    "source": "Netcraft (http://www.netcraft.com/)"
+    "source": "Netcraft"
   },
   {
     "first_category": "Demographics",
@@ -597,7 +597,7 @@
     "MaxFactorYear4": 0.495702351,
     "unit": "Number",
     "indicator_descr": "People or groups of people who have been forced or obliged to flee or to leave their homes or places of habitual residence, in particular as a result of conflict, violence, or disasters and who have not crossed an international border. \"New Displacement\" refers to the number of new cases or incidents of displacement recorded over the specified year, rather than the number of people displaced.",
-    "source": "The Internal Displacement Monitoring Centre (http://www.internal-displacement.org/)"
+    "source": "The Internal Displacement Monitoring Centre"
   },
   {
     "first_category": "Economic",
@@ -1916,7 +1916,7 @@
     "MaxFactorYear3": 0.417019452,
     "MaxFactorYear4": 0.491637257,
     "unit": "Percentage",
-    "indicator_descr": "Employment is defined as persons of working age who were engaged in any activity to produce goods or provide services for pay or profit, whether at work during the reference period or not at work due to temporary absence from a job, or to working-time arrangement. The services sector consists of wholesale and retail trade and restaurants and hotels; transport, storage, and communications; financing, insurance, real estate, and business services; and community, social, and personal services, in accordance with divisions 6-9 (ISIC 2) or categories G-Q (ISIC 3) or categories G-U (ISIC 4).",
+    "indicator_descr": "Employment is defined as persons of working age who were engaged in any activity to produce goods or provide. The services sector consists of services industries such as wholesale and retail trade, transport, communications, finance and business services.",
     "source": "International Labour Organization"
   },
   {
@@ -2457,7 +2457,7 @@
     "MaxFactorYear4": 1.360296174,
     "unit": "EPI SCORE",
     "indicator_descr": "Number of age-standardized disability-adjusted life-years lost per 100,000 persons (DALY rate) due to\nlead contamination in the environment.",
-    "source": "Institute for Health Metrics and Evaluation; This is based on EPI Score. Please see this: https://epi.yale.edu/epi-results/2020/component/pbd"
+    "source": "Institute for Health Metrics and Evaluation; This is based on EPI Score."
   },
   {
     "first_category": "Environment",
@@ -2517,7 +2517,7 @@
     "MaxFactorYear4": 1.360296174,
     "unit": "MtCO2/yr",
     "indicator_descr": "A metric measure used to compare the emissions from different greenhouse gases based upon their global warming potential (GWP). The carbon dioxide equivalent for a gas is derived by multiplying the tons of the gas by its associated GWP.",
-    "source": "Mean emissions in MtCO2/day are from the Global Carbon Project using sector allocation from the International Energy Agency; World Energy Balances; Also, see: https://www.icos-cp.eu/gcp-covid19 for DAILY 2020 DATA"
+    "source": "Mean emissions in MtCO2/day are from the Global Carbon Project using sector allocation from the International Energy Agency; World Energy Balances"
   },
   {
     "first_category": "Environment",
@@ -2577,7 +2577,7 @@
     "MaxFactorYear4": 1.360296174,
     "unit": "EPI SCORE",
     "indicator_descr": "Number of age-standardized\ndisability-adjusted life-years lost per 100,000 persons (DALY rate) due to exposure to fine air particulate matter smaller than 2.5 micrometers (PM2.5).",
-    "source": "Institute for Health Metrics and Evaluation; This is based on EPI Score. Please see this: https://epi.yale.edu/epi-results/2020/component/pmd"
+    "source": "Institute for Health Metrics and Evaluation; This is based on EPI Score."
   },
   {
     "first_category": "Environment",
@@ -2637,7 +2637,7 @@
     "MaxFactorYear4": 1.360296174,
     "unit": "micrograms per cubic meter",
     "indicator_descr": "Number of Population-weighted exposure to ambient PM2.5 pollution is defined as the average level of exposure of a nation's population to concentrations of suspended particles measuring less than 2.5 microns in aerodynamic diameter, which are capable of penetrating deep into the respiratory tract and causing severe health damage. Exposure is calculated by weighting mean annual concentrations of PM2.5 by population in both urban and rural areas.\nage-standardized disability-adjusted life-years lost per 100,000 persons (DALY rate) due toexposure to fine air particulate matter smaller than 2.5 micrometers (PM2.5).",
-    "source": "Brauer, M. et al. 2017, for the Global Burden of Disease Study 2017; IQAir - World Air Quality; https://data.worldbank.org/indicator/EN.ATM.PM25.MC.M3; https://www.iqair.com/th-en/world-most-polluted-countries"
+    "source": "Brauer, M. et al. 2017, for the Global Burden of Disease Study 2017; IQAir - World Air Quality"
   },
   {
     "first_category": "Governance",
