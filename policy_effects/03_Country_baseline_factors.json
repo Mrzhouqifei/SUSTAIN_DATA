@@ -4,14 +4,14 @@
     "baseline": "-.40399227",
     "covid": "-.70877701",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "AGO",
     "baseline": "-.13252588",
     "covid": "-.73281705",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "ALB",
@@ -25,35 +25,35 @@
     "baseline": ".10735463",
     "covid": 4.0903916,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "ARE",
     "baseline": ".28019613",
     "covid": ".70008475",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "ARG",
     "baseline": ".20067112",
     "covid": ".85924453",
     "globaltrends": 0,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "AUS",
     "baseline": ".68054026",
     "covid": "-.71839768",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "AUT",
     "baseline": ".49859652",
     "covid": 1.1551001,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "AZE",
@@ -67,21 +67,21 @@
     "baseline": ".60994011",
     "covid": 1.6259381,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "BEN",
     "baseline": "-.19731307",
     "covid": "-.73572129",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "BFA",
     "baseline": "-.15748602",
     "covid": "-.73501325",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "BGD",
@@ -102,7 +102,7 @@
     "baseline": ".3916426",
     "covid": 1.8916378,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "BHS",
@@ -130,21 +130,21 @@
     "baseline": "-.20842116",
     "covid": ".22233242",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "BOL",
     "baseline": "-.076255232",
     "covid": "-.026666621",
     "globaltrends": 1,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "BRA",
     "baseline": ".19639878",
     "covid": 1.1152612,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "BRB",
@@ -172,63 +172,63 @@
     "baseline": ".058006823",
     "covid": "-.22587486",
     "globaltrends": 1,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "CAF",
     "baseline": "-.22136",
     "covid": "-.72067052",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "CAN",
     "baseline": ".71513486",
     "covid": ".056885123",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "CHE",
     "baseline": ".86629397",
     "covid": 1.4151438,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "CHL",
     "baseline": ".30221757",
     "covid": ".86907959",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "CHN",
     "baseline": ".97297132",
     "covid": "-.75196725",
     "globaltrends": 0,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "CIV",
     "baseline": "-.29586026",
     "covid": "-.70211917",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "CMR",
     "baseline": "-.17528428",
     "covid": "-.69800872",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "COD",
     "baseline": "-.27884781",
     "covid": "-.74418074",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "COL",
@@ -242,70 +242,70 @@
     "baseline": "-.55366248",
     "covid": "-.62151152",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "CPV",
     "baseline": "-.14514832",
     "covid": ".22530027",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "CRI",
     "baseline": ".10331027",
     "covid": ".57218415",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "CUB",
     "baseline": ".13445227",
     "covid": "-.54688412",
     "globaltrends": 0,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "CYP",
     "baseline": ".1991926",
     "covid": ".42991671",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "CZE",
     "baseline": ".23567058",
     "covid": 3.709681,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "DEU",
     "baseline": ".75180936",
     "covid": ".31070149",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "DJI",
     "baseline": "-.30007216",
     "covid": "-.50155729",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "DMA",
     "baseline": "-.13560379",
     "covid": "-.68427497",
     "globaltrends": 1,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "DNK",
     "baseline": ".73391509",
     "covid": ".48217249",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "DOM",
@@ -319,7 +319,7 @@
     "baseline": "-.23278123",
     "covid": "-.67068326",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "ECU",
@@ -340,28 +340,28 @@
     "baseline": ".38118142",
     "covid": 1.4077101,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "EST",
     "baseline": ".22541785",
     "covid": 1.7378633,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "ETH",
     "baseline": "-.23281293",
     "covid": "-.69796902",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "FIN",
     "baseline": ".59507859",
     "covid": "-.31753042",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "FJI",
@@ -375,21 +375,21 @@
     "baseline": ".53337139",
     "covid": 1.4219164,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "GAB",
     "baseline": "-.24352157",
     "covid": "-.48022535",
     "globaltrends": 1,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "GBR",
     "baseline": ".6621992",
     "covid": 1.2676173,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "GEO",
@@ -403,28 +403,28 @@
     "baseline": "-.18070759",
     "covid": "-.66312027",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "GIN",
     "baseline": "-.32793379",
     "covid": "-.70672953",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "GMB",
     "baseline": "-.24731819",
     "covid": "-.68357348",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "GRC",
     "baseline": ".17154233",
     "covid": ".012953821",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "GTM",
@@ -438,14 +438,14 @@
     "baseline": "-.48042917",
     "covid": "-.34787932",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "HKG",
     "baseline": ".84561533",
     "covid": "-.70620745",
     "globaltrends": 0,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "HND",
@@ -459,84 +459,84 @@
     "baseline": "-.030302064",
     "covid": 1.3377435,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "HTI",
     "baseline": "-.20360701",
     "covid": "-.7191031",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "HUN",
     "baseline": ".1159753",
     "covid": 1.3315665,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "IDN",
     "baseline": "-.024347305",
     "covid": "-.58172691",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "IND",
     "baseline": ".28371441",
     "covid": "-.47796246",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "IRL",
     "baseline": ".50447822",
     "covid": ".71768963",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "IRN",
     "baseline": "-.15740159",
     "covid": "-.054332834",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "IRQ",
     "baseline": "-.46570298",
     "covid": "-.094650395",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "ISL",
     "baseline": ".78798777",
     "covid": "-.22621737",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "ISR",
     "baseline": ".42996001",
     "covid": 2.0630569,
     "globaltrends": 0,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "ITA",
     "baseline": ".21862903",
     "covid": 1.1220682,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "JAM",
     "baseline": "-.12589712",
     "covid": "-.34101126",
     "globaltrends": 1,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "JOR",
@@ -550,7 +550,7 @@
     "baseline": ".80679476",
     "covid": "-.63641971",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "KAZ",
@@ -564,7 +564,7 @@
     "baseline": "-.30122548",
     "covid": "-.676274",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "KGZ",
@@ -578,28 +578,28 @@
     "baseline": "-.2848945",
     "covid": "-.74942523",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "KIR",
     "baseline": "-.044532396",
     "covid": "-.7539736",
     "globaltrends": 1,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "KOR",
     "baseline": ".23612326",
     "covid": "-.69159538",
     "globaltrends": 0,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "KWT",
     "baseline": ".1473942",
     "covid": ".93986607",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "LAO",
@@ -620,14 +620,14 @@
     "baseline": "-.032258883",
     "covid": "-.74139071",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "LBY",
     "baseline": "-.38218167",
     "covid": "-.033001851",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "LKA",
@@ -641,56 +641,56 @@
     "baseline": "-.16121751",
     "covid": "-.59822172",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "LTU",
     "baseline": ".11454989",
     "covid": 1.6561229,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "LUX",
     "baseline": ".80099589",
     "covid": 2.2844436,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "LVA",
     "baseline": ".14691955",
     "covid": ".92371899",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "MAR",
     "baseline": "-.3091962",
     "covid": "-.33509067",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "MCO",
     "baseline": 2.2207632,
     "covid": 1.0630453,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "MDA",
     "baseline": "-.5748108",
     "covid": 1.9870929,
     "globaltrends": 1,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "MDG",
     "baseline": "-.10925348",
     "covid": "-.72648263",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "MEX",
@@ -704,42 +704,42 @@
     "baseline": "-.17563742",
     "covid": "-.73851913",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "MLT",
     "baseline": ".69842643",
     "covid": ".96858335",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "MMR",
     "baseline": "-.43614897",
     "covid": "-.67238808",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "MNG",
     "baseline": "-.24636756",
     "covid": "-.66992503",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "MOZ",
     "baseline": "-.063658834",
     "covid": "-.68658864",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "MRT",
     "baseline": "-.40939292",
     "covid": "-.63434893",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "MUS",
@@ -753,7 +753,7 @@
     "baseline": "-.1441448",
     "covid": "-.69931376",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "MYS",
@@ -774,14 +774,14 @@
     "baseline": "-.096192598",
     "covid": "-.74753487",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "NGA",
     "baseline": "-.23059057",
     "covid": "-.72934657",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "NIC",
@@ -795,14 +795,14 @@
     "baseline": ".75558001",
     "covid": 1.5561498,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "NOR",
     "baseline": ".82525313",
     "covid": "-.19734533",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "NPL",
@@ -816,7 +816,7 @@
     "baseline": ".71326023",
     "covid": "-.73864299",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "OMN",
@@ -830,14 +830,14 @@
     "baseline": "-.39261442",
     "covid": "-.65902978",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "PAN",
     "baseline": "-.011056976",
     "covid": 1.8105693,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "PER",
@@ -851,49 +851,49 @@
     "baseline": "-.28827754",
     "covid": "-.54143929",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "PNG",
     "baseline": "-.71288872",
     "covid": "-.73310483",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "POL",
     "baseline": ".070534095",
     "covid": 1.1526501,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "PRT",
     "baseline": ".30050501",
     "covid": 1.7310461,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "PRY",
     "baseline": "-.10386629",
     "covid": ".18401673",
     "globaltrends": 1,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "PSE",
     "baseline": "-.20738895",
     "covid": ".81851739",
     "globaltrends": 1,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "QAT",
     "baseline": ".44186634",
     "covid": 1.1927756,
     "globaltrends": 0,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "ROU",
@@ -914,112 +914,112 @@
     "baseline": ".0068958802",
     "covid": "-.70155925",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "SAU",
     "baseline": ".0067219879",
     "covid": "-.40483585",
     "globaltrends": 0,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "SDN",
     "baseline": "-.49355003",
     "covid": "-.73134845",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "SEN",
     "baseline": "-.38133562",
     "covid": "-.6819315",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "SGP",
     "baseline": ".89504284",
     "covid": "-.42300647",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "SLB",
     "baseline": "-.094643474",
     "covid": "-.75311154",
     "globaltrends": 1,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "SLE",
     "baseline": ".094967708",
     "covid": "-.73842394",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "SLV",
     "baseline": "-.20758747",
     "covid": "-.44297028",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "SMR",
     "baseline": ".28654769",
     "covid": 3.589644,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "SOM",
     "baseline": "-.42105857",
     "covid": "-.73162276",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "SRB",
     "baseline": ".018380834",
     "covid": 1.9555485,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "SSD",
     "baseline": "-.42407182",
     "covid": "-.72567213",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "SUR",
     "baseline": "-.23495229",
     "covid": "-.26935562",
     "globaltrends": 1,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "SVK",
     "baseline": ".015172245",
     "covid": 1.3081137,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "SVN",
     "baseline": ".2323789",
     "covid": 2.4455411,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "SWE",
     "baseline": ".81147629",
     "covid": 1.6688751,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "SWZ",
@@ -1033,35 +1033,35 @@
     "baseline": "-.053688135",
     "covid": ".55485731",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "SYR",
     "baseline": "-.693973",
     "covid": "-.7202999",
     "globaltrends": 1,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "TCD",
     "baseline": "-.30470693",
     "covid": "-.74537289",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "TGO",
     "baseline": "-.28538513",
     "covid": "-.7153908",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "THA",
     "baseline": "-.16247493",
     "covid": "-.7410863",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "TJK",
@@ -1089,14 +1089,14 @@
     "baseline": "-.17485997",
     "covid": "-.084128357",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "TUR",
     "baseline": "-.1435613",
     "covid": ".47181955",
     "globaltrends": 0,
-    "dampening_factor": 75
+    "dampening_factor": 45
   },
   {
     "iso": "TWN",
@@ -1110,84 +1110,84 @@
     "baseline": "-.099854894",
     "covid": "-.75370806",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "UGA",
     "baseline": "-.23114647",
     "covid": "-.72612882",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "UKR",
     "baseline": "-.075543024",
     "covid": ".46415451",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "URY",
     "baseline": ".38100305",
     "covid": ".192994",
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "USA",
     "baseline": 1.0449582,
     "covid": 2.1277015,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 90
   },
   {
     "iso": "UZB",
     "baseline": "-.34584251",
     "covid": "-.67852765",
     "globaltrends": 1,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "VEN",
     "baseline": "-.45901504",
     "covid": "-.57806951",
     "globaltrends": 0,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "VNM",
     "baseline": "-.089369252",
     "covid": "-.75314015",
     "globaltrends": 1,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "VUT",
     "baseline": "-.30525947",
     "covid": "-.7536692",
     "globaltrends": 1,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "YEM",
     "baseline": "-.6860199",
     "covid": "-.74942088",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "ZAF",
     "baseline": "-.05144342",
     "covid": ".059555981",
     "globaltrends": 1,
-    "dampening_factor": 45
+    "dampening_factor": 25
   },
   {
     "iso": "ZMB",
     "baseline": "-.18974528",
     "covid": "-.60408163",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "ZWE",
