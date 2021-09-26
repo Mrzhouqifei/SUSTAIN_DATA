@@ -193,7 +193,7 @@
     "baseline": ".86629397",
     "covid": 1.4151438,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 40
   },
   {
     "iso": "CHL",
@@ -1047,7 +1047,7 @@
     "baseline": "-.30470693",
     "covid": "-.74537289",
     "globaltrends": 0,
-    "dampening_factor": 25
+    "dampening_factor": 15
   },
   {
     "iso": "TGO",
@@ -1138,7 +1138,7 @@
     "baseline": 1.0449582,
     "covid": 2.1277015,
     "globaltrends": 1,
-    "dampening_factor": 75
+    "dampening_factor": 40
   },
   {
     "iso": "UZB",
