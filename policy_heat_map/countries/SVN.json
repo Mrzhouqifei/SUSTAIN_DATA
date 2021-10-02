@@ -6,17 +6,17 @@
    "data": [
     {
      "policy": "C1_School closing",
-     "score": 59,
+     "score": 57,
      "rank": 3
     },
     {
      "policy": "C2_Workplace closing",
-     "score": 51,
+     "score": 50,
      "rank": 7
     },
     {
      "policy": "C3_Cancel public events",
-     "score": 87,
+     "score": 85,
      "rank": 4
     },
     {
@@ -26,27 +26,27 @@
     },
     {
      "policy": "C5_Close public transport",
-     "score": 23,
+     "score": 22,
      "rank": 10
     },
     {
      "policy": "C6_Stay at home requirements",
-     "score": 27,
+     "score": 26,
      "rank": 8
     },
     {
      "policy": "C7_Restrictions on internal movement",
-     "score": 40,
+     "score": 38,
      "rank": 12
     },
     {
      "policy": "C8_International travel controls",
-     "score": 54,
+     "score": 53,
      "rank": 15
     },
     {
      "policy": "E1_Income support",
-     "score": 73,
+     "score": 72,
      "rank": 6
     },
     {
@@ -61,12 +61,12 @@
     },
     {
      "policy": "H2_Testing policy",
-     "score": 78,
+     "score": 79,
      "rank": 13
     },
     {
      "policy": "H3_Contact tracing",
-     "score": 76,
+     "score": 77,
      "rank": 11
     },
     {
@@ -76,7 +76,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 51,
+     "score": 52,
      "rank": 2
     }
    ]
@@ -236,7 +236,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 12,
+     "score": 11,
      "rank": 2
     }
    ]
@@ -316,7 +316,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 17,
+     "score": 16,
      "rank": 2
     }
    ]
@@ -396,7 +396,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 23,
+     "score": 22,
      "rank": 2
     }
    ]
@@ -476,7 +476,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 32,
+     "score": 30,
      "rank": 2
     }
    ]
@@ -556,7 +556,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 45,
+     "score": 43,
      "rank": 2
     }
    ]
@@ -636,7 +636,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 52,
+     "score": 49,
      "rank": 2
     }
    ]
@@ -713,6 +713,11 @@
      "policy": "H6_Facial Coverings",
      "score": 78,
      "rank": 1
+    },
+    {
+     "policy": "H7_Vaccination policy",
+     "score": 53,
+     "rank": 2
     }
    ]
   },
@@ -788,6 +793,11 @@
      "policy": "H6_Facial Coverings",
      "score": 100,
      "rank": 1
+    },
+    {
+     "policy": "H7_Vaccination policy",
+     "score": 58,
+     "rank": 2
     }
    ]
   },
@@ -1345,6 +1355,11 @@
      "rank": 10
     },
     {
+     "policy": "C6_Stay at home requirements",
+     "score": 0,
+     "rank": 8
+    },
+    {
      "policy": "C7_Restrictions on internal movement",
      "score": 0,
      "rank": 12
@@ -1450,11 +1465,90 @@
      "rank": 13
     },
     {
+     "policy": "H3_Contact tracing",
+     "score": 100,
+     "rank": 11
+    },
+    {
      "policy": "H6_Facial Coverings",
      "score": 59,
      "rank": 1
     }
    ]
+  },
+  {
+   "label": "Month 19",
+   "data": [
+    {
+     "policy": "C1_School closing",
+     "score": 33,
+     "rank": 3
+    },
+    {
+     "policy": "C2_Workplace closing",
+     "score": 33,
+     "rank": 7
+    },
+    {
+     "policy": "C3_Cancel public events",
+     "score": 50,
+     "rank": 4
+    },
+    {
+     "policy": "C4_Restrictions on gatherings",
+     "score": 75,
+     "rank": 5
+    },
+    {
+     "policy": "C5_Close public transport",
+     "score": 0,
+     "rank": 10
+    },
+    {
+     "policy": "C6_Stay at home requirements",
+     "score": 7,
+     "rank": 8
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 0,
+     "rank": 12
+    },
+    {
+     "policy": "C8_International travel controls",
+     "score": 25,
+     "rank": 15
+    },
+    {
+     "policy": "E1_Income support",
+     "score": 50,
+     "rank": 6
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 61,
+     "rank": 14
+    },
+    {
+     "policy": "H1_Public information campaigns",
+     "score": 100,
+     "rank": 9
+    },
+    {
+     "policy": "H2_Testing policy",
+     "score": 87,
+     "rank": 13
+    },
+    {
+     "policy": "H6_Facial Coverings",
+     "score": 54,
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "label": "Month 20",
+   "data": []
   }
  ]
 }

@@ -6,7 +6,7 @@
    "data": [
     {
      "policy": "C1_School closing",
-     "score": 54,
+     "score": 53,
      "rank": 4
     },
     {
@@ -16,17 +16,17 @@
     },
     {
      "policy": "C3_Cancel public events",
-     "score": 86,
+     "score": 85,
      "rank": 7
     },
     {
      "policy": "C4_Restrictions on gatherings",
-     "score": 80,
+     "score": 78,
      "rank": 3
     },
     {
      "policy": "C5_Close public transport",
-     "score": 13,
+     "score": 12,
      "rank": 14
     },
     {
@@ -36,7 +36,7 @@
     },
     {
      "policy": "C7_Restrictions on internal movement",
-     "score": 33,
+     "score": 31,
      "rank": 10
     },
     {
@@ -61,12 +61,12 @@
     },
     {
      "policy": "H2_Testing policy",
-     "score": 65,
+     "score": 66,
      "rank": 1
     },
     {
      "policy": "H3_Contact tracing",
-     "score": 98,
+     "score": 97,
      "rank": 8
     },
     {
@@ -156,7 +156,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 11,
+     "score": 10,
      "rank": 2
     }
    ]
@@ -316,7 +316,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 29,
+     "score": 28,
      "rank": 2
     }
    ]
@@ -396,7 +396,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 38,
+     "score": 37,
      "rank": 2
     }
    ]
@@ -476,7 +476,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 46,
+     "score": 44,
      "rank": 2
     }
    ]
@@ -556,7 +556,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 49,
+     "score": 47,
      "rank": 2
     }
    ]
@@ -636,7 +636,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 51,
+     "score": 49,
      "rank": 2
     }
    ]
@@ -713,6 +713,11 @@
      "policy": "H6_Facial Coverings",
      "score": 75,
      "rank": 5
+    },
+    {
+     "policy": "H7_Vaccination policy",
+     "score": 51,
+     "rank": 2
     }
    ]
   },
@@ -1465,6 +1470,14 @@
      "rank": 5
     }
    ]
+  },
+  {
+   "label": "Month 19",
+   "data": []
+  },
+  {
+   "label": "Month 20",
+   "data": []
   }
  ]
 }
