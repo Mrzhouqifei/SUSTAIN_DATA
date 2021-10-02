@@ -6,7 +6,7 @@
    "data": [
     {
      "policy": "C1_School closing",
-     "score": 14,
+     "score": 13,
      "rank": 11
     },
     {
@@ -16,12 +16,12 @@
     },
     {
      "policy": "C3_Cancel public events",
-     "score": 40,
+     "score": 38,
      "rank": 12
     },
     {
      "policy": "C4_Restrictions on gatherings",
-     "score": 31,
+     "score": 29,
      "rank": 7
     },
     {
@@ -31,17 +31,17 @@
     },
     {
      "policy": "C6_Stay at home requirements",
-     "score": 19,
+     "score": 18,
      "rank": 10
     },
     {
      "policy": "C7_Restrictions on internal movement",
-     "score": 37,
+     "score": 35,
      "rank": 8
     },
     {
      "policy": "C8_International travel controls",
-     "score": 58,
+     "score": 56,
      "rank": 3
     },
     {
@@ -51,7 +51,7 @@
     },
     {
      "policy": "E2_Debt_contract relief",
-     "score": 27,
+     "score": 29,
      "rank": 5
     },
     {
@@ -61,22 +61,22 @@
     },
     {
      "policy": "H2_Testing policy",
-     "score": 72,
+     "score": 71,
      "rank": 1
     },
     {
      "policy": "H3_Contact tracing",
-     "score": 92,
+     "score": 91,
      "rank": 2
     },
     {
      "policy": "H6_Facial Coverings",
-     "score": 68,
+     "score": 70,
      "rank": 4
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 0,
+     "score": 3,
      "rank": 15
     }
    ]
@@ -1380,6 +1380,11 @@
      "rank": 11
     },
     {
+     "policy": "C2_Workplace closing",
+     "score": 0,
+     "rank": 13
+    },
+    {
      "policy": "C3_Cancel public events",
      "score": 0,
      "rank": 12
@@ -1398,6 +1403,11 @@
      "policy": "C6_Stay at home requirements",
      "score": 0,
      "rank": 10
+    },
+    {
+     "policy": "C7_Restrictions on internal movement",
+     "score": 27,
+     "rank": 8
     },
     {
      "policy": "C8_International travel controls",
@@ -1435,6 +1445,14 @@
      "rank": 4
     }
    ]
+  },
+  {
+   "label": "Month 19",
+   "data": []
+  },
+  {
+   "label": "Month 20",
+   "data": []
   }
  ]
 }

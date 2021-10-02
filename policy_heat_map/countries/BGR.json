@@ -476,7 +476,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 25,
+     "score": 24,
      "rank": 8
     }
    ]
@@ -556,7 +556,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 28,
+     "score": 27,
      "rank": 8
     }
    ]
@@ -636,7 +636,7 @@
     },
     {
      "policy": "H7_Vaccination policy",
-     "score": 29,
+     "score": 28,
      "rank": 8
     }
    ]
@@ -1435,6 +1435,16 @@
      "rank": 6
     },
     {
+     "policy": "E1_Income support",
+     "score": 100,
+     "rank": 3
+    },
+    {
+     "policy": "E2_Debt_contract relief",
+     "score": 50,
+     "rank": 11
+    },
+    {
      "policy": "H1_Public information campaigns",
      "score": 100,
      "rank": 10
@@ -1450,6 +1460,14 @@
      "rank": 7
     }
    ]
+  },
+  {
+   "label": "Month 19",
+   "data": []
+  },
+  {
+   "label": "Month 20",
+   "data": []
   }
  ]
 }
