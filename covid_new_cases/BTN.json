@@ -1,5 +1,5 @@
 {
- "upper_new_case": 3,
+ "upper_new_case": 2,
  "lower_new_case": 0,
  "data": [
   {
@@ -5036,11 +5036,11 @@
   },
   {
    "Date": "2021-10-13",
-   "history": "NULL",
+   "history": "2",
    "rolling_7days": "0",
-   "bussiness_as_usual": "0",
-   "strongest_policy": "0",
-   "weakest_policy": "1"
+   "bussiness_as_usual": "NULL",
+   "strongest_policy": "NULL",
+   "weakest_policy": "NULL"
   },
   {
    "Date": "2021-10-14",
@@ -5085,10 +5085,10 @@
   {
    "Date": "2021-10-19",
    "history": "NULL",
-   "rolling_7days": "0",
-   "bussiness_as_usual": "0",
-   "strongest_policy": "0",
-   "weakest_policy": "1"
+   "rolling_7days": "1",
+   "bussiness_as_usual": "1",
+   "strongest_policy": "1",
+   "weakest_policy": "2"
   },
   {
    "Date": "2021-10-20",
@@ -5128,7 +5128,7 @@
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2021-10-25",
@@ -5142,17 +5142,17 @@
    "Date": "2021-10-26",
    "history": "NULL",
    "rolling_7days": "0",
-   "bussiness_as_usual": "0",
-   "strongest_policy": "0",
-   "weakest_policy": "0"
+   "bussiness_as_usual": "1",
+   "strongest_policy": "1",
+   "weakest_policy": "1"
   },
   {
    "Date": "2021-10-27",
    "history": "NULL",
    "rolling_7days": "0",
-   "bussiness_as_usual": "0",
-   "strongest_policy": "0",
-   "weakest_policy": "0"
+   "bussiness_as_usual": "1",
+   "strongest_policy": "1",
+   "weakest_policy": "1"
   },
   {
    "Date": "2021-10-28",
@@ -5176,7 +5176,7 @@
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2021-10-31",
@@ -5184,7 +5184,7 @@
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "1"
+   "weakest_policy": "0"
   },
   {
    "Date": "2021-11-01",
@@ -5208,7 +5208,7 @@
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2021-11-04",
@@ -5216,15 +5216,15 @@
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "1"
+   "weakest_policy": "0"
   },
   {
    "Date": "2021-11-05",
    "history": "NULL",
    "rolling_7days": "0",
-   "bussiness_as_usual": "1",
+   "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "1"
+   "weakest_policy": "0"
   },
   {
    "Date": "2021-11-06",
@@ -5232,18 +5232,10 @@
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2021-11-07",
-   "history": "NULL",
-   "rolling_7days": "0",
-   "bussiness_as_usual": "0",
-   "strongest_policy": "0",
-   "weakest_policy": "0"
-  },
-  {
-   "Date": "2021-11-08",
    "history": "NULL",
    "rolling_7days": "0",
    "bussiness_as_usual": "1",
@@ -5251,20 +5243,28 @@
    "weakest_policy": "1"
   },
   {
-   "Date": "2021-11-09",
-   "history": "NULL",
-   "rolling_7days": "0",
-   "bussiness_as_usual": "1",
-   "strongest_policy": "1",
-   "weakest_policy": "2"
-  },
-  {
-   "Date": "2021-11-10",
+   "Date": "2021-11-08",
    "history": "NULL",
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
    "weakest_policy": "0"
+  },
+  {
+   "Date": "2021-11-09",
+   "history": "NULL",
+   "rolling_7days": "0",
+   "bussiness_as_usual": "1",
+   "strongest_policy": "1",
+   "weakest_policy": "1"
+  },
+  {
+   "Date": "2021-11-10",
+   "history": "NULL",
+   "rolling_7days": "0",
+   "bussiness_as_usual": "1",
+   "strongest_policy": "1",
+   "weakest_policy": "1"
   },
   {
    "Date": "2021-11-11",
@@ -5273,6 +5273,14 @@
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
    "weakest_policy": "0"
+  },
+  {
+   "Date": "2021-11-12",
+   "history": "NULL",
+   "rolling_7days": "0",
+   "bussiness_as_usual": "1",
+   "strongest_policy": "1",
+   "weakest_policy": "1"
   }
  ]
 }
