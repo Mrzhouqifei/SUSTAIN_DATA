@@ -6620,11 +6620,11 @@
   },
   {
    "Date": "2022-04-29",
-   "history": "NULL",
+   "history": "1",
    "rolling_7days": "2",
-   "bussiness_as_usual": "2",
-   "strongest_policy": "1",
-   "weakest_policy": "2"
+   "bussiness_as_usual": "NULL",
+   "strongest_policy": "NULL",
+   "weakest_policy": "NULL"
   },
   {
    "Date": "2022-04-30",
@@ -6640,7 +6640,7 @@
    "rolling_7days": "1",
    "bussiness_as_usual": "1",
    "strongest_policy": "1",
-   "weakest_policy": "1"
+   "weakest_policy": "2"
   },
   {
    "Date": "2022-05-02",
@@ -6680,7 +6680,7 @@
    "rolling_7days": "1",
    "bussiness_as_usual": "1",
    "strongest_policy": "1",
-   "weakest_policy": "2"
+   "weakest_policy": "1"
   },
   {
    "Date": "2022-05-07",
@@ -6711,7 +6711,7 @@
    "history": "NULL",
    "rolling_7days": "1",
    "bussiness_as_usual": "1",
-   "strongest_policy": "0",
+   "strongest_policy": "1",
    "weakest_policy": "1"
   },
   {
@@ -6728,7 +6728,7 @@
    "rolling_7days": "1",
    "bussiness_as_usual": "1",
    "strongest_policy": "1",
-   "weakest_policy": "2"
+   "weakest_policy": "1"
   },
   {
    "Date": "2022-05-13",
@@ -6751,7 +6751,7 @@
    "history": "NULL",
    "rolling_7days": "1",
    "bussiness_as_usual": "1",
-   "strongest_policy": "0",
+   "strongest_policy": "1",
    "weakest_policy": "1"
   },
   {
@@ -6760,7 +6760,7 @@
    "rolling_7days": "1",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "1"
+   "weakest_policy": "0"
   },
   {
    "Date": "2022-05-17",
@@ -6791,7 +6791,7 @@
    "history": "NULL",
    "rolling_7days": "1",
    "bussiness_as_usual": "1",
-   "strongest_policy": "1",
+   "strongest_policy": "0",
    "weakest_policy": "1"
   },
   {
@@ -6814,16 +6814,16 @@
    "Date": "2022-05-23",
    "history": "NULL",
    "rolling_7days": "1",
-   "bussiness_as_usual": "1",
+   "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "1"
+   "weakest_policy": "0"
   },
   {
    "Date": "2022-05-24",
    "history": "NULL",
    "rolling_7days": "1",
    "bussiness_as_usual": "1",
-   "strongest_policy": "1",
+   "strongest_policy": "0",
    "weakest_policy": "1"
   },
   {
@@ -6831,7 +6831,7 @@
    "history": "NULL",
    "rolling_7days": "1",
    "bussiness_as_usual": "1",
-   "strongest_policy": "1",
+   "strongest_policy": "0",
    "weakest_policy": "1"
   },
   {
@@ -6852,6 +6852,14 @@
   },
   {
    "Date": "2022-05-28",
+   "history": "NULL",
+   "rolling_7days": "1",
+   "bussiness_as_usual": "1",
+   "strongest_policy": "1",
+   "weakest_policy": "1"
+  },
+  {
+   "Date": "2022-05-29",
    "history": "NULL",
    "rolling_7days": "1",
    "bussiness_as_usual": "1",
