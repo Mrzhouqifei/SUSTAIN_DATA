@@ -560,11 +560,11 @@
  {
   "ISO": "HTI",
   "Date": "2020-03-24",
-  "history": 6.138986837398322e-07,
+  "history": 4.384990598141658e-07,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 7
+  "case_number": 4
  },
  {
   "ISO": "HTI",
@@ -578,7 +578,7 @@
  {
   "ISO": "HTI",
   "Date": "2020-03-26",
-  "history": 7.015984957026653e-07,
+  "history": 6.138986837398322e-07,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
@@ -3017,6 +3017,15 @@
  {
   "ISO": "HTI",
   "Date": "2020-12-22",
+  "history": 0.0008562132641931,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 9762
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2020-12-23",
   "history": 0.0008569148626888,
   "lower": "NULL",
   "average": "NULL",
@@ -3025,21 +3034,12 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2020-12-23",
+  "Date": "2020-12-24",
   "history": 0.0008598966562955,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 9804
- },
- {
-  "ISO": "HTI",
-  "Date": "2020-12-24",
-  "history": 0.000863492348586,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 9845
  },
  {
   "ISO": "HTI",
@@ -3323,11 +3323,11 @@
  {
   "ISO": "HTI",
   "Date": "2021-01-25",
-  "history": 0.0009733802129754,
+  "history": 0.0009805715975564,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 11098
+  "case_number": 11180
  },
  {
   "ISO": "HTI",
@@ -3368,33 +3368,6 @@
  {
   "ISO": "HTI",
   "Date": "2021-01-30",
-  "history": 0.001005039845094,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 11459
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-01-31",
-  "history": 0.0010114419313673,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 11532
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-02-01",
-  "history": 0.0010114419313673,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 11532
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-02-02",
   "history": 0.0010164408206492,
   "lower": "NULL",
   "average": "NULL",
@@ -3403,7 +3376,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-02-03",
+  "Date": "2021-01-31",
   "history": 0.0010236322052301,
   "lower": "NULL",
   "average": "NULL",
@@ -3412,7 +3385,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-02-04",
+  "Date": "2021-02-01",
   "history": 0.0010253862014694,
   "lower": "NULL",
   "average": "NULL",
@@ -3421,16 +3394,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-02-05",
-  "history": 0.0010253862014694,
+  "Date": "2021-02-02",
+  "history": 0.0010265262990249,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 11691
+  "case_number": 11704
  },
  {
   "ISO": "HTI",
-  "Date": "2021-02-06",
+  "Date": "2021-02-03",
   "history": 0.0010311743890589,
   "lower": "NULL",
   "average": "NULL",
@@ -3439,7 +3412,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-02-07",
+  "Date": "2021-02-04",
   "history": 0.0010353839800332,
   "lower": "NULL",
   "average": "NULL",
@@ -3448,16 +3421,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-02-08",
-  "history": 0.0010353839800332,
+  "Date": "2021-02-05",
+  "history": 0.0010401197698792,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 11805
+  "case_number": 11859
  },
  {
   "ISO": "HTI",
-  "Date": "2021-02-09",
+  "Date": "2021-02-06",
   "history": 0.0010443293608534,
   "lower": "NULL",
   "average": "NULL",
@@ -3466,7 +3439,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-02-10",
+  "Date": "2021-02-07",
   "history": 0.0010496790493831,
   "lower": "NULL",
   "average": "NULL",
@@ -3475,7 +3448,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-02-11",
+  "Date": "2021-02-08",
   "history": 0.0010516084452463,
   "lower": "NULL",
   "average": "NULL",
@@ -3484,43 +3457,43 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-02-12",
+  "Date": "2021-02-09",
   "history": 0.0010538009405454,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 12015
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-02-10",
+  "history": 0.0010556426365966,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12036
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-02-11",
+  "history": 0.0010623955221177,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12113
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-02-12",
+  "history": 0.0010649388166646,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12142
  },
  {
   "ISO": "HTI",
   "Date": "2021-02-13",
-  "history": 0.0010538009405454,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12015
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-02-14",
-  "history": 0.0010649388166646,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12142
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-02-15",
-  "history": 0.0010649388166646,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12142
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-02-16",
   "history": 0.0010692361074508,
   "lower": "NULL",
   "average": "NULL",
@@ -3529,34 +3502,34 @@
  },
  {
   "ISO": "HTI",
+  "Date": "2021-02-14",
+  "history": 0.0010704639048183,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12205
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-02-15",
+  "history": 0.0010704639048183,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12205
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-02-16",
+  "history": 0.0010730948991772,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12235
+ },
+ {
+  "ISO": "HTI",
   "Date": "2021-02-17",
-  "history": 0.0010704639048183,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12205
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-02-18",
-  "history": 0.0010704639048183,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12205
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-02-19",
-  "history": 0.0010704639048183,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12205
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-02-20",
   "history": 0.0010746734957925,
   "lower": "NULL",
   "average": "NULL",
@@ -3565,7 +3538,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-02-21",
+  "Date": "2021-02-18",
   "history": 0.0010764274920318,
   "lower": "NULL",
   "average": "NULL",
@@ -3574,70 +3547,61 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-02-22",
+  "Date": "2021-02-19",
   "history": 0.0010794969854505,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 12308
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-02-20",
+  "history": 0.0010809001824419,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12324
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-02-21",
+  "history": 0.0010832680773649,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12351
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-02-22",
+  "history": 0.0010834434769888,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12353
  },
  {
   "ISO": "HTI",
   "Date": "2021-02-23",
-  "history": 0.0010794969854505,
+  "history": 0.0010866006702195,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12308
+  "case_number": 12389
  },
  {
   "ISO": "HTI",
   "Date": "2021-02-24",
-  "history": 0.0010832680773649,
+  "history": 0.001090108662698,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12351
+  "case_number": 12429
  },
  {
   "ISO": "HTI",
   "Date": "2021-02-25",
-  "history": 0.0010832680773649,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12351
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-02-26",
-  "history": 0.0010832680773649,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12351
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-02-27",
-  "history": 0.001090108662698,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12429
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-02-28",
-  "history": 0.001090108662698,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12429
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-03-01",
   "history": 0.0010916872593133,
   "lower": "NULL",
   "average": "NULL",
@@ -3646,7 +3610,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-02",
+  "Date": "2021-02-26",
+  "history": 0.0010939674544243,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12473
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-02-27",
   "history": 0.0010956337508516,
   "lower": "NULL",
   "average": "NULL",
@@ -3655,7 +3628,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-03",
+  "Date": "2021-02-28",
   "history": 0.0010989663437062,
   "lower": "NULL",
   "average": "NULL",
@@ -3664,115 +3637,88 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-04",
+  "Date": "2021-03-01",
   "history": 0.001099404842766,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 12535
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-03-02",
+  "history": 0.0011009834393814,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12553
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-03-03",
+  "history": 0.0011014219384412,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12558
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-03-04",
+  "history": 0.0011030005350565,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12576
  },
  {
   "ISO": "HTI",
   "Date": "2021-03-05",
-  "history": 0.001099404842766,
+  "history": 0.0011044914318599,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12535
+  "case_number": 12593
  },
  {
   "ISO": "HTI",
   "Date": "2021-03-06",
-  "history": 0.001099404842766,
+  "history": 0.0011062454280991,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12535
+  "case_number": 12613
  },
  {
   "ISO": "HTI",
   "Date": "2021-03-07",
-  "history": 0.001099404842766,
+  "history": 0.0011078240247145,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12535
+  "case_number": 12631
  },
  {
   "ISO": "HTI",
   "Date": "2021-03-08",
-  "history": 0.001099404842766,
+  "history": 0.0011091395218939,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12535
+  "case_number": 12646
  },
  {
   "ISO": "HTI",
   "Date": "2021-03-09",
-  "history": 0.001099404842766,
+  "history": 0.0011105427188853,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12535
+  "case_number": 12662
  },
  {
   "ISO": "HTI",
   "Date": "2021-03-10",
-  "history": 0.0011044914318599,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12593
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-03-11",
-  "history": 0.0011044914318599,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12593
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-03-12",
-  "history": 0.0011078240247145,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12631
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-03-13",
-  "history": 0.0011078240247145,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12631
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-03-14",
-  "history": 0.0011078240247145,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12631
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-03-15",
-  "history": 0.0011078240247145,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12631
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-03-16",
   "history": 0.0011106304186973,
   "lower": "NULL",
   "average": "NULL",
@@ -3781,7 +3727,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-17",
+  "Date": "2021-03-11",
   "history": 0.0011110689177571,
   "lower": "NULL",
   "average": "NULL",
@@ -3790,7 +3736,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-18",
+  "Date": "2021-03-12",
   "history": 0.0011125598145605,
   "lower": "NULL",
   "average": "NULL",
@@ -3799,7 +3745,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-19",
+  "Date": "2021-03-13",
   "history": 0.0011127352141844,
   "lower": "NULL",
   "average": "NULL",
@@ -3808,7 +3754,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-20",
+  "Date": "2021-03-14",
+  "history": 0.001113612212304,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12697
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-03-15",
   "history": 0.0011137876119279,
   "lower": "NULL",
   "average": "NULL",
@@ -3817,7 +3772,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-21",
+  "Date": "2021-03-16",
   "history": 0.0011150154092954,
   "lower": "NULL",
   "average": "NULL",
@@ -3826,16 +3781,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-22",
-  "history": 0.0011150154092954,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12713
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-03-23",
+  "Date": "2021-03-17",
   "history": 0.0011157170077911,
   "lower": "NULL",
   "average": "NULL",
@@ -3844,7 +3790,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-24",
+  "Date": "2021-03-18",
+  "history": 0.0011164186062868,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12729
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-03-19",
   "history": 0.0011165940059107,
   "lower": "NULL",
   "average": "NULL",
@@ -3853,16 +3808,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-25",
-  "history": 0.0011165940059107,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12731
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-03-26",
+  "Date": "2021-03-20",
   "history": 0.0011169448051586,
   "lower": "NULL",
   "average": "NULL",
@@ -3871,34 +3817,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-27",
-  "history": 0.0011169448051586,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12735
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-03-28",
-  "history": 0.0011169448051586,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12735
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-03-29",
-  "history": 0.0011169448051586,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12735
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-03-30",
+  "Date": "2021-03-21",
   "history": 0.0011188742010218,
   "lower": "NULL",
   "average": "NULL",
@@ -3907,16 +3826,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-03-31",
-  "history": 0.0011188742010218,
+  "Date": "2021-03-22",
+  "history": 0.0011190496006457,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12757
+  "case_number": 12759
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-01",
+  "Date": "2021-03-23",
   "history": 0.0011192250002696,
   "lower": "NULL",
   "average": "NULL",
@@ -3925,7 +3844,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-02",
+  "Date": "2021-03-24",
+  "history": 0.001120715897073,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12778
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-03-25",
   "history": 0.0011215051953807,
   "lower": "NULL",
   "average": "NULL",
@@ -3934,34 +3862,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-03",
-  "history": 0.0011215051953807,
+  "Date": "2021-03-26",
+  "history": 0.0011218559946285,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12787
+  "case_number": 12791
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-04",
-  "history": 0.0011215051953807,
+  "Date": "2021-03-27",
+  "history": 0.0011222944936883,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12787
+  "case_number": 12796
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-05",
-  "history": 0.0011215051953807,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12787
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-04-06",
+  "Date": "2021-03-28",
   "history": 0.0011228206925601,
   "lower": "NULL",
   "average": "NULL",
@@ -3970,7 +3889,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-07",
+  "Date": "2021-03-29",
   "history": 0.0011228206925601,
   "lower": "NULL",
   "average": "NULL",
@@ -3979,16 +3898,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-08",
-  "history": 0.0011228206925601,
+  "Date": "2021-03-30",
+  "history": 0.001123171491808,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12802
+  "case_number": 12806
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-09",
+  "Date": "2021-03-31",
   "history": 0.0011239607901156,
   "lower": "NULL",
   "average": "NULL",
@@ -3997,7 +3916,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-10",
+  "Date": "2021-04-01",
   "history": 0.0011260655856027,
   "lower": "NULL",
   "average": "NULL",
@@ -4006,25 +3925,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-11",
-  "history": 0.0011260655856027,
+  "Date": "2021-04-02",
+  "history": 0.0011271179833463,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12839
+  "case_number": 12851
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-12",
-  "history": 0.0011260655856027,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12839
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-04-13",
+  "Date": "2021-04-03",
   "history": 0.0011273810827822,
   "lower": "NULL",
   "average": "NULL",
@@ -4033,16 +3943,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-14",
-  "history": 0.0011273810827822,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12854
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-04-15",
+  "Date": "2021-04-04",
   "history": 0.0011275564824061,
   "lower": "NULL",
   "average": "NULL",
@@ -4051,7 +3952,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-16",
+  "Date": "2021-04-05",
+  "history": 0.0011275564824061,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12856
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-06",
+  "history": 0.0011280826812779,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12862
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-07",
   "history": 0.0011292227788334,
   "lower": "NULL",
   "average": "NULL",
@@ -4060,7 +3979,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-17",
+  "Date": "2021-04-08",
   "history": 0.0011300120771411,
   "lower": "NULL",
   "average": "NULL",
@@ -4069,7 +3988,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-18",
+  "Date": "2021-04-09",
+  "history": 0.0011318537731923,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 12905
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-10",
   "history": 0.0011329061709358,
   "lower": "NULL",
   "average": "NULL",
@@ -4078,34 +4006,34 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-19",
-  "history": 0.0011329061709358,
+  "Date": "2021-04-11",
+  "history": 0.0011330815705598,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12917
+  "case_number": 12919
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-20",
-  "history": 0.0011329061709358,
+  "Date": "2021-04-12",
+  "history": 0.0011345724673631,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12917
+  "case_number": 12936
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-21",
-  "history": 0.0011329061709358,
+  "Date": "2021-04-13",
+  "history": 0.0011346601671751,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12917
+  "case_number": 12937
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-22",
+  "Date": "2021-04-14",
   "history": 0.0011351863660469,
   "lower": "NULL",
   "average": "NULL",
@@ -4114,25 +4042,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-23",
-  "history": 0.0011351863660469,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12943
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-04-24",
-  "history": 0.0011351863660469,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 12943
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-04-25",
+  "Date": "2021-04-15",
   "history": 0.0011364141634143,
   "lower": "NULL",
   "average": "NULL",
@@ -4141,16 +4051,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-26",
-  "history": 0.0011364141634143,
+  "Date": "2021-04-16",
+  "history": 0.0011380804598416,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 12957
+  "case_number": 12976
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-27",
+  "Date": "2021-04-17",
   "history": 0.0011400098557048,
   "lower": "NULL",
   "average": "NULL",
@@ -4159,61 +4069,106 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-04-28",
+  "Date": "2021-04-18",
+  "history": 0.0011405360545766,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13004
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-19",
+  "history": 0.0011406237543886,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13005
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-20",
   "history": 0.0011415884523201,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 13016
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-21",
+  "history": 0.0011428162496876,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13030
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-22",
+  "history": 0.0011439563472431,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13043
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-23",
+  "history": 0.0011450087449867,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13055
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-24",
+  "history": 0.0011469381408499,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13077
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-25",
+  "history": 0.0011483413378413,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13093
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-26",
+  "history": 0.0011485167374652,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13095
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-27",
+  "history": 0.001148955236525,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13100
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-04-28",
+  "history": 0.0011505338331404,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13118
  },
  {
   "ISO": "HTI",
   "Date": "2021-04-29",
-  "history": 0.0011415884523201,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13016
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-04-30",
-  "history": 0.0011450087449867,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13055
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-01",
-  "history": 0.0011450087449867,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13055
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-02",
-  "history": 0.0011483413378413,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13093
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-03",
-  "history": 0.0011483413378413,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13093
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-04",
   "history": 0.0011519370301318,
   "lower": "NULL",
   "average": "NULL",
@@ -4222,7 +4177,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-05",
+  "Date": "2021-04-30",
   "history": 0.0011531648274992,
   "lower": "NULL",
   "average": "NULL",
@@ -4231,7 +4186,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-06",
+  "Date": "2021-05-01",
   "history": 0.0011544803246787,
   "lower": "NULL",
   "average": "NULL",
@@ -4240,43 +4195,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-07",
-  "history": 0.0011544803246787,
+  "Date": "2021-05-02",
+  "history": 0.0011550065235505,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 13163
+  "case_number": 13169
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-08",
-  "history": 0.0011544803246787,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13163
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-09",
-  "history": 0.0011544803246787,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13163
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-10",
-  "history": 0.0011544803246787,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13163
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-11",
+  "Date": "2021-05-03",
   "history": 0.0011557958218581,
   "lower": "NULL",
   "average": "NULL",
@@ -4285,7 +4213,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-12",
+  "Date": "2021-05-04",
+  "history": 0.0011570236192256,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13192
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-05-05",
+  "history": 0.001158514516029,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13209
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-05-06",
   "history": 0.0011600054128323,
   "lower": "NULL",
   "average": "NULL",
@@ -4294,7 +4240,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-13",
+  "Date": "2021-05-07",
+  "history": 0.0011615840094477,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13244
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-05-08",
   "history": 0.0011624610075673,
   "lower": "NULL",
   "average": "NULL",
@@ -4303,7 +4258,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-14",
+  "Date": "2021-05-09",
+  "history": 0.0011635134053109,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13266
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-05-10",
   "history": 0.0011636011051228,
   "lower": "NULL",
   "average": "NULL",
@@ -4312,7 +4276,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-15",
+  "Date": "2021-05-11",
+  "history": 0.0011668459981654,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13304
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-05-12",
   "history": 0.0011710555891397,
   "lower": "NULL",
   "average": "NULL",
@@ -4321,7 +4294,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-16",
+  "Date": "2021-05-13",
   "history": 0.0011745635816182,
   "lower": "NULL",
   "average": "NULL",
@@ -4330,7 +4303,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-17",
+  "Date": "2021-05-14",
   "history": 0.0011804394690197,
   "lower": "NULL",
   "average": "NULL",
@@ -4339,7 +4312,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-18",
+  "Date": "2021-05-15",
   "history": 0.0011857014577375,
   "lower": "NULL",
   "average": "NULL",
@@ -4348,43 +4321,34 @@
  },
  {
   "ISO": "HTI",
+  "Date": "2021-05-16",
+  "history": 0.0011925420430706,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13597
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-05-17",
+  "history": 0.0011948222381816,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13623
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-05-18",
+  "history": 0.001198681029908,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13667
+ },
+ {
+  "ISO": "HTI",
   "Date": "2021-05-19",
-  "history": 0.0011925420430706,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13597
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-20",
-  "history": 0.0011925420430706,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13597
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-21",
-  "history": 0.0011948222381816,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13623
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-22",
-  "history": 0.0011948222381816,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13623
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-23",
   "history": 0.0012045569173095,
   "lower": "NULL",
   "average": "NULL",
@@ -4393,7 +4357,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-24",
+  "Date": "2021-05-20",
+  "history": 0.0012140284970014,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 13842
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-05-21",
   "history": 0.0012195535851551,
   "lower": "NULL",
   "average": "NULL",
@@ -4402,16 +4375,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-25",
-  "history": 0.0012195535851551,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 13905
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-26",
+  "Date": "2021-05-22",
   "history": 0.0012310422605222,
   "lower": "NULL",
   "average": "NULL",
@@ -4420,25 +4384,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-27",
-  "history": 0.0012310422605222,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 14036
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-28",
-  "history": 0.0012310422605222,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 14036
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-05-29",
+  "Date": "2021-05-23",
   "history": 0.0012390229434109,
   "lower": "NULL",
   "average": "NULL",
@@ -4447,7 +4393,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-30",
+  "Date": "2021-05-24",
   "history": 0.001250423918966,
   "lower": "NULL",
   "average": "NULL",
@@ -4456,7 +4402,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-05-31",
+  "Date": "2021-05-25",
   "history": 0.0012585800014786,
   "lower": "NULL",
   "average": "NULL",
@@ -4465,7 +4411,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-06-01",
+  "Date": "2021-05-26",
+  "history": 0.0012675253822988,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 14452
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-05-27",
   "history": 0.0012773477612386,
   "lower": "NULL",
   "average": "NULL",
@@ -4474,7 +4429,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-06-02",
+  "Date": "2021-05-28",
   "history": 0.0012901519337852,
   "lower": "NULL",
   "average": "NULL",
@@ -4483,7 +4438,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-06-03",
+  "Date": "2021-05-29",
   "history": 0.001309445892417,
   "lower": "NULL",
   "average": "NULL",
@@ -4492,16 +4447,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-06-04",
-  "history": 0.0013205837685363,
+  "Date": "2021-05-30",
+  "history": 0.0013194436709808,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 15057
+  "case_number": 15044
  },
  {
   "ISO": "HTI",
-  "Date": "2021-06-05",
+  "Date": "2021-05-31",
   "history": 0.0013262842563139,
   "lower": "NULL",
   "average": "NULL",
@@ -4510,7 +4465,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-06-06",
+  "Date": "2021-06-01",
   "history": 0.001340228526416,
   "lower": "NULL",
   "average": "NULL",
@@ -4519,7 +4474,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-06-07",
+  "Date": "2021-06-02",
   "history": 0.0013536465976463,
   "lower": "NULL",
   "average": "NULL",
@@ -4528,7 +4483,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-06-08",
+  "Date": "2021-06-03",
+  "history": 0.001368467865868,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 15603
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-04",
+  "history": 0.0013816228376624,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 15753
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-05",
   "history": 0.0013939885111492,
   "lower": "NULL",
   "average": "NULL",
@@ -4537,52 +4510,43 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-06-09",
+  "Date": "2021-06-06",
   "history": 0.0014032846912172,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 16000
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-07",
+  "history": 0.0014101252765503,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 16078
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-08",
+  "history": 0.0014212631526696,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 16205
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-09",
+  "history": 0.001434418124464,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 16355
  },
  {
   "ISO": "HTI",
   "Date": "2021-06-10",
-  "history": 0.0014032846912172,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 16000
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-06-11",
-  "history": 0.0014101252765503,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 16078
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-06-12",
-  "history": 0.0014101252765503,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 16078
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-06-13",
-  "history": 0.0014101252765503,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 16078
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-06-14",
   "history": 0.0014523965859164,
   "lower": "NULL",
   "average": "NULL",
@@ -4591,124 +4555,115 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-06-15",
+  "Date": "2021-06-11",
   "history": 0.0014612542669247,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 16661
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-12",
+  "history": 0.0014711643456765,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 16774
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-13",
+  "history": 0.0014785311298814,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 16858
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-14",
+  "history": 0.0014879150097614,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 16965
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-15",
+  "history": 0.0014951063943423,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 17047
  },
  {
   "ISO": "HTI",
   "Date": "2021-06-16",
-  "history": 0.0014612542669247,
+  "history": 0.0015118570584272,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 16661
+  "case_number": 17238
  },
  {
   "ISO": "HTI",
   "Date": "2021-06-17",
-  "history": 0.0014785311298814,
+  "history": 0.0015234334336063,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 16858
+  "case_number": 17370
  },
  {
   "ISO": "HTI",
   "Date": "2021-06-18",
-  "history": 0.0014785311298814,
+  "history": 0.0015437797899817,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 16858
+  "case_number": 17602
  },
  {
   "ISO": "HTI",
   "Date": "2021-06-19",
-  "history": 0.0014785311298814,
+  "history": 0.0015531636698617,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 16858
+  "case_number": 17709
  },
  {
   "ISO": "HTI",
   "Date": "2021-06-20",
-  "history": 0.0014785311298814,
+  "history": 0.0015700020337586,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 16858
+  "case_number": 17901
  },
  {
   "ISO": "HTI",
   "Date": "2021-06-21",
-  "history": 0.0014962464918978,
+  "history": 0.0015753517222883,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 17060
+  "case_number": 17962
  },
  {
   "ISO": "HTI",
   "Date": "2021-06-22",
-  "history": 0.0014962464918978,
+  "history": 0.0015849987016042,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 17060
+  "case_number": 18072
  },
  {
   "ISO": "HTI",
   "Date": "2021-06-23",
-  "history": 0.0015437797899817,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 17602
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-06-24",
-  "history": 0.0015437797899817,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 17602
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-06-25",
-  "history": 0.0015753517222883,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 17962
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-06-26",
-  "history": 0.0015753517222883,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 17962
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-06-27",
-  "history": 0.0015753517222883,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 17962
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-06-28",
   "history": 0.0015971889754671,
   "lower": "NULL",
   "average": "NULL",
@@ -4717,7 +4672,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-06-29",
+  "Date": "2021-06-24",
   "history": 0.0016085022512103,
   "lower": "NULL",
   "average": "NULL",
@@ -4726,7 +4681,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-06-30",
+  "Date": "2021-06-25",
+  "history": 0.0016189385288339,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 18459
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-26",
   "history": 0.0016278839096541,
   "lower": "NULL",
   "average": "NULL",
@@ -4735,43 +4699,43 @@
  },
  {
   "ISO": "HTI",
+  "Date": "2021-06-27",
+  "history": 0.0016363030916025,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 18657
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-28",
+  "history": 0.0016369169902862,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 18664
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-29",
+  "history": 0.0016432313767476,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 18736
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-06-30",
+  "history": 0.0016526152566276,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 18843
+ },
+ {
+  "ISO": "HTI",
   "Date": "2021-07-01",
-  "history": 0.0016363030916025,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 18657
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-02",
-  "history": 0.0016363030916025,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 18657
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-03",
-  "history": 0.0016363030916025,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 18657
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-04",
-  "history": 0.0016363030916025,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 18657
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-05",
   "history": 0.0016620868363196,
   "lower": "NULL",
   "average": "NULL",
@@ -4780,7 +4744,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-06",
+  "Date": "2021-07-02",
+  "history": 0.0016709445173278,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 19052
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-07-03",
   "history": 0.0016756803071738,
   "lower": "NULL",
   "average": "NULL",
@@ -4789,115 +4762,70 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-07",
+  "Date": "2021-07-04",
   "history": 0.0016813807949514,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 19171
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-07-05",
+  "history": 0.0016855903859256,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 19219
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-07-06",
+  "history": 0.0016921678718228,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 19294
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-07-07",
+  "history": 0.0016990961569679,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 19373
  },
  {
   "ISO": "HTI",
   "Date": "2021-07-08",
-  "history": 0.0016813807949514,
+  "history": 0.0017037442470019,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 19171
+  "case_number": 19426
  },
  {
   "ISO": "HTI",
   "Date": "2021-07-09",
-  "history": 0.0016855903859256,
+  "history": 0.0017063752413608,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 19219
+  "case_number": 19456
  },
  {
   "ISO": "HTI",
   "Date": "2021-07-10",
-  "history": 0.0016855903859256,
+  "history": 0.0017111987310188,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 19219
+  "case_number": 19511
  },
  {
   "ISO": "HTI",
   "Date": "2021-07-11",
-  "history": 0.0016855903859256,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 19219
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-12",
-  "history": 0.0016855903859256,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 19219
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-13",
-  "history": 0.0016855903859256,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 19219
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-14",
-  "history": 0.0016990961569679,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 19373
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-15",
-  "history": 0.0016990961569679,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 19373
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-16",
-  "history": 0.0016990961569679,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 19373
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-17",
-  "history": 0.0016990961569679,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 19373
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-18",
-  "history": 0.0016990961569679,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 19373
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-19",
   "history": 0.0017142682244375,
   "lower": "NULL",
   "average": "NULL",
@@ -4906,7 +4834,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-20",
+  "Date": "2021-07-12",
   "history": 0.0017156714214289,
   "lower": "NULL",
   "average": "NULL",
@@ -4915,16 +4843,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-21",
-  "history": 0.0017156714214289,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 19562
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-07-22",
+  "Date": "2021-07-13",
   "history": 0.0017212842093945,
   "lower": "NULL",
   "average": "NULL",
@@ -4933,7 +4852,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-23",
+  "Date": "2021-07-14",
+  "history": 0.0017261076990524,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 19681
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-07-15",
+  "history": 0.0017296156915309,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 19721
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-07-16",
   "history": 0.0017331236840095,
   "lower": "NULL",
   "average": "NULL",
@@ -4942,25 +4879,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-24",
-  "history": 0.0017331236840095,
+  "Date": "2021-07-17",
+  "history": 0.0017349653800607,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 19761
+  "case_number": 19782
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-25",
-  "history": 0.0017331236840095,
+  "Date": "2021-07-18",
+  "history": 0.0017374209747956,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 19761
+  "case_number": 19810
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-26",
+  "Date": "2021-07-19",
   "history": 0.0017379471736674,
   "lower": "NULL",
   "average": "NULL",
@@ -4969,7 +4906,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-27",
+  "Date": "2021-07-20",
+  "history": 0.0017431214625732,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 19875
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-07-21",
   "history": 0.0017468048546757,
   "lower": "NULL",
   "average": "NULL",
@@ -4978,7 +4924,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-28",
+  "Date": "2021-07-22",
   "history": 0.0017539962392566,
   "lower": "NULL",
   "average": "NULL",
@@ -4987,7 +4933,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-29",
+  "Date": "2021-07-23",
+  "history": 0.0017599598264701,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 20067
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-07-24",
   "history": 0.0017607491247778,
   "lower": "NULL",
   "average": "NULL",
@@ -4996,34 +4951,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-30",
-  "history": 0.0017607491247778,
+  "Date": "2021-07-25",
+  "history": 0.0017641694174443,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20076
+  "case_number": 20115
  },
  {
   "ISO": "HTI",
-  "Date": "2021-07-31",
-  "history": 0.0017607491247778,
+  "Date": "2021-07-26",
+  "history": 0.001764958715752,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20076
+  "case_number": 20124
  },
  {
   "ISO": "HTI",
-  "Date": "2021-08-01",
-  "history": 0.0017607491247778,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 20076
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-08-02",
+  "Date": "2021-07-27",
   "history": 0.0017677651097348,
   "lower": "NULL",
   "average": "NULL",
@@ -5032,187 +4978,169 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-08-03",
+  "Date": "2021-07-28",
+  "history": 0.0017717993010851,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 20202
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-07-29",
+  "history": 0.0017754826931875,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 20244
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-07-30",
   "history": 0.0017809200815292,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 20306
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-07-31",
+  "history": 0.0017825863779565,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 20325
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-08-01",
+  "history": 0.0017842526743838,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 20344
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-08-02",
+  "history": 0.0017858312709991,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 20362
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-08-03",
+  "history": 0.0017881114661102,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 20388
  },
  {
   "ISO": "HTI",
   "Date": "2021-08-04",
-  "history": 0.0017809200815292,
+  "history": 0.0017919702578365,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20306
+  "case_number": 20432
  },
  {
   "ISO": "HTI",
   "Date": "2021-08-05",
-  "history": 0.0017825863779565,
+  "history": 0.0017958290495629,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20325
+  "case_number": 20476
  },
  {
   "ISO": "HTI",
   "Date": "2021-08-06",
-  "history": 0.0017825863779565,
+  "history": 0.0017984600439218,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20325
+  "case_number": 20506
  },
  {
   "ISO": "HTI",
   "Date": "2021-08-07",
-  "history": 0.0017825863779565,
+  "history": 0.0018014418375285,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20325
+  "case_number": 20540
  },
  {
   "ISO": "HTI",
   "Date": "2021-08-08",
-  "history": 0.0017825863779565,
+  "history": 0.0018027573347079,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20325
+  "case_number": 20555
  },
  {
   "ISO": "HTI",
   "Date": "2021-08-09",
-  "history": 0.0017881114661102,
+  "history": 0.0018032835335797,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20388
+  "case_number": 20561
  },
  {
   "ISO": "HTI",
   "Date": "2021-08-10",
-  "history": 0.0017881114661102,
+  "history": 0.0018053006292549,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20388
+  "case_number": 20584
  },
  {
   "ISO": "HTI",
   "Date": "2021-08-11",
-  "history": 0.0017881114661102,
+  "history": 0.0018085455222975,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20388
+  "case_number": 20621
  },
  {
   "ISO": "HTI",
   "Date": "2021-08-12",
-  "history": 0.0017984600439218,
+  "history": 0.0018117027155282,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20506
+  "case_number": 20657
  },
  {
   "ISO": "HTI",
   "Date": "2021-08-13",
-  "history": 0.0017984600439218,
+  "history": 0.001814421409699,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20506
+  "case_number": 20688
  },
  {
   "ISO": "HTI",
   "Date": "2021-08-14",
-  "history": 0.0017984600439218,
+  "history": 0.0018158246066904,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20506
+  "case_number": 20704
  },
  {
   "ISO": "HTI",
   "Date": "2021-08-15",
-  "history": 0.0017984600439218,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 20506
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-08-16",
-  "history": 0.0018027573347079,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 20555
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-08-17",
-  "history": 0.0018027573347079,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 20555
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-08-18",
-  "history": 0.0018027573347079,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 20555
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-08-19",
-  "history": 0.001814421409699,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 20688
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-08-20",
-  "history": 0.001814421409699,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 20688
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-08-21",
-  "history": 0.001814421409699,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 20688
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-08-22",
-  "history": 0.001814421409699,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 20688
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-08-23",
   "history": 0.0018170524040579,
   "lower": "NULL",
   "average": "NULL",
@@ -5221,7 +5149,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-08-24",
+  "Date": "2021-08-16",
+  "history": 0.0018181925016134,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 20731
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-08-17",
   "history": 0.0018194202989809,
   "lower": "NULL",
   "average": "NULL",
@@ -5230,52 +5167,43 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-08-25",
-  "history": 0.0018194202989809,
+  "Date": "2021-08-18",
+  "history": 0.0018213496948441,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20745
+  "case_number": 20767
  },
  {
   "ISO": "HTI",
-  "Date": "2021-08-26",
-  "history": 0.0018270501826217,
+  "Date": "2021-08-19",
+  "history": 0.0018244191882628,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20832
+  "case_number": 20802
  },
  {
   "ISO": "HTI",
-  "Date": "2021-08-27",
-  "history": 0.0018270501826217,
+  "Date": "2021-08-20",
+  "history": 0.0018244191882628,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20832
+  "case_number": 20802
  },
  {
   "ISO": "HTI",
-  "Date": "2021-08-28",
-  "history": 0.0018270501826217,
+  "Date": "2021-08-21",
+  "history": 0.0018281025803652,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20832
+  "case_number": 20844
  },
  {
   "ISO": "HTI",
-  "Date": "2021-08-29",
-  "history": 0.0018270501826217,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 20832
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-08-30",
+  "Date": "2021-08-22",
   "history": 0.001828541079425,
   "lower": "NULL",
   "average": "NULL",
@@ -5284,7 +5212,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-08-31",
+  "Date": "2021-08-23",
+  "history": 0.0018302950756643,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 20869
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-08-24",
   "history": 0.0018325752707753,
   "lower": "NULL",
   "average": "NULL",
@@ -5293,7 +5230,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-01",
+  "Date": "2021-08-25",
   "history": 0.0018343292670146,
   "lower": "NULL",
   "average": "NULL",
@@ -5302,7 +5239,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-02",
+  "Date": "2021-08-26",
+  "history": 0.001835644764194,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 20930
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-08-27",
   "history": 0.0018365217623136,
   "lower": "NULL",
   "average": "NULL",
@@ -5311,7 +5257,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-03",
+  "Date": "2021-08-28",
+  "history": 0.0018383634583649,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 20961
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-08-29",
   "history": 0.0018396789555443,
   "lower": "NULL",
   "average": "NULL",
@@ -5320,25 +5275,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-04",
-  "history": 0.0018396789555443,
+  "Date": "2021-08-30",
+  "history": 0.0018431869480228,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20976
+  "case_number": 21016
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-05",
-  "history": 0.0018396789555443,
+  "Date": "2021-08-31",
+  "history": 0.0018458179423817,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 20976
+  "case_number": 21046
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-06",
+  "Date": "2021-09-01",
   "history": 0.0018477473382449,
   "lower": "NULL",
   "average": "NULL",
@@ -5347,7 +5302,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-07",
+  "Date": "2021-09-02",
   "history": 0.001849939833544,
   "lower": "NULL",
   "average": "NULL",
@@ -5356,7 +5311,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-08",
+  "Date": "2021-09-03",
   "history": 0.0018525708279028,
   "lower": "NULL",
   "average": "NULL",
@@ -5365,16 +5320,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-09",
-  "history": 0.0018525708279028,
+  "Date": "2021-09-04",
+  "history": 0.0018538863250823,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 21123
+  "case_number": 21138
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-10",
+  "Date": "2021-09-05",
   "history": 0.0018559034207574,
   "lower": "NULL",
   "average": "NULL",
@@ -5383,25 +5338,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-11",
-  "history": 0.0018559034207574,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 21161
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-09-12",
-  "history": 0.0018559034207574,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 21161
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-09-13",
+  "Date": "2021-09-06",
   "history": 0.0018573066177488,
   "lower": "NULL",
   "average": "NULL",
@@ -5410,7 +5347,34 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-14",
+  "Date": "2021-09-07",
+  "history": 0.0018585344151163,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 21191
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-09-08",
+  "history": 0.0018609023100393,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 21218
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-09-09",
+  "history": 0.0018630948053384,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 21243
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-09-10",
   "history": 0.0018654627002614,
   "lower": "NULL",
   "average": "NULL",
@@ -5419,7 +5383,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-15",
+  "Date": "2021-09-11",
+  "history": 0.0018679182949963,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 21298
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-09-12",
   "history": 0.0018695845914236,
   "lower": "NULL",
   "average": "NULL",
@@ -5428,12 +5401,39 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-16",
-  "history": 0.0018695845914236,
+  "Date": "2021-09-13",
+  "history": 0.0018706369891672,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 21317
+  "case_number": 21329
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-09-14",
+  "history": 0.0018706369891672,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 21329
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-09-15",
+  "history": 0.0018706369891672,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 21329
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-09-16",
+  "history": 0.0018706369891672,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 21329
  },
  {
   "ISO": "HTI",
@@ -5447,87 +5447,24 @@
  {
   "ISO": "HTI",
   "Date": "2021-09-18",
-  "history": 0.0018706369891672,
+  "history": 0.0018843181598334,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 21329
+  "case_number": 21485
  },
  {
   "ISO": "HTI",
   "Date": "2021-09-19",
-  "history": 0.0018706369891672,
+  "history": 0.0018862475556966,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 21329
+  "case_number": 21507
  },
  {
   "ISO": "HTI",
   "Date": "2021-09-20",
-  "history": 0.0018739695820218,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 21367
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-09-21",
-  "history": 0.0018794946701754,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 21430
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-09-22",
-  "history": 0.0018794946701754,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 21430
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-09-23",
-  "history": 0.0018814240660386,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 21452
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-09-24",
-  "history": 0.0018843181598334,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 21485
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-09-25",
-  "history": 0.0018843181598334,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 21485
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-09-26",
-  "history": 0.0018843181598334,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 21485
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-09-27",
   "history": 0.0018890539496794,
   "lower": "NULL",
   "average": "NULL",
@@ -5536,7 +5473,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-28",
+  "Date": "2021-09-21",
+  "history": 0.0018928250415938,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 21582
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-09-22",
   "history": 0.0018984378295594,
   "lower": "NULL",
   "average": "NULL",
@@ -5545,25 +5491,34 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-29",
-  "history": 0.0018984378295594,
+  "Date": "2021-09-23",
+  "history": 0.0019030859195934,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 21646
+  "case_number": 21699
  },
  {
   "ISO": "HTI",
-  "Date": "2021-09-30",
-  "history": 0.0018984378295594,
+  "Date": "2021-09-24",
+  "history": 0.0019084356081232,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 21646
+  "case_number": 21760
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-01",
+  "Date": "2021-09-25",
+  "history": 0.001918257987063,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 21872
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-09-26",
   "history": 0.0019220290789774,
   "lower": "NULL",
   "average": "NULL",
@@ -5572,25 +5527,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-02",
-  "history": 0.0019220290789774,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 21915
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-10-03",
-  "history": 0.0019220290789774,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 21915
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-10-04",
+  "Date": "2021-09-27",
   "history": 0.0019269402684473,
   "lower": "NULL",
   "average": "NULL",
@@ -5599,7 +5536,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-05",
+  "Date": "2021-09-28",
+  "history": 0.0019329915554728,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 22040
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-09-29",
   "history": 0.0019403583396776,
   "lower": "NULL",
   "average": "NULL",
@@ -5608,7 +5554,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-06",
+  "Date": "2021-09-30",
+  "history": 0.0019445679306518,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 22172
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-01",
+  "history": 0.0019533379118481,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 22272
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-02",
   "history": 0.0019604415966171,
   "lower": "NULL",
   "average": "NULL",
@@ -5617,25 +5581,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-07",
-  "history": 0.0019604415966171,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 22353
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-10-08",
-  "history": 0.0019604415966171,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 22353
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-10-09",
+  "Date": "2021-10-03",
   "history": 0.0019628971913521,
   "lower": "NULL",
   "average": "NULL",
@@ -5644,7 +5590,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-10",
+  "Date": "2021-10-04",
+  "history": 0.0019685976791297,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 22446
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-05",
   "history": 0.0019755259642747,
   "lower": "NULL",
   "average": "NULL",
@@ -5653,7 +5608,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-11",
+  "Date": "2021-10-06",
   "history": 0.0019832435477275,
   "lower": "NULL",
   "average": "NULL",
@@ -5662,7 +5617,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-12",
+  "Date": "2021-10-07",
   "history": 0.0019885932362572,
   "lower": "NULL",
   "average": "NULL",
@@ -5671,7 +5626,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-13",
+  "Date": "2021-10-08",
   "history": 0.0019935044257271,
   "lower": "NULL",
   "average": "NULL",
@@ -5680,7 +5635,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-14",
+  "Date": "2021-10-09",
   "history": 0.0020019236076755,
   "lower": "NULL",
   "average": "NULL",
@@ -5689,16 +5644,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-15",
-  "history": 0.0020019236076755,
+  "Date": "2021-10-10",
+  "history": 0.0020092903918804,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 22826
+  "case_number": 22910
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-16",
+  "Date": "2021-10-11",
   "history": 0.0020112197877436,
   "lower": "NULL",
   "average": "NULL",
@@ -5707,16 +5662,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-17",
-  "history": 0.0020112197877436,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 22932
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-10-18",
+  "Date": "2021-10-12",
   "history": 0.0020207790672476,
   "lower": "NULL",
   "average": "NULL",
@@ -5725,7 +5671,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-19",
+  "Date": "2021-10-13",
+  "history": 0.0020311276450592,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 23159
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-14",
+  "history": 0.0020382313298282,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 23240
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-15",
   "history": 0.0020455104142211,
   "lower": "NULL",
   "average": "NULL",
@@ -5734,70 +5698,61 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-20",
+  "Date": "2021-10-16",
   "history": 0.002052701798802,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 23405
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-17",
+  "history": 0.0020562097912805,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 23445
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-18",
+  "history": 0.0020600685830069,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 23489
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-19",
+  "history": 0.002066996868152,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 23568
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-20",
+  "history": 0.0020713818587501,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 23618
  },
  {
   "ISO": "HTI",
   "Date": "2021-10-21",
-  "history": 0.002052701798802,
+  "history": 0.0020807657386301,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 23405
+  "case_number": 23725
  },
  {
   "ISO": "HTI",
   "Date": "2021-10-22",
-  "history": 0.002052701798802,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 23405
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-10-23",
-  "history": 0.002052701798802,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 23405
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-10-24",
-  "history": 0.002052701798802,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 23405
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-10-25",
-  "history": 0.0020713818587501,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 23618
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-10-26",
-  "history": 0.0020713818587501,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 23618
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-10-27",
   "history": 0.0020848876297924,
   "lower": "NULL",
   "average": "NULL",
@@ -5806,70 +5761,61 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-10-28",
-  "history": 0.0020892726203905,
+  "Date": "2021-10-23",
+  "history": 0.002092780612869,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 23822
+  "case_number": 23862
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-24",
+  "history": 0.0020968148042193,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 23908
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-25",
+  "history": 0.0020983934008347,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 23926
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-26",
+  "history": 0.0021012874946294,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 23959
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-27",
+  "history": 0.0021031291906807,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 23980
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-28",
+  "history": 0.0021051462863558,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 24003
  },
  {
   "ISO": "HTI",
   "Date": "2021-10-29",
-  "history": 0.0020892726203905,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 23822
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-10-30",
-  "history": 0.0021012874946294,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 23959
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-10-31",
-  "history": 0.0021012874946294,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 23959
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-11-01",
-  "history": 0.0021012874946294,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 23959
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-11-02",
-  "history": 0.0021051462863558,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 24003
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-11-03",
-  "history": 0.0021051462863558,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 24003
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-11-04",
   "history": 0.0021076018810908,
   "lower": "NULL",
   "average": "NULL",
@@ -5878,97 +5824,115 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-11-05",
+  "Date": "2021-10-30",
   "history": 0.0021111975733812,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 24072
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-10-31",
+  "history": 0.0021127761699966,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 24090
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-11-01",
+  "history": 0.0021139162675521,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 24103
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-11-02",
+  "history": 0.0021144424664239,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 24109
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-11-03",
+  "history": 0.0021160210630392,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 24127
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-11-04",
+  "history": 0.0021252295432953,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 24232
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-11-05",
+  "history": 0.0021298776333293,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 24285
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-06",
-  "history": 0.0021111975733812,
+  "history": 0.0021362797196026,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24072
+  "case_number": 24358
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-07",
-  "history": 0.0021111975733812,
+  "history": 0.0021383845150897,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24072
+  "case_number": 24382
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-08",
-  "history": 0.0021252295432953,
+  "history": 0.0021473298959099,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24232
+  "case_number": 24484
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-09",
-  "history": 0.0021252295432953,
+  "history": 0.0021524164850038,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24232
+  "case_number": 24542
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-10",
-  "history": 0.0021252295432953,
+  "history": 0.0021573276744737,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24232
+  "case_number": 24598
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-11",
-  "history": 0.0021252295432953,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 24232
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-11-12",
-  "history": 0.0021524164850038,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 24542
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-11-13",
-  "history": 0.0021524164850038,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 24542
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-11-14",
-  "history": 0.0021524164850038,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 24542
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-11-15",
   "history": 0.0021604848677043,
   "lower": "NULL",
   "average": "NULL",
@@ -5977,160 +5941,178 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-11-16",
+  "Date": "2021-11-12",
+  "history": 0.0021656591566102,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 24693
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-11-13",
   "history": 0.0021670623536016,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 24709
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-11-14",
+  "history": 0.0021721489426954,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 24767
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-11-15",
+  "history": 0.0021766216331055,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 24818
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-11-16",
+  "history": 0.0021822344210711,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 24882
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-17",
-  "history": 0.0021670623536016,
+  "history": 0.0021868825111052,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24709
+  "case_number": 24935
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-18",
-  "history": 0.0021670623536016,
+  "history": 0.0021881103084726,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24709
+  "case_number": 24949
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-19",
-  "history": 0.0021721489426954,
+  "history": 0.0021902151039597,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24767
+  "case_number": 24973
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-20",
-  "history": 0.0021721489426954,
+  "history": 0.0021902151039597,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24767
+  "case_number": 24973
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-21",
-  "history": 0.0021721489426954,
+  "history": 0.0021938984960622,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24767
+  "case_number": 25015
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-22",
-  "history": 0.0021881103084726,
+  "history": 0.0021948631939938,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24949
+  "case_number": 25026
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-23",
-  "history": 0.0021881103084726,
+  "history": 0.0021959155917373,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24949
+  "case_number": 25038
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-24",
-  "history": 0.0021902151039597,
+  "history": 0.0021979326874125,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24973
+  "case_number": 25061
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-25",
-  "history": 0.0021902151039597,
+  "history": 0.0022052994716174,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 24973
+  "case_number": 25145
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-26",
-  "history": 0.0021948631939938,
+  "history": 0.0022078427661643,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25026
+  "case_number": 25174
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-27",
-  "history": 0.0021948631939938,
+  "history": 0.0022102106610873,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25026
+  "case_number": 25201
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-28",
-  "history": 0.0021948631939938,
+  "history": 0.0022157357492409,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25026
+  "case_number": 25264
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-29",
-  "history": 0.0022078427661643,
+  "history": 0.0022184544434118,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25174
+  "case_number": 25295
  },
  {
   "ISO": "HTI",
   "Date": "2021-11-30",
-  "history": 0.0022078427661643,
+  "history": 0.0022232779330697,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25174
+  "case_number": 25350
  },
  {
   "ISO": "HTI",
   "Date": "2021-12-01",
-  "history": 0.0022232779330697,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25350
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-02",
-  "history": 0.0022232779330697,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25350
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-03",
   "history": 0.0022331003120096,
   "lower": "NULL",
   "average": "NULL",
@@ -6139,43 +6121,43 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-12-04",
-  "history": 0.0022372222031718,
+  "Date": "2021-12-02",
+  "history": 0.0022331003120096,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25509
+  "case_number": 25462
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-12-03",
+  "history": 0.0022431857903853,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 25577
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-12-04",
+  "history": 0.0022484477791031,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 25637
  },
  {
   "ISO": "HTI",
   "Date": "2021-12-05",
-  "history": 0.0022372222031718,
+  "history": 0.0022516049723337,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25509
+  "case_number": 25673
  },
  {
   "ISO": "HTI",
   "Date": "2021-12-06",
-  "history": 0.0022484477791031,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25637
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-07",
-  "history": 0.0022484477791031,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25637
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-08",
   "history": 0.0022530958691371,
   "lower": "NULL",
   "average": "NULL",
@@ -6184,43 +6166,25 @@
  },
  {
   "ISO": "HTI",
+  "Date": "2021-12-07",
+  "history": 0.0022543236665046,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 25704
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-12-08",
+  "history": 0.0022577439591711,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 25743
+ },
+ {
+  "ISO": "HTI",
   "Date": "2021-12-09",
-  "history": 0.0022577439591711,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25743
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-10",
-  "history": 0.0022577439591711,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25743
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-11",
-  "history": 0.0022577439591711,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25743
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-12",
-  "history": 0.0022577439591711,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25743
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-13",
   "history": 0.0022589717565386,
   "lower": "NULL",
   "average": "NULL",
@@ -6229,7 +6193,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-12-14",
+  "Date": "2021-12-10",
+  "history": 0.0022621289497693,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 25793
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-12-11",
+  "history": 0.0022673032386751,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 25852
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-12-12",
   "history": 0.0022683556364186,
   "lower": "NULL",
   "average": "NULL",
@@ -6238,7 +6220,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-12-15",
+  "Date": "2021-12-13",
   "history": 0.0022695834337861,
   "lower": "NULL",
   "average": "NULL",
@@ -6247,66 +6229,84 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-12-16",
+  "Date": "2021-12-14",
+  "history": 0.0022708112311536,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 25892
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-12-15",
   "history": 0.0022720390285211,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 25906
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-12-16",
+  "history": 0.0022729160266407,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 25916
  },
  {
   "ISO": "HTI",
   "Date": "2021-12-17",
-  "history": 0.0022720390285211,
+  "history": 0.0022731791260766,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25906
+  "case_number": 25919
  },
  {
   "ISO": "HTI",
   "Date": "2021-12-18",
-  "history": 0.0022731791260766,
+  "history": 0.0022734422255125,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25919
+  "case_number": 25922
  },
  {
   "ISO": "HTI",
   "Date": "2021-12-19",
-  "history": 0.0022731791260766,
+  "history": 0.0022744069234441,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25919
+  "case_number": 25933
  },
  {
   "ISO": "HTI",
   "Date": "2021-12-20",
-  "history": 0.0022734422255125,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25922
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-21",
-  "history": 0.0022734422255125,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25922
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-22",
   "history": 0.0022750208221278,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 25940
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-12-21",
+  "history": 0.0022753716213757,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 25944
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-12-22",
+  "history": 0.0022753716213757,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 25944
  },
  {
   "ISO": "HTI",
@@ -6320,33 +6320,15 @@
  {
   "ISO": "HTI",
   "Date": "2021-12-24",
-  "history": 0.0022758101204355,
+  "history": 0.0022777395162987,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25949
+  "case_number": 25971
  },
  {
   "ISO": "HTI",
   "Date": "2021-12-25",
-  "history": 0.0022758101204355,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25949
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-26",
-  "history": 0.0022758101204355,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25949
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-27",
   "history": 0.0022779149159226,
   "lower": "NULL",
   "average": "NULL",
@@ -6355,61 +6337,43 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2021-12-28",
-  "history": 0.0022780903155465,
+  "Date": "2021-12-26",
+  "history": 0.0022779149159226,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25975
+  "case_number": 25973
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-12-27",
+  "history": 0.0022788796138542,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 25984
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2021-12-28",
+  "history": 0.0022798443117858,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 25995
  },
  {
   "ISO": "HTI",
   "Date": "2021-12-29",
-  "history": 0.0022788796138542,
+  "history": 0.0022822999065207,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 25984
+  "case_number": 26023
  },
  {
   "ISO": "HTI",
   "Date": "2021-12-30",
-  "history": 0.0022788796138542,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25984
- },
- {
-  "ISO": "HTI",
-  "Date": "2021-12-31",
-  "history": 0.0022788796138542,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25984
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-01-01",
-  "history": 0.0022788796138542,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25984
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-01-02",
-  "history": 0.0022788796138542,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 25984
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-01-03",
   "history": 0.0022851063005035,
   "lower": "NULL",
   "average": "NULL",
@@ -6418,7 +6382,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-01-04",
+  "Date": "2021-12-31",
+  "history": 0.0022950163792553,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 26168
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-01-01",
   "history": 0.0022988751709817,
   "lower": "NULL",
   "average": "NULL",
@@ -6427,7 +6400,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-01-05",
+  "Date": "2022-01-02",
+  "history": 0.0023025585630841,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 26254
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-01-03",
   "history": 0.002302909362332,
   "lower": "NULL",
   "average": "NULL",
@@ -6436,34 +6418,43 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-01-06",
+  "Date": "2022-01-04",
+  "history": 0.002302909362332,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 26258
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-01-05",
   "history": 0.0023068558538703,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 26303
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-01-06",
+  "history": 0.0023158012346905,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 26405
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-07",
-  "history": 0.0023068558538703,
+  "history": 0.0023248343153227,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 26303
+  "case_number": 26508
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-08",
-  "history": 0.0023068558538703,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 26303
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-01-09",
   "history": 0.0023375507880573,
   "lower": "NULL",
   "average": "NULL",
@@ -6472,88 +6463,79 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-01-10",
+  "Date": "2022-01-09",
   "history": 0.0023509688592876,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 26806
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-01-10",
+  "history": 0.0023678949229964,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 26999
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-11",
-  "history": 0.0023509688592876,
+  "history": 0.0023750863075774,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 26806
+  "case_number": 27081
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-12",
-  "history": 0.0023509688592876,
+  "history": 0.0023957834632006,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 26806
+  "case_number": 27317
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-13",
-  "history": 0.0023750863075774,
+  "history": 0.0024108678308582,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 27081
+  "case_number": 27489
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-14",
-  "history": 0.0023750863075774,
+  "history": 0.0024221811066014,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 27081
+  "case_number": 27618
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-15",
-  "history": 0.0023750863075774,
+  "history": 0.002439721068994,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 27081
+  "case_number": 27818
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-16",
-  "history": 0.0023750863075774,
+  "history": 0.0024532268400363,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 27081
+  "case_number": 27972
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-17",
-  "history": 0.002439721068994,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 27818
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-01-18",
-  "history": 0.002439721068994,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 27818
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-01-19",
   "history": 0.0024582257293182,
   "lower": "NULL",
   "average": "NULL",
@@ -6562,7 +6544,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-01-20",
+  "Date": "2022-01-18",
   "history": 0.0024658556129589,
   "lower": "NULL",
   "average": "NULL",
@@ -6571,7 +6553,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-01-21",
+  "Date": "2022-01-19",
   "history": 0.00247751968795,
   "lower": "NULL",
   "average": "NULL",
@@ -6580,7 +6562,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-01-22",
+  "Date": "2022-01-20",
   "history": 0.0024864650687702,
   "lower": "NULL",
   "average": "NULL",
@@ -6589,7 +6571,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-01-23",
+  "Date": "2022-01-21",
   "history": 0.0024969013463938,
   "lower": "NULL",
   "average": "NULL",
@@ -6598,70 +6580,61 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-01-24",
+  "Date": "2022-01-22",
   "history": 0.0025047943294704,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 28560
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-01-23",
+  "history": 0.0025177739016409,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 28708
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-01-24",
+  "history": 0.0025207556952477,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 28742
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-25",
-  "history": 0.0025047943294704,
+  "history": 0.0025323320704268,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 28560
+  "case_number": 28874
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-26",
-  "history": 0.0025047943294704,
+  "history": 0.0025479426369561,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 28560
+  "case_number": 29052
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-27",
-  "history": 0.0025323320704268,
+  "history": 0.0025540816237935,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 28874
+  "case_number": 29122
  },
  {
   "ISO": "HTI",
   "Date": "2022-01-28",
-  "history": 0.0025323320704268,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 28874
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-01-29",
-  "history": 0.0025323320704268,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 28874
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-01-30",
-  "history": 0.0025323320704268,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 28874
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-01-31",
   "history": 0.002562325406118,
   "lower": "NULL",
   "average": "NULL",
@@ -6670,52 +6643,52 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-02-01",
+  "Date": "2022-01-29",
   "history": 0.0025716215861861,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 29322
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-01-30",
+  "history": 0.0025822332634336,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 29443
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-01-31",
+  "history": 0.0025851273572284,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 29476
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-02-01",
+  "history": 0.0025914417436897,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 29548
  },
  {
   "ISO": "HTI",
   "Date": "2022-02-02",
-  "history": 0.0025716215861861,
+  "history": 0.0025914417436897,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 29322
+  "case_number": 29548
  },
  {
   "ISO": "HTI",
   "Date": "2022-02-03",
-  "history": 0.0025716215861861,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 29322
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-02-04",
-  "history": 0.0025953005354161,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 29592
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-02-05",
-  "history": 0.0025953005354161,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 29592
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-02-06",
   "history": 0.0026059999124755,
   "lower": "NULL",
   "average": "NULL",
@@ -6724,7 +6697,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-02-07",
+  "Date": "2022-02-04",
+  "history": 0.0026116127004412,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 29778
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-02-05",
   "history": 0.0026162607904752,
   "lower": "NULL",
   "average": "NULL",
@@ -6733,7 +6715,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-02-08",
+  "Date": "2022-02-06",
+  "history": 0.0026176639874666,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 29847
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-02-07",
   "history": 0.0026203826816374,
   "lower": "NULL",
   "average": "NULL",
@@ -6742,12 +6733,21 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-02-09",
+  "Date": "2022-02-08",
   "history": 0.0026211719799451,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 29887
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-02-09",
+  "history": 0.0026228382763724,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 29906
  },
  {
   "ISO": "HTI",
@@ -6761,42 +6761,15 @@
  {
   "ISO": "HTI",
   "Date": "2022-02-11",
-  "history": 0.0026256446703552,
+  "history": 0.0026228382763724,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 29938
+  "case_number": 29906
  },
  {
   "ISO": "HTI",
   "Date": "2022-02-12",
-  "history": 0.0026256446703552,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 29938
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-02-13",
-  "history": 0.0026282756647141,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 29968
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-02-14",
-  "history": 0.0026295034620816,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 29982
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-02-15",
   "history": 0.0026358178485429,
   "lower": "NULL",
   "average": "NULL",
@@ -6805,7 +6778,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-02-16",
+  "Date": "2022-02-13",
+  "history": 0.0026358178485429,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30054
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-02-14",
+  "history": 0.0026399397397052,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30101
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-02-15",
   "history": 0.0026416060361324,
   "lower": "NULL",
   "average": "NULL",
@@ -6814,34 +6805,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-02-17",
+  "Date": "2022-02-16",
   "history": 0.0026452017284229,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 30161
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-02-17",
+  "history": 0.0026492359197732,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30207
  },
  {
   "ISO": "HTI",
   "Date": "2022-02-18",
-  "history": 0.0026452017284229,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30161
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-02-19",
-  "history": 0.0026452017284229,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30161
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-02-20",
   "history": 0.0026508145163885,
   "lower": "NULL",
   "average": "NULL",
@@ -6850,7 +6832,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-02-21",
+  "Date": "2022-02-19",
   "history": 0.0026537963099953,
   "lower": "NULL",
   "average": "NULL",
@@ -6859,7 +6841,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-02-22",
+  "Date": "2022-02-20",
+  "history": 0.0026549364075508,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30272
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-02-21",
   "history": 0.0026561642049183,
   "lower": "NULL",
   "average": "NULL",
@@ -6868,12 +6859,21 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-02-23",
+  "Date": "2022-02-22",
   "history": 0.0026572166026618,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 30298
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-02-23",
+  "history": 0.0026585320998413,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30313
  },
  {
   "ISO": "HTI",
@@ -6887,20 +6887,20 @@
  {
   "ISO": "HTI",
   "Date": "2022-02-25",
-  "history": 0.0026604614957045,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30335
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-02-26",
   "history": 0.0026608122949523,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 30339
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-02-26",
+  "history": 0.0026609876945762,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30341
  },
  {
   "ISO": "HTI",
@@ -6914,24 +6914,6 @@
  {
   "ISO": "HTI",
   "Date": "2022-02-28",
-  "history": 0.0026609876945762,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30341
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-03-01",
-  "history": 0.0026609876945762,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30341
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-03-02",
   "history": 0.0026616892930719,
   "lower": "NULL",
   "average": "NULL",
@@ -6940,7 +6922,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-03-03",
+  "Date": "2022-03-01",
   "history": 0.0026619523925078,
   "lower": "NULL",
   "average": "NULL",
@@ -6949,7 +6931,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-03-04",
+  "Date": "2022-03-02",
+  "history": 0.002663881788371,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30374
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-03-03",
   "history": 0.0026644956870547,
   "lower": "NULL",
   "average": "NULL",
@@ -6958,34 +6949,16 @@
  },
  {
   "ISO": "HTI",
+  "Date": "2022-03-04",
+  "history": 0.0026647587864906,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30384
+ },
+ {
+  "ISO": "HTI",
   "Date": "2022-03-05",
-  "history": 0.0026647587864906,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30384
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-03-06",
-  "history": 0.0026647587864906,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30384
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-03-07",
-  "history": 0.0026647587864906,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30384
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-03-08",
   "history": 0.0026660742836701,
   "lower": "NULL",
   "average": "NULL",
@@ -6994,7 +6967,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-03-09",
+  "Date": "2022-03-06",
   "history": 0.002668705278029,
   "lower": "NULL",
   "average": "NULL",
@@ -7003,7 +6976,25 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-03-10",
+  "Date": "2022-03-07",
+  "history": 0.002668705278029,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30429
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-03-08",
+  "history": 0.0026688806776529,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30431
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-03-09",
   "history": 0.0026689683774649,
   "lower": "NULL",
   "average": "NULL",
@@ -7012,7 +7003,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-03-11",
+  "Date": "2022-03-10",
   "history": 0.0026694068765247,
   "lower": "NULL",
   "average": "NULL",
@@ -7021,7 +7012,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-03-12",
+  "Date": "2022-03-11",
   "history": 0.0026701084750204,
   "lower": "NULL",
   "average": "NULL",
@@ -7030,25 +7021,16 @@
  },
  {
   "ISO": "HTI",
+  "Date": "2022-03-12",
+  "history": 0.0026714239721998,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30460
+ },
+ {
+  "ISO": "HTI",
   "Date": "2022-03-13",
-  "history": 0.0026714239721998,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30460
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-03-14",
-  "history": 0.0026714239721998,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30460
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-03-15",
   "history": 0.0026724763699434,
   "lower": "NULL",
   "average": "NULL",
@@ -7057,57 +7039,75 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-03-16",
+  "Date": "2022-03-14",
+  "history": 0.0026724763699434,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30472
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-03-15",
   "history": 0.0026729148690032,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 30477
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-03-16",
+  "history": 0.0026737041673108,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30486
  },
  {
   "ISO": "HTI",
   "Date": "2022-03-17",
-  "history": 0.0026729148690032,
+  "history": 0.0026737918671228,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30477
+  "case_number": 30487
  },
  {
   "ISO": "HTI",
   "Date": "2022-03-18",
-  "history": 0.0026729148690032,
+  "history": 0.0026743180659946,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30477
+  "case_number": 30493
  },
  {
   "ISO": "HTI",
   "Date": "2022-03-19",
-  "history": 0.0026729148690032,
+  "history": 0.0026744934656185,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30477
+  "case_number": 30495
  },
  {
   "ISO": "HTI",
   "Date": "2022-03-20",
-  "history": 0.0026729148690032,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30477
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-03-21",
   "history": 0.002675633563174,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 30508
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-03-21",
+  "history": 0.002675808962798,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30510
  },
  {
   "ISO": "HTI",
@@ -7121,65 +7121,65 @@
  {
   "ISO": "HTI",
   "Date": "2022-03-23",
-  "history": 0.002675808962798,
+  "history": 0.0026761597620458,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30510
+  "case_number": 30514
  },
  {
   "ISO": "HTI",
   "Date": "2022-03-24",
-  "history": 0.002675808962798,
+  "history": 0.0026767736607295,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30510
+  "case_number": 30521
  },
  {
   "ISO": "HTI",
   "Date": "2022-03-25",
-  "history": 0.002675808962798,
+  "history": 0.0026772998596013,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30510
+  "case_number": 30527
  },
  {
   "ISO": "HTI",
   "Date": "2022-03-26",
-  "history": 0.002675808962798,
+  "history": 0.0026772998596013,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30510
+  "case_number": 30527
  },
  {
   "ISO": "HTI",
   "Date": "2022-03-27",
-  "history": 0.002675808962798,
+  "history": 0.0026772998596013,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30510
+  "case_number": 30527
  },
  {
   "ISO": "HTI",
   "Date": "2022-03-28",
-  "history": 0.0026773875594133,
+  "history": 0.0026787907564047,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30528
+  "case_number": 30544
  },
  {
   "ISO": "HTI",
   "Date": "2022-03-29",
-  "history": 0.0026773875594133,
+  "history": 0.0026787907564047,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30528
+  "case_number": 30544
  },
  {
   "ISO": "HTI",
@@ -7193,78 +7193,60 @@
  {
   "ISO": "HTI",
   "Date": "2022-03-31",
-  "history": 0.0026789661560286,
+  "history": 0.00268036935302,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30546
+  "case_number": 30562
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-01",
-  "history": 0.0026789661560286,
+  "history": 0.0026807201522679,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30546
+  "case_number": 30566
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-02",
-  "history": 0.0026791415556525,
+  "history": 0.0026810709515157,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30548
+  "case_number": 30570
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-03",
-  "history": 0.0026791415556525,
+  "history": 0.0026814217507636,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30548
+  "case_number": 30574
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-04",
-  "history": 0.0026807201522679,
+  "history": 0.0026814217507636,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30566
+  "case_number": 30574
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-05",
-  "history": 0.0026807201522679,
+  "history": 0.0026815094505755,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30566
+  "case_number": 30575
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-06",
-  "history": 0.0026814217507636,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30574
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-04-07",
-  "history": 0.0026814217507636,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30574
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-04-08",
   "history": 0.0026816848501995,
   "lower": "NULL",
   "average": "NULL",
@@ -7273,367 +7255,331 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-04-09",
+  "Date": "2022-04-07",
+  "history": 0.0026816848501995,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30577
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-04-08",
   "history": 0.0026822987488832,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 30584
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-04-09",
+  "history": 0.0026823864486952,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30585
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-10",
-  "history": 0.0026822987488832,
+  "history": 0.0026823864486952,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30584
+  "case_number": 30585
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-11",
-  "history": 0.0026823864486952,
+  "history": 0.0026824741485071,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30585
+  "case_number": 30586
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-12",
-  "history": 0.0026823864486952,
+  "history": 0.0026830880471909,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30585
+  "case_number": 30593
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-13",
-  "history": 0.0026823864486952,
+  "history": 0.0026844912441823,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30585
+  "case_number": 30609
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-14",
-  "history": 0.0026823864486952,
+  "history": 0.0026846666438062,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30585
+  "case_number": 30611
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-15",
-  "history": 0.0026830880471909,
+  "history": 0.0026849297432421,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30593
+  "case_number": 30614
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-16",
-  "history": 0.0026830880471909,
+  "history": 0.0026856313417378,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30593
+  "case_number": 30622
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-17",
-  "history": 0.0026830880471909,
+  "history": 0.0026871222385412,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30593
+  "case_number": 30639
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-18",
-  "history": 0.0026830880471909,
+  "history": 0.002687385337977,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30593
+  "case_number": 30642
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-19",
-  "history": 0.0026849297432421,
+  "history": 0.0026878238370369,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30614
+  "case_number": 30647
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-20",
-  "history": 0.0026849297432421,
+  "history": 0.0026879115368488,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30614
+  "case_number": 30648
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-21",
-  "history": 0.0026849297432421,
+  "history": 0.0026879992366608,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30614
+  "case_number": 30649
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-22",
-  "history": 0.0026871222385412,
+  "history": 0.0026884377357206,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30639
+  "case_number": 30654
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-23",
-  "history": 0.0026871222385412,
+  "history": 0.0026887885349685,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30639
+  "case_number": 30658
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-24",
-  "history": 0.0026871222385412,
+  "history": 0.0026887885349685,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30639
+  "case_number": 30658
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-25",
-  "history": 0.0026871222385412,
+  "history": 0.0026915072291393,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30639
+  "case_number": 30689
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-26",
-  "history": 0.0026884377357206,
+  "history": 0.0026915072291393,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30654
+  "case_number": 30689
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-27",
-  "history": 0.0026884377357206,
+  "history": 0.002692121127823,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30654
+  "case_number": 30696
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-28",
-  "history": 0.0026884377357206,
+  "history": 0.002692296527447,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30654
+  "case_number": 30698
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-29",
-  "history": 0.0026915072291393,
+  "history": 0.0026925596268829,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30689
+  "case_number": 30701
  },
  {
   "ISO": "HTI",
   "Date": "2022-04-30",
-  "history": 0.0026915072291393,
+  "history": 0.0026926473266948,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30689
+  "case_number": 30702
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-01",
-  "history": 0.0026915072291393,
+  "history": 0.0026927350265068,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30689
+  "case_number": 30703
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-02",
-  "history": 0.002692121127823,
+  "history": 0.0026928227263187,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30696
+  "case_number": 30704
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-03",
-  "history": 0.002692121127823,
+  "history": 0.0026929981259427,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30696
+  "case_number": 30706
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-04",
-  "history": 0.0026926473266948,
+  "history": 0.0026929981259427,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30702
+  "case_number": 30706
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-05",
-  "history": 0.0026926473266948,
+  "history": 0.0026929981259427,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30702
+  "case_number": 30706
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-06",
-  "history": 0.0026926473266948,
+  "history": 0.0026929981259427,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30702
+  "case_number": 30706
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-07",
-  "history": 0.0026926473266948,
+  "history": 0.0026934366250025,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30702
+  "case_number": 30711
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-08",
-  "history": 0.0026926473266948,
+  "history": 0.0026935243248144,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30702
+  "case_number": 30712
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-09",
-  "history": 0.0026929981259427,
+  "history": 0.0026935243248144,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30706
+  "case_number": 30712
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-10",
-  "history": 0.0026929981259427,
+  "history": 0.0026935243248144,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30706
+  "case_number": 30712
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-11",
-  "history": 0.0026929981259427,
+  "history": 0.002694576722558,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30706
+  "case_number": 30724
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-12",
-  "history": 0.0026935243248144,
+  "history": 0.0026950152216178,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30712
+  "case_number": 30729
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-13",
-  "history": 0.0026935243248144,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30712
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-05-14",
-  "history": 0.0026935243248144,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30712
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-05-15",
-  "history": 0.0026935243248144,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30712
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-05-16",
-  "history": 0.002694576722558,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30724
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-05-17",
-  "history": 0.002694576722558,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30724
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-05-18",
-  "history": 0.002694576722558,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30724
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-05-19",
   "history": 0.0026953660208657,
   "lower": "NULL",
   "average": "NULL",
@@ -7642,106 +7588,106 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-05-20",
+  "Date": "2022-05-14",
+  "history": 0.0026958922197374,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30739
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-05-15",
   "history": 0.0026964184186092,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 30745
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-05-16",
+  "history": 0.0026971200171049,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30753
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-05-17",
+  "history": 0.0026976462159767,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30759
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-05-18",
+  "history": 0.0026986109139083,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30770
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-05-19",
+  "history": 0.0026994879120279,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30780
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-05-20",
+  "history": 0.0026994879120279,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30780
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-21",
-  "history": 0.0026964184186092,
+  "history": 0.0027001895105236,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30745
+  "case_number": 30788
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-22",
-  "history": 0.0026964184186092,
+  "history": 0.0026971200171049,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30745
+  "case_number": 30753
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-23",
-  "history": 0.0026964184186092,
+  "history": 0.0027014173078911,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30745
+  "case_number": 30802
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-24",
-  "history": 0.0026994879120279,
+  "history": 0.002701592707515,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30780
+  "case_number": 30804
  },
  {
   "ISO": "HTI",
   "Date": "2022-05-25",
-  "history": 0.0026994879120279,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30780
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-05-26",
-  "history": 0.0026994879120279,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30780
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-05-27",
-  "history": 0.0026994879120279,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30780
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-05-28",
-  "history": 0.0026994879120279,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30780
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-05-29",
-  "history": 0.0027011542084552,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30799
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-05-30",
-  "history": 0.0027011542084552,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30799
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-05-31",
   "history": 0.0027027328050705,
   "lower": "NULL",
   "average": "NULL",
@@ -7750,61 +7696,79 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-06-01",
-  "history": 0.0027065038969849,
+  "Date": "2022-05-26",
+  "history": 0.0027027328050705,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30860
+  "case_number": 30817
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-05-27",
+  "history": 0.0027027328050705,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30817
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-05-28",
+  "history": 0.0027027328050705,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30817
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-05-29",
+  "history": 0.0027027328050705,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30817
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-05-30",
+  "history": 0.0027027328050705,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30817
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-05-31",
+  "history": 0.0027092225911558,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30891
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-06-01",
+  "history": 0.0027103626887113,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30904
  },
  {
   "ISO": "HTI",
   "Date": "2022-06-02",
-  "history": 0.0027076439945405,
+  "history": 0.0027120289851386,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30873
+  "case_number": 30923
  },
  {
   "ISO": "HTI",
   "Date": "2022-06-03",
-  "history": 0.0027092225911558,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30891
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-06-04",
-  "history": 0.0027092225911558,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30891
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-06-05",
-  "history": 0.0027092225911558,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30891
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-06-06",
-  "history": 0.0027092225911558,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 30891
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-06-07",
   "history": 0.00271343218213,
   "lower": "NULL",
   "average": "NULL",
@@ -7813,61 +7777,61 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-06-08",
+  "Date": "2022-06-04",
+  "history": 0.0027144845798736,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30951
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-06-05",
   "history": 0.0027154492778052,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 30962
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-06-06",
+  "history": 0.0027160631764889,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30969
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-06-07",
+  "history": 0.0027173786736683,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 30984
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-06-08",
+  "history": 0.0027190449700956,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 31003
  },
  {
   "ISO": "HTI",
   "Date": "2022-06-09",
-  "history": 0.0027154492778052,
+  "history": 0.0027208866661468,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 30962
+  "case_number": 31024
  },
  {
   "ISO": "HTI",
   "Date": "2022-06-10",
-  "history": 0.0027190449700956,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 31003
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-06-11",
-  "history": 0.0027190449700956,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 31003
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-06-12",
-  "history": 0.0027190449700956,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 31003
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-06-13",
-  "history": 0.0027190449700956,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 31003
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-06-14",
   "history": 0.0027216759644545,
   "lower": "NULL",
   "average": "NULL",
@@ -7876,88 +7840,97 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-06-15",
+  "Date": "2022-06-11",
   "history": 0.0027234299606938,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 31053
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-06-12",
+  "history": 0.002725271656745,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 31074
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-06-13",
+  "history": 0.0027267625535484,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 31091
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-06-14",
+  "history": 0.0027287796492235,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 31114
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-06-15",
+  "history": 0.0027303582458388,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 31132
  },
  {
   "ISO": "HTI",
   "Date": "2022-06-16",
-  "history": 0.0027234299606938,
+  "history": 0.0027329892401977,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31053
+  "case_number": 31162
  },
  {
   "ISO": "HTI",
   "Date": "2022-06-17",
-  "history": 0.0027234299606938,
+  "history": 0.0027357956341805,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31053
+  "case_number": 31194
  },
  {
   "ISO": "HTI",
   "Date": "2022-06-18",
-  "history": 0.0027234299606938,
+  "history": 0.0027362341332403,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31053
+  "case_number": 31199
  },
  {
   "ISO": "HTI",
   "Date": "2022-06-19",
-  "history": 0.0027234299606938,
+  "history": 0.0027385143283514,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31053
+  "case_number": 31225
  },
  {
   "ISO": "HTI",
   "Date": "2022-06-20",
-  "history": 0.0027287796492235,
+  "history": 0.0027399175253428,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31114
+  "case_number": 31241
  },
  {
   "ISO": "HTI",
   "Date": "2022-06-21",
-  "history": 0.0027287796492235,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 31114
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-06-22",
-  "history": 0.0027385143283514,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 31225
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-06-23",
-  "history": 0.0027385143283514,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 31225
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-06-24",
   "history": 0.0027404437242146,
   "lower": "NULL",
   "average": "NULL",
@@ -7966,7 +7939,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-06-25",
+  "Date": "2022-06-22",
   "history": 0.0027450918142486,
   "lower": "NULL",
   "average": "NULL",
@@ -7975,16 +7948,16 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-06-26",
-  "history": 0.0027450918142486,
+  "Date": "2022-06-23",
+  "history": 0.0027498276040946,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31300
+  "case_number": 31354
  },
  {
   "ISO": "HTI",
-  "Date": "2022-06-27",
+  "Date": "2022-06-24",
   "history": 0.0027546510937525,
   "lower": "NULL",
   "average": "NULL",
@@ -7993,7 +7966,7 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-06-28",
+  "Date": "2022-06-25",
   "history": 0.0027599130824703,
   "lower": "NULL",
   "average": "NULL",
@@ -8002,115 +7975,97 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-06-29",
+  "Date": "2022-06-26",
+  "history": 0.0027599130824703,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 31469
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-06-27",
   "history": 0.0027669290674273,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 31549
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-06-28",
+  "history": 0.0027715771574614,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 31602
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-06-29",
+  "history": 0.0027762252474954,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 31655
  },
  {
   "ISO": "HTI",
   "Date": "2022-06-30",
-  "history": 0.0027669290674273,
+  "history": 0.0027780669435466,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31549
+  "case_number": 31676
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-01",
-  "history": 0.0027715771574614,
+  "history": 0.0027803471386577,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31602
+  "case_number": 31703
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-02",
-  "history": 0.0027715771574614,
+  "history": 0.0027859599266233,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31602
+  "case_number": 31766
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-03",
-  "history": 0.0027715771574614,
+  "history": 0.0027884155213582,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31602
+  "case_number": 31794
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-04",
-  "history": 0.0027780669435466,
+  "history": 0.0027926251123324,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31676
+  "case_number": 31842
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-05",
-  "history": 0.0027780669435466,
+  "history": 0.0027962208046229,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31676
+  "case_number": 31883
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-06",
-  "history": 0.0027859599266233,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 31766
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-07",
-  "history": 0.0027859599266233,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 31766
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-08",
-  "history": 0.0027859599266233,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 31766
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-09",
-  "history": 0.0027859599266233,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 31766
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-10",
-  "history": 0.0027859599266233,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 31766
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-11",
   "history": 0.00279832560011,
   "lower": "NULL",
   "average": "NULL",
@@ -8119,124 +8074,97 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-07-12",
+  "Date": "2022-07-07",
+  "history": 0.0028003426957852,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 31930
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-08",
   "history": 0.0028046399865714,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 31979
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-09",
+  "history": 0.0028046399865714,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 31979
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-10",
+  "history": 0.0028046399865714,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 31979
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-11",
+  "history": 0.0028046399865714,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 31979
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-12",
+  "history": 0.0028154270634428,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32102
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-13",
-  "history": 0.0028046399865714,
+  "history": 0.0028154270634428,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 31979
+  "case_number": 32102
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-14",
-  "history": 0.002812532969648,
+  "history": 0.0028178826581777,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 32069
+  "case_number": 32130
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-15",
-  "history": 0.002812532969648,
+  "history": 0.0028191104555452,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 32069
+  "case_number": 32144
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-16",
-  "history": 0.0028154270634428,
+  "history": 0.0028199874536649,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 32102
+  "case_number": 32154
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-17",
-  "history": 0.0028154270634428,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32102
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-18",
-  "history": 0.0028154270634428,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32102
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-19",
-  "history": 0.0028154270634428,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32102
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-20",
-  "history": 0.0028178826581777,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32130
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-21",
-  "history": 0.0028178826581777,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32130
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-22",
-  "history": 0.0028178826581777,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32130
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-23",
-  "history": 0.0028178826581777,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32130
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-24",
-  "history": 0.0028178826581777,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32130
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-25",
   "history": 0.00282200454934,
   "lower": "NULL",
   "average": "NULL",
@@ -8245,79 +8173,97 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-07-26",
+  "Date": "2022-07-18",
+  "history": 0.0028236708457673,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32196
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-19",
   "history": 0.0028259510408783,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 32222
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-20",
+  "history": 0.0028259510408783,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32222
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-21",
+  "history": 0.0028259510408783,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32222
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-22",
+  "history": 0.0028259510408783,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32222
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-23",
+  "history": 0.0028259510408783,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32222
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-24",
+  "history": 0.0028294590333568,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32262
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-25",
+  "history": 0.0028294590333568,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32262
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-26",
+  "history": 0.0028302483316645,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32271
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-27",
-  "history": 0.0028259510408783,
+  "history": 0.00283138842922,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 32222
+  "case_number": 32284
  },
  {
   "ISO": "HTI",
   "Date": "2022-07-28",
-  "history": 0.0028259510408783,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32222
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-29",
-  "history": 0.0028281435361774,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32247
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-30",
-  "history": 0.0028294590333568,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32262
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-07-31",
-  "history": 0.0028294590333568,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32262
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-01",
-  "history": 0.0028302483316645,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32271
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-02",
-  "history": 0.0028302483316645,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32271
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-03",
   "history": 0.0028323531271516,
   "lower": "NULL",
   "average": "NULL",
@@ -8326,169 +8272,133 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-08-04",
+  "Date": "2022-07-29",
+  "history": 0.0028339317237669,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32313
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-30",
+  "history": 0.0028380536149292,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32360
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-07-31",
+  "history": 0.0028419124066556,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32404
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-01",
   "history": 0.0028470866955614,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 32463
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-02",
+  "history": 0.0028516470857834,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32515
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-03",
+  "history": 0.0028516470857834,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32515
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-04",
+  "history": 0.0028516470857834,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32515
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-05",
-  "history": 0.0028470866955614,
+  "history": 0.0028516470857834,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 32463
+  "case_number": 32515
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-06",
-  "history": 0.0028470866955614,
+  "history": 0.0028516470857834,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 32463
+  "case_number": 32515
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-07",
-  "history": 0.0028470866955614,
+  "history": 0.0028680469506205,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 32463
+  "case_number": 32702
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-08",
-  "history": 0.0028470866955614,
+  "history": 0.002869099348364,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 32463
+  "case_number": 32714
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-09",
-  "history": 0.0028569967743132,
+  "history": 0.0028711164440392,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 32576
+  "case_number": 32737
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-10",
-  "history": 0.0028569967743132,
+  "history": 0.0028757645340732,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 32576
+  "case_number": 32790
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-11",
-  "history": 0.0028569967743132,
+  "history": 0.0028773431306885,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 32576
+  "case_number": 32808
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-12",
-  "history": 0.0028569967743132,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32576
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-13",
-  "history": 0.0028680469506205,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32702
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-14",
-  "history": 0.0028680469506205,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32702
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-15",
-  "history": 0.0028680469506205,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32702
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-16",
-  "history": 0.0028680469506205,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32702
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-17",
-  "history": 0.0028680469506205,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32702
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-18",
-  "history": 0.0028680469506205,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32702
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-19",
-  "history": 0.0028680469506205,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32702
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-20",
-  "history": 0.0028680469506205,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32702
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-21",
-  "history": 0.0028680469506205,
-  "lower": "NULL",
-  "average": "NULL",
-  "upper": "NULL",
-  "case_number": 32702
- },
- {
-  "ISO": "HTI",
-  "Date": "2022-08-22",
   "history": 0.0028803249242953,
   "lower": "NULL",
   "average": "NULL",
@@ -8497,120 +8407,210 @@
  },
  {
   "ISO": "HTI",
-  "Date": "2022-08-23",
+  "Date": "2022-08-13",
+  "history": 0.0028829559186542,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32872
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-14",
+  "history": 0.0028890072056796,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32941
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-15",
+  "history": 0.0028906735021069,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 32960
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-16",
   "history": 0.0028935675959017,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
   "case_number": 32993
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-17",
+  "history": 0.0028955846915768,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 33016
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-18",
+  "history": 0.0028978648866878,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 33042
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-19",
+  "history": 0.0029002327816108,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 33069
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-20",
+  "history": 0.0029057578697645,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 33132
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-21",
+  "history": 0.0029106690592344,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 33188
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-22",
+  "history": 0.0029150540498326,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 33238
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-08-23",
+  "history": 0.0029199652393025,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 33294
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-24",
-  "history": 0.0028935675959017,
+  "history": 0.0029231224325331,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 32993
+  "case_number": 33330
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-25",
-  "history": 0.0029057578697645,
+  "history": 0.0029256657270801,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 33132
+  "case_number": 33359
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-26",
-  "history": 0.0029057578697645,
+  "history": 0.0029275074231313,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 33132
+  "case_number": 33380
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-27",
-  "history": 0.0029199652393025,
+  "history": 0.0029291737195586,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 33294
+  "case_number": 33399
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-28",
-  "history": 0.0029199652393025,
+  "history": 0.002932857111661,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 33294
+  "case_number": 33441
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-29",
-  "history": 0.0029275074231313,
+  "history": 0.0029351373067721,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 33380
+  "case_number": 33467
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-30",
-  "history": 0.0029275074231313,
+  "history": 0.0029396976969941,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 33380
+  "case_number": 33519
  },
  {
   "ISO": "HTI",
   "Date": "2022-08-31",
-  "history": 0.0029275074231313,
+  "history": 0.002942416391165,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 33380
+  "case_number": 33550
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-01",
-  "history": 0.0029275074231313,
+  "history": 0.002942416391165,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 33380
+  "case_number": 33550
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-02",
-  "history": 0.0029351373067721,
+  "history": 0.002942416391165,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 33467
+  "case_number": 33550
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-03",
-  "history": 0.0029351373067721,
+  "history": 0.002942416391165,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 33467
+  "case_number": 33550
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-04",
-  "history": 0.0029351373067721,
+  "history": 0.002942416391165,
   "lower": "NULL",
   "average": "NULL",
   "upper": "NULL",
-  "case_number": 33467
+  "case_number": 33550
  },
  {
   "ISO": "HTI",
@@ -8687,271 +8687,280 @@
  {
   "ISO": "HTI",
   "Date": "2022-09-13",
-  "history": "NULL",
-  "lower": 0.0029557119367681,
-  "average": 0.0029564122511452,
-  "upper": 0.0029570180586312,
-  "case_number": 33710
+  "history": 0.0029556590627714,
+  "lower": "NULL",
+  "average": "NULL",
+  "upper": "NULL",
+  "case_number": 33701
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-14",
   "history": "NULL",
-  "lower": 0.0029557119367681,
-  "average": 0.0029566290834076,
-  "upper": 0.0029578764751442,
-  "case_number": 33713
+  "lower": 0.0029558582682732,
+  "average": 0.0029561508515677,
+  "upper": 0.0029564763850168,
+  "case_number": 33707
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-15",
   "history": "NULL",
-  "lower": 0.0029557119367681,
-  "average": 0.002957217087819,
-  "upper": 0.0029594826180038,
-  "case_number": 33719
+  "lower": 0.0029562161869812,
+  "average": 0.0029567827110178,
+  "upper": 0.0029575115496037,
+  "case_number": 33714
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-16",
   "history": "NULL",
-  "lower": 0.0029575862037817,
-  "average": 0.0029607536652428,
-  "upper": 0.0029642774217756,
-  "case_number": 33760
+  "lower": 0.0029575086072605,
+  "average": 0.0029589646476971,
+  "upper": 0.0029604701413256,
+  "case_number": 33739
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-17",
   "history": "NULL",
-  "lower": 0.0029575862037817,
-  "average": 0.0029613548199244,
-  "upper": 0.0029655069249167,
-  "case_number": 33766
+  "lower": 0.0029581280581901,
+  "average": 0.0029601920445622,
+  "upper": 0.0029621108857974,
+  "case_number": 33753
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-18",
   "history": "NULL",
-  "lower": 0.0029575862037817,
-  "average": 0.0029613548199244,
-  "upper": 0.0029661044570808,
-  "case_number": 33766
+  "lower": 0.0029586282013206,
+  "average": 0.0029615034275786,
+  "upper": 0.0029639873892585,
+  "case_number": 33768
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-19",
   "history": "NULL",
-  "lower": 0.0029579385412333,
-  "average": 0.0029632392949928,
-  "upper": 0.0029689343139204,
-  "case_number": 33788
+  "lower": 0.0029597752696809,
+  "average": 0.0029633743949454,
+  "upper": 0.0029666354014999,
+  "case_number": 33789
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-20",
   "history": "NULL",
-  "lower": 0.0029579385412333,
-  "average": 0.0029638307629874,
-  "upper": 0.0029703783782303,
-  "case_number": 33795
+  "lower": 0.0029598817158537,
+  "average": 0.0029637789042532,
+  "upper": 0.0029673655891507,
+  "case_number": 33794
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-21",
   "history": "NULL",
-  "lower": 0.0029579385412333,
-  "average": 0.0029638307629874,
-  "upper": 0.0029706801468955,
-  "case_number": 33795
+  "lower": 0.0029598817158537,
+  "average": 0.0029641702899788,
+  "upper": 0.0029680203372856,
+  "case_number": 33799
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-22",
   "history": "NULL",
-  "lower": 0.0029583074034932,
-  "average": 0.0029648230364863,
-  "upper": 0.0029722937015684,
-  "case_number": 33806
+  "lower": 0.0029600003763484,
+  "average": 0.002964710664039,
+  "upper": 0.0029690539531167,
+  "case_number": 33805
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-23",
   "history": "NULL",
-  "lower": 0.0029600190546731,
-  "average": 0.0029674045939963,
-  "upper": 0.0029756076240027,
-  "case_number": 33835
+  "lower": 0.0029612867317759,
+  "average": 0.0029664502539866,
+  "upper": 0.002971409322705,
+  "case_number": 33825
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-24",
   "history": "NULL",
-  "lower": 0.0029600190546731,
-  "average": 0.002967720843153,
-  "upper": 0.0029764897298968,
-  "case_number": 33839
+  "lower": 0.00296158902053,
+  "average": 0.0029672813065894,
+  "upper": 0.0029725533350494,
+  "case_number": 33834
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-25",
   "history": "NULL",
-  "lower": 0.0029600190546731,
-  "average": 0.002967720843153,
-  "upper": 0.0029767828648424,
-  "case_number": 33839
+  "lower": 0.0029618518213546,
+  "average": 0.0029680922918168,
+  "upper": 0.0029737717596355,
+  "case_number": 33843
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-26",
   "history": "NULL",
-  "lower": 0.0029600190546731,
-  "average": 0.0029694663348117,
-  "upper": 0.0029801649268471,
-  "case_number": 33859
+  "lower": 0.0029623417502911,
+  "average": 0.0029697896772312,
+  "upper": 0.0029765413383494,
+  "case_number": 33863
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-27",
   "history": "NULL",
-  "lower": 0.0029600190546731,
-  "average": 0.0029698263109957,
-  "upper": 0.0029812647937966,
-  "case_number": 33863
+  "lower": 0.0029627563959743,
+  "average": 0.0029707813389813,
+  "upper": 0.0029779466602314,
+  "case_number": 33874
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-28",
   "history": "NULL",
-  "lower": 0.0029600190546731,
-  "average": 0.0029698263109957,
-  "upper": 0.0029812647937966,
-  "case_number": 33863
+  "lower": 0.0029628675732603,
+  "average": 0.0029711231477528,
+  "upper": 0.002978625019815,
+  "case_number": 33878
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-29",
   "history": "NULL",
-  "lower": 0.0029600853235408,
-  "average": 0.002970441421305,
-  "upper": 0.0029825720997757,
-  "case_number": 33870
+  "lower": 0.0029628675732603,
+  "average": 0.0029712249152432,
+  "upper": 0.0029789937316103,
+  "case_number": 33879
  },
  {
   "ISO": "HTI",
   "Date": "2022-09-30",
   "history": "NULL",
-  "lower": 0.0029604951003009,
-  "average": 0.002971757925004,
-  "upper": 0.0029849318597222,
-  "case_number": 33885
+  "lower": 0.0029635800759003,
+  "average": 0.0029729040302733,
+  "upper": 0.0029817385597902,
+  "case_number": 33898
  },
  {
   "ISO": "HTI",
   "Date": "2022-10-01",
   "history": "NULL",
-  "lower": 0.0029607177357789,
-  "average": 0.0029725074374845,
-  "upper": 0.0029860738084231,
-  "case_number": 33894
+  "lower": 0.0029636929549362,
+  "average": 0.0029735595763761,
+  "upper": 0.0029828637212653,
+  "case_number": 33906
  },
  {
   "ISO": "HTI",
   "Date": "2022-10-02",
   "history": "NULL",
-  "lower": 0.0029607177357789,
-  "average": 0.0029725104145103,
-  "upper": 0.0029865197175319,
-  "case_number": 33894
+  "lower": 0.0029636929549362,
+  "average": 0.0029741642651267,
+  "upper": 0.0029843812020339,
+  "case_number": 33913
  },
  {
   "ISO": "HTI",
   "Date": "2022-10-03",
   "history": "NULL",
-  "lower": 0.0029609531851279,
-  "average": 0.0029741493593195,
-  "upper": 0.0029895916445718,
-  "case_number": 33912
+  "lower": 0.0029638695927339,
+  "average": 0.0029751078336496,
+  "upper": 0.002986071419948,
+  "case_number": 33923
  },
  {
   "ISO": "HTI",
   "Date": "2022-10-04",
   "history": "NULL",
-  "lower": 0.0029609531851279,
-  "average": 0.0029743339023456,
-  "upper": 0.0029902768445787,
-  "case_number": 33914
+  "lower": 0.0029638695927339,
+  "average": 0.0029754353157763,
+  "upper": 0.0029871130394462,
+  "case_number": 33927
  },
  {
   "ISO": "HTI",
   "Date": "2022-10-05",
   "history": "NULL",
-  "lower": 0.0029609531851279,
-  "average": 0.0029743339023456,
-  "upper": 0.002990295121834,
-  "case_number": 33914
+  "lower": 0.0029638695927339,
+  "average": 0.0029757220638523,
+  "upper": 0.0029878036213312,
+  "case_number": 33930
  },
  {
   "ISO": "HTI",
   "Date": "2022-10-06",
   "history": "NULL",
-  "lower": 0.0029609531851279,
-  "average": 0.0029746654912957,
-  "upper": 0.0029914819298831,
-  "case_number": 33918
+  "lower": 0.0029639501415638,
+  "average": 0.0029761367594439,
+  "upper": 0.0029886266914694,
+  "case_number": 33935
  },
  {
   "ISO": "HTI",
   "Date": "2022-10-07",
   "history": "NULL",
-  "lower": 0.0029609531851279,
-  "average": 0.0029753971371507,
-  "upper": 0.0029934604341982,
-  "case_number": 33927
+  "lower": 0.0029644452575759,
+  "average": 0.0029771596274351,
+  "upper": 0.0029901937046837,
+  "case_number": 33947
  },
  {
   "ISO": "HTI",
   "Date": "2022-10-08",
   "history": "NULL",
-  "lower": 0.0029609531851279,
-  "average": 0.0029754591649736,
-  "upper": 0.0029938592410027,
-  "case_number": 33927
+  "lower": 0.0029645338211999,
+  "average": 0.0029777524230646,
+  "upper": 0.0029913580685637,
+  "case_number": 33953
  },
  {
   "ISO": "HTI",
   "Date": "2022-10-09",
   "history": "NULL",
-  "lower": 0.0029609531851279,
-  "average": 0.0029754591649736,
-  "upper": 0.0029938658624589,
-  "case_number": 33927
+  "lower": 0.0029645338211999,
+  "average": 0.0029780950619205,
+  "upper": 0.0029922154809377,
+  "case_number": 33957
  },
  {
   "ISO": "HTI",
   "Date": "2022-10-10",
   "history": "NULL",
-  "lower": 0.002961950049756,
-  "average": 0.0029779314066774,
-  "upper": 0.0029982903154407,
-  "case_number": 33955
+  "lower": 0.0029649385650437,
+  "average": 0.0029798455062327,
+  "upper": 0.0029945439126571,
+  "case_number": 33977
  },
  {
   "ISO": "HTI",
   "Date": "2022-10-11",
   "history": "NULL",
-  "lower": 0.0029624069225392,
-  "average": 0.0029789608042721,
-  "upper": 0.0029999925114,
-  "case_number": 33967
+  "lower": 0.0029649385650437,
+  "average": 0.0029800067366218,
+  "upper": 0.0029953646675061,
+  "case_number": 33979
  },
  {
   "ISO": "HTI",
   "Date": "2022-10-12",
   "history": "NULL",
-  "lower": 0.0029624069225392,
-  "average": 0.0029790178413281,
-  "upper": 0.0030005011339769,
-  "case_number": 33968
+  "lower": 0.0029650361849399,
+  "average": 0.0029804372395724,
+  "upper": 0.0029961824683163,
+  "case_number": 33984
+ },
+ {
+  "ISO": "HTI",
+  "Date": "2022-10-13",
+  "history": "NULL",
+  "lower": 0.0029650534320165,
+  "average": 0.0029808478810061,
+  "upper": 0.0029970037785255,
+  "case_number": 33989
  }
 ]
