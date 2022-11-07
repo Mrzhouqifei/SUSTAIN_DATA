@@ -1,5 +1,5 @@
 {
- "upper_new_case": 10,
+ "upper_new_case": 14,
  "lower_new_case": 0,
  "data": [
   {
@@ -8148,11 +8148,11 @@
   },
   {
    "Date": "2022-11-06",
-   "history": "NULL",
+   "history": "0",
    "rolling_7days": "3",
-   "bussiness_as_usual": "0",
-   "strongest_policy": "0",
-   "weakest_policy": "0"
+   "bussiness_as_usual": "NULL",
+   "strongest_policy": "NULL",
+   "weakest_policy": "NULL"
   },
   {
    "Date": "2022-11-07",
@@ -8173,15 +8173,15 @@
   {
    "Date": "2022-11-09",
    "history": "NULL",
-   "rolling_7days": "1",
-   "bussiness_as_usual": "6",
-   "strongest_policy": "4",
-   "weakest_policy": "7"
+   "rolling_7days": "2",
+   "bussiness_as_usual": "12",
+   "strongest_policy": "8",
+   "weakest_policy": "14"
   },
   {
    "Date": "2022-11-10",
    "history": "NULL",
-   "rolling_7days": "1",
+   "rolling_7days": "2",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
    "weakest_policy": "0"
@@ -8189,7 +8189,7 @@
   {
    "Date": "2022-11-11",
    "history": "NULL",
-   "rolling_7days": "1",
+   "rolling_7days": "2",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
    "weakest_policy": "0"
@@ -8197,7 +8197,7 @@
   {
    "Date": "2022-11-12",
    "history": "NULL",
-   "rolling_7days": "1",
+   "rolling_7days": "2",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
    "weakest_policy": "0"
@@ -8205,7 +8205,7 @@
   {
    "Date": "2022-11-13",
    "history": "NULL",
-   "rolling_7days": "1",
+   "rolling_7days": "2",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
    "weakest_policy": "0"
@@ -8213,7 +8213,7 @@
   {
    "Date": "2022-11-14",
    "history": "NULL",
-   "rolling_7days": "1",
+   "rolling_7days": "2",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
    "weakest_policy": "0"
@@ -8221,7 +8221,7 @@
   {
    "Date": "2022-11-15",
    "history": "NULL",
-   "rolling_7days": "1",
+   "rolling_7days": "2",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
    "weakest_policy": "0"
@@ -8230,9 +8230,9 @@
    "Date": "2022-11-16",
    "history": "NULL",
    "rolling_7days": "1",
-   "bussiness_as_usual": "5",
-   "strongest_policy": "3",
-   "weakest_policy": "6"
+   "bussiness_as_usual": "6",
+   "strongest_policy": "4",
+   "weakest_policy": "7"
   },
   {
    "Date": "2022-11-17",
@@ -8264,7 +8264,7 @@
    "rolling_7days": "1",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "1"
+   "weakest_policy": "0"
   },
   {
    "Date": "2022-11-21",
@@ -8287,8 +8287,8 @@
    "history": "NULL",
    "rolling_7days": "1",
    "bussiness_as_usual": "4",
-   "strongest_policy": "2",
-   "weakest_policy": "4"
+   "strongest_policy": "3",
+   "weakest_policy": "5"
   },
   {
    "Date": "2022-11-24",
@@ -8318,9 +8318,9 @@
    "Date": "2022-11-27",
    "history": "NULL",
    "rolling_7days": "1",
-   "bussiness_as_usual": "1",
+   "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "1"
+   "weakest_policy": "0"
   },
   {
    "Date": "2022-11-28",
@@ -8328,7 +8328,7 @@
    "rolling_7days": "1",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2022-11-29",
@@ -8342,17 +8342,17 @@
    "Date": "2022-11-30",
    "history": "NULL",
    "rolling_7days": "1",
-   "bussiness_as_usual": "5",
-   "strongest_policy": "3",
-   "weakest_policy": "6"
+   "bussiness_as_usual": "6",
+   "strongest_policy": "4",
+   "weakest_policy": "7"
   },
   {
    "Date": "2022-12-01",
    "history": "NULL",
    "rolling_7days": "1",
-   "bussiness_as_usual": "0",
+   "bussiness_as_usual": "1",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2022-12-02",
@@ -8384,7 +8384,15 @@
    "rolling_7days": "1",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "1"
+   "weakest_policy": "0"
+  },
+  {
+   "Date": "2022-12-06",
+   "history": "NULL",
+   "rolling_7days": "1",
+   "bussiness_as_usual": "0",
+   "strongest_policy": "0",
+   "weakest_policy": "0"
   }
  ]
 }
