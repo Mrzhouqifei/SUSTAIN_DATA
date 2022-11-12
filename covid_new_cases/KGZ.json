@@ -1,5 +1,5 @@
 {
- "upper_new_case": 12,
+ "upper_new_case": 13,
  "lower_new_case": 0,
  "data": [
   {
@@ -8188,11 +8188,11 @@
   },
   {
    "Date": "2022-11-11",
-   "history": "NULL",
+   "history": "0",
    "rolling_7days": "2",
-   "bussiness_as_usual": "0",
-   "strongest_policy": "0",
-   "weakest_policy": "0"
+   "bussiness_as_usual": "NULL",
+   "strongest_policy": "NULL",
+   "weakest_policy": "NULL"
   },
   {
    "Date": "2022-11-12",
@@ -8270,8 +8270,8 @@
    "Date": "2022-11-21",
    "history": "NULL",
    "rolling_7days": "1",
-   "bussiness_as_usual": "8",
-   "strongest_policy": "6",
+   "bussiness_as_usual": "9",
+   "strongest_policy": "7",
    "weakest_policy": "12"
   },
   {
@@ -8328,7 +8328,7 @@
    "rolling_7days": "1",
    "bussiness_as_usual": "6",
    "strongest_policy": "5",
-   "weakest_policy": "8"
+   "weakest_policy": "9"
   },
   {
    "Date": "2022-11-29",
@@ -8336,7 +8336,7 @@
    "rolling_7days": "1",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "1"
+   "weakest_policy": "0"
   },
   {
    "Date": "2022-11-30",
@@ -8382,9 +8382,9 @@
    "Date": "2022-12-05",
    "history": "NULL",
    "rolling_7days": "1",
-   "bussiness_as_usual": "6",
-   "strongest_policy": "5",
-   "weakest_policy": "9"
+   "bussiness_as_usual": "5",
+   "strongest_policy": "4",
+   "weakest_policy": "7"
   },
   {
    "Date": "2022-12-06",
@@ -8392,14 +8392,14 @@
    "rolling_7days": "1",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2022-12-07",
    "history": "NULL",
    "rolling_7days": "1",
-   "bussiness_as_usual": "0",
-   "strongest_policy": "0",
+   "bussiness_as_usual": "1",
+   "strongest_policy": "1",
    "weakest_policy": "1"
   },
   {
@@ -8416,10 +8416,18 @@
    "rolling_7days": "1",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2022-12-10",
+   "history": "NULL",
+   "rolling_7days": "1",
+   "bussiness_as_usual": "0",
+   "strongest_policy": "0",
+   "weakest_policy": "0"
+  },
+  {
+   "Date": "2022-12-11",
    "history": "NULL",
    "rolling_7days": "1",
    "bussiness_as_usual": "0",
