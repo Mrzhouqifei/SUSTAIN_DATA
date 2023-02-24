@@ -1,5 +1,5 @@
 {
- "upper_new_case": 5,
+ "upper_new_case": 2,
  "lower_new_case": 0,
  "data": [
   {
@@ -9020,11 +9020,11 @@
   },
   {
    "Date": "2023-02-23",
-   "history": "NULL",
+   "history": "0",
    "rolling_7days": "0",
-   "bussiness_as_usual": "3",
-   "strongest_policy": "2",
-   "weakest_policy": "4"
+   "bussiness_as_usual": "NULL",
+   "strongest_policy": "NULL",
+   "weakest_policy": "NULL"
   },
   {
    "Date": "2023-02-24",
@@ -9048,7 +9048,7 @@
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2023-02-27",
@@ -9079,8 +9079,8 @@
    "history": "NULL",
    "rolling_7days": "0",
    "bussiness_as_usual": "2",
-   "strongest_policy": "2",
-   "weakest_policy": "3"
+   "strongest_policy": "1",
+   "weakest_policy": "2"
   },
   {
    "Date": "2023-03-03",
@@ -9134,9 +9134,9 @@
    "Date": "2023-03-09",
    "history": "NULL",
    "rolling_7days": "0",
-   "bussiness_as_usual": "2",
-   "strongest_policy": "2",
-   "weakest_policy": "4"
+   "bussiness_as_usual": "1",
+   "strongest_policy": "1",
+   "weakest_policy": "2"
   },
   {
    "Date": "2023-03-10",
@@ -9152,7 +9152,7 @@
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2023-03-12",
@@ -9160,7 +9160,7 @@
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2023-03-13",
@@ -9176,7 +9176,7 @@
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2023-03-15",
@@ -9208,7 +9208,7 @@
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
    "strongest_policy": "0",
-   "weakest_policy": "0"
+   "weakest_policy": "1"
   },
   {
    "Date": "2023-03-19",
@@ -9248,10 +9248,18 @@
    "rolling_7days": "0",
    "bussiness_as_usual": "1",
    "strongest_policy": "1",
-   "weakest_policy": "2"
+   "weakest_policy": "1"
   },
   {
    "Date": "2023-03-24",
+   "history": "NULL",
+   "rolling_7days": "0",
+   "bussiness_as_usual": "0",
+   "strongest_policy": "0",
+   "weakest_policy": "0"
+  },
+  {
+   "Date": "2023-03-25",
    "history": "NULL",
    "rolling_7days": "0",
    "bussiness_as_usual": "0",
